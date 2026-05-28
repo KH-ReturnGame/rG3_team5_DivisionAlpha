@@ -300,24 +300,40 @@ public class PlayerMovement : MonoBehaviour
             tiles.Add(new Vector2Int(myX - 1, myY + 1));
             tiles.Add(new Vector2Int(myX,     myY + 1));
             tiles.Add(new Vector2Int(myX + 1, myY + 1));
+
+            tiles.Add(new Vector2Int(myX - 1, myY + 2));
+            tiles.Add(new Vector2Int(myX,     myY + 2));
+            tiles.Add(new Vector2Int(myX + 1, myY + 2));
         }
         else if (_lookDirection == Vector3.down)
         {
             tiles.Add(new Vector2Int(myX - 1, myY - 1));
             tiles.Add(new Vector2Int(myX,     myY - 1));
             tiles.Add(new Vector2Int(myX + 1, myY - 1));
+
+            tiles.Add(new Vector2Int(myX - 1, myY - 2));
+            tiles.Add(new Vector2Int(myX,     myY - 2));
+            tiles.Add(new Vector2Int(myX + 1, myY - 2));
         }
         else if (_lookDirection == Vector3.left)
         {
             tiles.Add(new Vector2Int(myX - 1, myY + 1));
             tiles.Add(new Vector2Int(myX - 1, myY));
             tiles.Add(new Vector2Int(myX - 1, myY - 1));
+
+            tiles.Add(new Vector2Int(myX - 2, myY + 1));
+            tiles.Add(new Vector2Int(myX - 2, myY));
+            tiles.Add(new Vector2Int(myX - 2, myY - 1));
         }
         else if (_lookDirection == Vector3.right)
         {
             tiles.Add(new Vector2Int(myX + 1, myY + 1));
             tiles.Add(new Vector2Int(myX + 1, myY));
             tiles.Add(new Vector2Int(myX + 1, myY - 1));
+
+            tiles.Add(new Vector2Int(myX + 2, myY + 1));
+            tiles.Add(new Vector2Int(myX + 2, myY));
+            tiles.Add(new Vector2Int(myX + 2, myY - 1));
         }
         return tiles;
     }
