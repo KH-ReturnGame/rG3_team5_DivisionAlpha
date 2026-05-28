@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: a97ee4e868a35be4abbe7a7256f06fa6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2844110633365789554
+    second: Division_Boss_drop_lighting_0
+  - first:
+      213: -1020344301978964550
+    second: Division_Boss_drop_lighting_1
+  - first:
+      213: -4535899251173396214
+    second: Division_Boss_drop_lighting_2
+  - first:
+      213: 6238191950829916472
+    second: Division_Boss_drop_lighting_3
+  - first:
+      213: -8734200245605635059
+    second: Division_Boss_drop_lighting_4
+  - first:
+      213: -663888208168627976
+    second: Division_Boss_drop_lighting_5
+  - first:
+      213: -8107353347649830463
+    second: Division_Boss_drop_lighting_6
+  - first:
+      213: -570216999660279219
+    second: Division_Boss_drop_lighting_7
+  - first:
+      213: 6661181315490514538
+    second: Division_Boss_drop_lighting_8
+  - first:
+      213: 5904412451751736473
+    second: Division_Boss_drop_lighting_9
+  - first:
+      213: 3132798577875897409
+    second: Division_Boss_drop_lighting_10
+  - first:
+      213: -4884791883203324393
+    second: Division_Boss_drop_lighting_11
+  - first:
+      213: 3333937715879672556
+    second: Division_Boss_drop_lighting_12
+  - first:
+      213: 3529930927584693346
+    second: Division_Boss_drop_lighting_13
+  - first:
+      213: 8526329401751621099
+    second: Division_Boss_drop_lighting_14
+  - first:
+      213: -7743124807503657757
+    second: Division_Boss_drop_lighting_15
+  - first:
+      213: -4901251613931606445
+    second: Division_Boss_drop_lighting_16
+  - first:
+      213: -4105709300591698102
+    second: Division_Boss_drop_lighting_17
+  - first:
+      213: 1703032731557488421
+    second: Division_Boss_drop_lighting_18
+  - first:
+      213: 3604764574989301241
+    second: Division_Boss_drop_lighting_19
+  - first:
+      213: 86737708734733519
+    second: Division_Boss_drop_lighting_20
+  - first:
+      213: 4939868843707261419
+    second: Division_Boss_drop_lighting_21
+  - first:
+      213: -1352547793795690136
+    second: Division_Boss_drop_lighting_22
+  - first:
+      213: 7443209843801447802
+    second: Division_Boss_drop_lighting_23
+  - first:
+      213: 2389014540928325913
+    second: Division_Boss_drop_lighting_24
+  - first:
+      213: 6767681916456468940
+    second: Division_Boss_drop_lighting_25
+  - first:
+      213: 7679060793923144251
+    second: Division_Boss_drop_lighting_26
+  - first:
+      213: 1529729320946738901
+    second: Division_Boss_drop_lighting_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 317
+        width: 30
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bdda36d8f487720800000000000000
+      internalID: 2844110633365789554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 253
+        width: 26
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd23fb634207d1f0800000000000000
+      internalID: -1020344301978964550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 247
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0179dcc9af3d01c0800000000000000
+      internalID: -4535899251173396214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 268
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8311be52782829650800000000000000
+      internalID: 6238191950829916472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 262
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ceb830723e9c680800000000000000
+      internalID: -8734200245605635059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 235
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0d98d213569c6f0800000000000000
+      internalID: -663888208168627976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_6
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 232
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c102ccb515ec7f80800000000000000
+      internalID: -8107353347649830463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_7
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 201
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a2c52f8ae2618f0800000000000000
+      internalID: -570216999660279219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_8
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 216
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66084e2d15417c50800000000000000
+      internalID: 6661181315490514538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_9
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 197
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9943e0a87dfa0f150800000000000000
+      internalID: 5904412451751736473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 99
+        width: 23
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c442355bfe97b20800000000000000
+      internalID: 3132798577875897409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 75
+        width: 16
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71654f7b9abb53cb0800000000000000
+      internalID: -4884791883203324393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 132
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaf84a40b6844e20800000000000000
+      internalID: 3333937715879672556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 110
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26cc95ce975dcf030800000000000000
+      internalID: 3529930927584693346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 68
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedcf5d9a6b935670800000000000000
+      internalID: 8526329401751621099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 59
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4ca3d2305ea8490800000000000000
+      internalID: -7743124807503657757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 64
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35eebc400a14bfbb0800000000000000
+      internalID: -4901251613931606445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_17
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 73
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fd633e4279507c0800000000000000
+      internalID: -4105709300591698102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 75
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527e85d0f3362a710800000000000000
+      internalID: 1703032731557488421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 72
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f536273842b60230800000000000000
+      internalID: 3604764574989301241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 5
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccd3cd8c77243100800000000000000
+      internalID: 86737708734733519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_21
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 32
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e0327a80fd8440800000000000000
+      internalID: 4939868843707261419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 48
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861d11992f8ca3de0800000000000000
+      internalID: -1352547793795690136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 28
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dd978cae79b4760800000000000000
+      internalID: 7443209843801447802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_24
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 9
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9199643411c772120800000000000000
+      internalID: 2389014540928325913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc10937a8d2abed50800000000000000
+      internalID: 6767681916456468940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 0
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a0b6e4b11819a60800000000000000
+      internalID: 7679060793923144251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_drop_lighting_27
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6a78966b0ba3510800000000000000
+      internalID: 1529729320946738901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Boss_drop_lighting_0: 2844110633365789554
+      Division_Boss_drop_lighting_1: -1020344301978964550
+      Division_Boss_drop_lighting_10: 3132798577875897409
+      Division_Boss_drop_lighting_11: -4884791883203324393
+      Division_Boss_drop_lighting_12: 3333937715879672556
+      Division_Boss_drop_lighting_13: 3529930927584693346
+      Division_Boss_drop_lighting_14: 8526329401751621099
+      Division_Boss_drop_lighting_15: -7743124807503657757
+      Division_Boss_drop_lighting_16: -4901251613931606445
+      Division_Boss_drop_lighting_17: -4105709300591698102
+      Division_Boss_drop_lighting_18: 1703032731557488421
+      Division_Boss_drop_lighting_19: 3604764574989301241
+      Division_Boss_drop_lighting_2: -4535899251173396214
+      Division_Boss_drop_lighting_20: 86737708734733519
+      Division_Boss_drop_lighting_21: 4939868843707261419
+      Division_Boss_drop_lighting_22: -1352547793795690136
+      Division_Boss_drop_lighting_23: 7443209843801447802
+      Division_Boss_drop_lighting_24: 2389014540928325913
+      Division_Boss_drop_lighting_25: 6767681916456468940
+      Division_Boss_drop_lighting_26: 7679060793923144251
+      Division_Boss_drop_lighting_27: 1529729320946738901
+      Division_Boss_drop_lighting_3: 6238191950829916472
+      Division_Boss_drop_lighting_4: -8734200245605635059
+      Division_Boss_drop_lighting_5: -663888208168627976
+      Division_Boss_drop_lighting_6: -8107353347649830463
+      Division_Boss_drop_lighting_7: -570216999660279219
+      Division_Boss_drop_lighting_8: 6661181315490514538
+      Division_Boss_drop_lighting_9: 5904412451751736473
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

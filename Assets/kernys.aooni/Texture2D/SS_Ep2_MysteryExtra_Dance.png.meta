@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: bcb940722a3465e4d859c68dcef87008
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4550215563037039337
+    second: SS_Ep2_MysteryExtra_Dance_0
+  - first:
+      213: -7403109224097504321
+    second: SS_Ep2_MysteryExtra_Dance_1
+  - first:
+      213: 8607205618052366306
+    second: SS_Ep2_MysteryExtra_Dance_2
+  - first:
+      213: -616232624307414229
+    second: SS_Ep2_MysteryExtra_Dance_3
+  - first:
+      213: 8179428666901466174
+    second: SS_Ep2_MysteryExtra_Dance_4
+  - first:
+      213: 5613116996524405055
+    second: SS_Ep2_MysteryExtra_Dance_5
+  - first:
+      213: -1143229823289319483
+    second: SS_Ep2_MysteryExtra_Dance_6
+  - first:
+      213: 8888793114428233484
+    second: SS_Ep2_MysteryExtra_Dance_7
+  - first:
+      213: -8218674871635957257
+    second: SS_Ep2_MysteryExtra_Dance_8
+  - first:
+      213: 8399050655652954229
+    second: SS_Ep2_MysteryExtra_Dance_9
+  - first:
+      213: 1945143963242734642
+    second: SS_Ep2_MysteryExtra_Dance_10
+  - first:
+      213: -271337010158243761
+    second: SS_Ep2_MysteryExtra_Dance_11
+  - first:
+      213: -938247477671834304
+    second: SS_Ep2_MysteryExtra_Dance_12
+  - first:
+      213: 1557215019111161780
+    second: SS_Ep2_MysteryExtra_Dance_13
+  - first:
+      213: 8678799394799059605
+    second: SS_Ep2_MysteryExtra_Dance_14
+  - first:
+      213: -1368139922894723022
+    second: SS_Ep2_MysteryExtra_Dance_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 71
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ead64e42fc952f30800000000000000
+      internalID: 4550215563037039337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 71
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb32040526fd24990800000000000000
+      internalID: -7403109224097504321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 71
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eff1cc18efe27770800000000000000
+      internalID: 8607205618052366306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 71
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b562171b3b277f0800000000000000
+      internalID: -616232624307414229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 71
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c0f4c390b238170800000000000000
+      internalID: 8179428666901466174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 71
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f317b843b2cc5ed40800000000000000
+      internalID: 5613116996524405055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 71
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf1536688e6220f0800000000000000
+      internalID: -1143229823289319483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_7
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 71
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07de632e365b5b70800000000000000
+      internalID: 8888793114428233484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9a5b7afb661fd80800000000000000
+      internalID: -8218674871635957257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570c4bc321c6f8470800000000000000
+      internalID: 8399050655652954229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2342416f02a8efa10800000000000000
+      internalID: 1945143963242734642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f40f9174d640c3cf0800000000000000
+      internalID: -271337010158243761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_12
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04dc6fdd3ecaaf2f0800000000000000
+      internalID: -938247477671834304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf16053fc65c9510800000000000000
+      internalID: 1557215019111161780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5928fdb311a417870800000000000000
+      internalID: 8678799394799059605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryExtra_Dance_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23864d42df3630de0800000000000000
+      internalID: -1368139922894723022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep2_MysteryExtra_Dance_0: 4550215563037039337
+      SS_Ep2_MysteryExtra_Dance_1: -7403109224097504321
+      SS_Ep2_MysteryExtra_Dance_10: 1945143963242734642
+      SS_Ep2_MysteryExtra_Dance_11: -271337010158243761
+      SS_Ep2_MysteryExtra_Dance_12: -938247477671834304
+      SS_Ep2_MysteryExtra_Dance_13: 1557215019111161780
+      SS_Ep2_MysteryExtra_Dance_14: 8678799394799059605
+      SS_Ep2_MysteryExtra_Dance_15: -1368139922894723022
+      SS_Ep2_MysteryExtra_Dance_2: 8607205618052366306
+      SS_Ep2_MysteryExtra_Dance_3: -616232624307414229
+      SS_Ep2_MysteryExtra_Dance_4: 8179428666901466174
+      SS_Ep2_MysteryExtra_Dance_5: 5613116996524405055
+      SS_Ep2_MysteryExtra_Dance_6: -1143229823289319483
+      SS_Ep2_MysteryExtra_Dance_7: 8888793114428233484
+      SS_Ep2_MysteryExtra_Dance_8: -8218674871635957257
+      SS_Ep2_MysteryExtra_Dance_9: 8399050655652954229
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

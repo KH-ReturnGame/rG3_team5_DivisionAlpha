@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: f0a0d79f700d8f54f9b3e52ee6c62dde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2558457072960354862
+    second: Xmas2018_ObjSeedBox_0
+  - first:
+      213: -1311898416982665177
+    second: Xmas2018_ObjSeedBox_1
+  - first:
+      213: 1754421779961045723
+    second: Xmas2018_ObjSeedBox_2
+  - first:
+      213: -2212830443675371173
+    second: Xmas2018_ObjSeedBox_3
+  - first:
+      213: 3562027981148827055
+    second: Xmas2018_ObjSeedBox_4
+  - first:
+      213: 872012099040385367
+    second: Xmas2018_ObjSeedBox_5
+  - first:
+      213: 3463455354469342125
+    second: Xmas2018_ObjSeedBox_6
+  - first:
+      213: -3285214885726663054
+    second: Xmas2018_ObjSeedBox_7
+  - first:
+      213: -5064346217807857558
+    second: Xmas2018_ObjSeedBox_8
+  - first:
+      213: -4913994532891846842
+    second: Xmas2018_ObjSeedBox_9
+  - first:
+      213: 7450707652364783060
+    second: Xmas2018_ObjSeedBox_10
+  - first:
+      213: -7758173263385702204
+    second: Xmas2018_ObjSeedBox_11
+  - first:
+      213: -193185011307275040
+    second: Xmas2018_ObjSeedBox_12
+  - first:
+      213: 6785959725914999057
+    second: Xmas2018_ObjSeedBox_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5cc11f8d88e7cd0800000000000000
+      internalID: -2558457072960354862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 108
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 728d95a27533bcde0800000000000000
+      internalID: -1311898416982665177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 112
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd269c44055f85810800000000000000
+      internalID: 1754421779961045723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 112
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b593f808f627a41e0800000000000000
+      internalID: -2212830443675371173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 109
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fada060939dde6130800000000000000
+      internalID: 3562027981148827055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 77
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759152b42620a1c00800000000000000
+      internalID: 872012099040385367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 77
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabd1927b4aa01030800000000000000
+      internalID: 3463455354469342125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_7
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 77
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ecf6d97729862d0800000000000000
+      internalID: -3285214885726663054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 42
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6838fb62f3d7b9b0800000000000000
+      internalID: -5064346217807857558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 42
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64715cef10cfdcbb0800000000000000
+      internalID: -4913994532891846842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 42
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddcc70622b366760800000000000000
+      internalID: 7450707652364783060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 42
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c056f1858e655490800000000000000
+      internalID: -7758173263385702204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 7
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec9919714ba15df0800000000000000
+      internalID: -193185011307275040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_ObjSeedBox_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 7
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119454bca629c2e50800000000000000
+      internalID: 6785959725914999057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xmas2018_ObjSeedBox_0: -2558457072960354862
+      Xmas2018_ObjSeedBox_1: -1311898416982665177
+      Xmas2018_ObjSeedBox_10: 7450707652364783060
+      Xmas2018_ObjSeedBox_11: -7758173263385702204
+      Xmas2018_ObjSeedBox_12: -193185011307275040
+      Xmas2018_ObjSeedBox_13: 6785959725914999057
+      Xmas2018_ObjSeedBox_2: 1754421779961045723
+      Xmas2018_ObjSeedBox_3: -2212830443675371173
+      Xmas2018_ObjSeedBox_4: 3562027981148827055
+      Xmas2018_ObjSeedBox_5: 872012099040385367
+      Xmas2018_ObjSeedBox_6: 3463455354469342125
+      Xmas2018_ObjSeedBox_7: -3285214885726663054
+      Xmas2018_ObjSeedBox_8: -5064346217807857558
+      Xmas2018_ObjSeedBox_9: -4913994532891846842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

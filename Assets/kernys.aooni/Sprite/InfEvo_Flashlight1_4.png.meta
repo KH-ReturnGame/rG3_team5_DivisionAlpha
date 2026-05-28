@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: c3179a6e2ad92e54aa8e4350d34509c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7823745810642413921
+    second: InfEvo_Flashlight1_4_0
+  - first:
+      213: 2778029885328107340
+    second: InfEvo_Flashlight1_4_1
+  - first:
+      213: 7044607370195344105
+    second: InfEvo_Flashlight1_4_2
+  - first:
+      213: 9033212373793251843
+    second: InfEvo_Flashlight1_4_3
+  - first:
+      213: 5634241961327063410
+    second: InfEvo_Flashlight1_4_4
+  - first:
+      213: 2995214055035043256
+    second: InfEvo_Flashlight1_4_5
+  - first:
+      213: 7839427208808700706
+    second: InfEvo_Flashlight1_4_6
+  - first:
+      213: -9041857987588955396
+    second: InfEvo_Flashlight1_4_7
+  - first:
+      213: -3966168792271265178
+    second: InfEvo_Flashlight1_4_8
+  - first:
+      213: 6136978716085106658
+    second: InfEvo_Flashlight1_4_9
+  - first:
+      213: -7240495311461487622
+    second: InfEvo_Flashlight1_4_10
+  - first:
+      213: 1455259741269892697
+    second: InfEvo_Flashlight1_4_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InfEvo_Flashlight1_4_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169aa40ec57839c60800000000000000
+      internalID: 7823745810642413921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight1_4_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 149
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47a66a467b8d8620800000000000000
+      internalID: 2778029885328107340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight1_4_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 198
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea979a441973c160800000000000000
+      internalID: 7044607370195344105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight1_4_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 145
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3022c904bca6c5d70800000000000000
+      internalID: 9033212373793251843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight1_4_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 76
+        width: 24
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271ff7b5639d03e40800000000000000
+      internalID: 5634241961327063410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight1_4_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 140
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdfe905053219920800000000000000
+      internalID: 2995214055035043256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight1_4_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 111
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b1397e28d3bcc60800000000000000
+      internalID: 7839427208808700706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight1_4_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 81
+        width: 14
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf26b3ce01ed48280800000000000000
+      internalID: -9041857987588955396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight1_4_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 107
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6626e614f7655f8c0800000000000000
+      internalID: -3966168792271265178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight1_4_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 49
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7b26e80adea2550800000000000000
+      internalID: 6136978716085106658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight1_4_10
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 25
+        width: 24
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbe47240e7948b90800000000000000
+      internalID: -7240495311461487622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight1_4_11
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1
+        width: 31
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e915e360f123410800000000000000
+      internalID: 1455259741269892697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InfEvo_Flashlight1_4_0: 7823745810642413921
+      InfEvo_Flashlight1_4_1: 2778029885328107340
+      InfEvo_Flashlight1_4_10: -7240495311461487622
+      InfEvo_Flashlight1_4_11: 1455259741269892697
+      InfEvo_Flashlight1_4_2: 7044607370195344105
+      InfEvo_Flashlight1_4_3: 9033212373793251843
+      InfEvo_Flashlight1_4_4: 5634241961327063410
+      InfEvo_Flashlight1_4_5: 2995214055035043256
+      InfEvo_Flashlight1_4_6: 7839427208808700706
+      InfEvo_Flashlight1_4_7: -9041857987588955396
+      InfEvo_Flashlight1_4_8: -3966168792271265178
+      InfEvo_Flashlight1_4_9: 6136978716085106658
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

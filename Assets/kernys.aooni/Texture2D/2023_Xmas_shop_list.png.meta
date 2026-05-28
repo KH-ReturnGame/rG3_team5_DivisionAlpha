@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 9395757f9ad0a4e4ba62ff2d005d2eb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1071176070929420747
+    second: 2023_Xmas_shop_list_0
+  - first:
+      213: -1240689466119263492
+    second: 2023_Xmas_shop_list_1
+  - first:
+      213: -9106518639178018873
+    second: 2023_Xmas_shop_list_2
+  - first:
+      213: -7802818487745819943
+    second: 2023_Xmas_shop_list_3
+  - first:
+      213: 1879694438196909484
+    second: 2023_Xmas_shop_list_4
+  - first:
+      213: -5841851025055332631
+    second: 2023_Xmas_shop_list_5
+  - first:
+      213: 8289396456341647531
+    second: 2023_Xmas_shop_list_6
+  - first:
+      213: -7829641535271946596
+    second: 2023_Xmas_shop_list_7
+  - first:
+      213: 8309937859980208283
+    second: 2023_Xmas_shop_list_8
+  - first:
+      213: -8153858619789333897
+    second: 2023_Xmas_shop_list_9
+  - first:
+      213: 3357406230596803786
+    second: 2023_Xmas_shop_list_10
+  - first:
+      213: -9140918141825193441
+    second: 2023_Xmas_shop_list_11
+  - first:
+      213: 6763949197953470349
+    second: 2023_Xmas_shop_list_12
+  - first:
+      213: -1184966472873507902
+    second: 2023_Xmas_shop_list_13
+  - first:
+      213: -2377151703923398120
+    second: 2023_Xmas_shop_list_14
+  - first:
+      213: 451130322948213836
+    second: 2023_Xmas_shop_list_15
+  - first:
+      213: -1057425178935117181
+    second: 2023_Xmas_shop_list_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 99
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc195af06f49dde00800000000000000
+      internalID: 1071176070929420747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 77
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa6467018f28cee0800000000000000
+      internalID: -1240689466119263492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 77
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf025bcb852f9180800000000000000
+      internalID: -9106518639178018873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da4f0f2de1d6b390800000000000000
+      internalID: -7802818487745819943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_4
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5110be124061a10800000000000000
+      internalID: 1879694438196909484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_5
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 18
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e643d4b1739deea0800000000000000
+      internalID: -5841851025055332631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 17
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba030ae682ad90370800000000000000
+      internalID: 8289396456341647531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96b873c186875390800000000000000
+      internalID: -7829641535271946596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98a0b9a474d25370800000000000000
+      internalID: 8309937859980208283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a23ba49cca7de80800000000000000
+      internalID: -8153858619789333897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_10
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accd76dad27e79e20800000000000000
+      internalID: 3357406230596803786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_11
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ae593716fe42180800000000000000
+      internalID: -9140918141825193441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 29
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f0ec665ff5edd50800000000000000
+      internalID: 6763949197953470349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_13
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c380a965472e8fe0800000000000000
+      internalID: -1184966472873507902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_14
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 0
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a6e66be19a20fd0800000000000000
+      internalID: -2377151703923398120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_15
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 5
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c4cb673acb24600800000000000000
+      internalID: 451130322948213836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_shop_list_16
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ab409f6654351f0800000000000000
+      internalID: -1057425178935117181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2023_Xmas_shop_list_0: 1071176070929420747
+      2023_Xmas_shop_list_1: -1240689466119263492
+      2023_Xmas_shop_list_10: 3357406230596803786
+      2023_Xmas_shop_list_11: -9140918141825193441
+      2023_Xmas_shop_list_12: 6763949197953470349
+      2023_Xmas_shop_list_13: -1184966472873507902
+      2023_Xmas_shop_list_14: -2377151703923398120
+      2023_Xmas_shop_list_15: 451130322948213836
+      2023_Xmas_shop_list_16: -1057425178935117181
+      2023_Xmas_shop_list_2: -9106518639178018873
+      2023_Xmas_shop_list_3: -7802818487745819943
+      2023_Xmas_shop_list_4: 1879694438196909484
+      2023_Xmas_shop_list_5: -5841851025055332631
+      2023_Xmas_shop_list_6: 8289396456341647531
+      2023_Xmas_shop_list_7: -7829641535271946596
+      2023_Xmas_shop_list_8: 8309937859980208283
+      2023_Xmas_shop_list_9: -8153858619789333897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

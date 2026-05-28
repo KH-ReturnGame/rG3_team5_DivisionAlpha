@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 6dc1076ce4439cc47ab0418f81e98222
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7196373252241376219
+    second: Division_Ep3_DrQueen_Pattern_3_wind_0
+  - first:
+      213: -6757348729156488346
+    second: Division_Ep3_DrQueen_Pattern_3_wind_1
+  - first:
+      213: -3056104252873724631
+    second: Division_Ep3_DrQueen_Pattern_3_wind_2
+  - first:
+      213: -4561342724818740323
+    second: Division_Ep3_DrQueen_Pattern_3_wind_3
+  - first:
+      213: -8525422163020115472
+    second: Division_Ep3_DrQueen_Pattern_3_wind_4
+  - first:
+      213: -3539054248704855419
+    second: Division_Ep3_DrQueen_Pattern_3_wind_5
+  - first:
+      213: 3764039369164292280
+    second: Division_Ep3_DrQueen_Pattern_3_wind_6
+  - first:
+      213: -8827418691847135263
+    second: Division_Ep3_DrQueen_Pattern_3_wind_7
+  - first:
+      213: 4963425576135072998
+    second: Division_Ep3_DrQueen_Pattern_3_wind_8
+  - first:
+      213: -3942085858795444083
+    second: Division_Ep3_DrQueen_Pattern_3_wind_9
+  - first:
+      213: -2116865030746334991
+    second: Division_Ep3_DrQueen_Pattern_3_wind_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Ep3_DrQueen_Pattern_3_wind_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 80
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd348fa4857aed360800000000000000
+      internalID: 7196373252241376219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_DrQueen_Pattern_3_wind_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 468
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663b03ff1231932a0800000000000000
+      internalID: -6757348729156488346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_DrQueen_Pattern_3_wind_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 82
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92da6eabf598695d0800000000000000
+      internalID: -3056104252873724631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_DrQueen_Pattern_3_wind_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 468
+        width: 10
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9bdd5475fad2b0c0800000000000000
+      internalID: -4561342724818740323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_DrQueen_Pattern_3_wind_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 36
+        width: 84
+        height: 458
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f191fc56bd9fa980800000000000000
+      internalID: -8525422163020115472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_DrQueen_Pattern_3_wind_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 477
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5823c1959e0c2eec0800000000000000
+      internalID: -3539054248704855419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_DrQueen_Pattern_3_wind_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 219
+        width: 86
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b08f9f0ddd8c3430800000000000000
+      internalID: 3764039369164292280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_DrQueen_Pattern_3_wind_7
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 37
+        width: 37
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efdecc2875be7580800000000000000
+      internalID: -8827418691847135263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_DrQueen_Pattern_3_wind_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 87
+        width: 50
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ec9e9e9341a1e440800000000000000
+      internalID: 4963425576135072998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_DrQueen_Pattern_3_wind_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8828682cc5ea49c0800000000000000
+      internalID: -3942085858795444083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_DrQueen_Pattern_3_wind_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2
+        width: 29
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f81bec58726f92e0800000000000000
+      internalID: -2116865030746334991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Ep3_DrQueen_Pattern_3_wind_0: 7196373252241376219
+      Division_Ep3_DrQueen_Pattern_3_wind_1: -6757348729156488346
+      Division_Ep3_DrQueen_Pattern_3_wind_10: -2116865030746334991
+      Division_Ep3_DrQueen_Pattern_3_wind_2: -3056104252873724631
+      Division_Ep3_DrQueen_Pattern_3_wind_3: -4561342724818740323
+      Division_Ep3_DrQueen_Pattern_3_wind_4: -8525422163020115472
+      Division_Ep3_DrQueen_Pattern_3_wind_5: -3539054248704855419
+      Division_Ep3_DrQueen_Pattern_3_wind_6: 3764039369164292280
+      Division_Ep3_DrQueen_Pattern_3_wind_7: -8827418691847135263
+      Division_Ep3_DrQueen_Pattern_3_wind_8: 4963425576135072998
+      Division_Ep3_DrQueen_Pattern_3_wind_9: -3942085858795444083
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

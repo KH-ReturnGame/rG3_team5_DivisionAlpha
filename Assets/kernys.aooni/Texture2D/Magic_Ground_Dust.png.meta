@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: 277bd59c1cdf5584e8fc824aa7e4fe44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9205187330249127669
+    second: Magic_Ground_Dust_0
+  - first:
+      213: 9213366226971801017
+    second: Magic_Ground_Dust_1
+  - first:
+      213: 7942407111411975551
+    second: Magic_Ground_Dust_2
+  - first:
+      213: 6564493550660464209
+    second: Magic_Ground_Dust_3
+  - first:
+      213: -5457870635757571229
+    second: Magic_Ground_Dust_4
+  - first:
+      213: 3103176310184729491
+    second: Magic_Ground_Dust_5
+  - first:
+      213: -6304418571893909149
+    second: Magic_Ground_Dust_6
+  - first:
+      213: 8086393894063964451
+    second: Magic_Ground_Dust_7
+  - first:
+      213: -1330560435122746772
+    second: Magic_Ground_Dust_8
+  - first:
+      213: -6956311301524509979
+    second: Magic_Ground_Dust_9
+  - first:
+      213: 1095111533913698554
+    second: Magic_Ground_Dust_10
+  - first:
+      213: -4942999993900202692
+    second: Magic_Ground_Dust_11
+  - first:
+      213: 287149300118989963
+    second: Magic_Ground_Dust_12
+  - first:
+      213: -1228786002403326881
+    second: Magic_Ground_Dust_13
+  - first:
+      213: -7013595832558732648
+    second: Magic_Ground_Dust_14
+  - first:
+      213: 947474505104224914
+    second: Magic_Ground_Dust_15
+  - first:
+      213: 2596924043372449212
+    second: Magic_Ground_Dust_16
+  - first:
+      213: 6546478417162774084
+    second: Magic_Ground_Dust_17
+  - first:
+      213: 2516730309268400168
+    second: Magic_Ground_Dust_18
+  - first:
+      213: -8943446748729154670
+    second: Magic_Ground_Dust_19
+  - first:
+      213: 6315878804527013857
+    second: Magic_Ground_Dust_20
+  - first:
+      213: 1515671794060511548
+    second: Magic_Ground_Dust_21
+  - first:
+      213: 2107855255699793428
+    second: Magic_Ground_Dust_22
+  - first:
+      213: 4023107132512302404
+    second: Magic_Ground_Dust_23
+  - first:
+      213: -8982480202214800352
+    second: Magic_Ground_Dust_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 87
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b090391f4ea904080800000000000000
+      internalID: -9205187330249127669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 75
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b53c38d4c37cdf70800000000000000
+      internalID: 9213366226971801017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 148
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f754f39ef29193e60800000000000000
+      internalID: 7942407111411975551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_3
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 140
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ea579aa14c91b50800000000000000
+      internalID: 6564493550660464209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 120
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36372a5e29fb144b0800000000000000
+      internalID: -5457870635757571229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 98
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bd7fba962b01b20800000000000000
+      internalID: 3103176310184729491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 71
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36953ea06b43288a0800000000000000
+      internalID: -6304418571893909149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_7
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32102913764a83070800000000000000
+      internalID: 8086393894063964451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 73
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ac1587556e88de0800000000000000
+      internalID: -1330560435122746772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 59
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eaa8953ab7367f90800000000000000
+      internalID: -6956311301524509979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 76
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0fb50532e923f00800000000000000
+      internalID: 1095111533913698554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 76
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3502d6d1bfe66bb0800000000000000
+      internalID: -4942999993900202692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 76
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c281f54c82cf300800000000000000
+      internalID: 287149300118989963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_13
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 67
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5407c524a972fee0800000000000000
+      internalID: -1228786002403326881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 64
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a3d2affb3baae90800000000000000
+      internalID: -7013595832558732648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_15
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 81
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292f97eda0b162d00800000000000000
+      internalID: 947474505104224914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_16
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdc2e988a02a0420800000000000000
+      internalID: 2596924043372449212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 34
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446afb88f63c9da50800000000000000
+      internalID: 6546478417162774084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828e66fc1e83de220800000000000000
+      internalID: 2516730309268400168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_19
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 22
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2936062019e72e380800000000000000
+      internalID: -8943446748729154670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_20
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 38
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef504c4f4286a750800000000000000
+      internalID: 6315878804527013857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_21
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 9
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c394e01677fb80510800000000000000
+      internalID: 1515671794060511548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 21
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4162de9ef2b904d10800000000000000
+      internalID: 2107855255699793428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4457cb62f92f4d730800000000000000
+      internalID: 4023107132512302404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Ground_Dust_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0240209e8d1d75380800000000000000
+      internalID: -8982480202214800352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Ground_Dust_0: -9205187330249127669
+      Magic_Ground_Dust_1: 9213366226971801017
+      Magic_Ground_Dust_10: 1095111533913698554
+      Magic_Ground_Dust_11: -4942999993900202692
+      Magic_Ground_Dust_12: 287149300118989963
+      Magic_Ground_Dust_13: -1228786002403326881
+      Magic_Ground_Dust_14: -7013595832558732648
+      Magic_Ground_Dust_15: 947474505104224914
+      Magic_Ground_Dust_16: 2596924043372449212
+      Magic_Ground_Dust_17: 6546478417162774084
+      Magic_Ground_Dust_18: 2516730309268400168
+      Magic_Ground_Dust_19: -8943446748729154670
+      Magic_Ground_Dust_2: 7942407111411975551
+      Magic_Ground_Dust_20: 6315878804527013857
+      Magic_Ground_Dust_21: 1515671794060511548
+      Magic_Ground_Dust_22: 2107855255699793428
+      Magic_Ground_Dust_23: 4023107132512302404
+      Magic_Ground_Dust_24: -8982480202214800352
+      Magic_Ground_Dust_3: 6564493550660464209
+      Magic_Ground_Dust_4: -5457870635757571229
+      Magic_Ground_Dust_5: 3103176310184729491
+      Magic_Ground_Dust_6: -6304418571893909149
+      Magic_Ground_Dust_7: 8086393894063964451
+      Magic_Ground_Dust_8: -1330560435122746772
+      Magic_Ground_Dust_9: -6956311301524509979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

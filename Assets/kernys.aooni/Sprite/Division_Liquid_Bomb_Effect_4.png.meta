@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: c488b95c54482d746a0d76a43f1b7a63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 683042709086656362
+    second: Division_Liquid_Bomb_Effect_4_0
+  - first:
+      213: -8373785540706773733
+    second: Division_Liquid_Bomb_Effect_4_1
+  - first:
+      213: -3930827704313399073
+    second: Division_Liquid_Bomb_Effect_4_2
+  - first:
+      213: -6958197907179532015
+    second: Division_Liquid_Bomb_Effect_4_3
+  - first:
+      213: 6198292196153474488
+    second: Division_Liquid_Bomb_Effect_4_4
+  - first:
+      213: 5378348965283309640
+    second: Division_Liquid_Bomb_Effect_4_5
+  - first:
+      213: 1554662360536121317
+    second: Division_Liquid_Bomb_Effect_4_6
+  - first:
+      213: 4849381505536854115
+    second: Division_Liquid_Bomb_Effect_4_7
+  - first:
+      213: -1203005661312358162
+    second: Division_Liquid_Bomb_Effect_4_8
+  - first:
+      213: 2087310814078023585
+    second: Division_Liquid_Bomb_Effect_4_9
+  - first:
+      213: 7593654898055609024
+    second: Division_Liquid_Bomb_Effect_4_10
+  - first:
+      213: 5058904111670810630
+    second: Division_Liquid_Bomb_Effect_4_11
+  - first:
+      213: 2761961304587262957
+    second: Division_Liquid_Bomb_Effect_4_12
+  - first:
+      213: 7623376376080663253
+    second: Division_Liquid_Bomb_Effect_4_13
+  - first:
+      213: 1682550871596320947
+    second: Division_Liquid_Bomb_Effect_4_14
+  - first:
+      213: 7635670629576079636
+    second: Division_Liquid_Bomb_Effect_4_15
+  - first:
+      213: 9220876169758260218
+    second: Division_Liquid_Bomb_Effect_4_16
+  - first:
+      213: 7105370243387481544
+    second: Division_Liquid_Bomb_Effect_4_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 86
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67d78999b7aa7900800000000000000
+      internalID: 683042709086656362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 105
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15dedcba665acb80800000000000000
+      internalID: -8373785540706773733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 111
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8b2238705e279c0800000000000000
+      internalID: -3930827704313399073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 105
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11192b99ed38f6f90800000000000000
+      internalID: -6958197907179532015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 86
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdbdc599e1c40650800000000000000
+      internalID: 6198292196153474488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 83
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8482dc163ebb3aa40800000000000000
+      internalID: 5378348965283309640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 83
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5effc611e25439510800000000000000
+      internalID: 1554662360536121317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3688fd149c67c4340800000000000000
+      internalID: 4849381505536854115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 69
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee861be89b01e4fe0800000000000000
+      internalID: -1203005661312358162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 46
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7b3f8502e97fc10800000000000000
+      internalID: 2087310814078023585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 46
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca728995e4126960800000000000000
+      internalID: 7593654898055609024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_11
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 32
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608d6e08c76d43640800000000000000
+      internalID: 5058904111670810630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_12
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 9
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb5c4b4c25745620800000000000000
+      internalID: 2761961304587262957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d284657c6cabc960800000000000000
+      internalID: 7623376376080663253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 32
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8c50a6a1f995710800000000000000
+      internalID: 1682550871596320947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 8
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419f3c96bf957f960800000000000000
+      internalID: 7635670629576079636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb3e48a50227ff70800000000000000
+      internalID: 9220876169758260218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Liquid_Bomb_Effect_4_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 8
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdddba27985b9260800000000000000
+      internalID: 7105370243387481544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Liquid_Bomb_Effect_4_0: 683042709086656362
+      Division_Liquid_Bomb_Effect_4_1: -8373785540706773733
+      Division_Liquid_Bomb_Effect_4_10: 7593654898055609024
+      Division_Liquid_Bomb_Effect_4_11: 5058904111670810630
+      Division_Liquid_Bomb_Effect_4_12: 2761961304587262957
+      Division_Liquid_Bomb_Effect_4_13: 7623376376080663253
+      Division_Liquid_Bomb_Effect_4_14: 1682550871596320947
+      Division_Liquid_Bomb_Effect_4_15: 7635670629576079636
+      Division_Liquid_Bomb_Effect_4_16: 9220876169758260218
+      Division_Liquid_Bomb_Effect_4_17: 7105370243387481544
+      Division_Liquid_Bomb_Effect_4_2: -3930827704313399073
+      Division_Liquid_Bomb_Effect_4_3: -6958197907179532015
+      Division_Liquid_Bomb_Effect_4_4: 6198292196153474488
+      Division_Liquid_Bomb_Effect_4_5: 5378348965283309640
+      Division_Liquid_Bomb_Effect_4_6: 1554662360536121317
+      Division_Liquid_Bomb_Effect_4_7: 4849381505536854115
+      Division_Liquid_Bomb_Effect_4_8: -1203005661312358162
+      Division_Liquid_Bomb_Effect_4_9: 2087310814078023585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

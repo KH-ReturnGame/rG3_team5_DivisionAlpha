@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: dc779349bd79f2c4d8f957515c5cc0dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5743014916660517358
+    second: Division_Hitman_Overcharge_Eff_0
+  - first:
+      213: -1218529995932200320
+    second: Division_Hitman_Overcharge_Eff_1
+  - first:
+      213: 3430329786762284878
+    second: Division_Hitman_Overcharge_Eff_2
+  - first:
+      213: 7843197602551345581
+    second: Division_Hitman_Overcharge_Eff_3
+  - first:
+      213: -8071484305413262023
+    second: Division_Hitman_Overcharge_Eff_4
+  - first:
+      213: 7243343209360526939
+    second: Division_Hitman_Overcharge_Eff_5
+  - first:
+      213: 859795136408469705
+    second: Division_Hitman_Overcharge_Eff_6
+  - first:
+      213: 523646491692358805
+    second: Division_Hitman_Overcharge_Eff_7
+  - first:
+      213: 3648432788116602619
+    second: Division_Hitman_Overcharge_Eff_8
+  - first:
+      213: -903536609665530388
+    second: Division_Hitman_Overcharge_Eff_9
+  - first:
+      213: 3845382815079909710
+    second: Division_Hitman_Overcharge_Eff_10
+  - first:
+      213: -8468137800673254062
+    second: Division_Hitman_Overcharge_Eff_11
+  - first:
+      213: 667242217803930090
+    second: Division_Hitman_Overcharge_Eff_12
+  - first:
+      213: 1703936966272861473
+    second: Division_Hitman_Overcharge_Eff_13
+  - first:
+      213: -7697667831155195102
+    second: Division_Hitman_Overcharge_Eff_14
+  - first:
+      213: -7164153240136374383
+    second: Division_Hitman_Overcharge_Eff_15
+  - first:
+      213: 1410481967396169522
+    second: Division_Hitman_Overcharge_Eff_16
+  - first:
+      213: -3606089539813795288
+    second: Division_Hitman_Overcharge_Eff_17
+  - first:
+      213: -4079038050118709169
+    second: Division_Hitman_Overcharge_Eff_18
+  - first:
+      213: 669147383475303169
+    second: Division_Hitman_Overcharge_Eff_19
+  - first:
+      213: -8165025518820782077
+    second: Division_Hitman_Overcharge_Eff_20
+  - first:
+      213: -6482028824278625222
+    second: Division_Hitman_Overcharge_Eff_21
+  - first:
+      213: -359497119639039239
+    second: Division_Hitman_Overcharge_Eff_22
+  - first:
+      213: -6750880223298850850
+    second: Division_Hitman_Overcharge_Eff_23
+  - first:
+      213: 5963271641231039912
+    second: Division_Hitman_Overcharge_Eff_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 118
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2162ea07c56bc40b0800000000000000
+      internalID: -5743014916660517358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 84
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0829d4cbc69e61fe0800000000000000
+      internalID: -1218529995932200320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_2
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 72
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f486234cafa9f20800000000000000
+      internalID: 3430329786762284878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 72
+        width: 98
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1b44b1aa2a8dc60800000000000000
+      internalID: 7843197602551345581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 101
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935b3bde9c35cff80800000000000000
+      internalID: -8071484305413262023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 11
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e0c24a546858460800000000000000
+      internalID: 7243343209360526939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 34
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c04c350f1b9eeb00800000000000000
+      internalID: 859795136408469705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 56
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59cd335b5bd544700800000000000000
+      internalID: 523646491692358805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_8
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 36
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfef3926a46d1a230800000000000000
+      internalID: 3648432788116602619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_9
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 30
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5435b9d3ef573f0800000000000000
+      internalID: -903536609665530388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 26
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49ca3eeb4b8d5530800000000000000
+      internalID: 3845382815079909710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_11
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 36
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25520d159812b7a80800000000000000
+      internalID: -8468137800673254062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9d85b0345824900800000000000000
+      internalID: 667242217803930090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_13
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125c95a94a995a710800000000000000
+      internalID: 1703936966272861473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 22
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2230b0d34e36c2590800000000000000
+      internalID: -7697667831155195102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_15
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 14
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197253dd590d39c90800000000000000
+      internalID: -7164153240136374383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_16
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 25
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2372eb450e9039310800000000000000
+      internalID: 1410481967396169522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_17
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82a952f5ba894fdc0800000000000000
+      internalID: -3606089539813795288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 5
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f405f5d41885467c0800000000000000
+      internalID: -4079038050118709169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 12
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1037d6efff9494900800000000000000
+      internalID: 669147383475303169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_20
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 32
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30010b00d8000be80800000000000000
+      internalID: -8165025518820782077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_21
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 6
+        width: 34
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a349709a0253b06a0800000000000000
+      internalID: -6482028824278625222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_22
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 12
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2932e364fc20bf0800000000000000
+      internalID: -359497119639039239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfef01643e0052a0800000000000000
+      internalID: -6750880223298850850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Hitman_Overcharge_Eff_24
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad9cb286fbc1c250800000000000000
+      internalID: 5963271641231039912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Hitman_Overcharge_Eff_0: -5743014916660517358
+      Division_Hitman_Overcharge_Eff_1: -1218529995932200320
+      Division_Hitman_Overcharge_Eff_10: 3845382815079909710
+      Division_Hitman_Overcharge_Eff_11: -8468137800673254062
+      Division_Hitman_Overcharge_Eff_12: 667242217803930090
+      Division_Hitman_Overcharge_Eff_13: 1703936966272861473
+      Division_Hitman_Overcharge_Eff_14: -7697667831155195102
+      Division_Hitman_Overcharge_Eff_15: -7164153240136374383
+      Division_Hitman_Overcharge_Eff_16: 1410481967396169522
+      Division_Hitman_Overcharge_Eff_17: -3606089539813795288
+      Division_Hitman_Overcharge_Eff_18: -4079038050118709169
+      Division_Hitman_Overcharge_Eff_19: 669147383475303169
+      Division_Hitman_Overcharge_Eff_2: 3430329786762284878
+      Division_Hitman_Overcharge_Eff_20: -8165025518820782077
+      Division_Hitman_Overcharge_Eff_21: -6482028824278625222
+      Division_Hitman_Overcharge_Eff_22: -359497119639039239
+      Division_Hitman_Overcharge_Eff_23: -6750880223298850850
+      Division_Hitman_Overcharge_Eff_24: 5963271641231039912
+      Division_Hitman_Overcharge_Eff_3: 7843197602551345581
+      Division_Hitman_Overcharge_Eff_4: -8071484305413262023
+      Division_Hitman_Overcharge_Eff_5: 7243343209360526939
+      Division_Hitman_Overcharge_Eff_6: 859795136408469705
+      Division_Hitman_Overcharge_Eff_7: 523646491692358805
+      Division_Hitman_Overcharge_Eff_8: 3648432788116602619
+      Division_Hitman_Overcharge_Eff_9: -903536609665530388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

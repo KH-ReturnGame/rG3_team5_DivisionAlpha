@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 7b14b018b3e7c4249a93559fd74a8655
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2155052749590809769
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_0
+  - first:
+      213: 4797465779488233917
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_1
+  - first:
+      213: -5708781931512825098
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_2
+  - first:
+      213: 2091629999851331047
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_3
+  - first:
+      213: 3524104569813820850
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_4
+  - first:
+      213: -8501789212246472626
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_5
+  - first:
+      213: 1417605421418543825
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_6
+  - first:
+      213: -3133530185348627618
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_7
+  - first:
+      213: 4463604130424666331
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_8
+  - first:
+      213: 5655092907075323450
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_9
+  - first:
+      213: 6402729920790521378
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_10
+  - first:
+      213: -8623731247814797848
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_11
+  - first:
+      213: 8458566058919742260
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_12
+  - first:
+      213: 6466283778536401597
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_13
+  - first:
+      213: 800019182164903453
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_14
+  - first:
+      213: 1716290626040260472
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_15
+  - first:
+      213: 1394600226964509507
+    second: aooni_Magic_Chp2_Cerberus_Body_Lightning_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 387
+        width: 118
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753396431f6b712e0800000000000000
+      internalID: -2155052749590809769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 397
+        width: 112
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db91d7855b5049240800000000000000
+      internalID: 4797465779488233917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 459
+        width: 80
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa7208641556c0b0800000000000000
+      internalID: -5708781931512825098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_3
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 410
+        width: 91
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed50b62766f60d10800000000000000
+      internalID: 2091629999851331047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_4
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 411
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5651b4f6228e030800000000000000
+      internalID: 3524104569813820850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 302
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e480dc081c3930a80800000000000000
+      internalID: -8501789212246472626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 307
+        width: 90
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1daf157be985ca310800000000000000
+      internalID: 1417605421418543825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 366
+        width: 76
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e53c45906e67384d0800000000000000
+      internalID: -3133530185348627618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_8
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 366
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8bde3be48e1fd30800000000000000
+      internalID: 4463604130424666331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 197
+        width: 74
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a364e0a790dea7e40800000000000000
+      internalID: 5655092907075323450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_10
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 192
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226eb7990f01bd850800000000000000
+      internalID: 6402729920790521378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_11
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 215
+        width: 96
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5109fde1a525880800000000000000
+      internalID: -8623731247814797848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 143
+        width: 84
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b4613e30dd26570800000000000000
+      internalID: 8458566058919742260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_13
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 176
+        width: 97
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba688436dadcb950800000000000000
+      internalID: 6466283778536401597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 138
+        width: 96
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16007e153d3a1b00800000000000000
+      internalID: 800019182164903453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_15
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 39
+        width: 110
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87766782b3d71d710800000000000000
+      internalID: 1716290626040260472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Body_Lightning_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 12
+        width: 114
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34316eb748d9a5310800000000000000
+      internalID: 1394600226964509507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_0: -2155052749590809769
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_1: 4797465779488233917
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_10: 6402729920790521378
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_11: -8623731247814797848
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_12: 8458566058919742260
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_13: 6466283778536401597
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_14: 800019182164903453
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_15: 1716290626040260472
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_16: 1394600226964509507
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_2: -5708781931512825098
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_3: 2091629999851331047
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_4: 3524104569813820850
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_5: -8501789212246472626
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_6: 1417605421418543825
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_7: -3133530185348627618
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_8: 4463604130424666331
+      aooni_Magic_Chp2_Cerberus_Body_Lightning_9: 5655092907075323450
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

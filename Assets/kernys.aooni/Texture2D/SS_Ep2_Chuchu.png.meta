@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 759aeba7b2f41e34a8794fc19a6b1528
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1341432412649753693
+    second: SS_Ep2_Chuchu_0
+  - first:
+      213: 5195019991850138999
+    second: SS_Ep2_Chuchu_1
+  - first:
+      213: 8231777551928243882
+    second: SS_Ep2_Chuchu_2
+  - first:
+      213: -1188058262817120896
+    second: SS_Ep2_Chuchu_3
+  - first:
+      213: 92528556253727157
+    second: SS_Ep2_Chuchu_4
+  - first:
+      213: -126707658987906991
+    second: SS_Ep2_Chuchu_5
+  - first:
+      213: 3966617646688491765
+    second: SS_Ep2_Chuchu_6
+  - first:
+      213: 3085920026907535358
+    second: SS_Ep2_Chuchu_7
+  - first:
+      213: -8510720636743847644
+    second: SS_Ep2_Chuchu_8
+  - first:
+      213: -266205747159737192
+    second: SS_Ep2_Chuchu_9
+  - first:
+      213: 6659908563673987234
+    second: SS_Ep2_Chuchu_10
+  - first:
+      213: -1590053291293629146
+    second: SS_Ep2_Chuchu_11
+  - first:
+      213: 6255575107758483938
+    second: SS_Ep2_Chuchu_12
+  - first:
+      213: 3322924785453273735
+    second: SS_Ep2_Chuchu_13
+  - first:
+      213: -2556468547621724141
+    second: SS_Ep2_Chuchu_14
+  - first:
+      213: -6775369289141086599
+    second: SS_Ep2_Chuchu_15
+  - first:
+      213: 6661600550647220839
+    second: SS_Ep2_Chuchu_16
+  - first:
+      213: -627324563619389679
+    second: SS_Ep2_Chuchu_17
+  - first:
+      213: -4357406991692629310
+    second: SS_Ep2_Chuchu_18
+  - first:
+      213: -2404271261173950111
+    second: SS_Ep2_Chuchu_19
+  - first:
+      213: -1797592905690471589
+    second: SS_Ep2_Chuchu_20
+  - first:
+      213: 7036747954675521890
+    second: SS_Ep2_Chuchu_21
+  - first:
+      213: 4510304361269790460
+    second: SS_Ep2_Chuchu_22
+  - first:
+      213: -2506770053241493265
+    second: SS_Ep2_Chuchu_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 63
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c0f2e0ca9bd9210800000000000000
+      internalID: 1341432412649753693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 63
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77db74f782b681840800000000000000
+      internalID: 5195019991850138999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6b7b4d1162d3270800000000000000
+      internalID: 8231777551928243882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_3
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 63
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d5158fd4b238fe0800000000000000
+      internalID: -1188058262817120896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9451f4b3ab84100800000000000000
+      internalID: 92528556253727157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_5
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 63
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15854b33e08dd3ef0800000000000000
+      internalID: -126707658987906991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 63
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8d9aecbb14c0730800000000000000
+      internalID: 3966617646688491765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 62
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef766112ae363da20800000000000000
+      internalID: 3085920026907535358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421fb403ca8d3e980800000000000000
+      internalID: -8510720636743847644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 33
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89c506b884f3e4cf0800000000000000
+      internalID: -266205747159737192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8be5e8d8fbc6c50800000000000000
+      internalID: 6659908563673987234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_11
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 33
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625a08eb4fefee9e0800000000000000
+      internalID: -1590053291293629146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_12
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 33
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e968b3ca6440d650800000000000000
+      internalID: 6255575107758483938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 33
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782984c9c766d1e20800000000000000
+      internalID: 3322924785453273735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_14
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 33
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3106c839669958cd0800000000000000
+      internalID: -2556468547621724141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 33
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97697aa678d09f1a0800000000000000
+      internalID: -6775369289141086599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76acfd8f762c27c50800000000000000
+      internalID: 6661600550647220839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fd69212ab4b47f0800000000000000
+      internalID: -627324563619389679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca7b567d616783c0800000000000000
+      internalID: -4357406991692629310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169db0eb60052aed0800000000000000
+      internalID: -2404271261173950111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53ae8db6caad07e0800000000000000
+      internalID: -1797592905690471589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 3
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26914648bfc87a160800000000000000
+      internalID: 7036747954675521890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf681628be1d79e30800000000000000
+      internalID: 4510304361269790460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_Chuchu_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 3
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe824f20be9263dd0800000000000000
+      internalID: -2506770053241493265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep2_Chuchu_0: 1341432412649753693
+      SS_Ep2_Chuchu_1: 5195019991850138999
+      SS_Ep2_Chuchu_10: 6659908563673987234
+      SS_Ep2_Chuchu_11: -1590053291293629146
+      SS_Ep2_Chuchu_12: 6255575107758483938
+      SS_Ep2_Chuchu_13: 3322924785453273735
+      SS_Ep2_Chuchu_14: -2556468547621724141
+      SS_Ep2_Chuchu_15: -6775369289141086599
+      SS_Ep2_Chuchu_16: 6661600550647220839
+      SS_Ep2_Chuchu_17: -627324563619389679
+      SS_Ep2_Chuchu_18: -4357406991692629310
+      SS_Ep2_Chuchu_19: -2404271261173950111
+      SS_Ep2_Chuchu_2: 8231777551928243882
+      SS_Ep2_Chuchu_20: -1797592905690471589
+      SS_Ep2_Chuchu_21: 7036747954675521890
+      SS_Ep2_Chuchu_22: 4510304361269790460
+      SS_Ep2_Chuchu_23: -2506770053241493265
+      SS_Ep2_Chuchu_3: -1188058262817120896
+      SS_Ep2_Chuchu_4: 92528556253727157
+      SS_Ep2_Chuchu_5: -126707658987906991
+      SS_Ep2_Chuchu_6: 3966617646688491765
+      SS_Ep2_Chuchu_7: 3085920026907535358
+      SS_Ep2_Chuchu_8: -8510720636743847644
+      SS_Ep2_Chuchu_9: -266205747159737192
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

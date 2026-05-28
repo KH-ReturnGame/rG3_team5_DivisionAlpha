@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 751d1191f247dea4aafeb31d7a228111
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5948326791684556924
+    second: YANAH3_SloppyBoom_0
+  - first:
+      213: 6410701060839422239
+    second: YANAH3_SloppyBoom_1
+  - first:
+      213: 8977400680833588892
+    second: YANAH3_SloppyBoom_2
+  - first:
+      213: 4600345683333240118
+    second: YANAH3_SloppyBoom_3
+  - first:
+      213: 5764687744294463947
+    second: YANAH3_SloppyBoom_4
+  - first:
+      213: -1277326260779914577
+    second: YANAH3_SloppyBoom_5
+  - first:
+      213: 1929168234201218602
+    second: YANAH3_SloppyBoom_6
+  - first:
+      213: 7498687444680517230
+    second: YANAH3_SloppyBoom_7
+  - first:
+      213: 5079782676323745934
+    second: YANAH3_SloppyBoom_8
+  - first:
+      213: 8446305626207441904
+    second: YANAH3_SloppyBoom_9
+  - first:
+      213: 834932905809355890
+    second: YANAH3_SloppyBoom_10
+  - first:
+      213: 7149837240593189062
+    second: YANAH3_SloppyBoom_11
+  - first:
+      213: -3598518835818049861
+    second: YANAH3_SloppyBoom_12
+  - first:
+      213: 8444082985089900653
+    second: YANAH3_SloppyBoom_13
+  - first:
+      213: -3898525736895617571
+    second: YANAH3_SloppyBoom_14
+  - first:
+      213: -4052780032282469328
+    second: YANAH3_SloppyBoom_15
+  - first:
+      213: -9179825005007805685
+    second: YANAH3_SloppyBoom_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 51
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487f3bd6c4c437da0800000000000000
+      internalID: -5948326791684556924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 12
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19bd8446a267f850800000000000000
+      internalID: 6410701060839422239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 29
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e9f6bda52269c70800000000000000
+      internalID: 8977400680833588892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635541b7606b7df30800000000000000
+      internalID: 4600345683333240118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 12
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc928b7f5f8400050800000000000000
+      internalID: 5764687744294463947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 29
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa6feb8886064ee0800000000000000
+      internalID: -1277326260779914577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_6
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 32
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ef78fa948c5ca10800000000000000
+      internalID: 1929168234201218602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_7
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 12
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e662ddd4080b01860800000000000000
+      internalID: 7498687444680517230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_8
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 29
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80c5762e630f7640800000000000000
+      internalID: 5079782676323745934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f35a72773e473570800000000000000
+      internalID: 8446305626207441904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 23
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2742d0edd07469b00800000000000000
+      internalID: 834932905809355890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c88a6fb613593360800000000000000
+      internalID: 7149837240593189062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe43814f2e7f0ec0800000000000000
+      internalID: -3598518835818049861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 8
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60243c7cb86f2570800000000000000
+      internalID: 8444082985089900653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd56e906f77a5e9c0800000000000000
+      internalID: -3898525736895617571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03cd10f7802a1c7c0800000000000000
+      internalID: -4052780032282469328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_SloppyBoom_16
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03e2447bc5ba9080800000000000000
+      internalID: -9179825005007805685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YANAH3_SloppyBoom_0: -5948326791684556924
+      YANAH3_SloppyBoom_1: 6410701060839422239
+      YANAH3_SloppyBoom_10: 834932905809355890
+      YANAH3_SloppyBoom_11: 7149837240593189062
+      YANAH3_SloppyBoom_12: -3598518835818049861
+      YANAH3_SloppyBoom_13: 8444082985089900653
+      YANAH3_SloppyBoom_14: -3898525736895617571
+      YANAH3_SloppyBoom_15: -4052780032282469328
+      YANAH3_SloppyBoom_16: -9179825005007805685
+      YANAH3_SloppyBoom_2: 8977400680833588892
+      YANAH3_SloppyBoom_3: 4600345683333240118
+      YANAH3_SloppyBoom_4: 5764687744294463947
+      YANAH3_SloppyBoom_5: -1277326260779914577
+      YANAH3_SloppyBoom_6: 1929168234201218602
+      YANAH3_SloppyBoom_7: 7498687444680517230
+      YANAH3_SloppyBoom_8: 5079782676323745934
+      YANAH3_SloppyBoom_9: 8446305626207441904
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

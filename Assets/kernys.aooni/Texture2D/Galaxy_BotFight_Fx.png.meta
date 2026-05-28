@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: acc9bd134623e4e43871b3c035dd9e4a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1453511704055681497
+    second: Galaxy_BotFight_Fx_0
+  - first:
+      213: 8851375577838064484
+    second: Galaxy_BotFight_Fx_1
+  - first:
+      213: -1888365330801010564
+    second: Galaxy_BotFight_Fx_2
+  - first:
+      213: -8191906823108335981
+    second: Galaxy_BotFight_Fx_3
+  - first:
+      213: 37010031695407120
+    second: Galaxy_BotFight_Fx_4
+  - first:
+      213: 4666699853742413190
+    second: Galaxy_BotFight_Fx_5
+  - first:
+      213: 4755238663862465956
+    second: Galaxy_BotFight_Fx_6
+  - first:
+      213: -3191972213967555338
+    second: Galaxy_BotFight_Fx_7
+  - first:
+      213: -2259844470066293418
+    second: Galaxy_BotFight_Fx_8
+  - first:
+      213: -8188909591824848280
+    second: Galaxy_BotFight_Fx_9
+  - first:
+      213: -1246422193403787755
+    second: Galaxy_BotFight_Fx_10
+  - first:
+      213: -6335872174092203678
+    second: Galaxy_BotFight_Fx_11
+  - first:
+      213: -6833192410526675241
+    second: Galaxy_BotFight_Fx_12
+  - first:
+      213: 8726265991763774085
+    second: Galaxy_BotFight_Fx_13
+  - first:
+      213: -2487831585907426915
+    second: Galaxy_BotFight_Fx_14
+  - first:
+      213: 3177851671494655901
+    second: Galaxy_BotFight_Fx_15
+  - first:
+      213: -9109618394875519070
+    second: Galaxy_BotFight_Fx_16
+  - first:
+      213: -1518533848097539480
+    second: Galaxy_BotFight_Fx_17
+  - first:
+      213: 6389407073457804104
+    second: Galaxy_BotFight_Fx_18
+  - first:
+      213: 1171969537531684438
+    second: Galaxy_BotFight_Fx_19
+  - first:
+      213: -4606495466715612816
+    second: Galaxy_BotFight_Fx_20
+  - first:
+      213: 2847632354516084429
+    second: Galaxy_BotFight_Fx_21
+  - first:
+      213: 5672805443347462710
+    second: Galaxy_BotFight_Fx_22
+  - first:
+      213: -6234002974915399129
+    second: Galaxy_BotFight_Fx_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 152
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d19c1d9139eb2410800000000000000
+      internalID: 1453511704055681497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 93
+        width: 49
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4631b92013766da70800000000000000
+      internalID: 8851375577838064484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 137
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7851739cbd2bc5e0800000000000000
+      internalID: -1888365330801010564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 110
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396678f9520805e80800000000000000
+      internalID: -8191906823108335981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 93
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018a4508d6c738000800000000000000
+      internalID: 37010031695407120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 98
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6851fafaac273c040800000000000000
+      internalID: 4666699853742413190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_6
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 81
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5b9b5de500ef140800000000000000
+      internalID: 4755238663862465956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 78
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4fb85ee26d3b3d0800000000000000
+      internalID: -3191972213967555338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 83
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655511a7d6b63a0e0800000000000000
+      internalID: -2259844470066293418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 80
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86aad79ec162b5e80800000000000000
+      internalID: -8188909591824848280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 29
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51601027e91d3bee0800000000000000
+      internalID: -1246422193403787755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_11
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 42
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269c3f893d57218a0800000000000000
+      internalID: -6335872174092203678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_12
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 42
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de89a8d4bf9b21a0800000000000000
+      internalID: -6833192410526675241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_13
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 61
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ac6ae8face91970800000000000000
+      internalID: 8726265991763774085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 47
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99bdfc8a52797dd0800000000000000
+      internalID: -2487831585907426915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 47
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ff15c124ff91c20800000000000000
+      internalID: 3177851671494655901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af941ea552249180800000000000000
+      internalID: -9109618394875519070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_17
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a3dbcb2851deae0800000000000000
+      internalID: -1518533848097539480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_18
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 27
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84312da71ebbba850800000000000000
+      internalID: 6389407073457804104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_19
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656a724c51ca34010800000000000000
+      internalID: 1171969537531684438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 11
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079f7fe77c07210c0800000000000000
+      internalID: -4606495466715612816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 11
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc627ddf982d48720800000000000000
+      internalID: 2847632354516084429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 14
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ab0a2be7ad9be40800000000000000
+      internalID: 5672805443347462710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_BotFight_Fx_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722707fc25f5c79a0800000000000000
+      internalID: -6234002974915399129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galaxy_BotFight_Fx_0: 1453511704055681497
+      Galaxy_BotFight_Fx_1: 8851375577838064484
+      Galaxy_BotFight_Fx_10: -1246422193403787755
+      Galaxy_BotFight_Fx_11: -6335872174092203678
+      Galaxy_BotFight_Fx_12: -6833192410526675241
+      Galaxy_BotFight_Fx_13: 8726265991763774085
+      Galaxy_BotFight_Fx_14: -2487831585907426915
+      Galaxy_BotFight_Fx_15: 3177851671494655901
+      Galaxy_BotFight_Fx_16: -9109618394875519070
+      Galaxy_BotFight_Fx_17: -1518533848097539480
+      Galaxy_BotFight_Fx_18: 6389407073457804104
+      Galaxy_BotFight_Fx_19: 1171969537531684438
+      Galaxy_BotFight_Fx_2: -1888365330801010564
+      Galaxy_BotFight_Fx_20: -4606495466715612816
+      Galaxy_BotFight_Fx_21: 2847632354516084429
+      Galaxy_BotFight_Fx_22: 5672805443347462710
+      Galaxy_BotFight_Fx_23: -6234002974915399129
+      Galaxy_BotFight_Fx_3: -8191906823108335981
+      Galaxy_BotFight_Fx_4: 37010031695407120
+      Galaxy_BotFight_Fx_5: 4666699853742413190
+      Galaxy_BotFight_Fx_6: 4755238663862465956
+      Galaxy_BotFight_Fx_7: -3191972213967555338
+      Galaxy_BotFight_Fx_8: -2259844470066293418
+      Galaxy_BotFight_Fx_9: -8188909591824848280
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

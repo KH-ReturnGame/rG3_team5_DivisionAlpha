@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 57f4b1fed7c720140959c35ed9c871cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2443844556373256676
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_0
+  - first:
+      213: -453525387355858560
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_1
+  - first:
+      213: 5659842347564397449
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_2
+  - first:
+      213: -1565026915808244220
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_3
+  - first:
+      213: -1638005194331382351
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_4
+  - first:
+      213: -5226500921466524289
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_5
+  - first:
+      213: 7839871050539759137
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_6
+  - first:
+      213: -8712414744258532963
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_7
+  - first:
+      213: 3291354024098723139
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_8
+  - first:
+      213: -6920397116817969391
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_9
+  - first:
+      213: -3514849178762375239
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_10
+  - first:
+      213: -6018625749430165201
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_11
+  - first:
+      213: 4247927486585772398
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_12
+  - first:
+      213: -3968028529589263205
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_13
+  - first:
+      213: -2199110798601795884
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 63
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c169913f258b51ed0800000000000000
+      internalID: -2443844556373256676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 76
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08958062011c4b9f0800000000000000
+      internalID: -453525387355858560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 49
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983f943c0accb8e40800000000000000
+      internalID: 5659842347564397449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 52
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e035bdf48e74ae0800000000000000
+      internalID: -1565026915808244220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 30
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd12ab44f2a449e0800000000000000
+      internalID: -1638005194331382351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 53
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d6cb56a1db777b0800000000000000
+      internalID: -5226500921466524289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 49
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1267a4cde21dccc60800000000000000
+      internalID: 7839871050539759137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_7
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 41
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99289053f8471780800000000000000
+      internalID: -8712414744258532963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 31
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345f47ceb0d3dad20800000000000000
+      internalID: 3291354024098723139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 0
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f6d63fc7fc5ff90800000000000000
+      internalID: -6920397116817969391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 16
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf8bcc5b4fb83fc0800000000000000
+      internalID: -3514849178762375239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_11
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 21
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f212239d4cb897ca0800000000000000
+      internalID: -6018625749430165201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 28
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e691095ea8ba3fa30800000000000000
+      internalID: 4247927486585772398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_13
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94673b631bbee8c0800000000000000
+      internalID: -3968028529589263205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Fragment_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 3
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d64d9b41603b71e0800000000000000
+      internalID: -2199110798601795884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_0: -2443844556373256676
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_1: -453525387355858560
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_10: -3514849178762375239
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_11: -6018625749430165201
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_12: 4247927486585772398
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_13: -3968028529589263205
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_14: -2199110798601795884
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_2: 5659842347564397449
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_3: -1565026915808244220
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_4: -1638005194331382351
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_5: -5226500921466524289
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_6: 7839871050539759137
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_7: -8712414744258532963
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_8: 3291354024098723139
+      aooni_Magic_Chp1_Aubaba_Thorn_Fragment_9: -6920397116817969391
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

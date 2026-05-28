@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: ed8901dc16e969848b02a06896476125
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5883224364460536923
+    second: Magic_goose_cry_0
+  - first:
+      213: -5675335893564046731
+    second: Magic_goose_cry_1
+  - first:
+      213: -486663300711553124
+    second: Magic_goose_cry_2
+  - first:
+      213: -2549953528090311067
+    second: Magic_goose_cry_3
+  - first:
+      213: -2186305619772857670
+    second: Magic_goose_cry_4
+  - first:
+      213: -1050525202781778337
+    second: Magic_goose_cry_5
+  - first:
+      213: -2086724628644306094
+    second: Magic_goose_cry_6
+  - first:
+      213: -8346954612933941221
+    second: Magic_goose_cry_7
+  - first:
+      213: 6492049550126454737
+    second: Magic_goose_cry_8
+  - first:
+      213: 2370603550017063258
+    second: Magic_goose_cry_9
+  - first:
+      213: -2224098469472226575
+    second: Magic_goose_cry_10
+  - first:
+      213: 8431852614922216585
+    second: Magic_goose_cry_11
+  - first:
+      213: -794132829232154552
+    second: Magic_goose_cry_12
+  - first:
+      213: -2569093489641138462
+    second: Magic_goose_cry_13
+  - first:
+      213: -8259329822591580108
+    second: Magic_goose_cry_14
+  - first:
+      213: -5971778214084288036
+    second: Magic_goose_cry_15
+  - first:
+      213: -8075803667149919473
+    second: Magic_goose_cry_16
+  - first:
+      213: 367762589723599194
+    second: Magic_goose_cry_17
+  - first:
+      213: -2086898398836902538
+    second: Magic_goose_cry_18
+  - first:
+      213: -8051825494742571752
+    second: Magic_goose_cry_19
+  - first:
+      213: 5348622890617222684
+    second: Magic_goose_cry_20
+  - first:
+      213: -5487652754007900171
+    second: Magic_goose_cry_21
+  - first:
+      213: 6892538544953921782
+    second: Magic_goose_cry_22
+  - first:
+      213: -7428900167668471902
+    second: Magic_goose_cry_23
+  - first:
+      213: -6552359609311335296
+    second: Magic_goose_cry_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_goose_cry_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 106
+        width: 48
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab08667c969a5ea0800000000000000
+      internalID: -5883224364460536923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 120
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5724713f2182d31b0800000000000000
+      internalID: -5675335893564046731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 4
+        width: 54
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c976ed37e460f39f0800000000000000
+      internalID: -486663300711553124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 141
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5664c64c6cebc9cd0800000000000000
+      internalID: -2549953528090311067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 174
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2aff25f9ea8a1e0800000000000000
+      internalID: -2186305619772857670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 181
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ec89cd4e8cb61f0800000000000000
+      internalID: -1050525202781778337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 186
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253e89591077a03e0800000000000000
+      internalID: -2086724628644306094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 177
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18a3cbe009a92c80800000000000000
+      internalID: -8346954612933941221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_8
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 153
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d795836ba4681a50800000000000000
+      internalID: 6492049550126454737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 150
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a590c066e5316e020800000000000000
+      internalID: 2370603550017063258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_10
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 175
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f23e9dc93a6221e0800000000000000
+      internalID: -2224098469472226575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 150
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98423e68745f30570800000000000000
+      internalID: 8431852614922216585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 151
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8483429366caaf4f0800000000000000
+      internalID: -794132829232154552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_13
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 122
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6db23351fb85cd0800000000000000
+      internalID: -2569093489641138462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 113
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43883a14947f06d80800000000000000
+      internalID: -8259329822591580108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1e618aa5bff1da0800000000000000
+      internalID: -5971778214084288036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 117
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b6bb72a5bfcef80800000000000000
+      internalID: -8075803667149919473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 131
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51272a702e8a1500800000000000000
+      internalID: 367762589723599194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_18
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 118
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675befe86f8d903e0800000000000000
+      internalID: -2086898398836902538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_19
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 112
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8156f687f5b224090800000000000000
+      internalID: -8051825494742571752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_20
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 116
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1633c84e202a3a40800000000000000
+      internalID: 5348622890617222684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_21
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 104
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff3aa225e0f7d3b0800000000000000
+      internalID: -5487652754007900171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f09aa4d94737af50800000000000000
+      internalID: 6892538544953921782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 23
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7e74258ae37e890800000000000000
+      internalID: -7428900167668471902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_goose_cry_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c6166b6a75115a0800000000000000
+      internalID: -6552359609311335296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_goose_cry_0: -5883224364460536923
+      Magic_goose_cry_1: -5675335893564046731
+      Magic_goose_cry_10: -2224098469472226575
+      Magic_goose_cry_11: 8431852614922216585
+      Magic_goose_cry_12: -794132829232154552
+      Magic_goose_cry_13: -2569093489641138462
+      Magic_goose_cry_14: -8259329822591580108
+      Magic_goose_cry_15: -5971778214084288036
+      Magic_goose_cry_16: -8075803667149919473
+      Magic_goose_cry_17: 367762589723599194
+      Magic_goose_cry_18: -2086898398836902538
+      Magic_goose_cry_19: -8051825494742571752
+      Magic_goose_cry_2: -486663300711553124
+      Magic_goose_cry_20: 5348622890617222684
+      Magic_goose_cry_21: -5487652754007900171
+      Magic_goose_cry_22: 6892538544953921782
+      Magic_goose_cry_23: -7428900167668471902
+      Magic_goose_cry_24: -6552359609311335296
+      Magic_goose_cry_3: -2549953528090311067
+      Magic_goose_cry_4: -2186305619772857670
+      Magic_goose_cry_5: -1050525202781778337
+      Magic_goose_cry_6: -2086724628644306094
+      Magic_goose_cry_7: -8346954612933941221
+      Magic_goose_cry_8: 6492049550126454737
+      Magic_goose_cry_9: 2370603550017063258
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

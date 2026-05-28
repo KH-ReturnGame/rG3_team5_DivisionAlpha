@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 55b431f9d51cfb9408139650f9472d14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5276003386626013905
+    second: HeroesEp4_C_Yeji_0
+  - first:
+      213: 4014974853672137248
+    second: HeroesEp4_C_Yeji_1
+  - first:
+      213: -6589013784635279449
+    second: HeroesEp4_C_Yeji_2
+  - first:
+      213: 1081652582914937903
+    second: HeroesEp4_C_Yeji_3
+  - first:
+      213: -5664006617674063054
+    second: HeroesEp4_C_Yeji_4
+  - first:
+      213: -5977979440138990072
+    second: HeroesEp4_C_Yeji_5
+  - first:
+      213: -4575320861224996201
+    second: HeroesEp4_C_Yeji_6
+  - first:
+      213: 2573645907386393657
+    second: HeroesEp4_C_Yeji_7
+  - first:
+      213: -6425377193086339842
+    second: HeroesEp4_C_Yeji_8
+  - first:
+      213: -6042743094841318181
+    second: HeroesEp4_C_Yeji_9
+  - first:
+      213: 8116601245028831207
+    second: HeroesEp4_C_Yeji_10
+  - first:
+      213: -5707640137609582384
+    second: HeroesEp4_C_Yeji_11
+  - first:
+      213: 4276646179576575073
+    second: HeroesEp4_C_Yeji_12
+  - first:
+      213: 6202337787769709740
+    second: HeroesEp4_C_Yeji_13
+  - first:
+      213: -7558846703610084157
+    second: HeroesEp4_C_Yeji_14
+  - first:
+      213: 115613135492976634
+    second: HeroesEp4_C_Yeji_15
+  - first:
+      213: 6360315162286508648
+    second: HeroesEp4_C_Yeji_16
+  - first:
+      213: 3726568170056158647
+    second: HeroesEp4_C_Yeji_17
+  - first:
+      213: -3958806761707149743
+    second: HeroesEp4_C_Yeji_18
+  - first:
+      213: -4058008575608830814
+    second: HeroesEp4_C_Yeji_19
+  - first:
+      213: -3184808803591307867
+    second: HeroesEp4_C_Yeji_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 117
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2506629fded7c6b0800000000000000
+      internalID: -5276003386626013905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 118
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022f04f6b5e08b730800000000000000
+      internalID: 4014974853672137248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 115
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a779aa7fde1f84a0800000000000000
+      internalID: -6589013784635279449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 116
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2457071b4dc20f00800000000000000
+      internalID: 1081652582914937903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 118
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 233631c8df76561b0800000000000000
+      internalID: -5664006617674063054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 115
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e4de33f53f90da0800000000000000
+      internalID: -5977979440138990072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 116
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792ff35fae13180c0800000000000000
+      internalID: -4575320861224996201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 59
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9346767215d67b320800000000000000
+      internalID: 2573645907386393657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 59
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef4313a6c7974d6a0800000000000000
+      internalID: -6425377193086339842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 59
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4e90bcb2dd32ca0800000000000000
+      internalID: -6042743094841318181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 59
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7efcf6924d5f3a070800000000000000
+      internalID: 8116601245028831207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 59
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8e40409836ac0b0800000000000000
+      internalID: -5707640137609582384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 59
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16471bbaa03b95b30800000000000000
+      internalID: 4276646179576575073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 59
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca4eef84b51231650800000000000000
+      internalID: 6202337787769709740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_14
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c440b7b8f4991790800000000000000
+      internalID: -7558846703610084157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff8d60c88dba9100800000000000000
+      internalID: 115613135492976634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a4e9311f0644850800000000000000
+      internalID: 6360315162286508648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_17
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd8977a10e67b330800000000000000
+      internalID: 3726568170056158647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156e702993e7f09c0800000000000000
+      internalID: -3958806761707149743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_19
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 0
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4c85363be0fa7c0800000000000000
+      internalID: -4058008575608830814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Yeji_20
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 0
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad376854494dc3d0800000000000000
+      internalID: -3184808803591307867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp4_C_Yeji_0: -5276003386626013905
+      HeroesEp4_C_Yeji_1: 4014974853672137248
+      HeroesEp4_C_Yeji_10: 8116601245028831207
+      HeroesEp4_C_Yeji_11: -5707640137609582384
+      HeroesEp4_C_Yeji_12: 4276646179576575073
+      HeroesEp4_C_Yeji_13: 6202337787769709740
+      HeroesEp4_C_Yeji_14: -7558846703610084157
+      HeroesEp4_C_Yeji_15: 115613135492976634
+      HeroesEp4_C_Yeji_16: 6360315162286508648
+      HeroesEp4_C_Yeji_17: 3726568170056158647
+      HeroesEp4_C_Yeji_18: -3958806761707149743
+      HeroesEp4_C_Yeji_19: -4058008575608830814
+      HeroesEp4_C_Yeji_2: -6589013784635279449
+      HeroesEp4_C_Yeji_20: -3184808803591307867
+      HeroesEp4_C_Yeji_3: 1081652582914937903
+      HeroesEp4_C_Yeji_4: -5664006617674063054
+      HeroesEp4_C_Yeji_5: -5977979440138990072
+      HeroesEp4_C_Yeji_6: -4575320861224996201
+      HeroesEp4_C_Yeji_7: 2573645907386393657
+      HeroesEp4_C_Yeji_8: -6425377193086339842
+      HeroesEp4_C_Yeji_9: -6042743094841318181
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 838b965f8c17cb6428d62365c0156a52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2248007806719852527
+    second: Scene_Lobby_kr_0
+  - first:
+      213: 6731782861412133492
+    second: Scene_Lobby_kr_1
+  - first:
+      213: 4813049556116156122
+    second: Scene_Lobby_kr_2
+  - first:
+      213: -5345291326374263427
+    second: Scene_Lobby_kr_3
+  - first:
+      213: 3931667902010472916
+    second: Scene_Lobby_kr_4
+  - first:
+      213: 6074920610914870157
+    second: Scene_Lobby_kr_5
+  - first:
+      213: 7142607480008418112
+    second: Scene_Lobby_kr_6
+  - first:
+      213: 8183141622734269064
+    second: Scene_Lobby_kr_7
+  - first:
+      213: -6349093152212281946
+    second: Scene_Lobby_kr_8
+  - first:
+      213: -6951245586897815216
+    second: Scene_Lobby_kr_9
+  - first:
+      213: 6188604541267123117
+    second: Scene_Lobby_kr_10
+  - first:
+      213: 1741559340720659010
+    second: Scene_Lobby_kr_11
+  - first:
+      213: 128168372290174490
+    second: Scene_Lobby_kr_12
+  - first:
+      213: -5402632753382655870
+    second: Scene_Lobby_kr_13
+  - first:
+      213: -65825860918626155
+    second: Scene_Lobby_kr_14
+  - first:
+      213: 2335336014990929659
+    second: Scene_Lobby_kr_15
+  - first:
+      213: 6291485384623900709
+    second: Scene_Lobby_kr_16
+  - first:
+      213: -8189273446951298994
+    second: Scene_Lobby_kr_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 858
+        width: 194
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110882c6fc87dc0e0800000000000000
+      internalID: -2248007806719852527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 372
+        width: 842
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a688f88d81c6d50800000000000000
+      internalID: 6731782861412133492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 525
+        width: 124
+        height: 474
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adea7a612136bc240800000000000000
+      internalID: 4813049556116156122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_3
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 977
+        width: 48
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d754c76fbd5b1d5b0800000000000000
+      internalID: -5345291326374263427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_4
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 863
+        width: 70
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d9b3224027109630800000000000000
+      internalID: 3931667902010472916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_5
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 615
+        width: 399
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83a74cfb147e4450800000000000000
+      internalID: 6074920610914870157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 729
+        width: 199
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04323ffe8a3af1360800000000000000
+      internalID: 7142607480008418112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 201
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a2ac123fb509170800000000000000
+      internalID: 8183141622734269064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_8
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 593
+        width: 90
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a59580ca6d73e7a0800000000000000
+      internalID: -6349093152212281946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_9
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 621
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059347ec7f6388f90800000000000000
+      internalID: -6951245586897815216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_10
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 610
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab9899aa0752e550800000000000000
+      internalID: 6188604541267123117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_11
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 581
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a1be24ef24b2810800000000000000
+      internalID: 1741559340720659010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_12
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 569
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1ebbcd947857c100800000000000000
+      internalID: 128168372290174490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_13
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 563
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2887cba922ef505b0800000000000000
+      internalID: -5402632753382655870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_14
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 563
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59839ee6ab3261ff0800000000000000
+      internalID: -65825860918626155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_15
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 458
+        width: 91
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfee5b48bb7c86020800000000000000
+      internalID: 2335336014990929659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1011
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528c114af98df4750800000000000000
+      internalID: 6291485384623900709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Scene_Lobby_kr_17
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 0
+        width: 394
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48dde9403bd95e80800000000000000
+      internalID: -8189273446951298994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Scene_Lobby_kr_0: -2248007806719852527
+      Scene_Lobby_kr_1: 6731782861412133492
+      Scene_Lobby_kr_10: 6188604541267123117
+      Scene_Lobby_kr_11: 1741559340720659010
+      Scene_Lobby_kr_12: 128168372290174490
+      Scene_Lobby_kr_13: -5402632753382655870
+      Scene_Lobby_kr_14: -65825860918626155
+      Scene_Lobby_kr_15: 2335336014990929659
+      Scene_Lobby_kr_16: 6291485384623900709
+      Scene_Lobby_kr_17: -8189273446951298994
+      Scene_Lobby_kr_2: 4813049556116156122
+      Scene_Lobby_kr_3: -5345291326374263427
+      Scene_Lobby_kr_4: 3931667902010472916
+      Scene_Lobby_kr_5: 6074920610914870157
+      Scene_Lobby_kr_6: 7142607480008418112
+      Scene_Lobby_kr_7: 8183141622734269064
+      Scene_Lobby_kr_8: -6349093152212281946
+      Scene_Lobby_kr_9: -6951245586897815216
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

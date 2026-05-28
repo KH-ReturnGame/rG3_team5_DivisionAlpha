@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 2ace2ed6315e11546b2fa454424c06e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5081423097824722221
+    second: SS_Ep2_DreamMiddleYeji_0
+  - first:
+      213: 717056408618447391
+    second: SS_Ep2_DreamMiddleYeji_1
+  - first:
+      213: 2713224437608087922
+    second: SS_Ep2_DreamMiddleYeji_2
+  - first:
+      213: -4930612406476090865
+    second: SS_Ep2_DreamMiddleYeji_3
+  - first:
+      213: -2816499678356235441
+    second: SS_Ep2_DreamMiddleYeji_4
+  - first:
+      213: 4262729448154885043
+    second: SS_Ep2_DreamMiddleYeji_5
+  - first:
+      213: 1598870671422177747
+    second: SS_Ep2_DreamMiddleYeji_6
+  - first:
+      213: 1058415299999037689
+    second: SS_Ep2_DreamMiddleYeji_7
+  - first:
+      213: -847520472699997120
+    second: SS_Ep2_DreamMiddleYeji_8
+  - first:
+      213: -6840552940736212461
+    second: SS_Ep2_DreamMiddleYeji_9
+  - first:
+      213: -5424844099848770288
+    second: SS_Ep2_DreamMiddleYeji_10
+  - first:
+      213: -3527444731819281596
+    second: SS_Ep2_DreamMiddleYeji_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep2_DreamMiddleYeji_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 116
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dbe4b8267d48640800000000000000
+      internalID: 5081423097824722221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_DreamMiddleYeji_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 116
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12be97210f73f900800000000000000
+      internalID: 717056408618447391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_DreamMiddleYeji_2
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 116
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2710a8f204f47a520800000000000000
+      internalID: 2713224437608087922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_DreamMiddleYeji_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 116
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02dbdac322f29bb0800000000000000
+      internalID: -4930612406476090865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_DreamMiddleYeji_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 59
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b13990778c9e8d0800000000000000
+      internalID: -2816499678356235441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_DreamMiddleYeji_5
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 59
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb6ed229d1482b30800000000000000
+      internalID: 4262729448154885043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_DreamMiddleYeji_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 59
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1c8eb8764503610800000000000000
+      internalID: 1598870671422177747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_DreamMiddleYeji_7
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 59
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8f74d8b1f30be00800000000000000
+      internalID: 1058415299999037689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_DreamMiddleYeji_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04478d4de900d34f0800000000000000
+      internalID: -847520472699997120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_DreamMiddleYeji_9
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3121a2cd7597111a0800000000000000
+      internalID: -6840552940736212461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_DreamMiddleYeji_10
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 2
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01de3a2880517b4b0800000000000000
+      internalID: -5424844099848770288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_DreamMiddleYeji_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443b613a4bffb0fc0800000000000000
+      internalID: -3527444731819281596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep2_DreamMiddleYeji_0: 5081423097824722221
+      SS_Ep2_DreamMiddleYeji_1: 717056408618447391
+      SS_Ep2_DreamMiddleYeji_10: -5424844099848770288
+      SS_Ep2_DreamMiddleYeji_11: -3527444731819281596
+      SS_Ep2_DreamMiddleYeji_2: 2713224437608087922
+      SS_Ep2_DreamMiddleYeji_3: -4930612406476090865
+      SS_Ep2_DreamMiddleYeji_4: -2816499678356235441
+      SS_Ep2_DreamMiddleYeji_5: 4262729448154885043
+      SS_Ep2_DreamMiddleYeji_6: 1598870671422177747
+      SS_Ep2_DreamMiddleYeji_7: 1058415299999037689
+      SS_Ep2_DreamMiddleYeji_8: -847520472699997120
+      SS_Ep2_DreamMiddleYeji_9: -6840552940736212461
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

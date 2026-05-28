@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 97e3104bc27a7b849aa97159852b6add
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 978687250073504512
+    second: HeroesEp4_C_Junhyung_0
+  - first:
+      213: -7255198739790414077
+    second: HeroesEp4_C_Junhyung_1
+  - first:
+      213: -6384531269967912001
+    second: HeroesEp4_C_Junhyung_2
+  - first:
+      213: 6901500645583014738
+    second: HeroesEp4_C_Junhyung_3
+  - first:
+      213: -8100117713631263199
+    second: HeroesEp4_C_Junhyung_4
+  - first:
+      213: -125846372559870612
+    second: HeroesEp4_C_Junhyung_5
+  - first:
+      213: 6046723787044850650
+    second: HeroesEp4_C_Junhyung_6
+  - first:
+      213: -1596068040417683777
+    second: HeroesEp4_C_Junhyung_7
+  - first:
+      213: 7609518828264437059
+    second: HeroesEp4_C_Junhyung_8
+  - first:
+      213: 3678469888950070599
+    second: HeroesEp4_C_Junhyung_9
+  - first:
+      213: -5325713825383365615
+    second: HeroesEp4_C_Junhyung_10
+  - first:
+      213: -6319573002109757842
+    second: HeroesEp4_C_Junhyung_11
+  - first:
+      213: 6683109702365745675
+    second: HeroesEp4_C_Junhyung_12
+  - first:
+      213: -3428845444771159695
+    second: HeroesEp4_C_Junhyung_13
+  - first:
+      213: 8300302816857501503
+    second: HeroesEp4_C_Junhyung_14
+  - first:
+      213: -2607215171659145011
+    second: HeroesEp4_C_Junhyung_15
+  - first:
+      213: 8541484685438723826
+    second: HeroesEp4_C_Junhyung_16
+  - first:
+      213: -3889265357874229277
+    second: HeroesEp4_C_Junhyung_17
+  - first:
+      213: 5469550033612485716
+    second: HeroesEp4_C_Junhyung_18
+  - first:
+      213: 7398582263692167338
+    second: HeroesEp4_C_Junhyung_19
+  - first:
+      213: -7702072818440507281
+    second: HeroesEp4_C_Junhyung_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 117
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bc5de5edef49d00800000000000000
+      internalID: 978687250073504512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 116
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f3ee39f2b505b90800000000000000
+      internalID: -7255198739790414077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 115
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3603cf2a69567a0800000000000000
+      internalID: -6384531269967912001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_3
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 115
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bca1d754e07cf50800000000000000
+      internalID: 6901500645583014738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 116
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126c8201bd9969f80800000000000000
+      internalID: -8100117713631263199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_5
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 115
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c652c431467e04ef0800000000000000
+      internalID: -125846372559870612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 115
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb86b55f374ae350800000000000000
+      internalID: 6046723787044850650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 59
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6dc85d290a9d9e0800000000000000
+      internalID: -1596068040417683777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 58
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345395eae017a9960800000000000000
+      internalID: 7609518828264437059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 57
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74de6d7efdc8c0330800000000000000
+      internalID: 3678469888950070599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 57
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11443ae1e734716b0800000000000000
+      internalID: -5325713825383365615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 58
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66591d46dd5c48a0800000000000000
+      internalID: -6319573002109757842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_12
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 57
+        width: 25
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b021a7c9ddc2fbc50800000000000000
+      internalID: 6683109702365745675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 57
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171e2ba1c3b4a60d0800000000000000
+      internalID: -3428845444771159695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f27fe5f69903370800000000000000
+      internalID: 8300302816857501503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc06f307d9f41dbd0800000000000000
+      internalID: -2607215171659145011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6a3021113798670800000000000000
+      internalID: 8541484685438723826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_17
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef8ca263cd860ac0800000000000000
+      internalID: -3889265357874229277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454b2b2d6ceb7eb40800000000000000
+      internalID: 5469550033612485716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_19
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 23
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa880e49e5b0da660800000000000000
+      internalID: 7398582263692167338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junhyung_20
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 0
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6079a6349dbc1590800000000000000
+      internalID: -7702072818440507281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp4_C_Junhyung_0: 978687250073504512
+      HeroesEp4_C_Junhyung_1: -7255198739790414077
+      HeroesEp4_C_Junhyung_10: -5325713825383365615
+      HeroesEp4_C_Junhyung_11: -6319573002109757842
+      HeroesEp4_C_Junhyung_12: 6683109702365745675
+      HeroesEp4_C_Junhyung_13: -3428845444771159695
+      HeroesEp4_C_Junhyung_14: 8300302816857501503
+      HeroesEp4_C_Junhyung_15: -2607215171659145011
+      HeroesEp4_C_Junhyung_16: 8541484685438723826
+      HeroesEp4_C_Junhyung_17: -3889265357874229277
+      HeroesEp4_C_Junhyung_18: 5469550033612485716
+      HeroesEp4_C_Junhyung_19: 7398582263692167338
+      HeroesEp4_C_Junhyung_2: -6384531269967912001
+      HeroesEp4_C_Junhyung_20: -7702072818440507281
+      HeroesEp4_C_Junhyung_3: 6901500645583014738
+      HeroesEp4_C_Junhyung_4: -8100117713631263199
+      HeroesEp4_C_Junhyung_5: -125846372559870612
+      HeroesEp4_C_Junhyung_6: 6046723787044850650
+      HeroesEp4_C_Junhyung_7: -1596068040417683777
+      HeroesEp4_C_Junhyung_8: 7609518828264437059
+      HeroesEp4_C_Junhyung_9: 3678469888950070599
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

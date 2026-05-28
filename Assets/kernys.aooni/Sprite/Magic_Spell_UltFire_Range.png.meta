@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 6a56499cecffbde43a8ba707224c1ad1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5085640615028033184
+    second: Magic_Spell_UltFire_Range_0
+  - first:
+      213: 6442442772597868752
+    second: Magic_Spell_UltFire_Range_1
+  - first:
+      213: -4721018746263202953
+    second: Magic_Spell_UltFire_Range_2
+  - first:
+      213: -2377954882552288300
+    second: Magic_Spell_UltFire_Range_3
+  - first:
+      213: -4963726173741859083
+    second: Magic_Spell_UltFire_Range_4
+  - first:
+      213: 7625087813895493977
+    second: Magic_Spell_UltFire_Range_5
+  - first:
+      213: 7477714335392180992
+    second: Magic_Spell_UltFire_Range_6
+  - first:
+      213: 7969155374010161803
+    second: Magic_Spell_UltFire_Range_7
+  - first:
+      213: 2908834768770515612
+    second: Magic_Spell_UltFire_Range_8
+  - first:
+      213: 3594322418143935396
+    second: Magic_Spell_UltFire_Range_9
+  - first:
+      213: 6430301470854380151
+    second: Magic_Spell_UltFire_Range_10
+  - first:
+      213: 4430671325169357629
+    second: Magic_Spell_UltFire_Range_11
+  - first:
+      213: -3091468382948712148
+    second: Magic_Spell_UltFire_Range_12
+  - first:
+      213: 1894663543228867412
+    second: Magic_Spell_UltFire_Range_13
+  - first:
+      213: 364230820567681338
+    second: Magic_Spell_UltFire_Range_14
+  - first:
+      213: 6455336866478393859
+    second: Magic_Spell_UltFire_Range_15
+  - first:
+      213: -8047055646894225043
+    second: Magic_Spell_UltFire_Range_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 123
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06974f53ecc2c69b0800000000000000
+      internalID: -5085640615028033184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 135
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d88a727197286950800000000000000
+      internalID: 6442442772597868752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 135
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773950b96729b7eb0800000000000000
+      internalID: -4721018746263202953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 123
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dba09d12aecffed0800000000000000
+      internalID: -2377954882552288300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 102
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5febecb085d4d1bb0800000000000000
+      internalID: -4963726173741859083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 43
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9599660a7f0c1d960800000000000000
+      internalID: 7625087813895493977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_6
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 102
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ba5e4c19d26c760800000000000000
+      internalID: 7477714335392180992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a55cb1790289e60800000000000000
+      internalID: 7969155374010161803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 75
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c924fde7fc14e5820800000000000000
+      internalID: 2908834768770515612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab31bd123991e130800000000000000
+      internalID: 3594322418143935396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_10
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 48
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a72f85e150d3950800000000000000
+      internalID: 6430301470854380151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 24
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d339a357818ec7d30800000000000000
+      internalID: 4430671325169357629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_12
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 24
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21adff82e5e815d0800000000000000
+      internalID: -3091468382948712148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 6
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4532a0744723b4a10800000000000000
+      internalID: 1894663543228867412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a398f2460020e0500800000000000000
+      internalID: 364230820567681338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a8def9da6f59950800000000000000
+      internalID: 6455336866478393859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_UltFire_Range_16
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 6
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d698117368d135090800000000000000
+      internalID: -8047055646894225043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Spell_UltFire_Range_0: -5085640615028033184
+      Magic_Spell_UltFire_Range_1: 6442442772597868752
+      Magic_Spell_UltFire_Range_10: 6430301470854380151
+      Magic_Spell_UltFire_Range_11: 4430671325169357629
+      Magic_Spell_UltFire_Range_12: -3091468382948712148
+      Magic_Spell_UltFire_Range_13: 1894663543228867412
+      Magic_Spell_UltFire_Range_14: 364230820567681338
+      Magic_Spell_UltFire_Range_15: 6455336866478393859
+      Magic_Spell_UltFire_Range_16: -8047055646894225043
+      Magic_Spell_UltFire_Range_2: -4721018746263202953
+      Magic_Spell_UltFire_Range_3: -2377954882552288300
+      Magic_Spell_UltFire_Range_4: -4963726173741859083
+      Magic_Spell_UltFire_Range_5: 7625087813895493977
+      Magic_Spell_UltFire_Range_6: 7477714335392180992
+      Magic_Spell_UltFire_Range_7: 7969155374010161803
+      Magic_Spell_UltFire_Range_8: 2908834768770515612
+      Magic_Spell_UltFire_Range_9: 3594322418143935396
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

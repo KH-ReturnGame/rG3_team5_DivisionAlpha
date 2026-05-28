@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 36b1a627607f4494b914a5db6abbc6fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5556635374348009096
+    second: Division_S2_Ep3Boss_Train_0_0
+  - first:
+      213: 1353955001235907855
+    second: Division_S2_Ep3Boss_Train_0_1
+  - first:
+      213: 8948961064326549410
+    second: Division_S2_Ep3Boss_Train_0_2
+  - first:
+      213: -8822949184538559907
+    second: Division_S2_Ep3Boss_Train_0_3
+  - first:
+      213: 7595075626900880249
+    second: Division_S2_Ep3Boss_Train_0_4
+  - first:
+      213: -7823568485485827338
+    second: Division_S2_Ep3Boss_Train_0_5
+  - first:
+      213: -1701007094917366852
+    second: Division_S2_Ep3Boss_Train_0_6
+  - first:
+      213: -8843737721186300525
+    second: Division_S2_Ep3Boss_Train_0_7
+  - first:
+      213: 820403505671145432
+    second: Division_S2_Ep3Boss_Train_0_8
+  - first:
+      213: -5536141069379091735
+    second: Division_S2_Ep3Boss_Train_0_9
+  - first:
+      213: 8886911061138363159
+    second: Division_S2_Ep3Boss_Train_0_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_S2_Ep3Boss_Train_0_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 276
+        width: 107
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8710e9d319dd2e2b0800000000000000
+      internalID: -5556635374348009096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_S2_Ep3Boss_Train_0_1
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 277
+        width: 107
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05a78a66e63ac210800000000000000
+      internalID: 1353955001235907855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_S2_Ep3Boss_Train_0_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 291
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af4cf3aca8113c70800000000000000
+      internalID: 8948961064326549410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_S2_Ep3Boss_Train_0_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 291
+        width: 124
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ab14076769e8580800000000000000
+      internalID: -8822949184538559907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_S2_Ep3Boss_Train_0_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 157
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b77afca01276960800000000000000
+      internalID: 7595075626900880249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_S2_Ep3Boss_Train_0_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 157
+        width: 107
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa2daad9e91d6390800000000000000
+      internalID: -7823568485485827338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_S2_Ep3Boss_Train_0_6
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 139
+        width: 137
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbf70b3f0fc468e0800000000000000
+      internalID: -1701007094917366852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_S2_Ep3Boss_Train_0_7
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 139
+        width: 137
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dc7f1166bb44580800000000000000
+      internalID: -8843737721186300525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_S2_Ep3Boss_Train_0_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7830844a8a26b00800000000000000
+      internalID: 820403505671145432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_S2_Ep3Boss_Train_0_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 124
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e24535770dab23b0800000000000000
+      internalID: -5536141069379091735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_S2_Ep3Boss_Train_0_10
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3
+        width: 137
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71354a57686a45b70800000000000000
+      internalID: 8886911061138363159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_S2_Ep3Boss_Train_0_0: -5556635374348009096
+      Division_S2_Ep3Boss_Train_0_1: 1353955001235907855
+      Division_S2_Ep3Boss_Train_0_10: 8886911061138363159
+      Division_S2_Ep3Boss_Train_0_2: 8948961064326549410
+      Division_S2_Ep3Boss_Train_0_3: -8822949184538559907
+      Division_S2_Ep3Boss_Train_0_4: 7595075626900880249
+      Division_S2_Ep3Boss_Train_0_5: -7823568485485827338
+      Division_S2_Ep3Boss_Train_0_6: -1701007094917366852
+      Division_S2_Ep3Boss_Train_0_7: -8843737721186300525
+      Division_S2_Ep3Boss_Train_0_8: 820403505671145432
+      Division_S2_Ep3Boss_Train_0_9: -5536141069379091735
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

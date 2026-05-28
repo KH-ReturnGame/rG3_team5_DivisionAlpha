@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 81c3fa71c7a1d4d47aa3f89579de8950
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4266868236455925712
+    second: UI_Xmas2018_Pack_0
+  - first:
+      213: 1406118579526935027
+    second: UI_Xmas2018_Pack_1
+  - first:
+      213: -1114953830782362215
+    second: UI_Xmas2018_Pack_2
+  - first:
+      213: -1112243798768771373
+    second: UI_Xmas2018_Pack_3
+  - first:
+      213: 5678558393522022292
+    second: UI_Xmas2018_Pack_4
+  - first:
+      213: 3279200591512724724
+    second: UI_Xmas2018_Pack_5
+  - first:
+      213: -5677438677111609184
+    second: UI_Xmas2018_Pack_6
+  - first:
+      213: -1076954063999826015
+    second: UI_Xmas2018_Pack_7
+  - first:
+      213: 5463392529847470418
+    second: UI_Xmas2018_Pack_8
+  - first:
+      213: 1539557774312783036
+    second: UI_Xmas2018_Pack_9
+  - first:
+      213: -4337177477089213943
+    second: UI_Xmas2018_Pack_10
+  - first:
+      213: -4350614594173969486
+    second: UI_Xmas2018_Pack_11
+  - first:
+      213: -8804572776545072321
+    second: UI_Xmas2018_Pack_12
+  - first:
+      213: 1781487370562359608
+    second: UI_Xmas2018_Pack_13
+  - first:
+      213: 8890501288308643187
+    second: UI_Xmas2018_Pack_14
+  - first:
+      213: 2458057423439114230
+    second: UI_Xmas2018_Pack_15
+  - first:
+      213: 5522262803438336192
+    second: UI_Xmas2018_Pack_16
+  - first:
+      213: 7934141842044951109
+    second: UI_Xmas2018_Pack_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 100
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d75a51ed06f63b30800000000000000
+      internalID: 4266868236455925712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 100
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1a7cce569838310800000000000000
+      internalID: 1406118579526935027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d914fe563e680f0800000000000000
+      internalID: -1114953830782362215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 100
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de91ce68248090f0800000000000000
+      internalID: -1112243798768771373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 75
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497613ac5ca4ece40800000000000000
+      internalID: 5678558393522022292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 75
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4ed54609f028d20800000000000000
+      internalID: 3279200591512724724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_6
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 75
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8e2b08a9fa531b0800000000000000
+      internalID: -5677438677111609184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 75
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a780e71cf3ed01f0800000000000000
+      internalID: -1076954063999826015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259c4124f8ed1db40800000000000000
+      internalID: 5463392529847470418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 50
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcba1983ab9d5510800000000000000
+      internalID: 1539557774312783036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 25
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902c54e50104fc3c0800000000000000
+      internalID: -4337177477089213943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 50
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb51afb3138f93c0800000000000000
+      internalID: -4350614594173969486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_12
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 50
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3bc4f655bfdfc580800000000000000
+      internalID: -8804572776545072321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 50
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831d636235d19b810800000000000000
+      internalID: 1781487370562359608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3751acc51d7616b70800000000000000
+      internalID: 8890501288308643187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_15
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffa9990436cc1220800000000000000
+      internalID: 2458057423439114230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_16
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 25
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c87b43f2c403ac40800000000000000
+      internalID: 5522262803438336192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Xmas2018_Pack_17
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 25
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a17ace7fbbb1e60800000000000000
+      internalID: 7934141842044951109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Xmas2018_Pack_0: 4266868236455925712
+      UI_Xmas2018_Pack_1: 1406118579526935027
+      UI_Xmas2018_Pack_10: -4337177477089213943
+      UI_Xmas2018_Pack_11: -4350614594173969486
+      UI_Xmas2018_Pack_12: -8804572776545072321
+      UI_Xmas2018_Pack_13: 1781487370562359608
+      UI_Xmas2018_Pack_14: 8890501288308643187
+      UI_Xmas2018_Pack_15: 2458057423439114230
+      UI_Xmas2018_Pack_16: 5522262803438336192
+      UI_Xmas2018_Pack_17: 7934141842044951109
+      UI_Xmas2018_Pack_2: -1114953830782362215
+      UI_Xmas2018_Pack_3: -1112243798768771373
+      UI_Xmas2018_Pack_4: 5678558393522022292
+      UI_Xmas2018_Pack_5: 3279200591512724724
+      UI_Xmas2018_Pack_6: -5677438677111609184
+      UI_Xmas2018_Pack_7: -1076954063999826015
+      UI_Xmas2018_Pack_8: 5463392529847470418
+      UI_Xmas2018_Pack_9: 1539557774312783036
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
