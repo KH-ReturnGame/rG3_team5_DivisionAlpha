@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 342e13ba08f744ef49945f640685c3b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3551634683488392745
+    second: SS_Ep1_z_chef_inhale_0
+  - first:
+      213: 1861273062268441179
+    second: SS_Ep1_z_chef_inhale_1
+  - first:
+      213: 7422694360481174490
+    second: SS_Ep1_z_chef_inhale_2
+  - first:
+      213: -813833650064432044
+    second: SS_Ep1_z_chef_inhale_3
+  - first:
+      213: -2614072182583410470
+    second: SS_Ep1_z_chef_inhale_4
+  - first:
+      213: -111951786627505700
+    second: SS_Ep1_z_chef_inhale_5
+  - first:
+      213: 66017776884185117
+    second: SS_Ep1_z_chef_inhale_6
+  - first:
+      213: -8642995311776885166
+    second: SS_Ep1_z_chef_inhale_7
+  - first:
+      213: -2808972244868230719
+    second: SS_Ep1_z_chef_inhale_8
+  - first:
+      213: 4880223268302614616
+    second: SS_Ep1_z_chef_inhale_9
+  - first:
+      213: -7964803588028540871
+    second: SS_Ep1_z_chef_inhale_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_inhale_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 175
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92658416de0f94130800000000000000
+      internalID: 3551634683488392745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_inhale_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 174
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52938a1df194d910800000000000000
+      internalID: 1861273062268441179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_inhale_2
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 175
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad396c89135b20760800000000000000
+      internalID: 7422694360481174490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_inhale_3
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 177
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45466ad6b9ea4b4f0800000000000000
+      internalID: -813833650064432044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_inhale_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 97
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0c2eb2333f8bbd0800000000000000
+      internalID: -2614072182583410470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_inhale_5
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 93
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1e8167174427ef0800000000000000
+      internalID: -111951786627505700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_inhale_6
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 92
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18fa0c71da8ae000800000000000000
+      internalID: 66017776884185117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_inhale_7
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 88
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2561c267e89ed0880800000000000000
+      internalID: -8642995311776885166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_inhale_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 8
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c192b830a68409d0800000000000000
+      internalID: -2808972244868230719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_inhale_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 12
+        width: 82
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850f5cbb4390ab340800000000000000
+      internalID: 4880223268302614616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_inhale_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 11
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9385dc50655577190800000000000000
+      internalID: -7964803588028540871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep1_z_chef_inhale_0: 3551634683488392745
+      SS_Ep1_z_chef_inhale_1: 1861273062268441179
+      SS_Ep1_z_chef_inhale_10: -7964803588028540871
+      SS_Ep1_z_chef_inhale_2: 7422694360481174490
+      SS_Ep1_z_chef_inhale_3: -813833650064432044
+      SS_Ep1_z_chef_inhale_4: -2614072182583410470
+      SS_Ep1_z_chef_inhale_5: -111951786627505700
+      SS_Ep1_z_chef_inhale_6: 66017776884185117
+      SS_Ep1_z_chef_inhale_7: -8642995311776885166
+      SS_Ep1_z_chef_inhale_8: -2808972244868230719
+      SS_Ep1_z_chef_inhale_9: 4880223268302614616
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

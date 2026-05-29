@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 6944f2e62e13f435f98700e623734683
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -476758079532433067
+    second: InfEvo_Rage_Rage_2_0
+  - first:
+      213: 1139982736809843598
+    second: InfEvo_Rage_Rage_2_1
+  - first:
+      213: 5585141357830372293
+    second: InfEvo_Rage_Rage_2_2
+  - first:
+      213: -8660728077530844938
+    second: InfEvo_Rage_Rage_2_3
+  - first:
+      213: -2541558652317914664
+    second: InfEvo_Rage_Rage_2_4
+  - first:
+      213: 2973170187066695606
+    second: InfEvo_Rage_Rage_2_5
+  - first:
+      213: 5549924115109524848
+    second: InfEvo_Rage_Rage_2_6
+  - first:
+      213: 4613564037512810470
+    second: InfEvo_Rage_Rage_2_7
+  - first:
+      213: -3894979926158379288
+    second: InfEvo_Rage_Rage_2_8
+  - first:
+      213: -2224803279388900353
+    second: InfEvo_Rage_Rage_2_9
+  - first:
+      213: -7705038639938270455
+    second: InfEvo_Rage_Rage_2_10
+  - first:
+      213: 4804316603361350062
+    second: InfEvo_Rage_Rage_2_11
+  - first:
+      213: -5715807928337913570
+    second: InfEvo_Rage_Rage_2_12
+  - first:
+      213: -731698282833817212
+    second: InfEvo_Rage_Rage_2_13
+  - first:
+      213: -8763487412888884023
+    second: InfEvo_Rage_Rage_2_14
+  - first:
+      213: 4076415926432403407
+    second: InfEvo_Rage_Rage_2_15
+  - first:
+      213: -3024857372568253192
+    second: InfEvo_Rage_Rage_2_16
+  - first:
+      213: 57441669750372542
+    second: InfEvo_Rage_Rage_2_17
+  - first:
+      213: -6979388292987188412
+    second: InfEvo_Rage_Rage_2_18
+  - first:
+      213: 1997068980644542955
+    second: InfEvo_Rage_Rage_2_19
+  - first:
+      213: -227135532384446672
+    second: InfEvo_Rage_Rage_2_20
+  - first:
+      213: 3333048317727913921
+    second: InfEvo_Rage_Rage_2_21
+  - first:
+      213: 7593169098219763814
+    second: InfEvo_Rage_Rage_2_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 95
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5510ca97d073269f0800000000000000
+      internalID: -476758079532433067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 73
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bd0ad524802df00800000000000000
+      internalID: 1139982736809843598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 110
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb72dd3978628d40800000000000000
+      internalID: 5585141357830372293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_3
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 93
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0b58233b9eec780800000000000000
+      internalID: -8660728077530844938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 86
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d925c81fd19abcd0800000000000000
+      internalID: -2541558652317914664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 74
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf54e85882d24920800000000000000
+      internalID: 2973170187066695606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 74
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0753a73f39a450d40800000000000000
+      internalID: 5549924115109524848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 77
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6efc7746c0ca60040800000000000000
+      internalID: 4613564037512810470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 59
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e67d06c46042f9c0800000000000000
+      internalID: -3894979926158379288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_9
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 66
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff386e47439ef11e0800000000000000
+      internalID: -2224803279388900353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 61
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b02d51e24321590800000000000000
+      internalID: -7705038639938270455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea15dd31f7c5ca240800000000000000
+      internalID: 4804316603361350062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 39
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19ae0b09fe5da0b0800000000000000
+      internalID: -5715807928337913570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 32
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4815de8d94c78d5f0800000000000000
+      internalID: -731698282833817212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 51
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cca62101a6d16680800000000000000
+      internalID: -8763487412888884023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 14
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf8fb3ffa6529830800000000000000
+      internalID: 4076415926432403407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 23
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc09dbfe3c8506d0800000000000000
+      internalID: -3024857372568253192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 36
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8b6c0f4e21cc000800000000000000
+      internalID: 57441669750372542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b8afe635b342f90800000000000000
+      internalID: -6979388292987188412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 22
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9f44f28a307bb10800000000000000
+      internalID: 1997068980644542955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 23
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0371b5ccf6d09dcf0800000000000000
+      internalID: -227135532384446672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_21
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 21
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c7b26529cd514e20800000000000000
+      internalID: 3333048317727913921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Rage_Rage_2_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668bcd2801b506960800000000000000
+      internalID: 7593169098219763814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InfEvo_Rage_Rage_2_0: -476758079532433067
+      InfEvo_Rage_Rage_2_1: 1139982736809843598
+      InfEvo_Rage_Rage_2_10: -7705038639938270455
+      InfEvo_Rage_Rage_2_11: 4804316603361350062
+      InfEvo_Rage_Rage_2_12: -5715807928337913570
+      InfEvo_Rage_Rage_2_13: -731698282833817212
+      InfEvo_Rage_Rage_2_14: -8763487412888884023
+      InfEvo_Rage_Rage_2_15: 4076415926432403407
+      InfEvo_Rage_Rage_2_16: -3024857372568253192
+      InfEvo_Rage_Rage_2_17: 57441669750372542
+      InfEvo_Rage_Rage_2_18: -6979388292987188412
+      InfEvo_Rage_Rage_2_19: 1997068980644542955
+      InfEvo_Rage_Rage_2_2: 5585141357830372293
+      InfEvo_Rage_Rage_2_20: -227135532384446672
+      InfEvo_Rage_Rage_2_21: 3333048317727913921
+      InfEvo_Rage_Rage_2_22: 7593169098219763814
+      InfEvo_Rage_Rage_2_3: -8660728077530844938
+      InfEvo_Rage_Rage_2_4: -2541558652317914664
+      InfEvo_Rage_Rage_2_5: 2973170187066695606
+      InfEvo_Rage_Rage_2_6: 5549924115109524848
+      InfEvo_Rage_Rage_2_7: 4613564037512810470
+      InfEvo_Rage_Rage_2_8: -3894979926158379288
+      InfEvo_Rage_Rage_2_9: -2224803279388900353
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

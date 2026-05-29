@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 0019ecdc028064ce1a760c5d46690762
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -315783932615218077
+    second: Magic_Potion_Mana_0
+  - first:
+      213: -743280232260833934
+    second: Magic_Potion_Mana_1
+  - first:
+      213: 4798310246475563238
+    second: Magic_Potion_Mana_2
+  - first:
+      213: -6252659346234420108
+    second: Magic_Potion_Mana_3
+  - first:
+      213: -1232543536709538325
+    second: Magic_Potion_Mana_4
+  - first:
+      213: 5651241006288193559
+    second: Magic_Potion_Mana_5
+  - first:
+      213: 1027178804123935174
+    second: Magic_Potion_Mana_6
+  - first:
+      213: -6523353947489298644
+    second: Magic_Potion_Mana_7
+  - first:
+      213: 565639092127297346
+    second: Magic_Potion_Mana_8
+  - first:
+      213: 9002842927595240529
+    second: Magic_Potion_Mana_9
+  - first:
+      213: 7065593293807104763
+    second: Magic_Potion_Mana_10
+  - first:
+      213: 7621337461759264548
+    second: Magic_Potion_Mana_11
+  - first:
+      213: -5724760398901583149
+    second: Magic_Potion_Mana_12
+  - first:
+      213: 7696065217609297359
+    second: Magic_Potion_Mana_13
+  - first:
+      213: -2761712521254471848
+    second: Magic_Potion_Mana_14
+  - first:
+      213: 2082941640387205911
+    second: Magic_Potion_Mana_15
+  - first:
+      213: -2654264096707718434
+    second: Magic_Potion_Mana_16
+  - first:
+      213: 411545509628743545
+    second: Magic_Potion_Mana_17
+  - first:
+      213: -3677338622629720989
+    second: Magic_Potion_Mana_18
+  - first:
+      213: 7253645647310998134
+    second: Magic_Potion_Mana_19
+  - first:
+      213: -8319306459691533953
+    second: Magic_Potion_Mana_20
+  - first:
+      213: 4958384813568496923
+    second: Magic_Potion_Mana_21
+  - first:
+      213: 6407457775975069308
+    second: Magic_Potion_Mana_22
+  - first:
+      213: 8721412132868726094
+    second: Magic_Potion_Mana_23
+  - first:
+      213: 3692191336520411066
+    second: Magic_Potion_Mana_24
+  - first:
+      213: 6708901176212440672
+    second: Magic_Potion_Mana_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 227
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ca1b6bf2c1e9bf0800000000000000
+      internalID: -315783932615218077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 228
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27de58b11965fa5f0800000000000000
+      internalID: -743280232260833934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e00b432fb5079240800000000000000
+      internalID: 4798310246475563238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 222
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474db2ed3771a39a0800000000000000
+      internalID: -6252659346234420108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 150
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed69340f2025eee0800000000000000
+      internalID: -1232543536709538325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 154
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718cdefe0cd3d6e40800000000000000
+      internalID: 5651241006288193559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 183
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c12e9c1ea5414e00800000000000000
+      internalID: 1027178804123935174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_7
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 173
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2712cf95246875a0800000000000000
+      internalID: -6523353947489298644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 193
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f6255e1cd89d700800000000000000
+      internalID: 565639092127297346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 174
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cb3fb81f580fc70800000000000000
+      internalID: 9002842927595240529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 185
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf231c46aa70e0260800000000000000
+      internalID: 7065593293807104763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_11
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 187
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427c989ba0e64c960800000000000000
+      internalID: 7621337461759264548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 154
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d26f3f8fb09d80b0800000000000000
+      internalID: -5724760398901583149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 169
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd67d73a8aedca60800000000000000
+      internalID: 7696065217609297359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 95
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857f0e6181d6ca9d0800000000000000
+      internalID: -2761712521254471848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 87
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b1623d26818ec10800000000000000
+      internalID: 2082941640387205911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 85
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2d9afedd82a2bd0800000000000000
+      internalID: -2654264096707718434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_17
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 83
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f0456e57a16b500800000000000000
+      internalID: 411545509628743545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 8
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36cc45f810877fcc0800000000000000
+      internalID: -3677338622629720989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 8
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ac786e8402aa460800000000000000
+      internalID: 7253645647310998134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_20
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f79397c3ad2eb8c80800000000000000
+      internalID: -8319306459691533953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_21
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b151170a7b8bfc440800000000000000
+      internalID: 4958384813568496923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_22
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 51
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76fe4a26ecdbe850800000000000000
+      internalID: 6407457775975069308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_23
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d1c67702ea80970800000000000000
+      internalID: 8721412132868726094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7e210657c4d3330800000000000000
+      internalID: 3692191336520411066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Mana_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 19
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066c751131eca1d50800000000000000
+      internalID: 6708901176212440672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Potion_Mana_0: -315783932615218077
+      Magic_Potion_Mana_1: -743280232260833934
+      Magic_Potion_Mana_10: 7065593293807104763
+      Magic_Potion_Mana_11: 7621337461759264548
+      Magic_Potion_Mana_12: -5724760398901583149
+      Magic_Potion_Mana_13: 7696065217609297359
+      Magic_Potion_Mana_14: -2761712521254471848
+      Magic_Potion_Mana_15: 2082941640387205911
+      Magic_Potion_Mana_16: -2654264096707718434
+      Magic_Potion_Mana_17: 411545509628743545
+      Magic_Potion_Mana_18: -3677338622629720989
+      Magic_Potion_Mana_19: 7253645647310998134
+      Magic_Potion_Mana_2: 4798310246475563238
+      Magic_Potion_Mana_20: -8319306459691533953
+      Magic_Potion_Mana_21: 4958384813568496923
+      Magic_Potion_Mana_22: 6407457775975069308
+      Magic_Potion_Mana_23: 8721412132868726094
+      Magic_Potion_Mana_24: 3692191336520411066
+      Magic_Potion_Mana_25: 6708901176212440672
+      Magic_Potion_Mana_3: -6252659346234420108
+      Magic_Potion_Mana_4: -1232543536709538325
+      Magic_Potion_Mana_5: 5651241006288193559
+      Magic_Potion_Mana_6: 1027178804123935174
+      Magic_Potion_Mana_7: -6523353947489298644
+      Magic_Potion_Mana_8: 565639092127297346
+      Magic_Potion_Mana_9: 9002842927595240529
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

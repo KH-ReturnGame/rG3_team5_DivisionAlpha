@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: b2e1ac5945acf4ae0838ed90a3ef6bb3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4641431946521905414
+    second: Xmas2018_Item_Product_0
+  - first:
+      213: 4344261504687823056
+    second: Xmas2018_Item_Product_1
+  - first:
+      213: -2411998439183416621
+    second: Xmas2018_Item_Product_2
+  - first:
+      213: -2743299920203961917
+    second: Xmas2018_Item_Product_3
+  - first:
+      213: 1337344201294899325
+    second: Xmas2018_Item_Product_4
+  - first:
+      213: -2632614787384498231
+    second: Xmas2018_Item_Product_5
+  - first:
+      213: 2588234919390125556
+    second: Xmas2018_Item_Product_6
+  - first:
+      213: -564267620259365192
+    second: Xmas2018_Item_Product_7
+  - first:
+      213: 1482692996127801
+    second: Xmas2018_Item_Product_8
+  - first:
+      213: 5742361334336055047
+    second: Xmas2018_Item_Product_9
+  - first:
+      213: -4457448813543599338
+    second: Xmas2018_Item_Product_10
+  - first:
+      213: -1824151003768453991
+    second: Xmas2018_Item_Product_11
+  - first:
+      213: 1543670486110610605
+    second: Xmas2018_Item_Product_12
+  - first:
+      213: 3842030189223096637
+    second: Xmas2018_Item_Product_13
+  - first:
+      213: -1114120386473179560
+    second: Xmas2018_Item_Product_14
+  - first:
+      213: 378591230488942858
+    second: Xmas2018_Item_Product_15
+  - first:
+      213: 2860375563460930324
+    second: Xmas2018_Item_Product_16
+  - first:
+      213: 6907365520541120153
+    second: Xmas2018_Item_Product_17
+  - first:
+      213: 3988833233148843998
+    second: Xmas2018_Item_Product_18
+  - first:
+      213: -9201189476644722452
+    second: Xmas2018_Item_Product_19
+  - first:
+      213: -1626649140200706608
+    second: Xmas2018_Item_Product_20
+  - first:
+      213: 7289614280907295192
+    second: Xmas2018_Item_Product_21
+  - first:
+      213: 7211944767914466799
+    second: Xmas2018_Item_Product_22
+  - first:
+      213: -293237543004250865
+    second: Xmas2018_Item_Product_23
+  - first:
+      213: -4915295356409574339
+    second: Xmas2018_Item_Product_24
+  - first:
+      213: -2260003338624449938
+    second: Xmas2018_Item_Product_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 99
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609869593cda96040800000000000000
+      internalID: 4641431946521905414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 99
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8525652dae94c30800000000000000
+      internalID: 4344261504687823056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d20da9e23cd68ed0800000000000000
+      internalID: -2411998439183416621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 99
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9a2e7d147dde9d0800000000000000
+      internalID: -2743299920203961917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 99
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d786c9c27733f8210800000000000000
+      internalID: 1337344201294899325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 99
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7a18f8cc2177bd0800000000000000
+      internalID: -2632614787384498231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_6
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 99
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd928532f14be320800000000000000
+      internalID: 2588234919390125556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 99
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be7f28c6915b28f0800000000000000
+      internalID: -564267620259365192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 67
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c585d5084450000800000000000000
+      internalID: 1482692996127801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 67
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707e9019537f0bf40800000000000000
+      internalID: 5742361334336055047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 67
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6135f30bbe5f322c0800000000000000
+      internalID: -4457448813543599338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 67
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99485bba3505fa6e0800000000000000
+      internalID: -1824151003768453991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 67
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4a0eed0283c6510800000000000000
+      internalID: 1543670486110610605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 67
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3138f4e912a15530800000000000000
+      internalID: 3842030189223096637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_14
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 67
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856ce3f4969d980f0800000000000000
+      internalID: -1114120386473179560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 67
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a091f50e7b6014500800000000000000
+      internalID: 378591230488942858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 35
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41beb488b6812b720800000000000000
+      internalID: 2860375563460930324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99672a91854ebdf50800000000000000
+      internalID: 6907365520541120153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 35
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed71c1a11be2b5730800000000000000
+      internalID: 3988833233148843998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 35
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce86785cbeece4080800000000000000
+      internalID: -9201189476644722452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 35
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd6420b93bfc69e0800000000000000
+      internalID: -1626649140200706608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_21
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 35
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d908130199e92560800000000000000
+      internalID: 7289614280907295192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 35
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed574f4e89f51460800000000000000
+      internalID: 7211944767914466799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 35
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d5c6e12063eebf0800000000000000
+      internalID: -293237543004250865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c841b6aec59cbb0800000000000000
+      internalID: -4915295356409574339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Product_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62c71200fad2a0e0800000000000000
+      internalID: -2260003338624449938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xmas2018_Item_Product_0: 4641431946521905414
+      Xmas2018_Item_Product_1: 4344261504687823056
+      Xmas2018_Item_Product_10: -4457448813543599338
+      Xmas2018_Item_Product_11: -1824151003768453991
+      Xmas2018_Item_Product_12: 1543670486110610605
+      Xmas2018_Item_Product_13: 3842030189223096637
+      Xmas2018_Item_Product_14: -1114120386473179560
+      Xmas2018_Item_Product_15: 378591230488942858
+      Xmas2018_Item_Product_16: 2860375563460930324
+      Xmas2018_Item_Product_17: 6907365520541120153
+      Xmas2018_Item_Product_18: 3988833233148843998
+      Xmas2018_Item_Product_19: -9201189476644722452
+      Xmas2018_Item_Product_2: -2411998439183416621
+      Xmas2018_Item_Product_20: -1626649140200706608
+      Xmas2018_Item_Product_21: 7289614280907295192
+      Xmas2018_Item_Product_22: 7211944767914466799
+      Xmas2018_Item_Product_23: -293237543004250865
+      Xmas2018_Item_Product_24: -4915295356409574339
+      Xmas2018_Item_Product_25: -2260003338624449938
+      Xmas2018_Item_Product_3: -2743299920203961917
+      Xmas2018_Item_Product_4: 1337344201294899325
+      Xmas2018_Item_Product_5: -2632614787384498231
+      Xmas2018_Item_Product_6: 2588234919390125556
+      Xmas2018_Item_Product_7: -564267620259365192
+      Xmas2018_Item_Product_8: 1482692996127801
+      Xmas2018_Item_Product_9: 5742361334336055047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

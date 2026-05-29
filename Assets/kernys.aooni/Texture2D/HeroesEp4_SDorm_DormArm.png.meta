@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 86628a0ac4cd642e29f3f1aa482fe837
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6223231773181285345
+    second: HeroesEp4_SDorm_DormArm_0
+  - first:
+      213: 8164939850805679931
+    second: HeroesEp4_SDorm_DormArm_1
+  - first:
+      213: -7593222748304746564
+    second: HeroesEp4_SDorm_DormArm_2
+  - first:
+      213: -6419336152518640876
+    second: HeroesEp4_SDorm_DormArm_3
+  - first:
+      213: -2378315702846906724
+    second: HeroesEp4_SDorm_DormArm_4
+  - first:
+      213: 2282155336664956078
+    second: HeroesEp4_SDorm_DormArm_5
+  - first:
+      213: -6233483686995337412
+    second: HeroesEp4_SDorm_DormArm_6
+  - first:
+      213: -6846712940831009109
+    second: HeroesEp4_SDorm_DormArm_7
+  - first:
+      213: 7479057700473076337
+    second: HeroesEp4_SDorm_DormArm_8
+  - first:
+      213: 5105058455222506041
+    second: HeroesEp4_SDorm_DormArm_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp4_SDorm_DormArm_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 55
+        width: 17
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cea94aca3a2a9a0800000000000000
+      internalID: -6223231773181285345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_SDorm_DormArm_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 74
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3714bbd881bf4170800000000000000
+      internalID: 8164939850805679931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_SDorm_DormArm_2
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 53
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb751ea14247f9690800000000000000
+      internalID: -7593222748304746564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_SDorm_DormArm_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 51
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bbd47c7cfe9e6a0800000000000000
+      internalID: -6419336152518640876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_SDorm_DormArm_4
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 55
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e931818768efed0800000000000000
+      internalID: -2378315702846906724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_SDorm_DormArm_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac3d24ff28dbaf10800000000000000
+      internalID: 2282155336664956078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_SDorm_DormArm_6
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 9
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f5373fc973e79a0800000000000000
+      internalID: -6233483686995337412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_SDorm_DormArm_7
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba692b21bd69bf0a0800000000000000
+      internalID: -6846712940831009109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_SDorm_DormArm_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 21
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17af8535a53fac760800000000000000
+      internalID: 7479057700473076337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_SDorm_DormArm_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93254250e9fc8d640800000000000000
+      internalID: 5105058455222506041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp4_SDorm_DormArm_0: -6223231773181285345
+      HeroesEp4_SDorm_DormArm_1: 8164939850805679931
+      HeroesEp4_SDorm_DormArm_2: -7593222748304746564
+      HeroesEp4_SDorm_DormArm_3: -6419336152518640876
+      HeroesEp4_SDorm_DormArm_4: -2378315702846906724
+      HeroesEp4_SDorm_DormArm_5: 2282155336664956078
+      HeroesEp4_SDorm_DormArm_6: -6233483686995337412
+      HeroesEp4_SDorm_DormArm_7: -6846712940831009109
+      HeroesEp4_SDorm_DormArm_8: 7479057700473076337
+      HeroesEp4_SDorm_DormArm_9: 5105058455222506041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

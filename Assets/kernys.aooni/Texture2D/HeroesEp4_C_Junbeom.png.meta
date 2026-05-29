@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 7c11794b041ac41a58186a01a8dafd7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8871946925700760947
+    second: HeroesEp4_C_Junbeom_0
+  - first:
+      213: 2322649623343802590
+    second: HeroesEp4_C_Junbeom_1
+  - first:
+      213: -8316501489524545896
+    second: HeroesEp4_C_Junbeom_2
+  - first:
+      213: 5503111142847734284
+    second: HeroesEp4_C_Junbeom_3
+  - first:
+      213: -2898269709631041478
+    second: HeroesEp4_C_Junbeom_4
+  - first:
+      213: 7236949863608849111
+    second: HeroesEp4_C_Junbeom_5
+  - first:
+      213: 4246054752751944337
+    second: HeroesEp4_C_Junbeom_6
+  - first:
+      213: -5989260539384437718
+    second: HeroesEp4_C_Junbeom_7
+  - first:
+      213: 3327748265358238845
+    second: HeroesEp4_C_Junbeom_8
+  - first:
+      213: -1875604687126978992
+    second: HeroesEp4_C_Junbeom_9
+  - first:
+      213: -6768644498856888932
+    second: HeroesEp4_C_Junbeom_10
+  - first:
+      213: 2476811410664657121
+    second: HeroesEp4_C_Junbeom_11
+  - first:
+      213: 5092089567870280080
+    second: HeroesEp4_C_Junbeom_12
+  - first:
+      213: -2597748317697132225
+    second: HeroesEp4_C_Junbeom_13
+  - first:
+      213: 4125899055076612851
+    second: HeroesEp4_C_Junbeom_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 121
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375438c29bc7f1b70800000000000000
+      internalID: 8871946925700760947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 121
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed82a19c685bb3020800000000000000
+      internalID: 2322649623343802590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 119
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896e1ee35f9d59c80800000000000000
+      internalID: -8316501489524545896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 121
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02eeec7d6afe5c40800000000000000
+      internalID: 5503111142847734284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_4
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 119
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30da260e0747c7d0800000000000000
+      internalID: -2898269709631041478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 61
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d297b5de8fce6460800000000000000
+      internalID: 7236949863608849111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_6
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 61
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19283a21d440dea30800000000000000
+      internalID: 4246054752751944337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 61
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24e9ba954fd1eca0800000000000000
+      internalID: -5989260539384437718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 61
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74a99a8a698e2e20800000000000000
+      internalID: 3327748265358238845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 61
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e1db4797388f5e0800000000000000
+      internalID: -1875604687126978992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95bbbaa0b1f012a0800000000000000
+      internalID: -6768644498856888932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e01d44fad66f5220800000000000000
+      internalID: 2476811410664657121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 0
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0916161ab7cbaa640800000000000000
+      internalID: 5092089567870280080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f393bc32ba1f2fbd0800000000000000
+      internalID: -2597748317697132225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Junbeom_14
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa16f4a453224930800000000000000
+      internalID: 4125899055076612851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp4_C_Junbeom_0: 8871946925700760947
+      HeroesEp4_C_Junbeom_1: 2322649623343802590
+      HeroesEp4_C_Junbeom_10: -6768644498856888932
+      HeroesEp4_C_Junbeom_11: 2476811410664657121
+      HeroesEp4_C_Junbeom_12: 5092089567870280080
+      HeroesEp4_C_Junbeom_13: -2597748317697132225
+      HeroesEp4_C_Junbeom_14: 4125899055076612851
+      HeroesEp4_C_Junbeom_2: -8316501489524545896
+      HeroesEp4_C_Junbeom_3: 5503111142847734284
+      HeroesEp4_C_Junbeom_4: -2898269709631041478
+      HeroesEp4_C_Junbeom_5: 7236949863608849111
+      HeroesEp4_C_Junbeom_6: 4246054752751944337
+      HeroesEp4_C_Junbeom_7: -5989260539384437718
+      HeroesEp4_C_Junbeom_8: 3327748265358238845
+      HeroesEp4_C_Junbeom_9: -1875604687126978992
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

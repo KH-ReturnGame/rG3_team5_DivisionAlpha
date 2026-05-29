@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 44168431faced42b8aa52293c91813b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -470830043007470540
+    second: SS_Ep1_bg_Elv_Panel #36845_0
+  - first:
+      213: -6802048115281178533
+    second: SS_Ep1_bg_Elv_Panel #36845_1
+  - first:
+      213: 6000827189327894517
+    second: SS_Ep1_bg_Elv_Panel #36845_2
+  - first:
+      213: 2328620782948896952
+    second: SS_Ep1_bg_Elv_Panel #36845_3
+  - first:
+      213: 437850052566972686
+    second: SS_Ep1_bg_Elv_Panel #36845_4
+  - first:
+      213: -6578997005620334751
+    second: SS_Ep1_bg_Elv_Panel #36845_5
+  - first:
+      213: -7217597451652662028
+    second: SS_Ep1_bg_Elv_Panel #36845_6
+  - first:
+      213: 4957918585338383734
+    second: SS_Ep1_bg_Elv_Panel #36845_7
+  - first:
+      213: 3521645929125403225
+    second: SS_Ep1_bg_Elv_Panel #36845_8
+  - first:
+      213: -866235797541449946
+    second: SS_Ep1_bg_Elv_Panel #36845_9
+  - first:
+      213: 2828210589857547632
+    second: SS_Ep1_bg_Elv_Panel #36845_10
+  - first:
+      213: 4481027258322413207
+    second: SS_Ep1_bg_Elv_Panel #36845_11
+  - first:
+      213: -4798958988548237707
+    second: SS_Ep1_bg_Elv_Panel #36845_12
+  - first:
+      213: 8897731042550939517
+    second: SS_Ep1_bg_Elv_Panel #36845_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 40
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43435f802964779f0800000000000000
+      internalID: -470830043007470540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 42
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50dc8727454a91a0800000000000000
+      internalID: -6802048115281178533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 34
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f71562f888374350800000000000000
+      internalID: 6000827189327894517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 44
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0d248b34ce05020800000000000000
+      internalID: 2328620782948896952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_4
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 38
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09f3209d4e831600800000000000000
+      internalID: 437850052566972686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f24a59415b2b4a0800000000000000
+      internalID: -6578997005620334751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_6
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 34
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc7a72bb51f5db90800000000000000
+      internalID: -7217597451652662028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67dc6686fa01ec440800000000000000
+      internalID: 4957918585338383734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a583660566fd030800000000000000
+      internalID: 3521645929125403225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 25
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f80d3b1238af3f0800000000000000
+      internalID: -866235797541449946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_10
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 23
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07505760c82df3720800000000000000
+      internalID: 2828210589857547632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 18
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7966629cc8ecf2e30800000000000000
+      internalID: 4481027258322413207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_12
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 21
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5761ae3d93ca66db0800000000000000
+      internalID: -4798958988548237707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_bg_Elv_Panel #36845_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 17
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ff632bd371b7b70800000000000000
+      internalID: 8897731042550939517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep1_bg_Elv_Panel #36845_0: -470830043007470540
+      SS_Ep1_bg_Elv_Panel #36845_1: -6802048115281178533
+      SS_Ep1_bg_Elv_Panel #36845_10: 2828210589857547632
+      SS_Ep1_bg_Elv_Panel #36845_11: 4481027258322413207
+      SS_Ep1_bg_Elv_Panel #36845_12: -4798958988548237707
+      SS_Ep1_bg_Elv_Panel #36845_13: 8897731042550939517
+      SS_Ep1_bg_Elv_Panel #36845_2: 6000827189327894517
+      SS_Ep1_bg_Elv_Panel #36845_3: 2328620782948896952
+      SS_Ep1_bg_Elv_Panel #36845_4: 437850052566972686
+      SS_Ep1_bg_Elv_Panel #36845_5: -6578997005620334751
+      SS_Ep1_bg_Elv_Panel #36845_6: -7217597451652662028
+      SS_Ep1_bg_Elv_Panel #36845_7: 4957918585338383734
+      SS_Ep1_bg_Elv_Panel #36845_8: 3521645929125403225
+      SS_Ep1_bg_Elv_Panel #36845_9: -866235797541449946
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

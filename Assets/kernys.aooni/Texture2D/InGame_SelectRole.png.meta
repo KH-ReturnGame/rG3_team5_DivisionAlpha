@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: d8bc5922cda7045c88a45c6c51a558a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8070747860286825079
+    second: InGame_SelectRole_0
+  - first:
+      213: -2995747559722240955
+    second: InGame_SelectRole_1
+  - first:
+      213: 6560015067431032148
+    second: InGame_SelectRole_2
+  - first:
+      213: 3669725564261250930
+    second: InGame_SelectRole_3
+  - first:
+      213: -8430125967336962703
+    second: InGame_SelectRole_4
+  - first:
+      213: 5968529316664295206
+    second: InGame_SelectRole_5
+  - first:
+      213: -2316800609759042477
+    second: InGame_SelectRole_6
+  - first:
+      213: 619403422159402903
+    second: InGame_SelectRole_7
+  - first:
+      213: -764809259829918657
+    second: InGame_SelectRole_8
+  - first:
+      213: -6777987556141470672
+    second: InGame_SelectRole_9
+  - first:
+      213: -1130768354192466785
+    second: InGame_SelectRole_10
+  - first:
+      213: -9183517342282785423
+    second: InGame_SelectRole_11
+  - first:
+      213: -9024416662884944597
+    second: InGame_SelectRole_12
+  - first:
+      213: -3546957422962074614
+    second: InGame_SelectRole_13
+  - first:
+      213: -7558195109688471742
+    second: InGame_SelectRole_14
+  - first:
+      213: -3358307597957388995
+    second: InGame_SelectRole_15
+  - first:
+      213: 1644472594530614359
+    second: InGame_SelectRole_16
+  - first:
+      213: 8278215954013209485
+    second: InGame_SelectRole_17
+  - first:
+      213: 6191221082320454889
+    second: InGame_SelectRole_18
+  - first:
+      213: -4616708546017944944
+    second: InGame_SelectRole_19
+  - first:
+      213: -339125382428529469
+    second: InGame_SelectRole_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InGame_SelectRole_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 73
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772e3241b6e010070800000000000000
+      internalID: 8070747860286825079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 463
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54433027777fc66d0800000000000000
+      internalID: -2995747559722240955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 436
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 455df6782fad90b50800000000000000
+      internalID: 6560015067431032148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 431
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27736f825fb7de230800000000000000
+      internalID: 3669725564261250930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 293
+        width: 98
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1758511f81d220b80800000000000000
+      internalID: -8430125967336962703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 136
+        width: 146
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fb7477ac974d250800000000000000
+      internalID: 5968529316664295206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_6
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 263
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35467efce1219dfd0800000000000000
+      internalID: -2316800609759042477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_7
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 269
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797f8767120989800800000000000000
+      internalID: 619403422159402903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_8
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 137
+        width: 54
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3488e2c70ad265f0800000000000000
+      internalID: -764809259829918657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_9
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 251
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c6b20aa30cfe1a0800000000000000
+      internalID: -6777987556141470672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 257
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9cda154c24be40f0800000000000000
+      internalID: -1130768354192466785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 245
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d589032a79d8080800000000000000
+      internalID: -9183517342282785423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 433
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2570a7cbd4d2c280800000000000000
+      internalID: -9024416662884944597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_13
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 134
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c19e2340da6cec0800000000000000
+      internalID: -3546957422962074614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_14
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 100
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f8cefb795eb1790800000000000000
+      internalID: -7558195109688471742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_15
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 96
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3521416805e461d0800000000000000
+      internalID: -3358307597957388995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_16
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 90
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cbcd7ac1752d610800000000000000
+      internalID: 1644472594530614359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_17
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 84
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83cde0ec8122e270800000000000000
+      internalID: 8278215954013209485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_18
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 78
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4ce9995c2abe550800000000000000
+      internalID: 6191221082320454889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_19
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 29
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a171ba9082eefb0800000000000000
+      internalID: -4616708546017944944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_SelectRole_20
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc670ee24f2b4bf0800000000000000
+      internalID: -339125382428529469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InGame_SelectRole_0: 8070747860286825079
+      InGame_SelectRole_1: -2995747559722240955
+      InGame_SelectRole_10: -1130768354192466785
+      InGame_SelectRole_11: -9183517342282785423
+      InGame_SelectRole_12: -9024416662884944597
+      InGame_SelectRole_13: -3546957422962074614
+      InGame_SelectRole_14: -7558195109688471742
+      InGame_SelectRole_15: -3358307597957388995
+      InGame_SelectRole_16: 1644472594530614359
+      InGame_SelectRole_17: 8278215954013209485
+      InGame_SelectRole_18: 6191221082320454889
+      InGame_SelectRole_19: -4616708546017944944
+      InGame_SelectRole_2: 6560015067431032148
+      InGame_SelectRole_20: -339125382428529469
+      InGame_SelectRole_3: 3669725564261250930
+      InGame_SelectRole_4: -8430125967336962703
+      InGame_SelectRole_5: 5968529316664295206
+      InGame_SelectRole_6: -2316800609759042477
+      InGame_SelectRole_7: 619403422159402903
+      InGame_SelectRole_8: -764809259829918657
+      InGame_SelectRole_9: -6777987556141470672
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

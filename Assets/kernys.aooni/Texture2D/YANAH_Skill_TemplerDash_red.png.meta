@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: d53c7c4fac8cd4fe9af97d907678cc23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 194096709269492154
+    second: YANAH_Skill_TemplerDash_red_0
+  - first:
+      213: 6969269581804635764
+    second: YANAH_Skill_TemplerDash_red_1
+  - first:
+      213: -7048109168012253995
+    second: YANAH_Skill_TemplerDash_red_2
+  - first:
+      213: 7068530594677554706
+    second: YANAH_Skill_TemplerDash_red_3
+  - first:
+      213: -7791319253144509928
+    second: YANAH_Skill_TemplerDash_red_4
+  - first:
+      213: 6132704851659096464
+    second: YANAH_Skill_TemplerDash_red_5
+  - first:
+      213: -8862098012243825143
+    second: YANAH_Skill_TemplerDash_red_6
+  - first:
+      213: -1633779133953858244
+    second: YANAH_Skill_TemplerDash_red_7
+  - first:
+      213: -8293722159904178192
+    second: YANAH_Skill_TemplerDash_red_8
+  - first:
+      213: 845665024704939890
+    second: YANAH_Skill_TemplerDash_red_9
+  - first:
+      213: -672261930269379126
+    second: YANAH_Skill_TemplerDash_red_10
+  - first:
+      213: -541246267496570239
+    second: YANAH_Skill_TemplerDash_red_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YANAH_Skill_TemplerDash_red_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 294
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab19410cde191b200800000000000000
+      internalID: 194096709269492154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Skill_TemplerDash_red_1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 295
+        width: 15
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476866782c1d7b060800000000000000
+      internalID: 6969269581804635764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Skill_TemplerDash_red_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 272
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4a47edd06103e90800000000000000
+      internalID: -7048109168012253995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Skill_TemplerDash_red_3
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 277
+        width: 46
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e7cbb0027781260800000000000000
+      internalID: 7068530594677554706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Skill_TemplerDash_red_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 186
+        width: 12
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812e8a06b6cafd390800000000000000
+      internalID: -7791319253144509928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Skill_TemplerDash_red_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 189
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0918473f19ebb1550800000000000000
+      internalID: 6132704851659096464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Skill_TemplerDash_red_6
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 126
+        width: 21
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ee28fafc0830580800000000000000
+      internalID: -8862098012243825143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Skill_TemplerDash_red_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 136
+        width: 12
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c352c37a886a359e0800000000000000
+      internalID: -1633779133953858244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Skill_TemplerDash_red_8
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 36
+        width: 12
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff302933a7c6ec80800000000000000
+      internalID: -8293722159904178192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Skill_TemplerDash_red_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 40
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27782840cd76cbb00800000000000000
+      internalID: 845665024704939890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Skill_TemplerDash_red_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 38
+        width: 25
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac576421655aba6f0800000000000000
+      internalID: -672261930269379126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Skill_TemplerDash_red_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 58
+        width: 12
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1826cd9236b1d78f0800000000000000
+      internalID: -541246267496570239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YANAH_Skill_TemplerDash_red_0: 194096709269492154
+      YANAH_Skill_TemplerDash_red_1: 6969269581804635764
+      YANAH_Skill_TemplerDash_red_10: -672261930269379126
+      YANAH_Skill_TemplerDash_red_11: -541246267496570239
+      YANAH_Skill_TemplerDash_red_2: -7048109168012253995
+      YANAH_Skill_TemplerDash_red_3: 7068530594677554706
+      YANAH_Skill_TemplerDash_red_4: -7791319253144509928
+      YANAH_Skill_TemplerDash_red_5: 6132704851659096464
+      YANAH_Skill_TemplerDash_red_6: -8862098012243825143
+      YANAH_Skill_TemplerDash_red_7: -1633779133953858244
+      YANAH_Skill_TemplerDash_red_8: -8293722159904178192
+      YANAH_Skill_TemplerDash_red_9: 845665024704939890
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

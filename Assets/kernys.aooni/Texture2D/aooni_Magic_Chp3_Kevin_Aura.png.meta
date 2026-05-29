@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 6e2bfca505a6a4cbcae45f11f3e0531b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8061040760237447254
+    second: aooni_Magic_Chp3_Kevin_Aura_0
+  - first:
+      213: 3238427318763610321
+    second: aooni_Magic_Chp3_Kevin_Aura_1
+  - first:
+      213: -4431830099461380479
+    second: aooni_Magic_Chp3_Kevin_Aura_2
+  - first:
+      213: 2683507241458739761
+    second: aooni_Magic_Chp3_Kevin_Aura_3
+  - first:
+      213: -8029914714440371657
+    second: aooni_Magic_Chp3_Kevin_Aura_4
+  - first:
+      213: -7506277595354015571
+    second: aooni_Magic_Chp3_Kevin_Aura_5
+  - first:
+      213: 4304954488473993288
+    second: aooni_Magic_Chp3_Kevin_Aura_6
+  - first:
+      213: 271932126679940558
+    second: aooni_Magic_Chp3_Kevin_Aura_7
+  - first:
+      213: 9101755595207673104
+    second: aooni_Magic_Chp3_Kevin_Aura_8
+  - first:
+      213: -6831611488579483979
+    second: aooni_Magic_Chp3_Kevin_Aura_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aooni_Magic_Chp3_Kevin_Aura_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 77
+        width: 49
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa72a16432e612090800000000000000
+      internalID: -8061040760237447254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp3_Kevin_Aura_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 78
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d063dd0d7431fc20800000000000000
+      internalID: 3238427318763610321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp3_Kevin_Aura_2
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 115
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18668b0610afe72c0800000000000000
+      internalID: -4431830099461380479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp3_Kevin_Aura_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 77
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a26574e9bbd3520800000000000000
+      internalID: 2683507241458739761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp3_Kevin_Aura_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 101
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732791d8c13009090800000000000000
+      internalID: -8029914714440371657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp3_Kevin_Aura_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 6
+        width: 48
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da853770c4854d790800000000000000
+      internalID: -7506277595354015571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp3_Kevin_Aura_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3
+        width: 49
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84047b37c454ebb30800000000000000
+      internalID: 4304954488473993288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp3_Kevin_Aura_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd36c514d816c300800000000000000
+      internalID: 271932126679940558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp3_Kevin_Aura_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 22
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01507cc9d7eef4e70800000000000000
+      internalID: 9101755595207673104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp3_Kevin_Aura_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b60ebbeb8d3131a0800000000000000
+      internalID: -6831611488579483979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aooni_Magic_Chp3_Kevin_Aura_0: -8061040760237447254
+      aooni_Magic_Chp3_Kevin_Aura_1: 3238427318763610321
+      aooni_Magic_Chp3_Kevin_Aura_2: -4431830099461380479
+      aooni_Magic_Chp3_Kevin_Aura_3: 2683507241458739761
+      aooni_Magic_Chp3_Kevin_Aura_4: -8029914714440371657
+      aooni_Magic_Chp3_Kevin_Aura_5: -7506277595354015571
+      aooni_Magic_Chp3_Kevin_Aura_6: 4304954488473993288
+      aooni_Magic_Chp3_Kevin_Aura_7: 271932126679940558
+      aooni_Magic_Chp3_Kevin_Aura_8: 9101755595207673104
+      aooni_Magic_Chp3_Kevin_Aura_9: -6831611488579483979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

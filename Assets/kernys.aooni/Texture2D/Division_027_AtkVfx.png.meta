@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: cf7db300091964313a4a3e577f80d3e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7184072217716411514
+    second: Division_027_AtkVfx_0
+  - first:
+      213: 4196854144116858715
+    second: Division_027_AtkVfx_1
+  - first:
+      213: 2568736410059724883
+    second: Division_027_AtkVfx_2
+  - first:
+      213: -503681970070761700
+    second: Division_027_AtkVfx_3
+  - first:
+      213: -1775314897240523342
+    second: Division_027_AtkVfx_4
+  - first:
+      213: -3106486596473405030
+    second: Division_027_AtkVfx_5
+  - first:
+      213: 843025764449532394
+    second: Division_027_AtkVfx_6
+  - first:
+      213: 4878100806565377259
+    second: Division_027_AtkVfx_7
+  - first:
+      213: -21318211176480224
+    second: Division_027_AtkVfx_8
+  - first:
+      213: -431204379989611279
+    second: Division_027_AtkVfx_9
+  - first:
+      213: 8479775713322476803
+    second: Division_027_AtkVfx_10
+  - first:
+      213: -6182845051650171177
+    second: Division_027_AtkVfx_11
+  - first:
+      213: 8337890904786195605
+    second: Division_027_AtkVfx_12
+  - first:
+      213: -5536509697206724813
+    second: Division_027_AtkVfx_13
+  - first:
+      213: -5102226418589457408
+    second: Division_027_AtkVfx_14
+  - first:
+      213: 7785273863097111826
+    second: Division_027_AtkVfx_15
+  - first:
+      213: -8202211834168445919
+    second: Division_027_AtkVfx_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 81
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c4db18e93f2b360800000000000000
+      internalID: 7184072217716411514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 43
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f1632bb983e3a30800000000000000
+      internalID: 4196854144116858715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 62
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358d83bb72cf5a320800000000000000
+      internalID: 2568736410059724883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 53
+        width: 47
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fc926baef8209f0800000000000000
+      internalID: -503681970070761700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdf489c180dc57e0800000000000000
+      internalID: -1775314897240523342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91c0bd36ea83e4d0800000000000000
+      internalID: -3106486596473405030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 27
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9348a577703bb00800000000000000
+      internalID: 843025764449532394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be430e996de72b340800000000000000
+      internalID: 4878100806565377259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 19
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022449b233344bff0800000000000000
+      internalID: -21318211176480224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_9
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 6
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc6029a6ed040af0800000000000000
+      internalID: -431204379989611279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305229f55173ea570800000000000000
+      internalID: 8479775713322476803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de1c130f2f123aa0800000000000000
+      internalID: -6182845051650171177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594ddb31a9326b370800000000000000
+      internalID: 8337890904786195605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_13
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 5
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337dc7a93cd5a23b0800000000000000
+      internalID: -5536509697206724813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004ac54ea104139b0800000000000000
+      internalID: -5102226418589457408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_15
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 6
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21559019459da0c60800000000000000
+      internalID: 7785273863097111826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_027_AtkVfx_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12472e34bc3eb2e80800000000000000
+      internalID: -8202211834168445919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_027_AtkVfx_0: 7184072217716411514
+      Division_027_AtkVfx_1: 4196854144116858715
+      Division_027_AtkVfx_10: 8479775713322476803
+      Division_027_AtkVfx_11: -6182845051650171177
+      Division_027_AtkVfx_12: 8337890904786195605
+      Division_027_AtkVfx_13: -5536509697206724813
+      Division_027_AtkVfx_14: -5102226418589457408
+      Division_027_AtkVfx_15: 7785273863097111826
+      Division_027_AtkVfx_16: -8202211834168445919
+      Division_027_AtkVfx_2: 2568736410059724883
+      Division_027_AtkVfx_3: -503681970070761700
+      Division_027_AtkVfx_4: -1775314897240523342
+      Division_027_AtkVfx_5: -3106486596473405030
+      Division_027_AtkVfx_6: 843025764449532394
+      Division_027_AtkVfx_7: 4878100806565377259
+      Division_027_AtkVfx_8: -21318211176480224
+      Division_027_AtkVfx_9: -431204379989611279
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

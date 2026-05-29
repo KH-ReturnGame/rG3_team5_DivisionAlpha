@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 73f58a3aee0e9418da815580c56a8f12
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6691109993984748990
+    second: Xmas2021_ItemBuffer_C_0
+  - first:
+      213: 764125794308062394
+    second: Xmas2021_ItemBuffer_C_1
+  - first:
+      213: -7507900182193292682
+    second: Xmas2021_ItemBuffer_C_2
+  - first:
+      213: -7784845526896477418
+    second: Xmas2021_ItemBuffer_C_3
+  - first:
+      213: 4419511957079424688
+    second: Xmas2021_ItemBuffer_C_4
+  - first:
+      213: 7217905094414519341
+    second: Xmas2021_ItemBuffer_C_5
+  - first:
+      213: -8658367690851670887
+    second: Xmas2021_ItemBuffer_C_6
+  - first:
+      213: 898861364289709403
+    second: Xmas2021_ItemBuffer_C_7
+  - first:
+      213: 7139186226134336628
+    second: Xmas2021_ItemBuffer_C_8
+  - first:
+      213: -7925067216394752922
+    second: Xmas2021_ItemBuffer_C_9
+  - first:
+      213: -4460904173515693805
+    second: Xmas2021_ItemBuffer_C_10
+  - first:
+      213: -1082614087481134564
+    second: Xmas2021_ItemBuffer_C_11
+  - first:
+      213: 1334807752409830117
+    second: Xmas2021_ItemBuffer_C_12
+  - first:
+      213: 7280475898978973167
+    second: Xmas2021_ItemBuffer_C_13
+  - first:
+      213: -5286932545571339761
+    second: Xmas2021_ItemBuffer_C_14
+  - first:
+      213: 1821173675990915304
+    second: Xmas2021_ItemBuffer_C_15
+  - first:
+      213: 3358948305940496218
+    second: Xmas2021_ItemBuffer_C_16
+  - first:
+      213: -8459156223220917929
+    second: Xmas2021_ItemBuffer_C_17
+  - first:
+      213: -740674823142148915
+    second: Xmas2021_ItemBuffer_C_18
+  - first:
+      213: 6650125766430753025
+    second: Xmas2021_ItemBuffer_C_19
+  - first:
+      213: -883961022568935131
+    second: Xmas2021_ItemBuffer_C_20
+  - first:
+      213: -2242131537313019928
+    second: Xmas2021_ItemBuffer_C_21
+  - first:
+      213: -136626296914850677
+    second: Xmas2021_ItemBuffer_C_22
+  - first:
+      213: -6058988371805797464
+    second: Xmas2021_ItemBuffer_C_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242197759e66423a0800000000000000
+      internalID: -6691109993984748990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcf1758c58ba9a00800000000000000
+      internalID: 764125794308062394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 164
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a374710949ec790800000000000000
+      internalID: -7507900182193292682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 123
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bfb0a3d3ca6f390800000000000000
+      internalID: -7784845526896477418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 164
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be7f4a95b2455d30800000000000000
+      internalID: 4419511957079424688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 123
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c4f07f0762b2460800000000000000
+      internalID: 7217905094414519341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 164
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994211c857c47d780800000000000000
+      internalID: -8658367690851670887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_7
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 123
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55afc006a5697c00800000000000000
+      internalID: 898861364289709403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 164
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47449123c0c731360800000000000000
+      internalID: 7139186226134336628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 123
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c62b10b51840290800000000000000
+      internalID: -7925067216394752922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3112a800a4fa712c0800000000000000
+      internalID: -4460904173515693805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c127ade2938c9f0f0800000000000000
+      internalID: -1082614087481134564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 82
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e253d52490368210800000000000000
+      internalID: 1334807752409830117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_13
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 41
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe53f6aa142790560800000000000000
+      internalID: 7280475898978973167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_14
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 82
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02c4c57cda01a6b0800000000000000
+      internalID: -5286932545571339761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 41
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e81bbf2fcb164910800000000000000
+      internalID: 1821173675990915304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_16
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 82
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fbb7210b16d9e20800000000000000
+      internalID: 3358948305940496218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_17
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 41
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759d167cb3a0b9a80800000000000000
+      internalID: -8459156223220917929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_18
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 82
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc479803c2898b5f0800000000000000
+      internalID: -740674823142148915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 41
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10107c3962ef94c50800000000000000
+      internalID: 6650125766430753025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 521dc76222a8bb3f0800000000000000
+      internalID: -883961022568935131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7c1c20f3952e0e0800000000000000
+      internalID: -2242131537313019928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cc9695b1b9a1ef0800000000000000
+      internalID: -136626296914850677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ItemBuffer_C_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a30b408d262aeba0800000000000000
+      internalID: -6058988371805797464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xmas2021_ItemBuffer_C_0: -6691109993984748990
+      Xmas2021_ItemBuffer_C_1: 764125794308062394
+      Xmas2021_ItemBuffer_C_10: -4460904173515693805
+      Xmas2021_ItemBuffer_C_11: -1082614087481134564
+      Xmas2021_ItemBuffer_C_12: 1334807752409830117
+      Xmas2021_ItemBuffer_C_13: 7280475898978973167
+      Xmas2021_ItemBuffer_C_14: -5286932545571339761
+      Xmas2021_ItemBuffer_C_15: 1821173675990915304
+      Xmas2021_ItemBuffer_C_16: 3358948305940496218
+      Xmas2021_ItemBuffer_C_17: -8459156223220917929
+      Xmas2021_ItemBuffer_C_18: -740674823142148915
+      Xmas2021_ItemBuffer_C_19: 6650125766430753025
+      Xmas2021_ItemBuffer_C_2: -7507900182193292682
+      Xmas2021_ItemBuffer_C_20: -883961022568935131
+      Xmas2021_ItemBuffer_C_21: -2242131537313019928
+      Xmas2021_ItemBuffer_C_22: -136626296914850677
+      Xmas2021_ItemBuffer_C_23: -6058988371805797464
+      Xmas2021_ItemBuffer_C_3: -7784845526896477418
+      Xmas2021_ItemBuffer_C_4: 4419511957079424688
+      Xmas2021_ItemBuffer_C_5: 7217905094414519341
+      Xmas2021_ItemBuffer_C_6: -8658367690851670887
+      Xmas2021_ItemBuffer_C_7: 898861364289709403
+      Xmas2021_ItemBuffer_C_8: 7139186226134336628
+      Xmas2021_ItemBuffer_C_9: -7925067216394752922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

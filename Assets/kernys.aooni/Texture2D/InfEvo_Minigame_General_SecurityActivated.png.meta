@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 845e9f4b7872c43c2a2c5c890db67e08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7586298561510255953
+    second: InfEvo_Minigame_General_SecurityActivated_0
+  - first:
+      213: 3997135154361785367
+    second: InfEvo_Minigame_General_SecurityActivated_1
+  - first:
+      213: 7524638496155963993
+    second: InfEvo_Minigame_General_SecurityActivated_2
+  - first:
+      213: -2311055624968026773
+    second: InfEvo_Minigame_General_SecurityActivated_3
+  - first:
+      213: -599138203273570744
+    second: InfEvo_Minigame_General_SecurityActivated_4
+  - first:
+      213: -5416977742679821929
+    second: InfEvo_Minigame_General_SecurityActivated_5
+  - first:
+      213: 5005837492277566754
+    second: InfEvo_Minigame_General_SecurityActivated_6
+  - first:
+      213: 5117927545220146182
+    second: InfEvo_Minigame_General_SecurityActivated_7
+  - first:
+      213: -1744034348105489188
+    second: InfEvo_Minigame_General_SecurityActivated_8
+  - first:
+      213: -7093500659529359305
+    second: InfEvo_Minigame_General_SecurityActivated_9
+  - first:
+      213: -1526762329024231101
+    second: InfEvo_Minigame_General_SecurityActivated_10
+  - first:
+      213: 6251131206064304994
+    second: InfEvo_Minigame_General_SecurityActivated_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_SecurityActivated_0
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 39
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d20e60952f74960800000000000000
+      internalID: 7586298561510255953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_SecurityActivated_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 39
+        width: 116
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cd5f2ce3da87730800000000000000
+      internalID: 3997135154361785367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_SecurityActivated_2
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 110
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9521b9258d2ec6860800000000000000
+      internalID: 7524638496155963993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_SecurityActivated_3
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 43
+        width: 104
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65cc91572b7defd0800000000000000
+      internalID: -2311055624968026773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_SecurityActivated_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 112
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846538e7afe6fa7f0800000000000000
+      internalID: -599138203273570744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_SecurityActivated_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 39
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7913f53817703d4b0800000000000000
+      internalID: -5416977742679821929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_SecurityActivated_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 13
+        width: 148
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d598a5dae487540800000000000000
+      internalID: 5005837492277566754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_SecurityActivated_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 13
+        width: 161
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604a8078cf7860740800000000000000
+      internalID: 5117927545220146182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_SecurityActivated_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 13
+        width: 161
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4a71d2002fbc7e0800000000000000
+      internalID: -1744034348105489188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_SecurityActivated_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 160
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730e0ceabb2de8d90800000000000000
+      internalID: -7093500659529359305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_SecurityActivated_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 165
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349001a30c9dfcae0800000000000000
+      internalID: -1526762329024231101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_SecurityActivated_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 166
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26372d546ba70c650800000000000000
+      internalID: 6251131206064304994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InfEvo_Minigame_General_SecurityActivated_0: 7586298561510255953
+      InfEvo_Minigame_General_SecurityActivated_1: 3997135154361785367
+      InfEvo_Minigame_General_SecurityActivated_10: -1526762329024231101
+      InfEvo_Minigame_General_SecurityActivated_11: 6251131206064304994
+      InfEvo_Minigame_General_SecurityActivated_2: 7524638496155963993
+      InfEvo_Minigame_General_SecurityActivated_3: -2311055624968026773
+      InfEvo_Minigame_General_SecurityActivated_4: -599138203273570744
+      InfEvo_Minigame_General_SecurityActivated_5: -5416977742679821929
+      InfEvo_Minigame_General_SecurityActivated_6: 5005837492277566754
+      InfEvo_Minigame_General_SecurityActivated_7: 5117927545220146182
+      InfEvo_Minigame_General_SecurityActivated_8: -1744034348105489188
+      InfEvo_Minigame_General_SecurityActivated_9: -7093500659529359305
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

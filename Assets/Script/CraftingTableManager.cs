@@ -75,7 +75,7 @@ public class CraftingTableManager : MonoBehaviour
     private void OnCardSelected(string upgradeID)
     {
         db.UpgradeStat(upgradeID);
-        rootObject.transform.parent.gameObject.SetActive(false);
+        rootObject.gameObject.SetActive(false);
     }
 
     public List<KeyValuePair<string, CraftingTableStat>> RollThreeCards()

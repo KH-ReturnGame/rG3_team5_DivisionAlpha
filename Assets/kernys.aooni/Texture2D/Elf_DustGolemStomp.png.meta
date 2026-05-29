@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 4d6eca0a153214aca9351fc7649e861c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8120284447635294860
+    second: Elf_DustGolemStomp_0
+  - first:
+      213: -5076873229058986254
+    second: Elf_DustGolemStomp_1
+  - first:
+      213: -632721746486455983
+    second: Elf_DustGolemStomp_2
+  - first:
+      213: -1774374635176888453
+    second: Elf_DustGolemStomp_3
+  - first:
+      213: 7204639224976137311
+    second: Elf_DustGolemStomp_4
+  - first:
+      213: -2518247770079218519
+    second: Elf_DustGolemStomp_5
+  - first:
+      213: -5309632065247767242
+    second: Elf_DustGolemStomp_6
+  - first:
+      213: 621507836815399957
+    second: Elf_DustGolemStomp_7
+  - first:
+      213: 6938930730326937643
+    second: Elf_DustGolemStomp_8
+  - first:
+      213: 4785851484079127088
+    second: Elf_DustGolemStomp_9
+  - first:
+      213: -9153101751730033274
+    second: Elf_DustGolemStomp_10
+  - first:
+      213: -2355188292470054435
+    second: Elf_DustGolemStomp_11
+  - first:
+      213: -7895096788419515367
+    second: Elf_DustGolemStomp_12
+  - first:
+      213: -165015885033106761
+    second: Elf_DustGolemStomp_13
+  - first:
+      213: 6125195437507508381
+    second: Elf_DustGolemStomp_14
+  - first:
+      213: 8914712535775708506
+    second: Elf_DustGolemStomp_15
+  - first:
+      213: 2545312943488859059
+    second: Elf_DustGolemStomp_16
+  - first:
+      213: 7959811080454250604
+    second: Elf_DustGolemStomp_17
+  - first:
+      213: -6926026401548936248
+    second: Elf_DustGolemStomp_18
+  - first:
+      213: -1945146392729219246
+    second: Elf_DustGolemStomp_19
+  - first:
+      213: -9160068143904758443
+    second: Elf_DustGolemStomp_20
+  - first:
+      213: 8933554157619806018
+    second: Elf_DustGolemStomp_21
+  - first:
+      213: -8060385597498662807
+    second: Elf_DustGolemStomp_22
+  - first:
+      213: 8410077798421966130
+    second: Elf_DustGolemStomp_23
+  - first:
+      213: 6865604035230996026
+    second: Elf_DustGolemStomp_24
+  - first:
+      213: -7721588242905789235
+    second: Elf_DustGolemStomp_25
+  - first:
+      213: 5618034233409998841
+    second: Elf_DustGolemStomp_26
+  - first:
+      213: -1606473181837970459
+    second: Elf_DustGolemStomp_27
+  - first:
+      213: 6035774190403336383
+    second: Elf_DustGolemStomp_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475b1976154fe4f80800000000000000
+      internalID: -8120284447635294860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feaf3452b25b89b0800000000000000
+      internalID: -5076873229058986254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 165
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15192038cee1837f0800000000000000
+      internalID: -632721746486455983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_3
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 154
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7771db9ba72067e0800000000000000
+      internalID: -1774374635176888453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c5c8b04350cf360800000000000000
+      internalID: 7204639224976137311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 99
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a43200def26d0dd0800000000000000
+      internalID: -2518247770079218519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 139
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63512eea4c56056b0800000000000000
+      internalID: -5309632065247767242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cd08ea51a00a800800000000000000
+      internalID: 621507836815399957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20dd263cb80c4060800000000000000
+      internalID: 6938930730326937643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 91
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03aff487192ca6240800000000000000
+      internalID: 4785851484079127088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 70
+        width: 63
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d2027b376a9f080800000000000000
+      internalID: -9153101751730033274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 91
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1e920f9b0b05fd0800000000000000
+      internalID: -2355188292470054435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 60
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c6dea0d4bfe6290800000000000000
+      internalID: -7895096788419515367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 75
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b21e464deeb5bdf0800000000000000
+      internalID: -165015885033106761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d987a783cc0110550800000000000000
+      internalID: 6125195437507508381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5502a1b1db67bb70800000000000000
+      internalID: 8914712535775708506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_16
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 59
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb7bdee2a4c25320800000000000000
+      internalID: 2545312943488859059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 38
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60a1b9310ee67e60800000000000000
+      internalID: 7959811080454250604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 44
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbd2b6feafc1ef90800000000000000
+      internalID: -6926026401548936248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f0e3169a37105e0800000000000000
+      internalID: -1945146392729219246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_20
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 39
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5556f242e86e0e080800000000000000
+      internalID: -9160068143904758443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f74a2ac2c5afb70800000000000000
+      internalID: 8933554157619806018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_22
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960ea6c3102c32090800000000000000
+      internalID: -8060385597498662807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_23
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 12
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d275cf23996b470800000000000000
+      internalID: 8410077798421966130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_24
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a369e689e76874f50800000000000000
+      internalID: 6865604035230996026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_25
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc84cf576867d490800000000000000
+      internalID: -7721588242905789235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 7
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff0362ae5447fd40800000000000000
+      internalID: 5618034233409998841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_27
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e33b5f0729a4b9e0800000000000000
+      internalID: -1606473181837970459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DustGolemStomp_28
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb83673b5a063c350800000000000000
+      internalID: 6035774190403336383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elf_DustGolemStomp_0: -8120284447635294860
+      Elf_DustGolemStomp_1: -5076873229058986254
+      Elf_DustGolemStomp_10: -9153101751730033274
+      Elf_DustGolemStomp_11: -2355188292470054435
+      Elf_DustGolemStomp_12: -7895096788419515367
+      Elf_DustGolemStomp_13: -165015885033106761
+      Elf_DustGolemStomp_14: 6125195437507508381
+      Elf_DustGolemStomp_15: 8914712535775708506
+      Elf_DustGolemStomp_16: 2545312943488859059
+      Elf_DustGolemStomp_17: 7959811080454250604
+      Elf_DustGolemStomp_18: -6926026401548936248
+      Elf_DustGolemStomp_19: -1945146392729219246
+      Elf_DustGolemStomp_2: -632721746486455983
+      Elf_DustGolemStomp_20: -9160068143904758443
+      Elf_DustGolemStomp_21: 8933554157619806018
+      Elf_DustGolemStomp_22: -8060385597498662807
+      Elf_DustGolemStomp_23: 8410077798421966130
+      Elf_DustGolemStomp_24: 6865604035230996026
+      Elf_DustGolemStomp_25: -7721588242905789235
+      Elf_DustGolemStomp_26: 5618034233409998841
+      Elf_DustGolemStomp_27: -1606473181837970459
+      Elf_DustGolemStomp_28: 6035774190403336383
+      Elf_DustGolemStomp_3: -1774374635176888453
+      Elf_DustGolemStomp_4: 7204639224976137311
+      Elf_DustGolemStomp_5: -2518247770079218519
+      Elf_DustGolemStomp_6: -5309632065247767242
+      Elf_DustGolemStomp_7: 621507836815399957
+      Elf_DustGolemStomp_8: 6938930730326937643
+      Elf_DustGolemStomp_9: 4785851484079127088
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

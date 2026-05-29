@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 17a7757ad879047098d05a23785a2191
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4649507430491601836
+    second: GalaxyNPCDialog_0
+  - first:
+      213: -3362123110511202630
+    second: GalaxyNPCDialog_1
+  - first:
+      213: 6339157084855186106
+    second: GalaxyNPCDialog_2
+  - first:
+      213: -1314669936522966708
+    second: GalaxyNPCDialog_3
+  - first:
+      213: -2857400108812165384
+    second: GalaxyNPCDialog_4
+  - first:
+      213: 3466432700079576620
+    second: GalaxyNPCDialog_5
+  - first:
+      213: -2682281398792766684
+    second: GalaxyNPCDialog_6
+  - first:
+      213: 6601856196228145662
+    second: GalaxyNPCDialog_7
+  - first:
+      213: 5006636132807106752
+    second: GalaxyNPCDialog_8
+  - first:
+      213: 3735206197950905341
+    second: GalaxyNPCDialog_9
+  - first:
+      213: 1339535520519187063
+    second: GalaxyNPCDialog_10
+  - first:
+      213: -4863047692843824456
+    second: GalaxyNPCDialog_11
+  - first:
+      213: -2289152765426706765
+    second: GalaxyNPCDialog_12
+  - first:
+      213: 1962631591590763803
+    second: GalaxyNPCDialog_13
+  - first:
+      213: 4994154310581829221
+    second: GalaxyNPCDialog_14
+  - first:
+      213: -5879741157566498285
+    second: GalaxyNPCDialog_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 482
+        width: 558
+        height: 329
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabbdf6bf5e568040800000000000000
+      internalID: 4649507430491601836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 665
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe29d228d65751d0800000000000000
+      internalID: -3362123110511202630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_2
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 533
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2b13a48c539f750800000000000000
+      internalID: 6339157084855186106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 295
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49c9ac78aa51cde0800000000000000
+      internalID: -1314669936522966708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_4
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 497
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe961d7db97858d0800000000000000
+      internalID: -2857400108812165384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_5
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 497
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c269a0ebc2e3b1030800000000000000
+      internalID: 3466432700079576620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_6
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 205
+        width: 265
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bb155774f96cad0800000000000000
+      internalID: -2682281398792766684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_7
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 203
+        width: 267
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1e36a7b318e9b50800000000000000
+      internalID: 6601856196228145662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_8
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 317
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c06a9759052b7540800000000000000
+      internalID: 5006636132807106752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_9
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 198
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb73bf3f3e16d330800000000000000
+      internalID: 3735206197950905341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_10
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 202
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a6090757cf69210800000000000000
+      internalID: 1339535520519187063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_11
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 198
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bac24e83ebf28cb0800000000000000
+      internalID: -4863047692843824456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 801
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6532430bb4b30e0800000000000000
+      internalID: -2289152765426706765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_13
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 112
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d1ab9b80bac3b10800000000000000
+      internalID: 1962631591590763803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_14
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 131
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e37b3a2ecce4540800000000000000
+      internalID: 4994154310581829221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GalaxyNPCDialog_15
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 0
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a3104c196f66ea0800000000000000
+      internalID: -5879741157566498285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GalaxyNPCDialog_0: 4649507430491601836
+      GalaxyNPCDialog_1: -3362123110511202630
+      GalaxyNPCDialog_10: 1339535520519187063
+      GalaxyNPCDialog_11: -4863047692843824456
+      GalaxyNPCDialog_12: -2289152765426706765
+      GalaxyNPCDialog_13: 1962631591590763803
+      GalaxyNPCDialog_14: 4994154310581829221
+      GalaxyNPCDialog_15: -5879741157566498285
+      GalaxyNPCDialog_2: 6339157084855186106
+      GalaxyNPCDialog_3: -1314669936522966708
+      GalaxyNPCDialog_4: -2857400108812165384
+      GalaxyNPCDialog_5: 3466432700079576620
+      GalaxyNPCDialog_6: -2682281398792766684
+      GalaxyNPCDialog_7: 6601856196228145662
+      GalaxyNPCDialog_8: 5006636132807106752
+      GalaxyNPCDialog_9: 3735206197950905341
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

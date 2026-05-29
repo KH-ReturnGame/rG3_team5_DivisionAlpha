@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: fe2fdf71c437c46418f82d4f247e8b3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3115176366310645583
+    second: Magic_WaterRoadStone_0
+  - first:
+      213: 5358945867558510766
+    second: Magic_WaterRoadStone_1
+  - first:
+      213: -7478694645105579150
+    second: Magic_WaterRoadStone_2
+  - first:
+      213: -8872294640766690387
+    second: Magic_WaterRoadStone_3
+  - first:
+      213: -1087507977431124829
+    second: Magic_WaterRoadStone_4
+  - first:
+      213: -7598455564298654056
+    second: Magic_WaterRoadStone_5
+  - first:
+      213: -7848475009940345713
+    second: Magic_WaterRoadStone_6
+  - first:
+      213: 3246845563549523008
+    second: Magic_WaterRoadStone_7
+  - first:
+      213: 3338326422426350520
+    second: Magic_WaterRoadStone_8
+  - first:
+      213: 4295122509776096221
+    second: Magic_WaterRoadStone_9
+  - first:
+      213: 8564223603628621125
+    second: Magic_WaterRoadStone_10
+  - first:
+      213: 8671704420407841760
+    second: Magic_WaterRoadStone_11
+  - first:
+      213: 2394994755467285913
+    second: Magic_WaterRoadStone_12
+  - first:
+      213: 3336427443233622502
+    second: Magic_WaterRoadStone_13
+  - first:
+      213: 5878951679820259059
+    second: Magic_WaterRoadStone_14
+  - first:
+      213: 6175870393205423993
+    second: Magic_WaterRoadStone_15
+  - first:
+      213: -4490347730166475553
+    second: Magic_WaterRoadStone_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 182
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f53a676645b3b20800000000000000
+      internalID: 3115176366310645583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 179
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea06f56afdcce5a40800000000000000
+      internalID: 5358945867558510766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 177
+        width: 62
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27badd618d6563890800000000000000
+      internalID: -7478694645105579150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 118
+        width: 79
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dabdf7a18074fd480800000000000000
+      internalID: -8872294640766690387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 117
+        width: 85
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a470d2a14568e0f0800000000000000
+      internalID: -1087507977431124829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_5
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 115
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e63603cecdc8690800000000000000
+      internalID: -7598455564298654056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 125
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8ca9fbbf8d941390800000000000000
+      internalID: -7848475009940345713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 56
+        width: 91
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c1ce766dc1f0d20800000000000000
+      internalID: 3246845563549523008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3f509a13e145e20800000000000000
+      internalID: 3338326422426350520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 68
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb0df58a275b9b30800000000000000
+      internalID: 4295122509776096221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_10
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 57
+        width: 93
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54dbc470efb3ad670800000000000000
+      internalID: 8564223603628621125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_11
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 58
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e31897c935185870800000000000000
+      internalID: 8671704420407841760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 16
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9951d867a0bbc3120800000000000000
+      internalID: 2394994755467285913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_13
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 27
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e90ecc151f5d4e20800000000000000
+      internalID: 3336427443233622502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 81
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe5f5f976b369150800000000000000
+      internalID: 5878951679820259059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f7cd5c66915b550800000000000000
+      internalID: 6175870393205423993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_WaterRoadStone_16
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 2
+        width: 71
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd41271c7841fa1c0800000000000000
+      internalID: -4490347730166475553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_WaterRoadStone_0: 3115176366310645583
+      Magic_WaterRoadStone_1: 5358945867558510766
+      Magic_WaterRoadStone_10: 8564223603628621125
+      Magic_WaterRoadStone_11: 8671704420407841760
+      Magic_WaterRoadStone_12: 2394994755467285913
+      Magic_WaterRoadStone_13: 3336427443233622502
+      Magic_WaterRoadStone_14: 5878951679820259059
+      Magic_WaterRoadStone_15: 6175870393205423993
+      Magic_WaterRoadStone_16: -4490347730166475553
+      Magic_WaterRoadStone_2: -7478694645105579150
+      Magic_WaterRoadStone_3: -8872294640766690387
+      Magic_WaterRoadStone_4: -1087507977431124829
+      Magic_WaterRoadStone_5: -7598455564298654056
+      Magic_WaterRoadStone_6: -7848475009940345713
+      Magic_WaterRoadStone_7: 3246845563549523008
+      Magic_WaterRoadStone_8: 3338326422426350520
+      Magic_WaterRoadStone_9: 4295122509776096221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 10857a0dd54fa4ffa9b1cc2899843621
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3797092647741094798
+    second: aooni_Magic_DarkBoss_Heart_Face_0
+  - first:
+      213: 7874465940460575061
+    second: aooni_Magic_DarkBoss_Heart_Face_1
+  - first:
+      213: -7317937541326401757
+    second: aooni_Magic_DarkBoss_Heart_Face_2
+  - first:
+      213: -8843754291167911269
+    second: aooni_Magic_DarkBoss_Heart_Face_3
+  - first:
+      213: 7235380471470330329
+    second: aooni_Magic_DarkBoss_Heart_Face_4
+  - first:
+      213: -4648043100576563122
+    second: aooni_Magic_DarkBoss_Heart_Face_5
+  - first:
+      213: -5777384075590244010
+    second: aooni_Magic_DarkBoss_Heart_Face_6
+  - first:
+      213: -7271300941223556902
+    second: aooni_Magic_DarkBoss_Heart_Face_7
+  - first:
+      213: 6504348982796080787
+    second: aooni_Magic_DarkBoss_Heart_Face_8
+  - first:
+      213: -5173148312571132079
+    second: aooni_Magic_DarkBoss_Heart_Face_9
+  - first:
+      213: -5894896402163663971
+    second: aooni_Magic_DarkBoss_Heart_Face_10
+  - first:
+      213: 5540351586831396789
+    second: aooni_Magic_DarkBoss_Heart_Face_11
+  - first:
+      213: -5956725232865848347
+    second: aooni_Magic_DarkBoss_Heart_Face_12
+  - first:
+      213: 2755596549949958825
+    second: aooni_Magic_DarkBoss_Heart_Face_13
+  - first:
+      213: -5582931028273806212
+    second: aooni_Magic_DarkBoss_Heart_Face_14
+  - first:
+      213: 2642691005726239169
+    second: aooni_Magic_DarkBoss_Heart_Face_15
+  - first:
+      213: 8530628038529740237
+    second: aooni_Magic_DarkBoss_Heart_Face_16
+  - first:
+      213: -5083498639715871580
+    second: aooni_Magic_DarkBoss_Heart_Face_17
+  - first:
+      213: 425551603575373304
+    second: aooni_Magic_DarkBoss_Heart_Face_18
+  - first:
+      213: 1106672529706381062
+    second: aooni_Magic_DarkBoss_Heart_Face_19
+  - first:
+      213: 2726105832409523685
+    second: aooni_Magic_DarkBoss_Heart_Face_20
+  - first:
+      213: -6604264832694908317
+    second: aooni_Magic_DarkBoss_Heart_Face_21
+  - first:
+      213: -7456070823835699576
+    second: aooni_Magic_DarkBoss_Heart_Face_22
+  - first:
+      213: -7100394720153725683
+    second: aooni_Magic_DarkBoss_Heart_Face_23
+  - first:
+      213: -5713491958729334009
+    second: aooni_Magic_DarkBoss_Heart_Face_24
+  - first:
+      213: 8859147301503961981
+    second: aooni_Magic_DarkBoss_Heart_Face_25
+  - first:
+      213: 4587980116043364449
+    second: aooni_Magic_DarkBoss_Heart_Face_26
+  - first:
+      213: 3193835845120826942
+    second: aooni_Magic_DarkBoss_Heart_Face_27
+  - first:
+      213: 877894042202187782
+    second: aooni_Magic_DarkBoss_Heart_Face_28
+  - first:
+      213: 1769453298757401797
+    second: aooni_Magic_DarkBoss_Heart_Face_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 111
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bfadf25abf1b430800000000000000
+      internalID: 3797092647741094798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 298
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55990195d09b74d60800000000000000
+      internalID: 7874465940460575061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 298
+        width: 98
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f8eb80496717a90800000000000000
+      internalID: -7317937541326401757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 314
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92a912145ca44580800000000000000
+      internalID: -8843754291167911269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 291
+        width: 44
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d199c0443c396460800000000000000
+      internalID: 7235380471470330329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 314
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40cd692d65de7fb0800000000000000
+      internalID: -4648043100576563122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 218
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659e17b0bcb92dfa0800000000000000
+      internalID: -5777384075590244010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 197
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad80867a156271b90800000000000000
+      internalID: -7271300941223556902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 218
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396dbb630f6144a50800000000000000
+      internalID: 6504348982796080787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_9
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 219
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15749caa4094538b0800000000000000
+      internalID: -5173148312571132079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 201
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b7e4964fe113ea0800000000000000
+      internalID: -5894896402163663971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 219
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf6bd70a6843ec40800000000000000
+      internalID: 5540351586831396789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_12
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 209
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e3dc66f5f5755da0800000000000000
+      internalID: -5956725232865848347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_13
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 218
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa2f006678dd3620800000000000000
+      internalID: 2755596549949958825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 209
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74cb363fc17582b0800000000000000
+      internalID: -5582931028273806212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 218
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9ae67d779bca420800000000000000
+      internalID: 2642691005726239169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 122
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd6d8bf001e26670800000000000000
+      internalID: 8530628038529740237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_17
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 107
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4dd83bbe8c379b0800000000000000
+      internalID: -5083498639715871580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_18
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 122
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd35b4cdecd7e500800000000000000
+      internalID: 425551603575373304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 123
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fe4d76dc0bb5f00800000000000000
+      internalID: 1106672529706381062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 107
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5e3e0afc215d520800000000000000
+      internalID: 2726105832409523685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 123
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a8d942020f854a0800000000000000
+      internalID: -6604264832694908317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_22
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 124
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8867e15f617b68890800000000000000
+      internalID: -7456070823835699576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_23
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 107
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d059d2c1f94567d90800000000000000
+      internalID: -7100394720153725683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_24
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 124
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70323ecb55995b0b0800000000000000
+      internalID: -5713491958729334009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_25
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 114
+        width: 65
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b010f688302fa70800000000000000
+      internalID: 8859147301503961981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_26
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 125
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168f15d7b97cbaf30800000000000000
+      internalID: 4587980116043364449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 30
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e165b87c8c25c20800000000000000
+      internalID: 3193835845120826942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 18
+        width: 44
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608a4e7eaf7ee2c00800000000000000
+      internalID: 877894042202187782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_DarkBoss_Heart_Face_29
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 30
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ccf317766c5e8810800000000000000
+      internalID: 1769453298757401797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aooni_Magic_DarkBoss_Heart_Face_0: 3797092647741094798
+      aooni_Magic_DarkBoss_Heart_Face_1: 7874465940460575061
+      aooni_Magic_DarkBoss_Heart_Face_10: -5894896402163663971
+      aooni_Magic_DarkBoss_Heart_Face_11: 5540351586831396789
+      aooni_Magic_DarkBoss_Heart_Face_12: -5956725232865848347
+      aooni_Magic_DarkBoss_Heart_Face_13: 2755596549949958825
+      aooni_Magic_DarkBoss_Heart_Face_14: -5582931028273806212
+      aooni_Magic_DarkBoss_Heart_Face_15: 2642691005726239169
+      aooni_Magic_DarkBoss_Heart_Face_16: 8530628038529740237
+      aooni_Magic_DarkBoss_Heart_Face_17: -5083498639715871580
+      aooni_Magic_DarkBoss_Heart_Face_18: 425551603575373304
+      aooni_Magic_DarkBoss_Heart_Face_19: 1106672529706381062
+      aooni_Magic_DarkBoss_Heart_Face_2: -7317937541326401757
+      aooni_Magic_DarkBoss_Heart_Face_20: 2726105832409523685
+      aooni_Magic_DarkBoss_Heart_Face_21: -6604264832694908317
+      aooni_Magic_DarkBoss_Heart_Face_22: -7456070823835699576
+      aooni_Magic_DarkBoss_Heart_Face_23: -7100394720153725683
+      aooni_Magic_DarkBoss_Heart_Face_24: -5713491958729334009
+      aooni_Magic_DarkBoss_Heart_Face_25: 8859147301503961981
+      aooni_Magic_DarkBoss_Heart_Face_26: 4587980116043364449
+      aooni_Magic_DarkBoss_Heart_Face_27: 3193835845120826942
+      aooni_Magic_DarkBoss_Heart_Face_28: 877894042202187782
+      aooni_Magic_DarkBoss_Heart_Face_29: 1769453298757401797
+      aooni_Magic_DarkBoss_Heart_Face_3: -8843754291167911269
+      aooni_Magic_DarkBoss_Heart_Face_4: 7235380471470330329
+      aooni_Magic_DarkBoss_Heart_Face_5: -4648043100576563122
+      aooni_Magic_DarkBoss_Heart_Face_6: -5777384075590244010
+      aooni_Magic_DarkBoss_Heart_Face_7: -7271300941223556902
+      aooni_Magic_DarkBoss_Heart_Face_8: 6504348982796080787
+      aooni_Magic_DarkBoss_Heart_Face_9: -5173148312571132079
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

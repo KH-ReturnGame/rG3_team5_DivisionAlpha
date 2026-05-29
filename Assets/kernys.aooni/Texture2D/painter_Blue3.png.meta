@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 5cd683e479c394f50becfcbec02afeb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7364216269198309306
+    second: painter_Blue3_0
+  - first:
+      213: -4998316577105697407
+    second: painter_Blue3_1
+  - first:
+      213: 7924760534148466990
+    second: painter_Blue3_2
+  - first:
+      213: -1907088168004554783
+    second: painter_Blue3_3
+  - first:
+      213: -8345523619243431690
+    second: painter_Blue3_4
+  - first:
+      213: -6587979688955253050
+    second: painter_Blue3_5
+  - first:
+      213: -5469914667531340182
+    second: painter_Blue3_6
+  - first:
+      213: 8568500830415059041
+    second: painter_Blue3_7
+  - first:
+      213: 6260369397568770678
+    second: painter_Blue3_8
+  - first:
+      213: -389753096222312593
+    second: painter_Blue3_9
+  - first:
+      213: 8789751712307932287
+    second: painter_Blue3_10
+  - first:
+      213: -7181161424620498026
+    second: painter_Blue3_11
+  - first:
+      213: -3343532128889534723
+    second: painter_Blue3_12
+  - first:
+      213: 1439983323556147582
+    second: painter_Blue3_13
+  - first:
+      213: -5018912602487282177
+    second: painter_Blue3_14
+  - first:
+      213: -5736538645290447285
+    second: painter_Blue3_15
+  - first:
+      213: -8669095660088067715
+    second: painter_Blue3_16
+  - first:
+      213: -8565236172323846641
+    second: painter_Blue3_17
+  - first:
+      213: 1332249298483016493
+    second: painter_Blue3_18
+  - first:
+      213: 5642460448233085159
+    second: painter_Blue3_19
+  - first:
+      213: -6765938104502301735
+    second: painter_Blue3_20
+  - first:
+      213: -5350338402246360961
+    second: painter_Blue3_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: painter_Blue3_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 116
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7b7b6fda3f23660800000000000000
+      internalID: 7364216269198309306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1852baa2e8962aab0800000000000000
+      internalID: -4998316577105697407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2944f7f7b76afd60800000000000000
+      internalID: 7924760534148466990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efecb65a69a885e0800000000000000
+      internalID: -1907088168004554783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8ec5a1c7ebe2c80800000000000000
+      internalID: -8345523619243431690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 56
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce6554a06bc294a0800000000000000
+      internalID: -6587979688955253050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 60
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a66781a3795f614b0800000000000000
+      internalID: -5469914667531340182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 49
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168778e7b1e69e670800000000000000
+      internalID: 8568500830415059041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67210d85ccc41e650800000000000000
+      internalID: 6260369397568770678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 40
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f677f8dbf91579af0800000000000000
+      internalID: -389753096222312593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 47
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ceefbbc987bf970800000000000000
+      internalID: 8789751712307932287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 44
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693d1c25bb3675c90800000000000000
+      internalID: -7181161424620498026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 37
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df60f6a5e336991d0800000000000000
+      internalID: -3343532128889534723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 39
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71fc031439dbf310800000000000000
+      internalID: 1439983323556147582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5a302549d395ab0800000000000000
+      internalID: -5018912602487282177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 28
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e892fde78b360b0800000000000000
+      internalID: -5736538645290447285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 11
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79f1909d6f21b780800000000000000
+      internalID: -8669095660088067715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 35
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f068f43f41b222980800000000000000
+      internalID: -8565236172323846641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 8
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23f75cada91d7210800000000000000
+      internalID: 1332249298483016493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8df14f1eb0e4e40800000000000000
+      internalID: 5642460448233085159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db4cd4342f8a12a0800000000000000
+      internalID: -6765938104502301735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Blue3_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7089f90297cfb5b0800000000000000
+      internalID: -5350338402246360961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      painter_Blue3_0: 7364216269198309306
+      painter_Blue3_1: -4998316577105697407
+      painter_Blue3_10: 8789751712307932287
+      painter_Blue3_11: -7181161424620498026
+      painter_Blue3_12: -3343532128889534723
+      painter_Blue3_13: 1439983323556147582
+      painter_Blue3_14: -5018912602487282177
+      painter_Blue3_15: -5736538645290447285
+      painter_Blue3_16: -8669095660088067715
+      painter_Blue3_17: -8565236172323846641
+      painter_Blue3_18: 1332249298483016493
+      painter_Blue3_19: 5642460448233085159
+      painter_Blue3_2: 7924760534148466990
+      painter_Blue3_20: -6765938104502301735
+      painter_Blue3_21: -5350338402246360961
+      painter_Blue3_3: -1907088168004554783
+      painter_Blue3_4: -8345523619243431690
+      painter_Blue3_5: -6587979688955253050
+      painter_Blue3_6: -5469914667531340182
+      painter_Blue3_7: 8568500830415059041
+      painter_Blue3_8: 6260369397568770678
+      painter_Blue3_9: -389753096222312593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

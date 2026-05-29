@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: f4c003ff44236404ca6b54481a7ada69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4834803597678398265
+    second: aooni_Magic_Fire_Salamanderking_Volcano_0
+  - first:
+      213: -2163932618969136698
+    second: aooni_Magic_Fire_Salamanderking_Volcano_1
+  - first:
+      213: 6163917320758715941
+    second: aooni_Magic_Fire_Salamanderking_Volcano_2
+  - first:
+      213: -6997603427807870584
+    second: aooni_Magic_Fire_Salamanderking_Volcano_3
+  - first:
+      213: -1781043868293445923
+    second: aooni_Magic_Fire_Salamanderking_Volcano_4
+  - first:
+      213: 3184546792715481119
+    second: aooni_Magic_Fire_Salamanderking_Volcano_5
+  - first:
+      213: 7711322071798116857
+    second: aooni_Magic_Fire_Salamanderking_Volcano_6
+  - first:
+      213: 7484756921488361088
+    second: aooni_Magic_Fire_Salamanderking_Volcano_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aooni_Magic_Fire_Salamanderking_Volcano_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 367
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93bc666914ca81340800000000000000
+      internalID: 4834803597678398265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Fire_Salamanderking_Volcano_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 367
+        width: 87
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1c6708fba28f1e0800000000000000
+      internalID: -2163932618969136698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Fire_Salamanderking_Volcano_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 367
+        width: 86
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52663b83522aa8550800000000000000
+      internalID: 6163917320758715941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Fire_Salamanderking_Volcano_3
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 262
+        width: 87
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881c47ed1c483ee90800000000000000
+      internalID: -6997603427807870584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Fire_Salamanderking_Volcano_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 232
+        width: 192
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd64bf4c9067847e0800000000000000
+      internalID: -1781043868293445923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Fire_Salamanderking_Volcano_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 318
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f107a6e7f68c13c20800000000000000
+      internalID: 3184546792715481119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Fire_Salamanderking_Volcano_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 107
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1f726619e140b60800000000000000
+      internalID: 7711322071798116857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Fire_Salamanderking_Volcano_7
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 52
+        width: 87
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086c57f93c23fd760800000000000000
+      internalID: 7484756921488361088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aooni_Magic_Fire_Salamanderking_Volcano_0: 4834803597678398265
+      aooni_Magic_Fire_Salamanderking_Volcano_1: -2163932618969136698
+      aooni_Magic_Fire_Salamanderking_Volcano_2: 6163917320758715941
+      aooni_Magic_Fire_Salamanderking_Volcano_3: -6997603427807870584
+      aooni_Magic_Fire_Salamanderking_Volcano_4: -1781043868293445923
+      aooni_Magic_Fire_Salamanderking_Volcano_5: 3184546792715481119
+      aooni_Magic_Fire_Salamanderking_Volcano_6: 7711322071798116857
+      aooni_Magic_Fire_Salamanderking_Volcano_7: 7484756921488361088
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

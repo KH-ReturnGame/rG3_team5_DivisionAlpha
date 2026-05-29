@@ -1,0 +1,6279 @@
+fileFormatVersion: 2
+guid: 8f99ee14aeb7546af85c4d9c857150c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5706898412707199559
+    second: LiberationSans SDF Atlas_0
+  - first:
+      213: 7595987037424453528
+    second: LiberationSans SDF Atlas_1
+  - first:
+      213: 4961438322068043383
+    second: LiberationSans SDF Atlas_2
+  - first:
+      213: 9149585500926438942
+    second: LiberationSans SDF Atlas_3
+  - first:
+      213: 761705674173308797
+    second: LiberationSans SDF Atlas_4
+  - first:
+      213: -1660362018375574352
+    second: LiberationSans SDF Atlas_5
+  - first:
+      213: -4711135031934566144
+    second: LiberationSans SDF Atlas_6
+  - first:
+      213: 941082582380361350
+    second: LiberationSans SDF Atlas_7
+  - first:
+      213: 5172046890519358279
+    second: LiberationSans SDF Atlas_8
+  - first:
+      213: 4842487462793730612
+    second: LiberationSans SDF Atlas_9
+  - first:
+      213: -1205775806952582273
+    second: LiberationSans SDF Atlas_10
+  - first:
+      213: 666222788263829593
+    second: LiberationSans SDF Atlas_11
+  - first:
+      213: -377389643768426754
+    second: LiberationSans SDF Atlas_12
+  - first:
+      213: 6451336311044003402
+    second: LiberationSans SDF Atlas_13
+  - first:
+      213: 8541150538820811429
+    second: LiberationSans SDF Atlas_14
+  - first:
+      213: -923511272535663525
+    second: LiberationSans SDF Atlas_15
+  - first:
+      213: -4761427121566696764
+    second: LiberationSans SDF Atlas_16
+  - first:
+      213: -1271840129236940657
+    second: LiberationSans SDF Atlas_17
+  - first:
+      213: -7581444785650158377
+    second: LiberationSans SDF Atlas_18
+  - first:
+      213: -2375022208866791386
+    second: LiberationSans SDF Atlas_19
+  - first:
+      213: -7468052676581177223
+    second: LiberationSans SDF Atlas_20
+  - first:
+      213: -92043968140067402
+    second: LiberationSans SDF Atlas_21
+  - first:
+      213: -6756139748368822245
+    second: LiberationSans SDF Atlas_22
+  - first:
+      213: 7881768274666105542
+    second: LiberationSans SDF Atlas_23
+  - first:
+      213: -9060211629525618171
+    second: LiberationSans SDF Atlas_24
+  - first:
+      213: -5956144334674126516
+    second: LiberationSans SDF Atlas_25
+  - first:
+      213: -3285335625535630109
+    second: LiberationSans SDF Atlas_26
+  - first:
+      213: -5161803105336163754
+    second: LiberationSans SDF Atlas_27
+  - first:
+      213: -2821496414231311347
+    second: LiberationSans SDF Atlas_28
+  - first:
+      213: -8718575839368645998
+    second: LiberationSans SDF Atlas_29
+  - first:
+      213: -5402855070909024956
+    second: LiberationSans SDF Atlas_30
+  - first:
+      213: 8115051673827575361
+    second: LiberationSans SDF Atlas_31
+  - first:
+      213: -7302135405414199065
+    second: LiberationSans SDF Atlas_32
+  - first:
+      213: -4498741506449773655
+    second: LiberationSans SDF Atlas_33
+  - first:
+      213: -5499840240097621915
+    second: LiberationSans SDF Atlas_34
+  - first:
+      213: 8453051499809392766
+    second: LiberationSans SDF Atlas_35
+  - first:
+      213: -9098983621429569127
+    second: LiberationSans SDF Atlas_36
+  - first:
+      213: 4806228957633053045
+    second: LiberationSans SDF Atlas_37
+  - first:
+      213: 3793683513242506447
+    second: LiberationSans SDF Atlas_38
+  - first:
+      213: -8979084412278292159
+    second: LiberationSans SDF Atlas_39
+  - first:
+      213: 8952564694434160169
+    second: LiberationSans SDF Atlas_40
+  - first:
+      213: 2603706966963532876
+    second: LiberationSans SDF Atlas_41
+  - first:
+      213: 4650081059735177766
+    second: LiberationSans SDF Atlas_42
+  - first:
+      213: 137860577319807050
+    second: LiberationSans SDF Atlas_43
+  - first:
+      213: -5870221073572366267
+    second: LiberationSans SDF Atlas_44
+  - first:
+      213: 211988433765399140
+    second: LiberationSans SDF Atlas_45
+  - first:
+      213: -7530911749393559591
+    second: LiberationSans SDF Atlas_46
+  - first:
+      213: -6405936652890864622
+    second: LiberationSans SDF Atlas_47
+  - first:
+      213: 5237499564457852828
+    second: LiberationSans SDF Atlas_48
+  - first:
+      213: 7880962585189142136
+    second: LiberationSans SDF Atlas_49
+  - first:
+      213: 5697577500056495379
+    second: LiberationSans SDF Atlas_50
+  - first:
+      213: 6710778523743487285
+    second: LiberationSans SDF Atlas_51
+  - first:
+      213: -7530246636668066014
+    second: LiberationSans SDF Atlas_52
+  - first:
+      213: -5870815470993663848
+    second: LiberationSans SDF Atlas_53
+  - first:
+      213: 7263815815928880355
+    second: LiberationSans SDF Atlas_54
+  - first:
+      213: 1914198354492775712
+    second: LiberationSans SDF Atlas_55
+  - first:
+      213: -2973874652461750950
+    second: LiberationSans SDF Atlas_56
+  - first:
+      213: -303757340525636428
+    second: LiberationSans SDF Atlas_57
+  - first:
+      213: 38169075768596069
+    second: LiberationSans SDF Atlas_58
+  - first:
+      213: -4457273808201859528
+    second: LiberationSans SDF Atlas_59
+  - first:
+      213: 2158271241984204980
+    second: LiberationSans SDF Atlas_60
+  - first:
+      213: 7212686442476833160
+    second: LiberationSans SDF Atlas_61
+  - first:
+      213: 3494400489537386802
+    second: LiberationSans SDF Atlas_62
+  - first:
+      213: 2009854365617011833
+    second: LiberationSans SDF Atlas_63
+  - first:
+      213: -1976489852719806687
+    second: LiberationSans SDF Atlas_64
+  - first:
+      213: -6082982749264424906
+    second: LiberationSans SDF Atlas_65
+  - first:
+      213: -2728267560681419313
+    second: LiberationSans SDF Atlas_66
+  - first:
+      213: 2833512419120926106
+    second: LiberationSans SDF Atlas_67
+  - first:
+      213: -20258367714066613
+    second: LiberationSans SDF Atlas_68
+  - first:
+      213: 5090152480647710169
+    second: LiberationSans SDF Atlas_69
+  - first:
+      213: -6873909012630877476
+    second: LiberationSans SDF Atlas_70
+  - first:
+      213: -6075636416078687490
+    second: LiberationSans SDF Atlas_71
+  - first:
+      213: 5298646294483538736
+    second: LiberationSans SDF Atlas_72
+  - first:
+      213: 6984324711680113340
+    second: LiberationSans SDF Atlas_73
+  - first:
+      213: -7509628038820443715
+    second: LiberationSans SDF Atlas_74
+  - first:
+      213: 7067269028515943513
+    second: LiberationSans SDF Atlas_75
+  - first:
+      213: -7684920384000986648
+    second: LiberationSans SDF Atlas_76
+  - first:
+      213: 915771123343781725
+    second: LiberationSans SDF Atlas_77
+  - first:
+      213: -9009303042594237612
+    second: LiberationSans SDF Atlas_78
+  - first:
+      213: -3655457248152937669
+    second: LiberationSans SDF Atlas_79
+  - first:
+      213: -7178106293405712678
+    second: LiberationSans SDF Atlas_80
+  - first:
+      213: 5642158876842394437
+    second: LiberationSans SDF Atlas_81
+  - first:
+      213: -5222244001438344748
+    second: LiberationSans SDF Atlas_82
+  - first:
+      213: -2653767039098086379
+    second: LiberationSans SDF Atlas_83
+  - first:
+      213: -4174991431523023916
+    second: LiberationSans SDF Atlas_84
+  - first:
+      213: -6620926251306517171
+    second: LiberationSans SDF Atlas_85
+  - first:
+      213: 4357469406579025959
+    second: LiberationSans SDF Atlas_86
+  - first:
+      213: 3857796389181629819
+    second: LiberationSans SDF Atlas_87
+  - first:
+      213: -2141303896159983003
+    second: LiberationSans SDF Atlas_88
+  - first:
+      213: 3352884868731076752
+    second: LiberationSans SDF Atlas_89
+  - first:
+      213: -5350148210800938475
+    second: LiberationSans SDF Atlas_90
+  - first:
+      213: -67373892344560472
+    second: LiberationSans SDF Atlas_91
+  - first:
+      213: 1897640123098698076
+    second: LiberationSans SDF Atlas_92
+  - first:
+      213: 3819842424332492882
+    second: LiberationSans SDF Atlas_93
+  - first:
+      213: -5222193542616745437
+    second: LiberationSans SDF Atlas_94
+  - first:
+      213: -7581699677696546834
+    second: LiberationSans SDF Atlas_95
+  - first:
+      213: -8856489665549716992
+    second: LiberationSans SDF Atlas_96
+  - first:
+      213: -9175335183056854277
+    second: LiberationSans SDF Atlas_97
+  - first:
+      213: 8453183148376218341
+    second: LiberationSans SDF Atlas_98
+  - first:
+      213: 7978533941688146681
+    second: LiberationSans SDF Atlas_99
+  - first:
+      213: 140686964651157936
+    second: LiberationSans SDF Atlas_100
+  - first:
+      213: 1084135202454223132
+    second: LiberationSans SDF Atlas_101
+  - first:
+      213: 7929950981523031460
+    second: LiberationSans SDF Atlas_102
+  - first:
+      213: 8264809761189513885
+    second: LiberationSans SDF Atlas_103
+  - first:
+      213: 7659347574980420208
+    second: LiberationSans SDF Atlas_104
+  - first:
+      213: -8120532611410978987
+    second: LiberationSans SDF Atlas_105
+  - first:
+      213: 8357672240023145424
+    second: LiberationSans SDF Atlas_106
+  - first:
+      213: 5060135017211381169
+    second: LiberationSans SDF Atlas_107
+  - first:
+      213: -7455851185917008377
+    second: LiberationSans SDF Atlas_108
+  - first:
+      213: -7220765928077099217
+    second: LiberationSans SDF Atlas_109
+  - first:
+      213: -550800538287864935
+    second: LiberationSans SDF Atlas_110
+  - first:
+      213: 4720057992985137773
+    second: LiberationSans SDF Atlas_111
+  - first:
+      213: 4580723561136230974
+    second: LiberationSans SDF Atlas_112
+  - first:
+      213: -5616803579272238341
+    second: LiberationSans SDF Atlas_113
+  - first:
+      213: 7424882763279465814
+    second: LiberationSans SDF Atlas_114
+  - first:
+      213: -755889267358001898
+    second: LiberationSans SDF Atlas_115
+  - first:
+      213: 4921812726079851470
+    second: LiberationSans SDF Atlas_116
+  - first:
+      213: 1376165241777982231
+    second: LiberationSans SDF Atlas_117
+  - first:
+      213: -588378887781389734
+    second: LiberationSans SDF Atlas_118
+  - first:
+      213: -7371056863349769576
+    second: LiberationSans SDF Atlas_119
+  - first:
+      213: -5158737701749593926
+    second: LiberationSans SDF Atlas_120
+  - first:
+      213: 7362969447092243719
+    second: LiberationSans SDF Atlas_121
+  - first:
+      213: 8324715302973783175
+    second: LiberationSans SDF Atlas_122
+  - first:
+      213: 7616808955176705481
+    second: LiberationSans SDF Atlas_123
+  - first:
+      213: -3128912756429911740
+    second: LiberationSans SDF Atlas_124
+  - first:
+      213: 5840183482474338948
+    second: LiberationSans SDF Atlas_125
+  - first:
+      213: -4331786710624326000
+    second: LiberationSans SDF Atlas_126
+  - first:
+      213: 7527868524640443421
+    second: LiberationSans SDF Atlas_127
+  - first:
+      213: -6815402467610809095
+    second: LiberationSans SDF Atlas_128
+  - first:
+      213: 2647147916033045264
+    second: LiberationSans SDF Atlas_129
+  - first:
+      213: 7868159636371853215
+    second: LiberationSans SDF Atlas_130
+  - first:
+      213: -1445185938349198787
+    second: LiberationSans SDF Atlas_131
+  - first:
+      213: 391646094041590200
+    second: LiberationSans SDF Atlas_132
+  - first:
+      213: 2149266280565303408
+    second: LiberationSans SDF Atlas_133
+  - first:
+      213: 5347826777385664685
+    second: LiberationSans SDF Atlas_134
+  - first:
+      213: -7678577518302804858
+    second: LiberationSans SDF Atlas_135
+  - first:
+      213: -575173703609408375
+    second: LiberationSans SDF Atlas_136
+  - first:
+      213: 1847622279092245708
+    second: LiberationSans SDF Atlas_137
+  - first:
+      213: 5680534250660041644
+    second: LiberationSans SDF Atlas_138
+  - first:
+      213: 3035156259978967327
+    second: LiberationSans SDF Atlas_139
+  - first:
+      213: 149511108480141982
+    second: LiberationSans SDF Atlas_140
+  - first:
+      213: -3412376512713190868
+    second: LiberationSans SDF Atlas_141
+  - first:
+      213: 118233265975495437
+    second: LiberationSans SDF Atlas_142
+  - first:
+      213: 1886516957570739506
+    second: LiberationSans SDF Atlas_143
+  - first:
+      213: -817236942198874668
+    second: LiberationSans SDF Atlas_144
+  - first:
+      213: -3243319759392502428
+    second: LiberationSans SDF Atlas_145
+  - first:
+      213: -3060575534320342430
+    second: LiberationSans SDF Atlas_146
+  - first:
+      213: 3984805699833023735
+    second: LiberationSans SDF Atlas_147
+  - first:
+      213: 8238908473679381501
+    second: LiberationSans SDF Atlas_148
+  - first:
+      213: -575376831406058242
+    second: LiberationSans SDF Atlas_149
+  - first:
+      213: -4031520796518337079
+    second: LiberationSans SDF Atlas_150
+  - first:
+      213: 3928056986556353801
+    second: LiberationSans SDF Atlas_151
+  - first:
+      213: -7600289463687806888
+    second: LiberationSans SDF Atlas_152
+  - first:
+      213: 1677297439055669102
+    second: LiberationSans SDF Atlas_153
+  - first:
+      213: -5505330715560449163
+    second: LiberationSans SDF Atlas_154
+  - first:
+      213: 1096255004125354163
+    second: LiberationSans SDF Atlas_155
+  - first:
+      213: 7849431676730243048
+    second: LiberationSans SDF Atlas_156
+  - first:
+      213: -5691777508235730371
+    second: LiberationSans SDF Atlas_157
+  - first:
+      213: 2950292251963515970
+    second: LiberationSans SDF Atlas_158
+  - first:
+      213: -3551342483489416205
+    second: LiberationSans SDF Atlas_159
+  - first:
+      213: 674213126576766413
+    second: LiberationSans SDF Atlas_160
+  - first:
+      213: 8096509819584175524
+    second: LiberationSans SDF Atlas_161
+  - first:
+      213: -2339877690753975624
+    second: LiberationSans SDF Atlas_162
+  - first:
+      213: -2566655970061056418
+    second: LiberationSans SDF Atlas_163
+  - first:
+      213: -2985476934767130742
+    second: LiberationSans SDF Atlas_164
+  - first:
+      213: -2824599584224914767
+    second: LiberationSans SDF Atlas_165
+  - first:
+      213: -1808338104388546433
+    second: LiberationSans SDF Atlas_166
+  - first:
+      213: 8749587602556135567
+    second: LiberationSans SDF Atlas_167
+  - first:
+      213: 4182722834565104850
+    second: LiberationSans SDF Atlas_168
+  - first:
+      213: -8729332155438342496
+    second: LiberationSans SDF Atlas_169
+  - first:
+      213: 1102826157386315497
+    second: LiberationSans SDF Atlas_170
+  - first:
+      213: -8340200365752749480
+    second: LiberationSans SDF Atlas_171
+  - first:
+      213: -6669261454043297274
+    second: LiberationSans SDF Atlas_172
+  - first:
+      213: 60873550208198109
+    second: LiberationSans SDF Atlas_173
+  - first:
+      213: 2255717079485401234
+    second: LiberationSans SDF Atlas_174
+  - first:
+      213: -6631451031129270995
+    second: LiberationSans SDF Atlas_175
+  - first:
+      213: 8720257550133414408
+    second: LiberationSans SDF Atlas_176
+  - first:
+      213: -5531361335260616640
+    second: LiberationSans SDF Atlas_177
+  - first:
+      213: -3794813944299271000
+    second: LiberationSans SDF Atlas_178
+  - first:
+      213: 886180075548480386
+    second: LiberationSans SDF Atlas_179
+  - first:
+      213: 4541026098896242584
+    second: LiberationSans SDF Atlas_180
+  - first:
+      213: 3629008860771028749
+    second: LiberationSans SDF Atlas_181
+  - first:
+      213: 285608394777630726
+    second: LiberationSans SDF Atlas_182
+  - first:
+      213: 3751145652380590579
+    second: LiberationSans SDF Atlas_183
+  - first:
+      213: -8514031104555546629
+    second: LiberationSans SDF Atlas_184
+  - first:
+      213: -6294989200520150026
+    second: LiberationSans SDF Atlas_185
+  - first:
+      213: -4834990074501275575
+    second: LiberationSans SDF Atlas_186
+  - first:
+      213: -6984365450289665647
+    second: LiberationSans SDF Atlas_187
+  - first:
+      213: -6720459930059779373
+    second: LiberationSans SDF Atlas_188
+  - first:
+      213: 4415872369946708742
+    second: LiberationSans SDF Atlas_189
+  - first:
+      213: -6679696791166752054
+    second: LiberationSans SDF Atlas_190
+  - first:
+      213: 2067747537614074007
+    second: LiberationSans SDF Atlas_191
+  - first:
+      213: -5446635922916135328
+    second: LiberationSans SDF Atlas_192
+  - first:
+      213: 4763221145392067298
+    second: LiberationSans SDF Atlas_193
+  - first:
+      213: -2832188911590247093
+    second: LiberationSans SDF Atlas_194
+  - first:
+      213: -8056381236941108731
+    second: LiberationSans SDF Atlas_195
+  - first:
+      213: -8581075312319287391
+    second: LiberationSans SDF Atlas_196
+  - first:
+      213: -5420473535397809093
+    second: LiberationSans SDF Atlas_197
+  - first:
+      213: 4855270463914948098
+    second: LiberationSans SDF Atlas_198
+  - first:
+      213: -8785868240473325198
+    second: LiberationSans SDF Atlas_199
+  - first:
+      213: 7504900751057750184
+    second: LiberationSans SDF Atlas_200
+  - first:
+      213: 2781828226516836985
+    second: LiberationSans SDF Atlas_201
+  - first:
+      213: 8600985457891249599
+    second: LiberationSans SDF Atlas_202
+  - first:
+      213: 167085156565277065
+    second: LiberationSans SDF Atlas_203
+  - first:
+      213: 3227787583049230787
+    second: LiberationSans SDF Atlas_204
+  - first:
+      213: -6235977512728441940
+    second: LiberationSans SDF Atlas_205
+  - first:
+      213: 7380934808316123037
+    second: LiberationSans SDF Atlas_206
+  - first:
+      213: 7723200128831278229
+    second: LiberationSans SDF Atlas_207
+  - first:
+      213: -7567245995815924775
+    second: LiberationSans SDF Atlas_208
+  - first:
+      213: -2372207822356632870
+    second: LiberationSans SDF Atlas_209
+  - first:
+      213: 244829640310708300
+    second: LiberationSans SDF Atlas_210
+  - first:
+      213: -8197537765454903076
+    second: LiberationSans SDF Atlas_211
+  - first:
+      213: -1584558397920655396
+    second: LiberationSans SDF Atlas_212
+  - first:
+      213: -9199464488751111037
+    second: LiberationSans SDF Atlas_213
+  - first:
+      213: -5991733116288122028
+    second: LiberationSans SDF Atlas_214
+  - first:
+      213: -3330636618817300962
+    second: LiberationSans SDF Atlas_215
+  - first:
+      213: 1479310138111887918
+    second: LiberationSans SDF Atlas_216
+  - first:
+      213: -8191849898763987239
+    second: LiberationSans SDF Atlas_217
+  - first:
+      213: 6265408597911470026
+    second: LiberationSans SDF Atlas_218
+  - first:
+      213: 407379547417464842
+    second: LiberationSans SDF Atlas_219
+  - first:
+      213: 6298220215464395915
+    second: LiberationSans SDF Atlas_220
+  - first:
+      213: -3508221205826207294
+    second: LiberationSans SDF Atlas_221
+  - first:
+      213: -5975444610984218075
+    second: LiberationSans SDF Atlas_222
+  - first:
+      213: 7747257181757995256
+    second: LiberationSans SDF Atlas_223
+  - first:
+      213: -317538716916749362
+    second: LiberationSans SDF Atlas_224
+  - first:
+      213: -8139422246310763261
+    second: LiberationSans SDF Atlas_225
+  - first:
+      213: 1508472138546901085
+    second: LiberationSans SDF Atlas_226
+  - first:
+      213: -3420116460818935831
+    second: LiberationSans SDF Atlas_227
+  - first:
+      213: -8356630573107625776
+    second: LiberationSans SDF Atlas_228
+  - first:
+      213: 1258838723902861514
+    second: LiberationSans SDF Atlas_229
+  - first:
+      213: 6368635080000459007
+    second: LiberationSans SDF Atlas_230
+  - first:
+      213: -364965760230974642
+    second: LiberationSans SDF Atlas_231
+  - first:
+      213: -4941130846016287633
+    second: LiberationSans SDF Atlas_232
+  - first:
+      213: 8963487418517089518
+    second: LiberationSans SDF Atlas_233
+  - first:
+      213: -5038274161800257662
+    second: LiberationSans SDF Atlas_234
+  - first:
+      213: -8649378221610050916
+    second: LiberationSans SDF Atlas_235
+  - first:
+      213: -3901105820003890650
+    second: LiberationSans SDF Atlas_236
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 88
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74a37a2bed9f23f40800000000000000
+      internalID: 5706898412707199559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 945
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897082c17fd5a6960800000000000000
+      internalID: 7595987037424453528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 945
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77630e9fdd19ad440800000000000000
+      internalID: 4961438322068043383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 942
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ee8c8598bd9fe70800000000000000
+      internalID: 9149585500926438942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 942
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fdf74664f129a00800000000000000
+      internalID: 761705674173308797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 941
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bc5c209a8535f8e0800000000000000
+      internalID: -1660362018375574352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 941
+        width: 39
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00144ac26afae9eb0800000000000000
+      internalID: -4711135031934566144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 987
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686b6136f956f0d00800000000000000
+      internalID: 941082582380361350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 898
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74be1178e3dc6c740800000000000000
+      internalID: 5172046890519358279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 974
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a5a19d0b8f33340800000000000000
+      internalID: 4842487462793730612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 987
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73d4d3ca49344fe0800000000000000
+      internalID: -1205775806952582273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 909
+        width: 29
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9506cbb9816ee3900800000000000000
+      internalID: 666222788263829593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 982
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe85455e1e33caf0800000000000000
+      internalID: -377389643768426754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 985
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a465b5ab130c78950800000000000000
+      internalID: 6451336311044003402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 985
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aafc8f7923488670800000000000000
+      internalID: 8541150538820811429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 951
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c517ef3670f23f0800000000000000
+      internalID: -923511272535663525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 951
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca3b1392430cedb0800000000000000
+      internalID: -4761427121566696764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 909
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88ceb51424895ee0800000000000000
+      internalID: -1271840129236940657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 944
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4b51bb22c49c690800000000000000
+      internalID: -7581444785650158377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 948
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620d4da62e93a0fd0800000000000000
+      internalID: -2375022208866791386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 948
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978497878a52c5890800000000000000
+      internalID: -7468052676581177223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 939
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd3b47af7ef8bef0800000000000000
+      internalID: -92043968140067402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 912
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b105495c1be5d32a0800000000000000
+      internalID: -6756139748368822245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 919
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caaa658c7aa16d60800000000000000
+      internalID: 7881768274666105542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 951
+        width: 70
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5023348a689a34280800000000000000
+      internalID: -9060211629525618171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 926
+        width: 68
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c491bccd846875da0800000000000000
+      internalID: -5956144334674126516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 926
+        width: 68
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e45300b7a42862d0800000000000000
+      internalID: -3285335625535630109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 951
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6520ee19c679d58b0800000000000000
+      internalID: -5161803105336163754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 922
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c44bec5f708d8d0800000000000000
+      internalID: -2821496414231311347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 851
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292f0239775610780800000000000000
+      internalID: -8718575839368645998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 862
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445bc8540f33505b0800000000000000
+      internalID: -5402855070909024956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 862
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1468e6080847e9070800000000000000
+      internalID: 8115051673827575361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 861
+        width: 24
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0db72898a99aa90800000000000000
+      internalID: -7302135405414199065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 849
+        width: 39
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab61cb6f624191c0800000000000000
+      internalID: -4498741506449773655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 849
+        width: 39
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5680597e074aca3b0800000000000000
+      internalID: -5499840240097621915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 855
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78c83a8d854f4570800000000000000
+      internalID: 8453051499809392766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 852
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999d793da9ae9b180800000000000000
+      internalID: -9098983621429569127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 915
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5710ae0c5c723b240800000000000000
+      internalID: 4806228957633053045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 826
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc453153e0fd5a430800000000000000
+      internalID: 3793683513242506447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 906
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141c7eddc42e36380800000000000000
+      internalID: -8979084412278292159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 910
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e93782826ed3c70800000000000000
+      internalID: 8952564694434160169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 896
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44321101b9322420800000000000000
+      internalID: 2603706966963532876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 897
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a894e2618688040800000000000000
+      internalID: 4650081059735177766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 867
+        width: 49
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a486da3f677c9e100800000000000000
+      internalID: 137860577319807050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 873
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548f4bc0909c88ea0800000000000000
+      internalID: -5870221073572366267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 873
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46af31b7b5221f200800000000000000
+      internalID: 211988433765399140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 884
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfc4961aa3dc7790800000000000000
+      internalID: -7530911749393559591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 820
+        width: 60
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21409c6ed8a8917a0800000000000000
+      internalID: -6405936652890864622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 884
+        width: 71
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ff5caba165fa840800000000000000
+      internalID: 5237499564457852828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 806
+        width: 59
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ec75257bdce5d60800000000000000
+      internalID: 7880962585189142136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 806
+        width: 29
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315202b9c8cd11f40800000000000000
+      internalID: 5697577500056495379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 880
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5350d0a1389712d50800000000000000
+      internalID: 6710778523743487285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 860
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 227e156b4903f7790800000000000000
+      internalID: -7530246636668066014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 842
+        width: 44
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8981e8d1f6ca68ea0800000000000000
+      internalID: -5870815470993663848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 856
+        width: 55
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec1e4ecff14ec460800000000000000
+      internalID: 7263815815928880355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 860
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ddd25f249909a10800000000000000
+      internalID: 1914198354492775712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 860
+        width: 55
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55aa7582ccaab6d0800000000000000
+      internalID: -2973874652461750950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 757
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b45d04ee46d8cbf0800000000000000
+      internalID: -303757340525636428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 763
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566979a729a978000800000000000000
+      internalID: 38169075768596069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 763
+        width: 37
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83eb97b46159422c0800000000000000
+      internalID: -4457273808201859528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 762
+        width: 28
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0e8637248b3fd10800000000000000
+      internalID: 2158271241984204980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 760
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8898b10ea1c981460800000000000000
+      internalID: 7212686442476833160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 760
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239b3d92bba9e7030800000000000000
+      internalID: 3494400489537386802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 756
+        width: 28
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cbed895ef64eb10800000000000000
+      internalID: 2009854365617011833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 822
+        width: 64
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127c87a63f81294e0800000000000000
+      internalID: -1976489852719806687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 802
+        width: 48
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630d3472b67e49ba0800000000000000
+      internalID: -6082982749264424906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 795
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdcc59cb1f332ad0800000000000000
+      internalID: -2728267560681419313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 797
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d4c585888a25720800000000000000
+      internalID: 2833512419120926106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 805
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f7ca43f1708bff0800000000000000
+      internalID: -20258367714066613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 809
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5849d56bad3a640800000000000000
+      internalID: 5090152480647710169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 845
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdac7cb2c28fa90a0800000000000000
+      internalID: -6873909012630877476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 806
+        width: 43
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2d333aed00faba0800000000000000
+      internalID: -6075636416078687490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 796
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033912d3bb2988940800000000000000
+      internalID: 5298646294483538736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 739
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbafcab125e4de060800000000000000
+      internalID: 6984324711680113340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 737
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db94bce161178c790800000000000000
+      internalID: -7509628038820443715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 737
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95410d8ccbbf31260800000000000000
+      internalID: 7067269028515943513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 786
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1767090ada95590800000000000000
+      internalID: -7684920384000986648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 727
+        width: 39
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f67761cf875bc00800000000000000
+      internalID: 915771123343781725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 727
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4531358bd9688f280800000000000000
+      internalID: -9009303042594237612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 809
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b97301005354dc0800000000000000
+      internalID: -3655457248152937669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 663
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade7e8d7b5e326c90800000000000000
+      internalID: -7178106293405712678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 663
+        width: 61
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5430284ea99fc4e40800000000000000
+      internalID: 5642158876842394437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 663
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d95ad3dfbcd687b0800000000000000
+      internalID: -5222244001438344748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 661
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c1bed20fceb2bd0800000000000000
+      internalID: -2653767039098086379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 661
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d345cfb9637f06c0800000000000000
+      internalID: -4174991431523023916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 660
+        width: 61
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4df0d257aebd14a0800000000000000
+      internalID: -6620926251306517171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 656
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72866c2a657d87c30800000000000000
+      internalID: 4357469406579025959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 662
+        width: 43
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75a4f06065a98530800000000000000
+      internalID: 3857796389181629819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 656
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a6939937f8842e0800000000000000
+      internalID: -2141303896159983003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 723
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0908f751607d78e20800000000000000
+      internalID: 3352884868731076752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 719
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512b48f6c8470c5b0800000000000000
+      internalID: -5350148210800938475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 712
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4caa74dc3a01ff0800000000000000
+      internalID: -67373892344560472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 704
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5193d843a5c55a10800000000000000
+      internalID: 1897640123098698076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 718
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2502e40527ec20530800000000000000
+      internalID: 3819842424332492882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 727
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a7dff24aa0787b0800000000000000
+      internalID: -5222193542616745437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 724
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7243d005468c690800000000000000
+      internalID: -7581699677696546834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 730
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002bdf7a29d671580800000000000000
+      internalID: -8856489665549716992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 651
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2a0c69349aaa080800000000000000
+      internalID: -9175335183056854277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea584c594dbf4570800000000000000
+      internalID: 8453183148376218341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_99
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 570
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa18be095279be60800000000000000
+      internalID: 7978533941688146681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_100
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 570
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b96f888c02d3f100800000000000000
+      internalID: 140686964651157936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_101
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 570
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19b7cef83f9b0f00800000000000000
+      internalID: 1084135202454223132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_102
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 570
+        width: 65
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5c0fb2768dc0e60800000000000000
+      internalID: 7929950981523031460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_103
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 573
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ac1ef50b082b270800000000000000
+      internalID: 8264809761189513885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_104
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 573
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07225f9d9087b4a60800000000000000
+      internalID: 7659347574980420208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_105
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 573
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5579fd54d921e4f80800000000000000
+      internalID: -8120532611410978987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_106
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 557
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db09b71f9a6cf370800000000000000
+      internalID: 8357672240023145424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_107
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 640
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b546680df5393640800000000000000
+      internalID: 5060135017211381169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_108
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 636
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706ed3569de778890800000000000000
+      internalID: -7455851185917008377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_109
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 630
+        width: 61
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f78ba45afaacb90800000000000000
+      internalID: -7220765928077099217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_110
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 638
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 993024524d92b58f0800000000000000
+      internalID: -550800538287864935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_111
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 638
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d625f179cb3018140800000000000000
+      internalID: 4720057992985137773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_112
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 638
+        width: 40
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3299c32fcff19f30800000000000000
+      internalID: 4580723561136230974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_113
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 638
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfae55c57ea1d02b0800000000000000
+      internalID: -5616803579272238341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_114
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 638
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d7134d88b7a0760800000000000000
+      internalID: 7424882763279465814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_115
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 635
+        width: 42
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615989957ba8285f0800000000000000
+      internalID: -755889267358001898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_116
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 593
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb8cf4f89acd4440800000000000000
+      internalID: 4921812726079851470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_117
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 476
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b8a640ffe191310800000000000000
+      internalID: 1376165241777982231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_118
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 477
+        width: 67
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a6378d488a5d7f0800000000000000
+      internalID: -588378887781389734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_119
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 482
+        width: 60
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89af4d816deb4b990800000000000000
+      internalID: -7371056863349769576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_120
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 493
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8ecc5746b7868b0800000000000000
+      internalID: -5158737701749593926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_121
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 493
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dccf193b58e2660800000000000000
+      internalID: 7362969447092243719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_122
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 554
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cb20a3674578370800000000000000
+      internalID: 8324715302973783175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_123
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 548
+        width: 62
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd525f936754b960800000000000000
+      internalID: 7616808955176705481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_124
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 559
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4498ecbfc6ed394d0800000000000000
+      internalID: -3128912756429911740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_125
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 559
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a9cf74fef7c0150800000000000000
+      internalID: 5840183482474338948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_126
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 559
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09eaa7effe662e3c0800000000000000
+      internalID: -4331786710624326000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_127
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 557
+        width: 29
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c990fe98c587860800000000000000
+      internalID: 7527868524640443421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_128
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 554
+        width: 29
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fcacb4b093da61a0800000000000000
+      internalID: -6815402467610809095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_129
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 569
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013b013210f8cb420800000000000000
+      internalID: 2647147916033045264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_130
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 491
+        width: 58
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fc2028081513d60800000000000000
+      internalID: 7868159636371853215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_131
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 550
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d327e46cb0ba1fbe0800000000000000
+      internalID: -1445185938349198787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9a4092c086f6500800000000000000
+      internalID: 391646094041590200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_133
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 472
+        width: 41
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078e1dc7b4ab3dd10800000000000000
+      internalID: 2149266280565303408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_134
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 464
+        width: 30
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0056abe1c473a40800000000000000
+      internalID: 5347826777385664685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_135
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 475
+        width: 65
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684c2411e66307590800000000000000
+      internalID: -7678577518302804858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_136
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 476
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984273060929408f0800000000000000
+      internalID: -575173703609408375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_137
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 477
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc414687ca214a910800000000000000
+      internalID: 1847622279092245708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_138
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 481
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca31801edcf45de40800000000000000
+      internalID: 5680534250660041644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_139
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 481
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1979d9998a0f1a20800000000000000
+      internalID: 3035156259978967327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_140
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 475
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a0fee9f8b231200800000000000000
+      internalID: 149511108480141982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_141
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 474
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2218d724adc4a0d0800000000000000
+      internalID: -3412376512713190868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_142
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 497
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b8a1b678c04a100800000000000000
+      internalID: 118233265975495437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_143
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 444
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d21ce7d214e2a10800000000000000
+      internalID: 1886516957570739506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 378
+        width: 79
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddd8eab45798a4f0800000000000000
+      internalID: -817236942198874668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_145
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 382
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d8768dcd96df2d0800000000000000
+      internalID: -3243319759392502428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_146
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 383
+        width: 67
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aa59464c6a685d0800000000000000
+      internalID: -3060575534320342430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_147
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 383
+        width: 38
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fccf7debafdc4730800000000000000
+      internalID: 3984805699833023735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_148
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 383
+        width: 41
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df38d9eea9b765270800000000000000
+      internalID: 8238908473679381501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_149
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 377
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef45d0002d9d308f0800000000000000
+      internalID: -575376831406058242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_150
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 425
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5bcea02392d08c0800000000000000
+      internalID: -4031520796518337079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_151
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 347
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90dce2d7403438630800000000000000
+      internalID: 3928056986556353801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_152
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 394
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8508eb63009568690800000000000000
+      internalID: -7600289463687806888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_153
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 397
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e67e5955225f64710800000000000000
+      internalID: 1677297439055669102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_154
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 398
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57be8f7f1e22993b0800000000000000
+      internalID: -5505330715560449163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_155
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 399
+        width: 67
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8d2283e1ea63f00800000000000000
+      internalID: 1096255004125354163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_156
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 399
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7743c9588ceec60800000000000000
+      internalID: 7849431676730243048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_157
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 399
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d322d09338eb201b0800000000000000
+      internalID: -5691777508235730371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_158
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 393
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2446fddfb2b81f820800000000000000
+      internalID: 2950292251963515970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_159
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 393
+        width: 60
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb1cdbb3d817bec0800000000000000
+      internalID: -3551342483489416205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_160
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 412
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd738834494b5900800000000000000
+      internalID: 674213126576766413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_161
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 382
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4add6c4a8c49c5070800000000000000
+      internalID: 8096509819584175524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_162
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba7fb033a5178fd0800000000000000
+      internalID: -2339877690753975624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_163
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 287
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5600e37ef7616cd0800000000000000
+      internalID: -2566655970061056418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_164
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 291
+        width: 70
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87451aab847196d0800000000000000
+      internalID: -2985476934767130742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_165
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 319
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2de8db4a10dc8d0800000000000000
+      internalID: -2824599584224914767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_166
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 343
+        width: 71
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f701e16331e77e6e0800000000000000
+      internalID: -1808338104388546433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_167
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 353
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8825853197cc6970800000000000000
+      internalID: 8749587602556135567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_168
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 325
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d40b2cc1440c0a30800000000000000
+      internalID: 4182722834565104850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_169
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 316
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aed3b497ae2bd680800000000000000
+      internalID: -8729332155438342496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_170
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 319
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e635001c860e4f00800000000000000
+      internalID: 1102826157386315497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_171
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 319
+        width: 60
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85279b3a4f7a14c80800000000000000
+      internalID: -8340200365752749480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_172
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 320
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a4b85fa060273a0800000000000000
+      internalID: -6669261454043297274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_173
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 320
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd56060eb2448d000800000000000000
+      internalID: 60873550208198109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_174
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 327
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29842848bbaed4f10800000000000000
+      internalID: 2255717079485401234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_175
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 331
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2554201c6a58f3a0800000000000000
+      internalID: -6631451031129270995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_176
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 332
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ace993a04940970800000000000000
+      internalID: 8720257550133414408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_177
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 320
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048e5770c28ac33b0800000000000000
+      internalID: -5531361335260616640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_178
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8acc75dc2dc165bc0800000000000000
+      internalID: -3794813944299271000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_179
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 194
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 283981265185c4c00800000000000000
+      internalID: 886180075548480386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_180
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 202
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8970d747d27f40f30800000000000000
+      internalID: 4541026098896242584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_181
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 271
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f8001e454dc5230800000000000000
+      internalID: 3629008860771028749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_182
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 263
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6081793625fa6f300800000000000000
+      internalID: 285608394777630726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_183
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 277
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f165eea81fbe0430800000000000000
+      internalID: 3751145652380590579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_184
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 212
+        width: 84
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf70756d1d518d980800000000000000
+      internalID: -8514031104555546629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_185
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 277
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f38316aca4b3a8a0800000000000000
+      internalID: -6294989200520150026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_186
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 238
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940efc4e42aa6ecb0800000000000000
+      internalID: -4834990074501275575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_187
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 239
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19929f1b0ac821f90800000000000000
+      internalID: -6984365450289665647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_188
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 237
+        width: 63
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d25a85dc412cb2a0800000000000000
+      internalID: -6720459930059779373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_189
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 242
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bc2203684584d30800000000000000
+      internalID: 4415872369946708742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_190
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 242
+        width: 65
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca6033b823fc43a0800000000000000
+      internalID: -6679696791166752054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_191
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 249
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790fca81e6d12bc10800000000000000
+      internalID: 2067747537614074007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_192
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 252
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ea3b15c79a964b0800000000000000
+      internalID: -5446635922916135328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_193
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 252
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e239b5256c5a1240800000000000000
+      internalID: 4763221145392067298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_194
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 254
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45fcd3c03b02b8d0800000000000000
+      internalID: -2832188911590247093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_195
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 79
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ac00513fbf13090800000000000000
+      internalID: -8056381236941108731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_196
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 103
+        width: 77
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afa55ac775e9e880800000000000000
+      internalID: -8581075312319287391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_197
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 103
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b343538d90c96c4b0800000000000000
+      internalID: -5420473535397809093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_198
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 172
+        width: 47
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206b81a33c2616340800000000000000
+      internalID: 4855270463914948098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_199
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 185
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27183338263521680800000000000000
+      internalID: -8785868240473325198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_200
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 160
+        width: 106
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a80c5d6873c62860800000000000000
+      internalID: 7504900751057750184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_201
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 185
+        width: 30
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972e0b3880a0b9620800000000000000
+      internalID: 2781828226516836985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_202
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 160
+        width: 90
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd88e734b6dc5770800000000000000
+      internalID: 8600985457891249599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_203
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 160
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989505c801b915200800000000000000
+      internalID: 167085156565277065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_204
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 158
+        width: 45
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9e01a84b76bcc20800000000000000
+      internalID: 3227787583049230787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_205
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 159
+        width: 74
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab4f76ed7b5579a0800000000000000
+      internalID: -6235977512728441940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_206
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 178
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d979fff2a195e6660800000000000000
+      internalID: 7380934808316123037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_207
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 178
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c4d3019915e2b60800000000000000
+      internalID: 7723200128831278229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_208
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 171
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db056b1cddbbf690800000000000000
+      internalID: -7567245995815924775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_209
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 171
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adaa707dd89341fd0800000000000000
+      internalID: -2372207822356632870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_210
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 173
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48d43db24fc56300800000000000000
+      internalID: 244829640310708300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_211
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 175
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd80631b5de7c3e80800000000000000
+      internalID: -8197537765454903076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_212
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 78
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7c31e4884820ae0800000000000000
+      internalID: -1584558397920655396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_213
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 80
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3846b20d9cfe45080800000000000000
+      internalID: -9199464488751111037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_214
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 80
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453c3bee97619dca0800000000000000
+      internalID: -5991733116288122028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_215
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 80
+        width: 73
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e169c7344a337c1d0800000000000000
+      internalID: -3330636618817300962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_216
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 78
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a0bce9bb0978410800000000000000
+      internalID: 1479310138111887918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_217
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 79
+        width: 79
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d65ada5be3b05e80800000000000000
+      internalID: -8191849898763987239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_218
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 150
+        width: 84
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acff03b9ce333f650800000000000000
+      internalID: 6265408597911470026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_219
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 84
+        width: 91
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00d39c3a8d47a500800000000000000
+      internalID: 407379547417464842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_220
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 92
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8480f3aae5c76750800000000000000
+      internalID: 6298220215464395915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_221
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 93
+        width: 77
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c18c31966b405fc0800000000000000
+      internalID: -3508221205826207294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_222
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 93
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522734b19c4f21da0800000000000000
+      internalID: -5975444610984218075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_223
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 94
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8774e2c59c38b60800000000000000
+      internalID: 7747257181757995256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb6eb72830e79bf0800000000000000
+      internalID: -317538716916749362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_225
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 78
+        width: 106
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3052cbb6796fa0f80800000000000000
+      internalID: -8139422246310763261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_226
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 105
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5079a3fa6b2fe410800000000000000
+      internalID: 1508472138546901085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_227
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 102
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efcb6e033e4980d0800000000000000
+      internalID: -3420116460818935831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_228
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 102
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d040c2e4c8470c80800000000000000
+      internalID: -8356630573107625776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_229
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 90
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac07cb7562b487110800000000000000
+      internalID: 1258838723902861514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_230
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 87
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0d48fdcdfe16850800000000000000
+      internalID: 6368635080000459007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_231
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b904223916feaf0800000000000000
+      internalID: -364965760230974642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_232
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c497ebca39d6bb0800000000000000
+      internalID: -4941130846016287633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_233
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 0
+        width: 79
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eece4690154b46c70800000000000000
+      internalID: 8963487418517089518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_234
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28fddd00854741ab0800000000000000
+      internalID: -5038274161800257662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_235
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9adee4755c37f780800000000000000
+      internalID: -8649378221610050916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LiberationSans SDF Atlas_236
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 0
+        width: 48
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a8577fcec7cd9c0800000000000000
+      internalID: -3901105820003890650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LiberationSans SDF Atlas_0: 5706898412707199559
+      LiberationSans SDF Atlas_1: 7595987037424453528
+      LiberationSans SDF Atlas_10: -1205775806952582273
+      LiberationSans SDF Atlas_100: 140686964651157936
+      LiberationSans SDF Atlas_101: 1084135202454223132
+      LiberationSans SDF Atlas_102: 7929950981523031460
+      LiberationSans SDF Atlas_103: 8264809761189513885
+      LiberationSans SDF Atlas_104: 7659347574980420208
+      LiberationSans SDF Atlas_105: -8120532611410978987
+      LiberationSans SDF Atlas_106: 8357672240023145424
+      LiberationSans SDF Atlas_107: 5060135017211381169
+      LiberationSans SDF Atlas_108: -7455851185917008377
+      LiberationSans SDF Atlas_109: -7220765928077099217
+      LiberationSans SDF Atlas_11: 666222788263829593
+      LiberationSans SDF Atlas_110: -550800538287864935
+      LiberationSans SDF Atlas_111: 4720057992985137773
+      LiberationSans SDF Atlas_112: 4580723561136230974
+      LiberationSans SDF Atlas_113: -5616803579272238341
+      LiberationSans SDF Atlas_114: 7424882763279465814
+      LiberationSans SDF Atlas_115: -755889267358001898
+      LiberationSans SDF Atlas_116: 4921812726079851470
+      LiberationSans SDF Atlas_117: 1376165241777982231
+      LiberationSans SDF Atlas_118: -588378887781389734
+      LiberationSans SDF Atlas_119: -7371056863349769576
+      LiberationSans SDF Atlas_12: -377389643768426754
+      LiberationSans SDF Atlas_120: -5158737701749593926
+      LiberationSans SDF Atlas_121: 7362969447092243719
+      LiberationSans SDF Atlas_122: 8324715302973783175
+      LiberationSans SDF Atlas_123: 7616808955176705481
+      LiberationSans SDF Atlas_124: -3128912756429911740
+      LiberationSans SDF Atlas_125: 5840183482474338948
+      LiberationSans SDF Atlas_126: -4331786710624326000
+      LiberationSans SDF Atlas_127: 7527868524640443421
+      LiberationSans SDF Atlas_128: -6815402467610809095
+      LiberationSans SDF Atlas_129: 2647147916033045264
+      LiberationSans SDF Atlas_13: 6451336311044003402
+      LiberationSans SDF Atlas_130: 7868159636371853215
+      LiberationSans SDF Atlas_131: -1445185938349198787
+      LiberationSans SDF Atlas_132: 391646094041590200
+      LiberationSans SDF Atlas_133: 2149266280565303408
+      LiberationSans SDF Atlas_134: 5347826777385664685
+      LiberationSans SDF Atlas_135: -7678577518302804858
+      LiberationSans SDF Atlas_136: -575173703609408375
+      LiberationSans SDF Atlas_137: 1847622279092245708
+      LiberationSans SDF Atlas_138: 5680534250660041644
+      LiberationSans SDF Atlas_139: 3035156259978967327
+      LiberationSans SDF Atlas_14: 8541150538820811429
+      LiberationSans SDF Atlas_140: 149511108480141982
+      LiberationSans SDF Atlas_141: -3412376512713190868
+      LiberationSans SDF Atlas_142: 118233265975495437
+      LiberationSans SDF Atlas_143: 1886516957570739506
+      LiberationSans SDF Atlas_144: -817236942198874668
+      LiberationSans SDF Atlas_145: -3243319759392502428
+      LiberationSans SDF Atlas_146: -3060575534320342430
+      LiberationSans SDF Atlas_147: 3984805699833023735
+      LiberationSans SDF Atlas_148: 8238908473679381501
+      LiberationSans SDF Atlas_149: -575376831406058242
+      LiberationSans SDF Atlas_15: -923511272535663525
+      LiberationSans SDF Atlas_150: -4031520796518337079
+      LiberationSans SDF Atlas_151: 3928056986556353801
+      LiberationSans SDF Atlas_152: -7600289463687806888
+      LiberationSans SDF Atlas_153: 1677297439055669102
+      LiberationSans SDF Atlas_154: -5505330715560449163
+      LiberationSans SDF Atlas_155: 1096255004125354163
+      LiberationSans SDF Atlas_156: 7849431676730243048
+      LiberationSans SDF Atlas_157: -5691777508235730371
+      LiberationSans SDF Atlas_158: 2950292251963515970
+      LiberationSans SDF Atlas_159: -3551342483489416205
+      LiberationSans SDF Atlas_16: -4761427121566696764
+      LiberationSans SDF Atlas_160: 674213126576766413
+      LiberationSans SDF Atlas_161: 8096509819584175524
+      LiberationSans SDF Atlas_162: -2339877690753975624
+      LiberationSans SDF Atlas_163: -2566655970061056418
+      LiberationSans SDF Atlas_164: -2985476934767130742
+      LiberationSans SDF Atlas_165: -2824599584224914767
+      LiberationSans SDF Atlas_166: -1808338104388546433
+      LiberationSans SDF Atlas_167: 8749587602556135567
+      LiberationSans SDF Atlas_168: 4182722834565104850
+      LiberationSans SDF Atlas_169: -8729332155438342496
+      LiberationSans SDF Atlas_17: -1271840129236940657
+      LiberationSans SDF Atlas_170: 1102826157386315497
+      LiberationSans SDF Atlas_171: -8340200365752749480
+      LiberationSans SDF Atlas_172: -6669261454043297274
+      LiberationSans SDF Atlas_173: 60873550208198109
+      LiberationSans SDF Atlas_174: 2255717079485401234
+      LiberationSans SDF Atlas_175: -6631451031129270995
+      LiberationSans SDF Atlas_176: 8720257550133414408
+      LiberationSans SDF Atlas_177: -5531361335260616640
+      LiberationSans SDF Atlas_178: -3794813944299271000
+      LiberationSans SDF Atlas_179: 886180075548480386
+      LiberationSans SDF Atlas_18: -7581444785650158377
+      LiberationSans SDF Atlas_180: 4541026098896242584
+      LiberationSans SDF Atlas_181: 3629008860771028749
+      LiberationSans SDF Atlas_182: 285608394777630726
+      LiberationSans SDF Atlas_183: 3751145652380590579
+      LiberationSans SDF Atlas_184: -8514031104555546629
+      LiberationSans SDF Atlas_185: -6294989200520150026
+      LiberationSans SDF Atlas_186: -4834990074501275575
+      LiberationSans SDF Atlas_187: -6984365450289665647
+      LiberationSans SDF Atlas_188: -6720459930059779373
+      LiberationSans SDF Atlas_189: 4415872369946708742
+      LiberationSans SDF Atlas_19: -2375022208866791386
+      LiberationSans SDF Atlas_190: -6679696791166752054
+      LiberationSans SDF Atlas_191: 2067747537614074007
+      LiberationSans SDF Atlas_192: -5446635922916135328
+      LiberationSans SDF Atlas_193: 4763221145392067298
+      LiberationSans SDF Atlas_194: -2832188911590247093
+      LiberationSans SDF Atlas_195: -8056381236941108731
+      LiberationSans SDF Atlas_196: -8581075312319287391
+      LiberationSans SDF Atlas_197: -5420473535397809093
+      LiberationSans SDF Atlas_198: 4855270463914948098
+      LiberationSans SDF Atlas_199: -8785868240473325198
+      LiberationSans SDF Atlas_2: 4961438322068043383
+      LiberationSans SDF Atlas_20: -7468052676581177223
+      LiberationSans SDF Atlas_200: 7504900751057750184
+      LiberationSans SDF Atlas_201: 2781828226516836985
+      LiberationSans SDF Atlas_202: 8600985457891249599
+      LiberationSans SDF Atlas_203: 167085156565277065
+      LiberationSans SDF Atlas_204: 3227787583049230787
+      LiberationSans SDF Atlas_205: -6235977512728441940
+      LiberationSans SDF Atlas_206: 7380934808316123037
+      LiberationSans SDF Atlas_207: 7723200128831278229
+      LiberationSans SDF Atlas_208: -7567245995815924775
+      LiberationSans SDF Atlas_209: -2372207822356632870
+      LiberationSans SDF Atlas_21: -92043968140067402
+      LiberationSans SDF Atlas_210: 244829640310708300
+      LiberationSans SDF Atlas_211: -8197537765454903076
+      LiberationSans SDF Atlas_212: -1584558397920655396
+      LiberationSans SDF Atlas_213: -9199464488751111037
+      LiberationSans SDF Atlas_214: -5991733116288122028
+      LiberationSans SDF Atlas_215: -3330636618817300962
+      LiberationSans SDF Atlas_216: 1479310138111887918
+      LiberationSans SDF Atlas_217: -8191849898763987239
+      LiberationSans SDF Atlas_218: 6265408597911470026
+      LiberationSans SDF Atlas_219: 407379547417464842
+      LiberationSans SDF Atlas_22: -6756139748368822245
+      LiberationSans SDF Atlas_220: 6298220215464395915
+      LiberationSans SDF Atlas_221: -3508221205826207294
+      LiberationSans SDF Atlas_222: -5975444610984218075
+      LiberationSans SDF Atlas_223: 7747257181757995256
+      LiberationSans SDF Atlas_224: -317538716916749362
+      LiberationSans SDF Atlas_225: -8139422246310763261
+      LiberationSans SDF Atlas_226: 1508472138546901085
+      LiberationSans SDF Atlas_227: -3420116460818935831
+      LiberationSans SDF Atlas_228: -8356630573107625776
+      LiberationSans SDF Atlas_229: 1258838723902861514
+      LiberationSans SDF Atlas_23: 7881768274666105542
+      LiberationSans SDF Atlas_230: 6368635080000459007
+      LiberationSans SDF Atlas_231: -364965760230974642
+      LiberationSans SDF Atlas_232: -4941130846016287633
+      LiberationSans SDF Atlas_233: 8963487418517089518
+      LiberationSans SDF Atlas_234: -5038274161800257662
+      LiberationSans SDF Atlas_235: -8649378221610050916
+      LiberationSans SDF Atlas_236: -3901105820003890650
+      LiberationSans SDF Atlas_24: -9060211629525618171
+      LiberationSans SDF Atlas_25: -5956144334674126516
+      LiberationSans SDF Atlas_26: -3285335625535630109
+      LiberationSans SDF Atlas_27: -5161803105336163754
+      LiberationSans SDF Atlas_28: -2821496414231311347
+      LiberationSans SDF Atlas_29: -8718575839368645998
+      LiberationSans SDF Atlas_3: 9149585500926438942
+      LiberationSans SDF Atlas_30: -5402855070909024956
+      LiberationSans SDF Atlas_31: 8115051673827575361
+      LiberationSans SDF Atlas_32: -7302135405414199065
+      LiberationSans SDF Atlas_33: -4498741506449773655
+      LiberationSans SDF Atlas_34: -5499840240097621915
+      LiberationSans SDF Atlas_35: 8453051499809392766
+      LiberationSans SDF Atlas_36: -9098983621429569127
+      LiberationSans SDF Atlas_37: 4806228957633053045
+      LiberationSans SDF Atlas_38: 3793683513242506447
+      LiberationSans SDF Atlas_39: -8979084412278292159
+      LiberationSans SDF Atlas_4: 761705674173308797
+      LiberationSans SDF Atlas_40: 8952564694434160169
+      LiberationSans SDF Atlas_41: 2603706966963532876
+      LiberationSans SDF Atlas_42: 4650081059735177766
+      LiberationSans SDF Atlas_43: 137860577319807050
+      LiberationSans SDF Atlas_44: -5870221073572366267
+      LiberationSans SDF Atlas_45: 211988433765399140
+      LiberationSans SDF Atlas_46: -7530911749393559591
+      LiberationSans SDF Atlas_47: -6405936652890864622
+      LiberationSans SDF Atlas_48: 5237499564457852828
+      LiberationSans SDF Atlas_49: 7880962585189142136
+      LiberationSans SDF Atlas_5: -1660362018375574352
+      LiberationSans SDF Atlas_50: 5697577500056495379
+      LiberationSans SDF Atlas_51: 6710778523743487285
+      LiberationSans SDF Atlas_52: -7530246636668066014
+      LiberationSans SDF Atlas_53: -5870815470993663848
+      LiberationSans SDF Atlas_54: 7263815815928880355
+      LiberationSans SDF Atlas_55: 1914198354492775712
+      LiberationSans SDF Atlas_56: -2973874652461750950
+      LiberationSans SDF Atlas_57: -303757340525636428
+      LiberationSans SDF Atlas_58: 38169075768596069
+      LiberationSans SDF Atlas_59: -4457273808201859528
+      LiberationSans SDF Atlas_6: -4711135031934566144
+      LiberationSans SDF Atlas_60: 2158271241984204980
+      LiberationSans SDF Atlas_61: 7212686442476833160
+      LiberationSans SDF Atlas_62: 3494400489537386802
+      LiberationSans SDF Atlas_63: 2009854365617011833
+      LiberationSans SDF Atlas_64: -1976489852719806687
+      LiberationSans SDF Atlas_65: -6082982749264424906
+      LiberationSans SDF Atlas_66: -2728267560681419313
+      LiberationSans SDF Atlas_67: 2833512419120926106
+      LiberationSans SDF Atlas_68: -20258367714066613
+      LiberationSans SDF Atlas_69: 5090152480647710169
+      LiberationSans SDF Atlas_7: 941082582380361350
+      LiberationSans SDF Atlas_70: -6873909012630877476
+      LiberationSans SDF Atlas_71: -6075636416078687490
+      LiberationSans SDF Atlas_72: 5298646294483538736
+      LiberationSans SDF Atlas_73: 6984324711680113340
+      LiberationSans SDF Atlas_74: -7509628038820443715
+      LiberationSans SDF Atlas_75: 7067269028515943513
+      LiberationSans SDF Atlas_76: -7684920384000986648
+      LiberationSans SDF Atlas_77: 915771123343781725
+      LiberationSans SDF Atlas_78: -9009303042594237612
+      LiberationSans SDF Atlas_79: -3655457248152937669
+      LiberationSans SDF Atlas_8: 5172046890519358279
+      LiberationSans SDF Atlas_80: -7178106293405712678
+      LiberationSans SDF Atlas_81: 5642158876842394437
+      LiberationSans SDF Atlas_82: -5222244001438344748
+      LiberationSans SDF Atlas_83: -2653767039098086379
+      LiberationSans SDF Atlas_84: -4174991431523023916
+      LiberationSans SDF Atlas_85: -6620926251306517171
+      LiberationSans SDF Atlas_86: 4357469406579025959
+      LiberationSans SDF Atlas_87: 3857796389181629819
+      LiberationSans SDF Atlas_88: -2141303896159983003
+      LiberationSans SDF Atlas_89: 3352884868731076752
+      LiberationSans SDF Atlas_9: 4842487462793730612
+      LiberationSans SDF Atlas_90: -5350148210800938475
+      LiberationSans SDF Atlas_91: -67373892344560472
+      LiberationSans SDF Atlas_92: 1897640123098698076
+      LiberationSans SDF Atlas_93: 3819842424332492882
+      LiberationSans SDF Atlas_94: -5222193542616745437
+      LiberationSans SDF Atlas_95: -7581699677696546834
+      LiberationSans SDF Atlas_96: -8856489665549716992
+      LiberationSans SDF Atlas_97: -9175335183056854277
+      LiberationSans SDF Atlas_98: 8453183148376218341
+      LiberationSans SDF Atlas_99: 7978533941688146681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

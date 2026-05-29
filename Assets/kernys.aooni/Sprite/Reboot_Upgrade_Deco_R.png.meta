@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: f8c8954f49cd04b9f9cf2f8a1a764f6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6793762081971615555
+    second: Reboot_Upgrade_Deco_R_0
+  - first:
+      213: 5828048655264960192
+    second: Reboot_Upgrade_Deco_R_1
+  - first:
+      213: 850578936685494942
+    second: Reboot_Upgrade_Deco_R_2
+  - first:
+      213: -8553204696122873965
+    second: Reboot_Upgrade_Deco_R_3
+  - first:
+      213: 4434056497222406414
+    second: Reboot_Upgrade_Deco_R_4
+  - first:
+      213: 7621967913715438386
+    second: Reboot_Upgrade_Deco_R_5
+  - first:
+      213: 8225462507128231330
+    second: Reboot_Upgrade_Deco_R_6
+  - first:
+      213: -7337826602682660692
+    second: Reboot_Upgrade_Deco_R_7
+  - first:
+      213: -6301562073598871261
+    second: Reboot_Upgrade_Deco_R_8
+  - first:
+      213: 8017579605168497964
+    second: Reboot_Upgrade_Deco_R_9
+  - first:
+      213: 8230167430079243727
+    second: Reboot_Upgrade_Deco_R_10
+  - first:
+      213: 6545791375497533400
+    second: Reboot_Upgrade_Deco_R_11
+  - first:
+      213: 8539505867810904031
+    second: Reboot_Upgrade_Deco_R_12
+  - first:
+      213: -3359379895482514461
+    second: Reboot_Upgrade_Deco_R_13
+  - first:
+      213: 7078355583522001341
+    second: Reboot_Upgrade_Deco_R_14
+  - first:
+      213: 453103124735046672
+    second: Reboot_Upgrade_Deco_R_15
+  - first:
+      213: 9002773981572921826
+    second: Reboot_Upgrade_Deco_R_16
+  - first:
+      213: 3851450669053246157
+    second: Reboot_Upgrade_Deco_R_17
+  - first:
+      213: -3055339102591685635
+    second: Reboot_Upgrade_Deco_R_18
+  - first:
+      213: -1737833036352440118
+    second: Reboot_Upgrade_Deco_R_19
+  - first:
+      213: -7399015668022032662
+    second: Reboot_Upgrade_Deco_R_20
+  - first:
+      213: -137482473027708031
+    second: Reboot_Upgrade_Deco_R_21
+  - first:
+      213: 488395639747128929
+    second: Reboot_Upgrade_Deco_R_22
+  - first:
+      213: -3883612766194500486
+    second: Reboot_Upgrade_Deco_R_23
+  - first:
+      213: -8861800814503594732
+    second: Reboot_Upgrade_Deco_R_24
+  - first:
+      213: -9048431995541476460
+    second: Reboot_Upgrade_Deco_R_25
+  - first:
+      213: -3965229435051128422
+    second: Reboot_Upgrade_Deco_R_26
+  - first:
+      213: 527101620931283336
+    second: Reboot_Upgrade_Deco_R_27
+  - first:
+      213: 7408475697375081094
+    second: Reboot_Upgrade_Deco_R_28
+  - first:
+      213: 2339952580709788724
+    second: Reboot_Upgrade_Deco_R_29
+  - first:
+      213: -8700179175285493454
+    second: Reboot_Upgrade_Deco_R_30
+  - first:
+      213: 5234940844466198149
+    second: Reboot_Upgrade_Deco_R_31
+  - first:
+      213: -6372402694614865131
+    second: Reboot_Upgrade_Deco_R_32
+  - first:
+      213: -3575807044886785744
+    second: Reboot_Upgrade_Deco_R_33
+  - first:
+      213: -2081301609754802397
+    second: Reboot_Upgrade_Deco_R_34
+  - first:
+      213: 2290386804946642179
+    second: Reboot_Upgrade_Deco_R_35
+  - first:
+      213: 8382721989174035890
+    second: Reboot_Upgrade_Deco_R_36
+  - first:
+      213: -331877544928986126
+    second: Reboot_Upgrade_Deco_R_37
+  - first:
+      213: -4395985713312509837
+    second: Reboot_Upgrade_Deco_R_38
+  - first:
+      213: -1973598907545843469
+    second: Reboot_Upgrade_Deco_R_39
+  - first:
+      213: 4099787963339821224
+    second: Reboot_Upgrade_Deco_R_40
+  - first:
+      213: -8840059394689137722
+    second: Reboot_Upgrade_Deco_R_41
+  - first:
+      213: 5596104370239409218
+    second: Reboot_Upgrade_Deco_R_42
+  - first:
+      213: -5605211603886692698
+    second: Reboot_Upgrade_Deco_R_43
+  - first:
+      213: 6200926743053439397
+    second: Reboot_Upgrade_Deco_R_44
+  - first:
+      213: -4065301027470162512
+    second: Reboot_Upgrade_Deco_R_45
+  - first:
+      213: -529874414854362663
+    second: Reboot_Upgrade_Deco_R_46
+  - first:
+      213: 4740748431243161266
+    second: Reboot_Upgrade_Deco_R_47
+  - first:
+      213: -3001589217596365894
+    second: Reboot_Upgrade_Deco_R_48
+  - first:
+      213: -2974121958791170151
+    second: Reboot_Upgrade_Deco_R_49
+  - first:
+      213: -7345651679892224494
+    second: Reboot_Upgrade_Deco_R_50
+  - first:
+      213: 7344947781072985641
+    second: Reboot_Upgrade_Deco_R_51
+  - first:
+      213: -6822552699913564680
+    second: Reboot_Upgrade_Deco_R_52
+  - first:
+      213: 6163117156150476525
+    second: Reboot_Upgrade_Deco_R_53
+  - first:
+      213: -7009271913936176822
+    second: Reboot_Upgrade_Deco_R_54
+  - first:
+      213: -2561177918449861643
+    second: Reboot_Upgrade_Deco_R_55
+  - first:
+      213: -8689380671150969884
+    second: Reboot_Upgrade_Deco_R_56
+  - first:
+      213: -4782230533616919037
+    second: Reboot_Upgrade_Deco_R_57
+  - first:
+      213: -7768009289571121663
+    second: Reboot_Upgrade_Deco_R_58
+  - first:
+      213: -7961718534427538931
+    second: Reboot_Upgrade_Deco_R_59
+  - first:
+      213: 8173697158777860714
+    second: Reboot_Upgrade_Deco_R_60
+  - first:
+      213: -7487448971902552601
+    second: Reboot_Upgrade_Deco_R_61
+  - first:
+      213: 3435883429185116335
+    second: Reboot_Upgrade_Deco_R_62
+  - first:
+      213: -8587933076504716284
+    second: Reboot_Upgrade_Deco_R_63
+  - first:
+      213: -1680626694286454753
+    second: Reboot_Upgrade_Deco_R_64
+  - first:
+      213: -7293311392463303196
+    second: Reboot_Upgrade_Deco_R_65
+  - first:
+      213: -8205282202947576581
+    second: Reboot_Upgrade_Deco_R_66
+  - first:
+      213: 8151158332838460305
+    second: Reboot_Upgrade_Deco_R_67
+  - first:
+      213: 8523592607522959387
+    second: Reboot_Upgrade_Deco_R_68
+  - first:
+      213: -3492129063606982389
+    second: Reboot_Upgrade_Deco_R_69
+  - first:
+      213: 4969468447726013523
+    second: Reboot_Upgrade_Deco_R_70
+  - first:
+      213: -8738563101342240571
+    second: Reboot_Upgrade_Deco_R_71
+  - first:
+      213: -8111225085534802492
+    second: Reboot_Upgrade_Deco_R_72
+  - first:
+      213: -3715354620895817090
+    second: Reboot_Upgrade_Deco_R_73
+  - first:
+      213: -4920071032830479109
+    second: Reboot_Upgrade_Deco_R_74
+  - first:
+      213: 5070487117574658467
+    second: Reboot_Upgrade_Deco_R_75
+  - first:
+      213: -1573252532816640532
+    second: Reboot_Upgrade_Deco_R_76
+  - first:
+      213: -7050559762152791956
+    second: Reboot_Upgrade_Deco_R_77
+  - first:
+      213: 5202886477530097153
+    second: Reboot_Upgrade_Deco_R_78
+  - first:
+      213: -2242005062324791849
+    second: Reboot_Upgrade_Deco_R_79
+  - first:
+      213: -6794011688994221313
+    second: Reboot_Upgrade_Deco_R_80
+  - first:
+      213: 8443893989710503587
+    second: Reboot_Upgrade_Deco_R_81
+  - first:
+      213: -2466559963270721455
+    second: Reboot_Upgrade_Deco_R_82
+  - first:
+      213: 5541096616614649511
+    second: Reboot_Upgrade_Deco_R_83
+  - first:
+      213: -7582562005521004545
+    second: Reboot_Upgrade_Deco_R_84
+  - first:
+      213: 7755233882366692472
+    second: Reboot_Upgrade_Deco_R_85
+  - first:
+      213: 665262905698463368
+    second: Reboot_Upgrade_Deco_R_86
+  - first:
+      213: -8936213862018727685
+    second: Reboot_Upgrade_Deco_R_87
+  - first:
+      213: -7130616107292644581
+    second: Reboot_Upgrade_Deco_R_88
+  - first:
+      213: 7995278365556130057
+    second: Reboot_Upgrade_Deco_R_89
+  - first:
+      213: 637252437080568829
+    second: Reboot_Upgrade_Deco_R_90
+  - first:
+      213: -1051819486595694107
+    second: Reboot_Upgrade_Deco_R_91
+  - first:
+      213: 8368583205842223847
+    second: Reboot_Upgrade_Deco_R_92
+  - first:
+      213: 6373803647127350557
+    second: Reboot_Upgrade_Deco_R_93
+  - first:
+      213: -7663121456822979495
+    second: Reboot_Upgrade_Deco_R_94
+  - first:
+      213: -5226949737187449634
+    second: Reboot_Upgrade_Deco_R_95
+  - first:
+      213: 6860820172778172555
+    second: Reboot_Upgrade_Deco_R_96
+  - first:
+      213: -5867837882613937867
+    second: Reboot_Upgrade_Deco_R_97
+  - first:
+      213: 5514165711994151067
+    second: Reboot_Upgrade_Deco_R_98
+  - first:
+      213: -7658927883301069763
+    second: Reboot_Upgrade_Deco_R_99
+  - first:
+      213: 8956255789282984496
+    second: Reboot_Upgrade_Deco_R_100
+  - first:
+      213: -4431453657807795535
+    second: Reboot_Upgrade_Deco_R_101
+  - first:
+      213: 3692657530045937370
+    second: Reboot_Upgrade_Deco_R_102
+  - first:
+      213: 8326026611608545245
+    second: Reboot_Upgrade_Deco_R_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_0
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 435
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8409f9165b7b1a0800000000000000
+      internalID: -6793762081971615555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 469
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cec2c6af5361e050800000000000000
+      internalID: 5828048655264960192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 473
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92819e490dddcb00800000000000000
+      internalID: 850578936685494942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 453
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397a46c45a9ec4980800000000000000
+      internalID: -8553204696122873965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 455
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0154fe34eee88d30800000000000000
+      internalID: 4434056497222406414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_5
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 466
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2331f624f6ba6c960800000000000000
+      internalID: 7621967913715438386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_6
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 364
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a51ca2e196b62270800000000000000
+      internalID: 8225462507128231330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 429
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca840b3159dca2a90800000000000000
+      internalID: -7337826602682660692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_8
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 430
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329b0116eaa5c88a0800000000000000
+      internalID: -6301562073598871261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_9
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 418
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c252c740c2a244f60800000000000000
+      internalID: 8017579605168497964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 434
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5ecdf1cad673270800000000000000
+      internalID: 8230167430079243727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_11
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 410
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7985e239257da50800000000000000
+      internalID: 6545791375497533400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 442
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd79b30b75b628670800000000000000
+      internalID: 8539505867810904031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 403
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e30d28a8c51161d0800000000000000
+      internalID: -3359379895482514461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_14
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 378
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db15bb586ee5b3260800000000000000
+      internalID: 7078355583522001341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_15
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 410
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014b37c24eeb94600800000000000000
+      internalID: 453103124735046672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_16
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 394
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e978cccc3740fc70800000000000000
+      internalID: 9002773981572921826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_17
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 370
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcafbd64af9137530800000000000000
+      internalID: 3851450669053246157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_18
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 390
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb69a926414995d0800000000000000
+      internalID: -3055339102591685635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 342
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac836459f0af1e7e0800000000000000
+      internalID: -1737833036352440118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_20
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 350
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae64ffb937a615990800000000000000
+      internalID: -7399015668022032662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_21
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 366
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b57505b60971ef0800000000000000
+      internalID: -137482473027708031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 322
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e2af82f3127c600800000000000000
+      internalID: 488395639747128929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 358
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7cfdc1f3c2aa1ac0800000000000000
+      internalID: -3883612766194500486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_24
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 346
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415fe3d6c1f840580800000000000000
+      internalID: -8861800814503594732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_25
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 317
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ba87b6a038d6280800000000000000
+      internalID: -9048431995541476460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_26
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 343
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99cad666dca8f8c0800000000000000
+      internalID: -3965229435051128422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 330
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889442ca124a05700800000000000000
+      internalID: 527101620931283336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_28
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 254
+        width: 67
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682f72d156130d660800000000000000
+      internalID: 7408475697375081094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_29
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 250
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c277c797e297020800000000000000
+      internalID: 2339952580709788724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_30
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 306
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2317bd6b221c24780800000000000000
+      internalID: -8700179175285493454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 174
+        width: 66
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586579e46fe36a840800000000000000
+      internalID: 5234940844466198149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_32
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 266
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b2dbdf28da097a0800000000000000
+      internalID: -6372402694614865131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_33
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 274
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0311f28207e206ec0800000000000000
+      internalID: -3575807044886785744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_34
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 246
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327cd10963bbd13e0800000000000000
+      internalID: -2081301609754802397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_35
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 238
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30526130aa619cf10800000000000000
+      internalID: 2290386804946642179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 222
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5039f4c39655470800000000000000
+      internalID: 8382721989174035890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_37
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 246
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb3499912fe46bf0800000000000000
+      internalID: -331877544928986126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_38
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 290
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370d050e8425ef2c0800000000000000
+      internalID: -4395985713312509837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_39
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 66
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f881aa004e5c94e0800000000000000
+      internalID: -1973598907545843469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_40
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 150
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0da495e6f55e830800000000000000
+      internalID: 4099787963339821224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_41
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 194
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c3033231dcc15580800000000000000
+      internalID: -8840059394689137722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_42
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 130
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c812a764b59ad40800000000000000
+      internalID: 5596104370239409218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_43
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 162
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6af637eb94632b0800000000000000
+      internalID: -5605211603886692698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_44
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 158
+        width: 58
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a19be5d40e1e0650800000000000000
+      internalID: 6200926743053439397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_45
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 154
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b54c9021462597c0800000000000000
+      internalID: -4065301027470162512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_46
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 198
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9a90fe60285a8f0800000000000000
+      internalID: -529874414854362663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_47
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 181
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be2db5a4958ac140800000000000000
+      internalID: 4740748431243161266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_48
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 210
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3a68b72863856d0800000000000000
+      internalID: -3001589217596365894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_49
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 190
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997309706dbc9b6d0800000000000000
+      internalID: -2974121958791170151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_50
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 215
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216c54057b00f0a90800000000000000
+      internalID: -7345651679892224494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_51
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 226
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e16a8771f7ee560800000000000000
+      internalID: 7344947781072985641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_52
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 118
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd0544877c6151a0800000000000000
+      internalID: -6822552699913564680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_53
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 102
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deef671666ac78550800000000000000
+      internalID: 6163117156150476525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_54
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 113
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4936bbb4501abe90800000000000000
+      internalID: -7009271913936176822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_55
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 97
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fbb83cb04ed47cd0800000000000000
+      internalID: -2561177918449861643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_56
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 94
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba6e1615e196780800000000000000
+      internalID: -8689380671150969884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_57
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 106
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e9cb1caaa12adb0800000000000000
+      internalID: -4782230533616919037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_58
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 94
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106cd2335bc723490800000000000000
+      internalID: -7768009289571121663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_59
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 58
+        width: 54
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a8dc90d2b428190800000000000000
+      internalID: -7961718534427538931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_60
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 74
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62f292824ece6170800000000000000
+      internalID: 8173697158777860714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_61
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 54
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e572eb84dc371890800000000000000
+      internalID: -7487448971902552601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_62
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 58
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8da3656c5beaf20800000000000000
+      internalID: 3435883429185116335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_63
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 54
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cdb142e5881d880800000000000000
+      internalID: -8587933076504716284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_64
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 58
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1054070de63da8e0800000000000000
+      internalID: -1680626694286454753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_65
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 56
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed4aef1ee3f8ca90800000000000000
+      internalID: -7293311392463303196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_66
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 51
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc99735f4bf02e80800000000000000
+      internalID: -8205282202947576581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_67
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 54
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b3dc8215bbe1170800000000000000
+      internalID: 8151158332838460305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_68
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 62
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b103d8d0152e94670800000000000000
+      internalID: 8523592607522959387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_69
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 54
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0963e56e17798fc0800000000000000
+      internalID: -3492129063606982389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_70
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 34
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c883d493917f440800000000000000
+      internalID: 4969468447726013523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_71
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 38
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0f82188236ab680800000000000000
+      internalID: -8738563101342240571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_72
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 17
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cde57382c32f6f80800000000000000
+      internalID: -8111225085534802492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_73
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 47
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7216e638a8607cc0800000000000000
+      internalID: -3715354620895817090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_74
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4337a967568bbb0800000000000000
+      internalID: -4920071032830479109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_75
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 50
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a95b393b2dfd5640800000000000000
+      internalID: 5070487117574658467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_76
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 53
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce50b77282faa2ae0800000000000000
+      internalID: -1573252532816640532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_77
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 45
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6068357041672e90800000000000000
+      internalID: -7050559762152791956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_78
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 45
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1066ddb6fad543840800000000000000
+      internalID: 5202886477530097153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_79
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 28
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5d083464cc2e0e0800000000000000
+      internalID: -2242005062324791849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 26
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2d5a57d52d6b1a0800000000000000
+      internalID: -6794011688994221313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_81
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 26
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae10c198dcbe2570800000000000000
+      internalID: 8443893989710503587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_82
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1505c0428c405cdd0800000000000000
+      internalID: -2466559963270721455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_83
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 30
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae5f6bc30ee5ec40800000000000000
+      internalID: 5541096616614649511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_84
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 22
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff70c85b70455c690800000000000000
+      internalID: -7582562005521004545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_85
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 6
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c4a84802020ab60800000000000000
+      internalID: 7755233882366692472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_86
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 30
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ea668861d7b3900800000000000000
+      internalID: 665262905698463368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_87
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 26
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0c37da6d03cf380800000000000000
+      internalID: -8936213862018727685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_88
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 17
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ba4271e66fa0d90800000000000000
+      internalID: -7130616107292644581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_89
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 30
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901c65b005fe4fe60800000000000000
+      internalID: 7995278365556130057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_90
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3707817b9f7d800800000000000000
+      internalID: 637252437080568829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_91
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 5
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e141adefbf2761f0800000000000000
+      internalID: -1051819486595694107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_92
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 47
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e28689461e232470800000000000000
+      internalID: 8368583205842223847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_93
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d6d1fa5ac447850800000000000000
+      internalID: 6373803647127350557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_94
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 0
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954746fc2af17a590800000000000000
+      internalID: -7663121456822979495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_95
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 22
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4ee1858e42677b0800000000000000
+      internalID: -5226949737187449634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_96
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 17
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80f642d897863f50800000000000000
+      internalID: 6860820172778172555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 126
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 539473fe880419ea0800000000000000
+      internalID: -5867837882613937867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_98
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 0
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90ec00ff70468c40800000000000000
+      internalID: 5514165711994151067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_99
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 13
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c518b3ba506b590800000000000000
+      internalID: -7658927883301069763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_100
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0328fb520330b4c70800000000000000
+      internalID: 8956255789282984496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_101
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 17
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bac2c780605082c0800000000000000
+      internalID: -4431453657807795535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_102
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad63f838574fe3330800000000000000
+      internalID: 3692657530045937370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_Upgrade_Deco_R_103
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7606f071dfb8370800000000000000
+      internalID: 8326026611608545245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Reboot_Upgrade_Deco_R_0: -6793762081971615555
+      Reboot_Upgrade_Deco_R_1: 5828048655264960192
+      Reboot_Upgrade_Deco_R_10: 8230167430079243727
+      Reboot_Upgrade_Deco_R_100: 8956255789282984496
+      Reboot_Upgrade_Deco_R_101: -4431453657807795535
+      Reboot_Upgrade_Deco_R_102: 3692657530045937370
+      Reboot_Upgrade_Deco_R_103: 8326026611608545245
+      Reboot_Upgrade_Deco_R_11: 6545791375497533400
+      Reboot_Upgrade_Deco_R_12: 8539505867810904031
+      Reboot_Upgrade_Deco_R_13: -3359379895482514461
+      Reboot_Upgrade_Deco_R_14: 7078355583522001341
+      Reboot_Upgrade_Deco_R_15: 453103124735046672
+      Reboot_Upgrade_Deco_R_16: 9002773981572921826
+      Reboot_Upgrade_Deco_R_17: 3851450669053246157
+      Reboot_Upgrade_Deco_R_18: -3055339102591685635
+      Reboot_Upgrade_Deco_R_19: -1737833036352440118
+      Reboot_Upgrade_Deco_R_2: 850578936685494942
+      Reboot_Upgrade_Deco_R_20: -7399015668022032662
+      Reboot_Upgrade_Deco_R_21: -137482473027708031
+      Reboot_Upgrade_Deco_R_22: 488395639747128929
+      Reboot_Upgrade_Deco_R_23: -3883612766194500486
+      Reboot_Upgrade_Deco_R_24: -8861800814503594732
+      Reboot_Upgrade_Deco_R_25: -9048431995541476460
+      Reboot_Upgrade_Deco_R_26: -3965229435051128422
+      Reboot_Upgrade_Deco_R_27: 527101620931283336
+      Reboot_Upgrade_Deco_R_28: 7408475697375081094
+      Reboot_Upgrade_Deco_R_29: 2339952580709788724
+      Reboot_Upgrade_Deco_R_3: -8553204696122873965
+      Reboot_Upgrade_Deco_R_30: -8700179175285493454
+      Reboot_Upgrade_Deco_R_31: 5234940844466198149
+      Reboot_Upgrade_Deco_R_32: -6372402694614865131
+      Reboot_Upgrade_Deco_R_33: -3575807044886785744
+      Reboot_Upgrade_Deco_R_34: -2081301609754802397
+      Reboot_Upgrade_Deco_R_35: 2290386804946642179
+      Reboot_Upgrade_Deco_R_36: 8382721989174035890
+      Reboot_Upgrade_Deco_R_37: -331877544928986126
+      Reboot_Upgrade_Deco_R_38: -4395985713312509837
+      Reboot_Upgrade_Deco_R_39: -1973598907545843469
+      Reboot_Upgrade_Deco_R_4: 4434056497222406414
+      Reboot_Upgrade_Deco_R_40: 4099787963339821224
+      Reboot_Upgrade_Deco_R_41: -8840059394689137722
+      Reboot_Upgrade_Deco_R_42: 5596104370239409218
+      Reboot_Upgrade_Deco_R_43: -5605211603886692698
+      Reboot_Upgrade_Deco_R_44: 6200926743053439397
+      Reboot_Upgrade_Deco_R_45: -4065301027470162512
+      Reboot_Upgrade_Deco_R_46: -529874414854362663
+      Reboot_Upgrade_Deco_R_47: 4740748431243161266
+      Reboot_Upgrade_Deco_R_48: -3001589217596365894
+      Reboot_Upgrade_Deco_R_49: -2974121958791170151
+      Reboot_Upgrade_Deco_R_5: 7621967913715438386
+      Reboot_Upgrade_Deco_R_50: -7345651679892224494
+      Reboot_Upgrade_Deco_R_51: 7344947781072985641
+      Reboot_Upgrade_Deco_R_52: -6822552699913564680
+      Reboot_Upgrade_Deco_R_53: 6163117156150476525
+      Reboot_Upgrade_Deco_R_54: -7009271913936176822
+      Reboot_Upgrade_Deco_R_55: -2561177918449861643
+      Reboot_Upgrade_Deco_R_56: -8689380671150969884
+      Reboot_Upgrade_Deco_R_57: -4782230533616919037
+      Reboot_Upgrade_Deco_R_58: -7768009289571121663
+      Reboot_Upgrade_Deco_R_59: -7961718534427538931
+      Reboot_Upgrade_Deco_R_6: 8225462507128231330
+      Reboot_Upgrade_Deco_R_60: 8173697158777860714
+      Reboot_Upgrade_Deco_R_61: -7487448971902552601
+      Reboot_Upgrade_Deco_R_62: 3435883429185116335
+      Reboot_Upgrade_Deco_R_63: -8587933076504716284
+      Reboot_Upgrade_Deco_R_64: -1680626694286454753
+      Reboot_Upgrade_Deco_R_65: -7293311392463303196
+      Reboot_Upgrade_Deco_R_66: -8205282202947576581
+      Reboot_Upgrade_Deco_R_67: 8151158332838460305
+      Reboot_Upgrade_Deco_R_68: 8523592607522959387
+      Reboot_Upgrade_Deco_R_69: -3492129063606982389
+      Reboot_Upgrade_Deco_R_7: -7337826602682660692
+      Reboot_Upgrade_Deco_R_70: 4969468447726013523
+      Reboot_Upgrade_Deco_R_71: -8738563101342240571
+      Reboot_Upgrade_Deco_R_72: -8111225085534802492
+      Reboot_Upgrade_Deco_R_73: -3715354620895817090
+      Reboot_Upgrade_Deco_R_74: -4920071032830479109
+      Reboot_Upgrade_Deco_R_75: 5070487117574658467
+      Reboot_Upgrade_Deco_R_76: -1573252532816640532
+      Reboot_Upgrade_Deco_R_77: -7050559762152791956
+      Reboot_Upgrade_Deco_R_78: 5202886477530097153
+      Reboot_Upgrade_Deco_R_79: -2242005062324791849
+      Reboot_Upgrade_Deco_R_8: -6301562073598871261
+      Reboot_Upgrade_Deco_R_80: -6794011688994221313
+      Reboot_Upgrade_Deco_R_81: 8443893989710503587
+      Reboot_Upgrade_Deco_R_82: -2466559963270721455
+      Reboot_Upgrade_Deco_R_83: 5541096616614649511
+      Reboot_Upgrade_Deco_R_84: -7582562005521004545
+      Reboot_Upgrade_Deco_R_85: 7755233882366692472
+      Reboot_Upgrade_Deco_R_86: 665262905698463368
+      Reboot_Upgrade_Deco_R_87: -8936213862018727685
+      Reboot_Upgrade_Deco_R_88: -7130616107292644581
+      Reboot_Upgrade_Deco_R_89: 7995278365556130057
+      Reboot_Upgrade_Deco_R_9: 8017579605168497964
+      Reboot_Upgrade_Deco_R_90: 637252437080568829
+      Reboot_Upgrade_Deco_R_91: -1051819486595694107
+      Reboot_Upgrade_Deco_R_92: 8368583205842223847
+      Reboot_Upgrade_Deco_R_93: 6373803647127350557
+      Reboot_Upgrade_Deco_R_94: -7663121456822979495
+      Reboot_Upgrade_Deco_R_95: -5226949737187449634
+      Reboot_Upgrade_Deco_R_96: 6860820172778172555
+      Reboot_Upgrade_Deco_R_97: -5867837882613937867
+      Reboot_Upgrade_Deco_R_98: 5514165711994151067
+      Reboot_Upgrade_Deco_R_99: -7658927883301069763
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

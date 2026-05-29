@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: df4bf7014ee4d448989c3c820193cc66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8561606698700966894
+    second: HeroesEp2_BombFlyBoom_0
+  - first:
+      213: -9066524823320028205
+    second: HeroesEp2_BombFlyBoom_1
+  - first:
+      213: 5194756605400137723
+    second: HeroesEp2_BombFlyBoom_2
+  - first:
+      213: -642516021282042661
+    second: HeroesEp2_BombFlyBoom_3
+  - first:
+      213: 4119812501668437966
+    second: HeroesEp2_BombFlyBoom_4
+  - first:
+      213: 7353333576668870833
+    second: HeroesEp2_BombFlyBoom_5
+  - first:
+      213: 4513591485034661741
+    second: HeroesEp2_BombFlyBoom_6
+  - first:
+      213: -7189221761657425820
+    second: HeroesEp2_BombFlyBoom_7
+  - first:
+      213: 4169422232949222661
+    second: HeroesEp2_BombFlyBoom_8
+  - first:
+      213: -324717104315368041
+    second: HeroesEp2_BombFlyBoom_9
+  - first:
+      213: -4901765844479969990
+    second: HeroesEp2_BombFlyBoom_10
+  - first:
+      213: -8715757923560660215
+    second: HeroesEp2_BombFlyBoom_11
+  - first:
+      213: -5684144045355347021
+    second: HeroesEp2_BombFlyBoom_12
+  - first:
+      213: -6462146890534215403
+    second: HeroesEp2_BombFlyBoom_13
+  - first:
+      213: 8466992179756217333
+    second: HeroesEp2_BombFlyBoom_14
+  - first:
+      213: -6903210255633146553
+    second: HeroesEp2_BombFlyBoom_15
+  - first:
+      213: 7483857627609833431
+    second: HeroesEp2_BombFlyBoom_16
+  - first:
+      213: 6821540527452252619
+    second: HeroesEp2_BombFlyBoom_17
+  - first:
+      213: 1999689674932862742
+    second: HeroesEp2_BombFlyBoom_18
+  - first:
+      213: -6244153914081877073
+    second: HeroesEp2_BombFlyBoom_19
+  - first:
+      213: 3952498366891557179
+    second: HeroesEp2_BombFlyBoom_20
+  - first:
+      213: 7585618969224809235
+    second: HeroesEp2_BombFlyBoom_21
+  - first:
+      213: 3592527175418085247
+    second: HeroesEp2_BombFlyBoom_22
+  - first:
+      213: -2209435576305732158
+    second: HeroesEp2_BombFlyBoom_23
+  - first:
+      213: 7868600969395960859
+    second: HeroesEp2_BombFlyBoom_24
+  - first:
+      213: 8334999290966154038
+    second: HeroesEp2_BombFlyBoom_25
+  - first:
+      213: 990339284690274764
+    second: HeroesEp2_BombFlyBoom_26
+  - first:
+      213: 3769165472175384291
+    second: HeroesEp2_BombFlyBoom_27
+  - first:
+      213: -8935168336612534933
+    second: HeroesEp2_BombFlyBoom_28
+  - first:
+      213: -1028360298005489096
+    second: HeroesEp2_BombFlyBoom_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214f251a1101f2980800000000000000
+      internalID: -8561606698700966894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 86
+        width: 101
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db9fbea5bb3d2280800000000000000
+      internalID: -9066524823320028205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 167
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff3d7f0c9b771840800000000000000
+      internalID: 5194756605400137723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_3
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 173
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc8cf435135517f0800000000000000
+      internalID: -642516021282042661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 174
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf192f74a38c2930800000000000000
+      internalID: 4119812501668437966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_5
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 155
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8fc48ade94c0660800000000000000
+      internalID: 7353333576668870833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 127
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6708b6aa8f73ae30800000000000000
+      internalID: 4513591485034661741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 154
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460b6ecd5e0ca3c90800000000000000
+      internalID: -7189221761657425820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 133
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ded892e63ccd930800000000000000
+      internalID: 4169422232949222661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_9
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 102
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79df9c8938f5e7bf0800000000000000
+      internalID: -324717104315368041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_10
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 110
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35f0a36fed69fbb0800000000000000
+      internalID: -4901765844479969990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 107
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903eed9b8586b0780800000000000000
+      internalID: -8715757923560660215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 65
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3517c4b1ddd11b0800000000000000
+      internalID: -5684144045355347021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 80
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511205714a7d156a0800000000000000
+      internalID: -6462146890534215403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 83
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f33166078cc08570800000000000000
+      internalID: 8466992179756217333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 78
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d1727e8ded230a0800000000000000
+      internalID: -6903210255633146553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_16
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 60
+        width: 12
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df18437cd00cd760800000000000000
+      internalID: 7483857627609833431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_17
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 92
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9e8b7b7fafaae50800000000000000
+      internalID: 6821540527452252619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 53
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fb36f1a2350cb10800000000000000
+      internalID: 1999689674932862742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 67
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3e84c191f4859a0800000000000000
+      internalID: -6244153914081877073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 57
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3102edc2581ad630800000000000000
+      internalID: 3952498366891557179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 53
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b0c1e1348854960800000000000000
+      internalID: 7585618969224809235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f7bb89e683bd130800000000000000
+      internalID: 3592527175418085247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_23
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5bf28ac028651e0800000000000000
+      internalID: -2209435576305732158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_24
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cf32c54e2e23d60800000000000000
+      internalID: 7868600969395960859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b9b25c1bddba370800000000000000
+      internalID: 8334999290966154038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 31
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9041715546ebd00800000000000000
+      internalID: 990339284690274764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 41
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e66eace604ce4430800000000000000
+      internalID: 3769165472175384291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_28
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 4
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6554e70db7eff380800000000000000
+      internalID: -8935168336612534933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_BombFlyBoom_29
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 7
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a9448e1c78ab1f0800000000000000
+      internalID: -1028360298005489096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp2_BombFlyBoom_0: -8561606698700966894
+      HeroesEp2_BombFlyBoom_1: -9066524823320028205
+      HeroesEp2_BombFlyBoom_10: -4901765844479969990
+      HeroesEp2_BombFlyBoom_11: -8715757923560660215
+      HeroesEp2_BombFlyBoom_12: -5684144045355347021
+      HeroesEp2_BombFlyBoom_13: -6462146890534215403
+      HeroesEp2_BombFlyBoom_14: 8466992179756217333
+      HeroesEp2_BombFlyBoom_15: -6903210255633146553
+      HeroesEp2_BombFlyBoom_16: 7483857627609833431
+      HeroesEp2_BombFlyBoom_17: 6821540527452252619
+      HeroesEp2_BombFlyBoom_18: 1999689674932862742
+      HeroesEp2_BombFlyBoom_19: -6244153914081877073
+      HeroesEp2_BombFlyBoom_2: 5194756605400137723
+      HeroesEp2_BombFlyBoom_20: 3952498366891557179
+      HeroesEp2_BombFlyBoom_21: 7585618969224809235
+      HeroesEp2_BombFlyBoom_22: 3592527175418085247
+      HeroesEp2_BombFlyBoom_23: -2209435576305732158
+      HeroesEp2_BombFlyBoom_24: 7868600969395960859
+      HeroesEp2_BombFlyBoom_25: 8334999290966154038
+      HeroesEp2_BombFlyBoom_26: 990339284690274764
+      HeroesEp2_BombFlyBoom_27: 3769165472175384291
+      HeroesEp2_BombFlyBoom_28: -8935168336612534933
+      HeroesEp2_BombFlyBoom_29: -1028360298005489096
+      HeroesEp2_BombFlyBoom_3: -642516021282042661
+      HeroesEp2_BombFlyBoom_4: 4119812501668437966
+      HeroesEp2_BombFlyBoom_5: 7353333576668870833
+      HeroesEp2_BombFlyBoom_6: 4513591485034661741
+      HeroesEp2_BombFlyBoom_7: -7189221761657425820
+      HeroesEp2_BombFlyBoom_8: 4169422232949222661
+      HeroesEp2_BombFlyBoom_9: -324717104315368041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

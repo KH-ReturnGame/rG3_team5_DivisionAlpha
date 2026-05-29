@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: cb7d135506ebb40dea00137e4dbd68d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1384091274296463963
+    second: Elf2024_minion3_cast_glow_0
+  - first:
+      213: 3069835257064125122
+    second: Elf2024_minion3_cast_glow_1
+  - first:
+      213: 2126874339076254176
+    second: Elf2024_minion3_cast_glow_2
+  - first:
+      213: 2235830845401174971
+    second: Elf2024_minion3_cast_glow_3
+  - first:
+      213: -3516282716162438565
+    second: Elf2024_minion3_cast_glow_4
+  - first:
+      213: -8869761371530019035
+    second: Elf2024_minion3_cast_glow_5
+  - first:
+      213: 2885665807093312970
+    second: Elf2024_minion3_cast_glow_6
+  - first:
+      213: 2354248522423593780
+    second: Elf2024_minion3_cast_glow_7
+  - first:
+      213: -63142183568130838
+    second: Elf2024_minion3_cast_glow_8
+  - first:
+      213: 6391553967527803745
+    second: Elf2024_minion3_cast_glow_9
+  - first:
+      213: 8856502511311939217
+    second: Elf2024_minion3_cast_glow_10
+  - first:
+      213: -7008172028750684411
+    second: Elf2024_minion3_cast_glow_11
+  - first:
+      213: 6862604380616814991
+    second: Elf2024_minion3_cast_glow_12
+  - first:
+      213: 4856241301711337562
+    second: Elf2024_minion3_cast_glow_13
+  - first:
+      213: -354977821642402103
+    second: Elf2024_minion3_cast_glow_14
+  - first:
+      213: -6291641300408909081
+    second: Elf2024_minion3_cast_glow_15
+  - first:
+      213: 4032211934814165983
+    second: Elf2024_minion3_cast_glow_16
+  - first:
+      213: -2381073121911525484
+    second: Elf2024_minion3_cast_glow_17
+  - first:
+      213: 5916165536335400488
+    second: Elf2024_minion3_cast_glow_18
+  - first:
+      213: -923740733382977263
+    second: Elf2024_minion3_cast_glow_19
+  - first:
+      213: 4727708594409762965
+    second: Elf2024_minion3_cast_glow_20
+  - first:
+      213: 2233116199753064469
+    second: Elf2024_minion3_cast_glow_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 179
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5298254ea7453310800000000000000
+      internalID: 1384091274296463963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_1
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 179
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2f640d6ee3a9a20800000000000000
+      internalID: 3069835257064125122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 179
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9a88651fc248d10800000000000000
+      internalID: 2126874339076254176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_3
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 179
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb39ff5de44470f10800000000000000
+      internalID: 2235830845401174971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_4
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 179
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5aca4def77a33fc0800000000000000
+      internalID: -3516282716162438565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_5
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 91
+        width: 46
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52fb87fc60748e480800000000000000
+      internalID: -8869761371530019035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_6
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 179
+        width: 62
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acda94c33c1fb0820800000000000000
+      internalID: 2885665807093312970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_7
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 91
+        width: 43
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43beb0cce88fba020800000000000000
+      internalID: 2354248522423593780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 89
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec3412c48caf1ff0800000000000000
+      internalID: -63142183568130838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 89
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16bbb35387c53b850800000000000000
+      internalID: 6391553967527803745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_10
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 89
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1966a1b3c1e98ea70800000000000000
+      internalID: 8856502511311939217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 89
+        width: 70
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f9c75bba8fdbe90800000000000000
+      internalID: -7008172028750684411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 111
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8174b4135edc3f50800000000000000
+      internalID: 6862604380616814991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_13
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 110
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58b5140cb5d46340800000000000000
+      internalID: 4856241301711337562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_14
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 101
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6dcdd4d8dd21bf0800000000000000
+      internalID: -354977821642402103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 52
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e243f262999fa8a0800000000000000
+      internalID: -6291641300408909081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 66
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb50b1246b45f730800000000000000
+      internalID: 4032211934814165983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 78
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49fab307c9ab4fed0800000000000000
+      internalID: -2381073121911525484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_18
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 58
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e0ea9c5317a1250800000000000000
+      internalID: 5916165536335400488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 119162a72b63e23f0800000000000000
+      internalID: -923740733382977263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590fa5b0be13c9140800000000000000
+      internalID: 4727708594409762965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf2024_minion3_cast_glow_21
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510a3742a5f9dfe10800000000000000
+      internalID: 2233116199753064469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elf2024_minion3_cast_glow_0: 1384091274296463963
+      Elf2024_minion3_cast_glow_1: 3069835257064125122
+      Elf2024_minion3_cast_glow_10: 8856502511311939217
+      Elf2024_minion3_cast_glow_11: -7008172028750684411
+      Elf2024_minion3_cast_glow_12: 6862604380616814991
+      Elf2024_minion3_cast_glow_13: 4856241301711337562
+      Elf2024_minion3_cast_glow_14: -354977821642402103
+      Elf2024_minion3_cast_glow_15: -6291641300408909081
+      Elf2024_minion3_cast_glow_16: 4032211934814165983
+      Elf2024_minion3_cast_glow_17: -2381073121911525484
+      Elf2024_minion3_cast_glow_18: 5916165536335400488
+      Elf2024_minion3_cast_glow_19: -923740733382977263
+      Elf2024_minion3_cast_glow_2: 2126874339076254176
+      Elf2024_minion3_cast_glow_20: 4727708594409762965
+      Elf2024_minion3_cast_glow_21: 2233116199753064469
+      Elf2024_minion3_cast_glow_3: 2235830845401174971
+      Elf2024_minion3_cast_glow_4: -3516282716162438565
+      Elf2024_minion3_cast_glow_5: -8869761371530019035
+      Elf2024_minion3_cast_glow_6: 2885665807093312970
+      Elf2024_minion3_cast_glow_7: 2354248522423593780
+      Elf2024_minion3_cast_glow_8: -63142183568130838
+      Elf2024_minion3_cast_glow_9: 6391553967527803745
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

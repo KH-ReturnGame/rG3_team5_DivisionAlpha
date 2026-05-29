@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: cdce52d8fb0b14bc2b30535d86149cca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7734875146516313021
+    second: YANAH2_Skill_FrogTurret_red_0
+  - first:
+      213: 4868038674070158013
+    second: YANAH2_Skill_FrogTurret_red_1
+  - first:
+      213: 8791865163590824224
+    second: YANAH2_Skill_FrogTurret_red_2
+  - first:
+      213: 3100000773976218365
+    second: YANAH2_Skill_FrogTurret_red_3
+  - first:
+      213: 7706679872536941946
+    second: YANAH2_Skill_FrogTurret_red_4
+  - first:
+      213: 4866283089407428676
+    second: YANAH2_Skill_FrogTurret_red_5
+  - first:
+      213: 8879220953556888334
+    second: YANAH2_Skill_FrogTurret_red_6
+  - first:
+      213: -3946756375976115222
+    second: YANAH2_Skill_FrogTurret_red_7
+  - first:
+      213: 1169681493282709287
+    second: YANAH2_Skill_FrogTurret_red_8
+  - first:
+      213: 88678818417814153
+    second: YANAH2_Skill_FrogTurret_red_9
+  - first:
+      213: 1866321114321168650
+    second: YANAH2_Skill_FrogTurret_red_10
+  - first:
+      213: -8765089037234014446
+    second: YANAH2_Skill_FrogTurret_red_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogTurret_red_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34cc5ed090438a490800000000000000
+      internalID: -7734875146516313021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogTurret_red_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 68
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbab0d0d16fbe8340800000000000000
+      internalID: 4868038674070158013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogTurret_red_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 68
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02176f4f8caf20a70800000000000000
+      internalID: 8791865163590824224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogTurret_red_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 68
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfad948874a650b20800000000000000
+      internalID: 3100000773976218365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogTurret_red_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 37
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7597382380a3fa60800000000000000
+      internalID: 7706679872536941946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogTurret_red_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 37
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 448ce98efa2888340800000000000000
+      internalID: 4866283089407428676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogTurret_red_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 37
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ba6f2c964593b70800000000000000
+      internalID: 8879220953556888334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogTurret_red_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 37
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae38fe2acfd4a39c0800000000000000
+      internalID: -3946756375976115222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogTurret_red_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 6
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72fd673fe1b8b3010800000000000000
+      internalID: 1169681493282709287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogTurret_red_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 6
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a25ee5aec0b3100800000000000000
+      internalID: 88678818417814153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogTurret_red_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 6
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09acef4a2186e910800000000000000
+      internalID: 1866321114321168650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogTurret_red_11
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 6
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217fef6c5f52c5680800000000000000
+      internalID: -8765089037234014446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YANAH2_Skill_FrogTurret_red_0: -7734875146516313021
+      YANAH2_Skill_FrogTurret_red_1: 4868038674070158013
+      YANAH2_Skill_FrogTurret_red_10: 1866321114321168650
+      YANAH2_Skill_FrogTurret_red_11: -8765089037234014446
+      YANAH2_Skill_FrogTurret_red_2: 8791865163590824224
+      YANAH2_Skill_FrogTurret_red_3: 3100000773976218365
+      YANAH2_Skill_FrogTurret_red_4: 7706679872536941946
+      YANAH2_Skill_FrogTurret_red_5: 4866283089407428676
+      YANAH2_Skill_FrogTurret_red_6: 8879220953556888334
+      YANAH2_Skill_FrogTurret_red_7: -3946756375976115222
+      YANAH2_Skill_FrogTurret_red_8: 1169681493282709287
+      YANAH2_Skill_FrogTurret_red_9: 88678818417814153
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
