@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+
+[Serializable]
 public class CraftingTableStat
 {
     public string name;
@@ -8,14 +10,11 @@ public class CraftingTableStat
     public int Default;
     public float[] values;
     public string[] displayValues;
+    public int type;
 }
 
 public class CraftingTableDB : MonoBehaviour
 {
-    public List<KeyValuePair<string, CraftingTableStat>> GetMetadataPool()
-    {
-        return new List<KeyValuePair<string, CraftingTableStat>>(metadataDict);
-    }
     public PlayerData PlayerData = new PlayerData();
     private Dictionary<string, int> playerCraftingTable = new Dictionary<string, int>();
 
@@ -25,6 +24,7 @@ public class CraftingTableDB : MonoBehaviour
             "breakBlock", new CraftingTableStat
             {
                 name = "방해물 격파",
+                //type = 1,
                 lore = "오브젝트에 가하는 공격력이 {0} 증가합니다.",
                 Default = 0,
                 values = new float[] { 2f, 3f, 6f, 11f },
@@ -35,6 +35,7 @@ public class CraftingTableDB : MonoBehaviour
             "lightChairFrame", new CraftingTableStat
             {
                 name = "가벼운 체어 프레임",
+                //type = 1,
                 lore = "의자 휘두르기의 쿨타임이 {0} 감소합니다.",
                 Default = 0,
                 values = new float[] { .9f, .75f, .6f, .4f },
@@ -45,6 +46,7 @@ public class CraftingTableDB : MonoBehaviour
             "chairFrameRainforce", new CraftingTableStat 
             {
                 name = "체어 프레임 강화",
+                //type = 1,
                 lore = "의자 휘두르기의 공격력이 {0} 증가합니다.",
                 Default = 0,
                 values = new float[] { 1.1f, 1.25f, 1.4f, 1.6f },
@@ -55,6 +57,7 @@ public class CraftingTableDB : MonoBehaviour
             "plannedMistakes", new CraftingTableStat 
             {
                 name = "계획된 실수",
+                //type = 1,
                 lore = "의자 찌르기가 쿨타임일 경우 의자 휘두르기의 공격력이 {0} 증가합니다.",
                 Default = 2,
                 values = new float[] { 0f, 0f, 1.5f, 2f },
@@ -65,6 +68,7 @@ public class CraftingTableDB : MonoBehaviour
             "chainRush", new CraftingTableStat 
             {
                 name = "체인 러쉬",
+                //type = 1,
                 lore = "좀비에게 의자 휘두르기 명중 시 2초 간 크리티컬 테미지가 {0} 증가합니다.(최대 중첩 5회)",
                 Default = 2,
                 values = new float[] { 0f, 0f, 1.25f, 1.5f },
@@ -75,6 +79,7 @@ public class CraftingTableDB : MonoBehaviour
             "lightHandel", new CraftingTableStat 
             {
                 name = "가벼운 손잡이",
+                //type = 1,
                 lore = "의자 찌르기의 쿨타임이 {0} 감소합니다.",
                 Default = 0,
                 values = new float[] { .9f, .8f, .7f, .6f },
@@ -85,6 +90,7 @@ public class CraftingTableDB : MonoBehaviour
             "sharpnessChairFrame", new CraftingTableStat 
             {
                 name = "날카로운 체어 프레임",
+                //type = 1,
                 lore = "의자 찌르기의 공격력이 {0} 증가합니다.",
                 Default = 0,
                 values = new float[] { 1.1f, 1.25f, 1.4f, 1.6f },
@@ -95,6 +101,7 @@ public class CraftingTableDB : MonoBehaviour
             "tacticalRetreat", new CraftingTableStat 
             {
                 name = "전략적 후퇴",
+                //type = 1,
                 lore = "좀비에게 의자 찌르기 명중 시 {0}초 간 이동속도가 15% 증가합니다.",
                 Default = 0,
                 values = new float[] { 2f, 3f, 4f, 6f },
@@ -105,6 +112,7 @@ public class CraftingTableDB : MonoBehaviour
             "fastReady", new CraftingTableStat 
             {
                 name = "빠른 준비",
+                //type = 1,
                 lore = "의자 찌르기로 카운터에 성공했을 경우 의자 찌르기의 쿨타임이 {0} 증가합니다.(최대 중첩 5회)",
                 Default = 1,
                 values = new float[] { 0f, 0.5f, .25f, 0f },
@@ -115,6 +123,7 @@ public class CraftingTableDB : MonoBehaviour
             "breakthrough", new CraftingTableStat 
             {
                 name = "빈틈 돌파",
+                //type = 1,
                 lore = "의자 찌르기로 카운터에 성공했을 경우 {0}초 무적 상태가 됩니다.",
                 Default = 1,
                 values = new float[] { 0f, 0f, 1f, 2f },
@@ -122,10 +131,40 @@ public class CraftingTableDB : MonoBehaviour
             }
         },
     };
+
+    private void Awake()
+    {
+        foreach (var pair in metadataDict)
+        {
+            if (!playerCraftingTable.ContainsKey(pair.Key))
+            {
+                playerCraftingTable.Add(pair.Key, pair.Value.Default);
+            }
+        }
+    }
+
+    public int GetCurrentLevel(string stat)
+    {
+        if (playerCraftingTable.ContainsKey(stat))
+        {
+            return playerCraftingTable[stat];
+        }
+        return 0; 
+    }
+
+    public List<KeyValuePair<string, CraftingTableStat>> GetMetadataPool()
+    {
+        return new List<KeyValuePair<string, CraftingTableStat>>(metadataDict);
+    }
+
     public void UpgradeStat(string stat)
     {
+        if (!metadataDict.ContainsKey(stat)) return;
+
         CraftingTableStat targetData = metadataDict[stat];
         int currentLevel = playerCraftingTable[stat];
+
+        if (currentLevel >= targetData.values.Length) return; // 최대 레벨 도달 시 업그레이드 불가
 
         float nextValue = targetData.values[currentLevel];
 
@@ -133,13 +172,8 @@ public class CraftingTableDB : MonoBehaviour
         if (propertyInfo != null)
         {
             propertyInfo.SetValue(PlayerData, nextValue);
-            playerCraftingTable[stat]++; // 레벨 증가
-
-            // 텍스트 조립
-            string displayPercent = targetData.displayValues[currentLevel];
-            string finalLoreText = string.Format(targetData.lore, displayPercent);
-
-            // tmpro
+            playerCraftingTable[stat]++;
+            Debug.Log($"{targetData.name} -> {currentLevel + 1}({nextValue})");
         }
     }
 }
