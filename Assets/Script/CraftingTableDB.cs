@@ -15,6 +15,7 @@ public class CraftingTableStat
 
 public class CraftingTableDB : MonoBehaviour
 {
+    //여기부분일거임 PlayerData.cs 초기화 해야함
     public PlayerData PlayerData = new PlayerData();
     private Dictionary<string, int> playerCraftingTable = new Dictionary<string, int>();
 
@@ -69,7 +70,7 @@ public class CraftingTableDB : MonoBehaviour
             {
                 name = "체인 러쉬",
                 //type = 1,
-                lore = "좀비에게 의자 휘두르기 명중 시 2초 간 크리티컬 테미지가 {0} 증가합니다.(최대 중첩 5회)",
+                lore = "좀비에게 의자 휘두르기 명중 시 2초 간 크리티컬 데미지가 {0} 증가합니다.(최대 중첩 5회)",
                 Default = 2,
                 values = new float[] { 0f, 0f, 1.25f, 1.5f },
                 displayValues = new string[] {"", "", "25%", "50%"}
@@ -113,7 +114,7 @@ public class CraftingTableDB : MonoBehaviour
             {
                 name = "빠른 준비",
                 //type = 1,
-                lore = "의자 찌르기로 카운터에 성공했을 경우 의자 찌르기의 쿨타임이 {0} 증가합니다.(최대 중첩 5회)",
+                lore = "의자 찌르기로 카운터에 성공했을 경우 의자 찌르기의 쿨타임이 {0} 안 증가합니다.(최대 중첩 5회)",
                 Default = 1,
                 values = new float[] { 0f, 0.5f, .25f, 0f },
                 displayValues = new string[] {"", "50%", "75%", "100%"}
