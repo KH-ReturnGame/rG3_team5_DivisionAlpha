@@ -6,6 +6,7 @@ using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
+    
     private bool _isMoving;
     private Vector3 _origPos, _targetPos;
     private float _timeToMove = 0.13f;
@@ -54,6 +55,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        
         // 쿨타임 타이머가 작동 중일 때만 UI를 갱신하도록 변경 (매 프레임 덮어쓰기 방지)
         if (_swingCooldownTimer > 0)
         {
