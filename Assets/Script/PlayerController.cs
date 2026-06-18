@@ -1,3 +1,6 @@
+/////////////화살이 시발 발사되는게 아니라 그냥 화살로 찌르는데 이거 수정
+
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
