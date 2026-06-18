@@ -198,3 +198,5 @@ public class ZombieAIWithCounter : MonoBehaviour
         _spriteRenderer.sortingOrder = 100 - currentGridY;
     }
 }
+//김도윤 바보ㅋ
+//미교롱 뒷공부 그만
