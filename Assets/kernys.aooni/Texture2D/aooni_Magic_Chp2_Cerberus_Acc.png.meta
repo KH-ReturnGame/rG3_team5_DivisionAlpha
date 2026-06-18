@@ -1,0 +1,390 @@
+fileFormatVersion: 2
+guid: 73821f2e7522c2f4ea780724960f4b4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8103608513108267639
+    second: aooni_Magic_Chp2_Cerberus_Acc_0
+  - first:
+      213: 9161206645279973407
+    second: aooni_Magic_Chp2_Cerberus_Acc_1
+  - first:
+      213: 6726925756814800169
+    second: aooni_Magic_Chp2_Cerberus_Acc_2
+  - first:
+      213: -9050170220214553027
+    second: aooni_Magic_Chp2_Cerberus_Acc_3
+  - first:
+      213: 8973948052735217159
+    second: aooni_Magic_Chp2_Cerberus_Acc_4
+  - first:
+      213: -1194604520727764053
+    second: aooni_Magic_Chp2_Cerberus_Acc_5
+  - first:
+      213: 2612758230317703376
+    second: aooni_Magic_Chp2_Cerberus_Acc_6
+  - first:
+      213: 4697699524446325938
+    second: aooni_Magic_Chp2_Cerberus_Acc_7
+  - first:
+      213: -4612024992572643624
+    second: aooni_Magic_Chp2_Cerberus_Acc_8
+  - first:
+      213: 4617823214043694419
+    second: aooni_Magic_Chp2_Cerberus_Acc_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Acc_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 147
+        width: 118
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77256a6020dc57070800000000000000
+      internalID: 8103608513108267639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Acc_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 228
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f106cddd7e4232f70800000000000000
+      internalID: 9161206645279973407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Acc_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 160
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9253f55c557da5d50800000000000000
+      internalID: 6726925756814800169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Acc_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 58
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36fa437226576280800000000000000
+      internalID: -9050170220214553027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Acc_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 71
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e471c353ed98c70800000000000000
+      internalID: 8973948052735217159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Acc_5
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 37
+        width: 39
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba322f68489eb6fe0800000000000000
+      internalID: -1194604520727764053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Acc_6
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 80
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0a01a74c1624420800000000000000
+      internalID: 2612758230317703376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Acc_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 76
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc0528f3d4913140800000000000000
+      internalID: 4697699524446325938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Acc_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 41
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d6eb7e64bbceffb0800000000000000
+      internalID: -4612024992572643624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp2_Cerberus_Acc_9
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 34
+        width: 82
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35580a43fbdc51040800000000000000
+      internalID: 4617823214043694419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aooni_Magic_Chp2_Cerberus_Acc_0: 8103608513108267639
+      aooni_Magic_Chp2_Cerberus_Acc_1: 9161206645279973407
+      aooni_Magic_Chp2_Cerberus_Acc_2: 6726925756814800169
+      aooni_Magic_Chp2_Cerberus_Acc_3: -9050170220214553027
+      aooni_Magic_Chp2_Cerberus_Acc_4: 8973948052735217159
+      aooni_Magic_Chp2_Cerberus_Acc_5: -1194604520727764053
+      aooni_Magic_Chp2_Cerberus_Acc_6: 2612758230317703376
+      aooni_Magic_Chp2_Cerberus_Acc_7: 4697699524446325938
+      aooni_Magic_Chp2_Cerberus_Acc_8: -4612024992572643624
+      aooni_Magic_Chp2_Cerberus_Acc_9: 4617823214043694419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

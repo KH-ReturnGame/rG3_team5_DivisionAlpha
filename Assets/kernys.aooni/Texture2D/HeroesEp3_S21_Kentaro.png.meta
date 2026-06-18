@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 4a675fcdc8718444e8df94d941e4c735
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6017833603253191542
+    second: HeroesEp3_S21_Kentaro_0
+  - first:
+      213: -7439200912781435929
+    second: HeroesEp3_S21_Kentaro_1
+  - first:
+      213: 4205323200966924260
+    second: HeroesEp3_S21_Kentaro_2
+  - first:
+      213: 5530228537869051866
+    second: HeroesEp3_S21_Kentaro_3
+  - first:
+      213: 980543979613504526
+    second: HeroesEp3_S21_Kentaro_4
+  - first:
+      213: -4525560770830687287
+    second: HeroesEp3_S21_Kentaro_5
+  - first:
+      213: -7684095851908802822
+    second: HeroesEp3_S21_Kentaro_6
+  - first:
+      213: -2265055931854339959
+    second: HeroesEp3_S21_Kentaro_7
+  - first:
+      213: -7780821870846414238
+    second: HeroesEp3_S21_Kentaro_8
+  - first:
+      213: -4308203933837746394
+    second: HeroesEp3_S21_Kentaro_9
+  - first:
+      213: -5557809051403417301
+    second: HeroesEp3_S21_Kentaro_10
+  - first:
+      213: -3659369977599162220
+    second: HeroesEp3_S21_Kentaro_11
+  - first:
+      213: -8105428263287545025
+    second: HeroesEp3_S21_Kentaro_12
+  - first:
+      213: -5919100000178911733
+    second: HeroesEp3_S21_Kentaro_13
+  - first:
+      213: 8932055999724235018
+    second: HeroesEp3_S21_Kentaro_14
+  - first:
+      213: 3794699204590461614
+    second: HeroesEp3_S21_Kentaro_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 187
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c3fa0c83c5c7ca0800000000000000
+      internalID: -6017833603253191542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 187
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb96e43f26a2c890800000000000000
+      internalID: -7439200912781435929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 187
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e79757ab2f4c5a30800000000000000
+      internalID: 4205323200966924260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 187
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7a9660e815fbc40800000000000000
+      internalID: 5530228537869051866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 125
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04c287ed879b9d00800000000000000
+      internalID: 980543979613504526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 125
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3a135d47af131c0800000000000000
+      internalID: -4525560770830687287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 125
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af65ce6e88b9c5590800000000000000
+      internalID: -7684095851908802822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 125
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9804e6971a7e090e0800000000000000
+      internalID: -2265055931854339959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262fb97abb7f40490800000000000000
+      internalID: -7780821870846414238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_9
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 63
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f19a7195f2634c0800000000000000
+      internalID: -4308203933837746394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 63
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2906a14d12bed2b0800000000000000
+      internalID: -5557809051403417301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_11
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 63
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498097fb46e473dc0800000000000000
+      internalID: -3659369977599162220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33a55e50fbb38f80800000000000000
+      internalID: -8105428263287545025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_13
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06425b19e12bdda0800000000000000
+      internalID: -5919100000178911733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09a5719b9905fb70800000000000000
+      internalID: 8932055999724235018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S21_Kentaro_15
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2621742da79a430800000000000000
+      internalID: 3794699204590461614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp3_S21_Kentaro_0: -6017833603253191542
+      HeroesEp3_S21_Kentaro_1: -7439200912781435929
+      HeroesEp3_S21_Kentaro_10: -5557809051403417301
+      HeroesEp3_S21_Kentaro_11: -3659369977599162220
+      HeroesEp3_S21_Kentaro_12: -8105428263287545025
+      HeroesEp3_S21_Kentaro_13: -5919100000178911733
+      HeroesEp3_S21_Kentaro_14: 8932055999724235018
+      HeroesEp3_S21_Kentaro_15: 3794699204590461614
+      HeroesEp3_S21_Kentaro_2: 4205323200966924260
+      HeroesEp3_S21_Kentaro_3: 5530228537869051866
+      HeroesEp3_S21_Kentaro_4: 980543979613504526
+      HeroesEp3_S21_Kentaro_5: -4525560770830687287
+      HeroesEp3_S21_Kentaro_6: -7684095851908802822
+      HeroesEp3_S21_Kentaro_7: -2265055931854339959
+      HeroesEp3_S21_Kentaro_8: -7780821870846414238
+      HeroesEp3_S21_Kentaro_9: -4308203933837746394
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

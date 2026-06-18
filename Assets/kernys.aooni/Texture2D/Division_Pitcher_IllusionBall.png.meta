@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 2338a2a40bee6c64e9094f27c625ad1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3331083685200293363
+    second: Division_Pitcher_IllusionBall_0
+  - first:
+      213: -10928915035544396
+    second: Division_Pitcher_IllusionBall_1
+  - first:
+      213: 6546438308152049935
+    second: Division_Pitcher_IllusionBall_2
+  - first:
+      213: -4362479560249858725
+    second: Division_Pitcher_IllusionBall_3
+  - first:
+      213: -3768047461522543958
+    second: Division_Pitcher_IllusionBall_4
+  - first:
+      213: 5766944353467279839
+    second: Division_Pitcher_IllusionBall_5
+  - first:
+      213: 7187185181093908709
+    second: Division_Pitcher_IllusionBall_6
+  - first:
+      213: 1267364736453731159
+    second: Division_Pitcher_IllusionBall_7
+  - first:
+      213: -1283932646743337540
+    second: Division_Pitcher_IllusionBall_8
+  - first:
+      213: 1570760171877451154
+    second: Division_Pitcher_IllusionBall_9
+  - first:
+      213: -5747154488311096040
+    second: Division_Pitcher_IllusionBall_10
+  - first:
+      213: 7534518772207576140
+    second: Division_Pitcher_IllusionBall_11
+  - first:
+      213: -9090525007872655724
+    second: Division_Pitcher_IllusionBall_12
+  - first:
+      213: 5330301848958517216
+    second: Division_Pitcher_IllusionBall_13
+  - first:
+      213: -5644157818770119431
+    second: Division_Pitcher_IllusionBall_14
+  - first:
+      213: 226290240992107821
+    second: Division_Pitcher_IllusionBall_15
+  - first:
+      213: 4689483370215408134
+    second: Division_Pitcher_IllusionBall_16
+  - first:
+      213: -5144459809283797255
+    second: Division_Pitcher_IllusionBall_17
+  - first:
+      213: 1502615593450200650
+    second: Division_Pitcher_IllusionBall_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d029982890d95c1d0800000000000000
+      internalID: -3331083685200293363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4a68da53c29dff0800000000000000
+      internalID: -10928915035544396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01896de4fe99da50800000000000000
+      internalID: 6546438308152049935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55a76f04fb5573c0800000000000000
+      internalID: -4362479560249858725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 163
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaae2273cc435bbc0800000000000000
+      internalID: -3768047461522543958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_5
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 113
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9acdbb55d480050800000000000000
+      internalID: 5766944353467279839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 173
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e0dd06c7d20eb360800000000000000
+      internalID: 7187185181093908709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 173
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7536e255385969110800000000000000
+      internalID: 1267364736453731159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb516537f0e8e2ee0800000000000000
+      internalID: -1283932646743337540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 97
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2954618dd067cc510800000000000000
+      internalID: 1570760171877451154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_10
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ddcee41710e30b0800000000000000
+      internalID: -5747154488311096040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 146
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44e1fa57ecff8860800000000000000
+      internalID: 7534518772207576140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 149
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ef1f34ba7f7d180800000000000000
+      internalID: -9090525007872655724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 103
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efb7cc5a4909f940800000000000000
+      internalID: 5330301848958517216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 119
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4a6fb2e5ceba1b0800000000000000
+      internalID: -5644157818770119431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_15
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 113
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2dd87676c1f32300800000000000000
+      internalID: 226290240992107821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 106
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6028acd7744641140800000000000000
+      internalID: 4689483370215408134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe8d5a5f053b98b0800000000000000
+      internalID: -5144459809283797255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Pitcher_IllusionBall_18
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4edf89cbec5ad410800000000000000
+      internalID: 1502615593450200650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Pitcher_IllusionBall_0: -3331083685200293363
+      Division_Pitcher_IllusionBall_1: -10928915035544396
+      Division_Pitcher_IllusionBall_10: -5747154488311096040
+      Division_Pitcher_IllusionBall_11: 7534518772207576140
+      Division_Pitcher_IllusionBall_12: -9090525007872655724
+      Division_Pitcher_IllusionBall_13: 5330301848958517216
+      Division_Pitcher_IllusionBall_14: -5644157818770119431
+      Division_Pitcher_IllusionBall_15: 226290240992107821
+      Division_Pitcher_IllusionBall_16: 4689483370215408134
+      Division_Pitcher_IllusionBall_17: -5144459809283797255
+      Division_Pitcher_IllusionBall_18: 1502615593450200650
+      Division_Pitcher_IllusionBall_2: 6546438308152049935
+      Division_Pitcher_IllusionBall_3: -4362479560249858725
+      Division_Pitcher_IllusionBall_4: -3768047461522543958
+      Division_Pitcher_IllusionBall_5: 5766944353467279839
+      Division_Pitcher_IllusionBall_6: 7187185181093908709
+      Division_Pitcher_IllusionBall_7: 1267364736453731159
+      Division_Pitcher_IllusionBall_8: -1283932646743337540
+      Division_Pitcher_IllusionBall_9: 1570760171877451154
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

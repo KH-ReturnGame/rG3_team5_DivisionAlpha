@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: ac0d22aa7f4730c4b9bc02f433ac42d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7720205462834508629
+    second: Division_Chairman_Poking_ultimate_0
+  - first:
+      213: -5222162655161341833
+    second: Division_Chairman_Poking_ultimate_1
+  - first:
+      213: -3996513008727002636
+    second: Division_Chairman_Poking_ultimate_2
+  - first:
+      213: 1251046048930824572
+    second: Division_Chairman_Poking_ultimate_3
+  - first:
+      213: -5873448333658885463
+    second: Division_Chairman_Poking_ultimate_4
+  - first:
+      213: 8918295226624075734
+    second: Division_Chairman_Poking_ultimate_5
+  - first:
+      213: 5874457675183306662
+    second: Division_Chairman_Poking_ultimate_6
+  - first:
+      213: -2817746348199884227
+    second: Division_Chairman_Poking_ultimate_7
+  - first:
+      213: 7539982821417965681
+    second: Division_Chairman_Poking_ultimate_8
+  - first:
+      213: 6464718617567442088
+    second: Division_Chairman_Poking_ultimate_9
+  - first:
+      213: 3535839964937402952
+    second: Division_Chairman_Poking_ultimate_10
+  - first:
+      213: -6499238191504628735
+    second: Division_Chairman_Poking_ultimate_11
+  - first:
+      213: -3732167407666003102
+    second: Division_Chairman_Poking_ultimate_12
+  - first:
+      213: -1997654890589339808
+    second: Division_Chairman_Poking_ultimate_13
+  - first:
+      213: 8247319691629340938
+    second: Division_Chairman_Poking_ultimate_14
+  - first:
+      213: 5044608893995090533
+    second: Division_Chairman_Poking_ultimate_15
+  - first:
+      213: 3101500994329948384
+    second: Division_Chairman_Poking_ultimate_16
+  - first:
+      213: -1904530946639117263
+    second: Division_Chairman_Poking_ultimate_17
+  - first:
+      213: -898780680577226232
+    second: Division_Chairman_Poking_ultimate_18
+  - first:
+      213: 5336887974438577401
+    second: Division_Chairman_Poking_ultimate_19
+  - first:
+      213: 5659997786480806179
+    second: Division_Chairman_Poking_ultimate_20
+  - first:
+      213: -6574559218319601810
+    second: Division_Chairman_Poking_ultimate_21
+  - first:
+      213: -8242862180878520065
+    second: Division_Chairman_Poking_ultimate_22
+  - first:
+      213: -9053331835064894993
+    second: Division_Chairman_Poking_ultimate_23
+  - first:
+      213: -1544192788305834672
+    second: Division_Chairman_Poking_ultimate_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 224
+        width: 118
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac08b2f8025cd490800000000000000
+      internalID: -7720205462834508629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 181
+        width: 102
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7782ccbbbb62787b0800000000000000
+      internalID: -5222162655161341833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 132
+        width: 121
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1799ec7988988c0800000000000000
+      internalID: -3996513008727002636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 113
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c718d20d0cb9c5110800000000000000
+      internalID: 1251046048930824572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 117
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2f6a10cd15d7ea0800000000000000
+      internalID: -5873448333658885463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_5
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 114
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d76df8e14624cb70800000000000000
+      internalID: 8918295226624075734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a73e51a124468150800000000000000
+      internalID: 5874457675183306662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_7
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 100
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a446810aa55e8d0800000000000000
+      internalID: -2817746348199884227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 86
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1785a237d6663a860800000000000000
+      internalID: 7539982821417965681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_9
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 92
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a436f4c45b47b950800000000000000
+      internalID: 6464718617567442088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 74
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a39b4e6b3d11130800000000000000
+      internalID: 3535839964937402952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 62
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104e6bc9c411ec5a0800000000000000
+      internalID: -6499238191504628735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 73
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26307cf348da43cc0800000000000000
+      internalID: -3732167407666003102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 49
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fb9960677e644e0800000000000000
+      internalID: -1997654890589339808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 76
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09a6a8309d547270800000000000000
+      internalID: 8247319691629340938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 35
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5628a55cf0d020640800000000000000
+      internalID: 5044608893995090533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_16
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 51
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0be8dc8beba0b20800000000000000
+      internalID: 3101500994329948384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_17
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 52
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13446d5d13fb195e0800000000000000
+      internalID: -1904530946639117263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_18
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 44
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ae533abb3e683f0800000000000000
+      internalID: -898780680577226232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_19
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f42772365f601a40800000000000000
+      internalID: 5336887974438577401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_20
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 23
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3298fa4bff95c8e40800000000000000
+      internalID: 5659997786480806179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_21
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 26
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f4a45793972c4a0800000000000000
+      internalID: -6574559218319601810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_22
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1
+        width: 70
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0fb30e4887b9d80800000000000000
+      internalID: -8242862180878520065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9b831a9aa1c5280800000000000000
+      internalID: -9053331835064894993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Poking_ultimate_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d8f4c27dce19ae0800000000000000
+      internalID: -1544192788305834672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Chairman_Poking_ultimate_0: -7720205462834508629
+      Division_Chairman_Poking_ultimate_1: -5222162655161341833
+      Division_Chairman_Poking_ultimate_10: 3535839964937402952
+      Division_Chairman_Poking_ultimate_11: -6499238191504628735
+      Division_Chairman_Poking_ultimate_12: -3732167407666003102
+      Division_Chairman_Poking_ultimate_13: -1997654890589339808
+      Division_Chairman_Poking_ultimate_14: 8247319691629340938
+      Division_Chairman_Poking_ultimate_15: 5044608893995090533
+      Division_Chairman_Poking_ultimate_16: 3101500994329948384
+      Division_Chairman_Poking_ultimate_17: -1904530946639117263
+      Division_Chairman_Poking_ultimate_18: -898780680577226232
+      Division_Chairman_Poking_ultimate_19: 5336887974438577401
+      Division_Chairman_Poking_ultimate_2: -3996513008727002636
+      Division_Chairman_Poking_ultimate_20: 5659997786480806179
+      Division_Chairman_Poking_ultimate_21: -6574559218319601810
+      Division_Chairman_Poking_ultimate_22: -8242862180878520065
+      Division_Chairman_Poking_ultimate_23: -9053331835064894993
+      Division_Chairman_Poking_ultimate_24: -1544192788305834672
+      Division_Chairman_Poking_ultimate_3: 1251046048930824572
+      Division_Chairman_Poking_ultimate_4: -5873448333658885463
+      Division_Chairman_Poking_ultimate_5: 8918295226624075734
+      Division_Chairman_Poking_ultimate_6: 5874457675183306662
+      Division_Chairman_Poking_ultimate_7: -2817746348199884227
+      Division_Chairman_Poking_ultimate_8: 7539982821417965681
+      Division_Chairman_Poking_ultimate_9: 6464718617567442088
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

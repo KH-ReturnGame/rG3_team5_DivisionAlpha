@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: f18f223684ea1fb44b9536b10898136a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6731567399851004676
+    second: InGame_RoundResult_0
+  - first:
+      213: -2346835427187517861
+    second: InGame_RoundResult_1
+  - first:
+      213: 4281735481445510559
+    second: InGame_RoundResult_2
+  - first:
+      213: -7124366053652626497
+    second: InGame_RoundResult_3
+  - first:
+      213: 4971855273316253667
+    second: InGame_RoundResult_4
+  - first:
+      213: -4815878718987074400
+    second: InGame_RoundResult_5
+  - first:
+      213: 6648350926344711583
+    second: InGame_RoundResult_6
+  - first:
+      213: 1681733572664812565
+    second: InGame_RoundResult_7
+  - first:
+      213: -3857510579572114978
+    second: InGame_RoundResult_8
+  - first:
+      213: -7881860446036147030
+    second: InGame_RoundResult_9
+  - first:
+      213: 3391731882406619992
+    second: InGame_RoundResult_10
+  - first:
+      213: -8675806570394221317
+    second: InGame_RoundResult_11
+  - first:
+      213: 8423417768378971604
+    second: InGame_RoundResult_12
+  - first:
+      213: 2616266927781953136
+    second: InGame_RoundResult_13
+  - first:
+      213: -7177483808648404919
+    second: InGame_RoundResult_14
+  - first:
+      213: 2583679157998414363
+    second: InGame_RoundResult_15
+  - first:
+      213: 2841620822947783017
+    second: InGame_RoundResult_16
+  - first:
+      213: -6614296358756085767
+    second: InGame_RoundResult_17
+  - first:
+      213: 5945885120733510494
+    second: InGame_RoundResult_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InGame_RoundResult_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 469
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40318b182e45b6d50800000000000000
+      internalID: 6731567399851004676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 316
+        width: 393
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b569f20fc9d5e6fd0800000000000000
+      internalID: -2346835427187517861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_2
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 497
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9deeb91cb7cb6b30800000000000000
+      internalID: 4281735481445510559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 437
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb30f2a12da212d90800000000000000
+      internalID: -7124366053652626497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 393
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3effaa077049ff440800000000000000
+      internalID: 4971855273316253667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 293
+        width: 186
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4896912df8a2db0800000000000000
+      internalID: -4815878718987074400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 143
+        width: 394
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d6aea61ffa34c50800000000000000
+      internalID: 6648350926344711583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_7
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 291
+        width: 144
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514e88d26c7b65710800000000000000
+      internalID: 1681733572664812565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_8
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 251
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9fa4bd09e577ac0800000000000000
+      internalID: -3857510579572114978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 415
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa440d82fa10e9290800000000000000
+      internalID: -7881860446036147030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 119
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ba6384d2ad11f20800000000000000
+      internalID: 3391731882406619992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_11
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 0
+        width: 394
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf407aff3e7599780800000000000000
+      internalID: -8675806570394221317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_12
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 0
+        width: 152
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d531f6c4ddf5e470800000000000000
+      internalID: 8423417768378971604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_13
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 121
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ebb04c8e8de4420800000000000000
+      internalID: 2616266927781953136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_14
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 121
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940e4640184746c90800000000000000
+      internalID: -7177483808648404919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_15
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 121
+        width: 32
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a631a51821bd320800000000000000
+      internalID: 2583679157998414363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_16
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 121
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961e72a35177f6720800000000000000
+      internalID: 2841620822947783017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_17
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 121
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff0f29718c4534a0800000000000000
+      internalID: -6614296358756085767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_RoundResult_18
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bf990c307048250800000000000000
+      internalID: 5945885120733510494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InGame_RoundResult_0: 6731567399851004676
+      InGame_RoundResult_1: -2346835427187517861
+      InGame_RoundResult_10: 3391731882406619992
+      InGame_RoundResult_11: -8675806570394221317
+      InGame_RoundResult_12: 8423417768378971604
+      InGame_RoundResult_13: 2616266927781953136
+      InGame_RoundResult_14: -7177483808648404919
+      InGame_RoundResult_15: 2583679157998414363
+      InGame_RoundResult_16: 2841620822947783017
+      InGame_RoundResult_17: -6614296358756085767
+      InGame_RoundResult_18: 5945885120733510494
+      InGame_RoundResult_2: 4281735481445510559
+      InGame_RoundResult_3: -7124366053652626497
+      InGame_RoundResult_4: 4971855273316253667
+      InGame_RoundResult_5: -4815878718987074400
+      InGame_RoundResult_6: 6648350926344711583
+      InGame_RoundResult_7: 1681733572664812565
+      InGame_RoundResult_8: -3857510579572114978
+      InGame_RoundResult_9: -7881860446036147030
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 3d74bf1ee402c724688363d5318dd802
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6872918698372957948
+    second: Galaxy_Yeti_IcebergBoom_2_0
+  - first:
+      213: -4063830307894439184
+    second: Galaxy_Yeti_IcebergBoom_2_1
+  - first:
+      213: 7131605208534693843
+    second: Galaxy_Yeti_IcebergBoom_2_2
+  - first:
+      213: 884527519943611767
+    second: Galaxy_Yeti_IcebergBoom_2_3
+  - first:
+      213: 240609530249027968
+    second: Galaxy_Yeti_IcebergBoom_2_4
+  - first:
+      213: 531724100854144829
+    second: Galaxy_Yeti_IcebergBoom_2_5
+  - first:
+      213: 8830975302369037900
+    second: Galaxy_Yeti_IcebergBoom_2_6
+  - first:
+      213: 7538950721410603194
+    second: Galaxy_Yeti_IcebergBoom_2_7
+  - first:
+      213: -6600992320259256843
+    second: Galaxy_Yeti_IcebergBoom_2_8
+  - first:
+      213: 7503068322687875768
+    second: Galaxy_Yeti_IcebergBoom_2_9
+  - first:
+      213: 4281376957622284578
+    second: Galaxy_Yeti_IcebergBoom_2_10
+  - first:
+      213: -329948255711677276
+    second: Galaxy_Yeti_IcebergBoom_2_11
+  - first:
+      213: 8669440562157880437
+    second: Galaxy_Yeti_IcebergBoom_2_12
+  - first:
+      213: 5929332478199699283
+    second: Galaxy_Yeti_IcebergBoom_2_13
+  - first:
+      213: 2121804487204156968
+    second: Galaxy_Yeti_IcebergBoom_2_14
+  - first:
+      213: 2721508409470425623
+    second: Galaxy_Yeti_IcebergBoom_2_15
+  - first:
+      213: -6229142671470015834
+    second: Galaxy_Yeti_IcebergBoom_2_16
+  - first:
+      213: -7683045342430391999
+    second: Galaxy_Yeti_IcebergBoom_2_17
+  - first:
+      213: 2728279285338343202
+    second: Galaxy_Yeti_IcebergBoom_2_18
+  - first:
+      213: 5877644979870190782
+    second: Galaxy_Yeti_IcebergBoom_2_19
+  - first:
+      213: -5258080756222209248
+    second: Galaxy_Yeti_IcebergBoom_2_20
+  - first:
+      213: 5882319383401256906
+    second: Galaxy_Yeti_IcebergBoom_2_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 200
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409f65dabdc7e90a0800000000000000
+      internalID: -6872918698372957948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 183
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f25c76bddf5a97c0800000000000000
+      internalID: -4063830307894439184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 182
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7390df62d88f260800000000000000
+      internalID: 7131605208534693843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 187
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775db4cc719764c00800000000000000
+      internalID: 884527519943611767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 128
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081211cc711d65300800000000000000
+      internalID: 240609530249027968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 143
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fdce5a040116700800000000000000
+      internalID: 531724100854144829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 151
+        width: 37
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e44fdbf3ded8a70800000000000000
+      internalID: 8830975302369037900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_7
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 145
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab89ad0fcbbbf9860800000000000000
+      internalID: 7538950721410603194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 131
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd8dd155709464a0800000000000000
+      internalID: -6600992320259256843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 121
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bafb43f2e0402860800000000000000
+      internalID: 7503068322687875768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2217e94c8a18a6b30800000000000000
+      internalID: 4281376957622284578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_11
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 110
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4bb004fc9cb6bf0800000000000000
+      internalID: -329948255711677276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 86
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57488c4324a005870800000000000000
+      internalID: 8669440562157880437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 91
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35797465978394250800000000000000
+      internalID: 5929332478199699283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 82
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82632a670f9227d10800000000000000
+      internalID: 2121804487204156968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 65
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a19bfaa7db4c520800000000000000
+      internalID: 2721508409470425623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 59
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa4dc36eb3ad89a0800000000000000
+      internalID: -6229142671470015834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 51
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1419733b7f6506590800000000000000
+      internalID: -7683045342430391999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 14
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22706a21e8bccd520800000000000000
+      internalID: 2728279285338343202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_19
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 31
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc4505d7f6919150800000000000000
+      internalID: 5877644979870190782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 12
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023de05296b8707b0800000000000000
+      internalID: -5258080756222209248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergBoom_2_21
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 0
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7d607305232a150800000000000000
+      internalID: 5882319383401256906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galaxy_Yeti_IcebergBoom_2_0: -6872918698372957948
+      Galaxy_Yeti_IcebergBoom_2_1: -4063830307894439184
+      Galaxy_Yeti_IcebergBoom_2_10: 4281376957622284578
+      Galaxy_Yeti_IcebergBoom_2_11: -329948255711677276
+      Galaxy_Yeti_IcebergBoom_2_12: 8669440562157880437
+      Galaxy_Yeti_IcebergBoom_2_13: 5929332478199699283
+      Galaxy_Yeti_IcebergBoom_2_14: 2121804487204156968
+      Galaxy_Yeti_IcebergBoom_2_15: 2721508409470425623
+      Galaxy_Yeti_IcebergBoom_2_16: -6229142671470015834
+      Galaxy_Yeti_IcebergBoom_2_17: -7683045342430391999
+      Galaxy_Yeti_IcebergBoom_2_18: 2728279285338343202
+      Galaxy_Yeti_IcebergBoom_2_19: 5877644979870190782
+      Galaxy_Yeti_IcebergBoom_2_2: 7131605208534693843
+      Galaxy_Yeti_IcebergBoom_2_20: -5258080756222209248
+      Galaxy_Yeti_IcebergBoom_2_21: 5882319383401256906
+      Galaxy_Yeti_IcebergBoom_2_3: 884527519943611767
+      Galaxy_Yeti_IcebergBoom_2_4: 240609530249027968
+      Galaxy_Yeti_IcebergBoom_2_5: 531724100854144829
+      Galaxy_Yeti_IcebergBoom_2_6: 8830975302369037900
+      Galaxy_Yeti_IcebergBoom_2_7: 7538950721410603194
+      Galaxy_Yeti_IcebergBoom_2_8: -6600992320259256843
+      Galaxy_Yeti_IcebergBoom_2_9: 7503068322687875768
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

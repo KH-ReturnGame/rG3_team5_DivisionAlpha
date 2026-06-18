@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 70bcaee5c76cc2242a0ed82e84ee31b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7402220112506001185
+    second: Elf_DieDust_0
+  - first:
+      213: 8643308327183997635
+    second: Elf_DieDust_1
+  - first:
+      213: -7931949387336763868
+    second: Elf_DieDust_2
+  - first:
+      213: 5781205719117198327
+    second: Elf_DieDust_3
+  - first:
+      213: 3214069166119389081
+    second: Elf_DieDust_4
+  - first:
+      213: -8417879063005848375
+    second: Elf_DieDust_5
+  - first:
+      213: 7548548260489930447
+    second: Elf_DieDust_6
+  - first:
+      213: 1712774992815294469
+    second: Elf_DieDust_7
+  - first:
+      213: -7285774319999333076
+    second: Elf_DieDust_8
+  - first:
+      213: 2445527997531678072
+    second: Elf_DieDust_9
+  - first:
+      213: -7120329584643101954
+    second: Elf_DieDust_10
+  - first:
+      213: 8912659605934110654
+    second: Elf_DieDust_11
+  - first:
+      213: 550267177107705589
+    second: Elf_DieDust_12
+  - first:
+      213: -2043327449731074626
+    second: Elf_DieDust_13
+  - first:
+      213: -2960722260863828703
+    second: Elf_DieDust_14
+  - first:
+      213: 6798756902043024585
+    second: Elf_DieDust_15
+  - first:
+      213: -9221219973992852229
+    second: Elf_DieDust_16
+  - first:
+      213: 7869078936116926368
+    second: Elf_DieDust_17
+  - first:
+      213: 5924363221285837169
+    second: Elf_DieDust_18
+  - first:
+      213: -5675963433919530216
+    second: Elf_DieDust_19
+  - first:
+      213: -4796241826475547284
+    second: Elf_DieDust_20
+  - first:
+      213: 6265668922380010449
+    second: Elf_DieDust_21
+  - first:
+      213: 5383331147524696398
+    second: Elf_DieDust_22
+  - first:
+      213: 594835314343426135
+    second: Elf_DieDust_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elf_DieDust_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8e3dcb608064990800000000000000
+      internalID: -7402220112506001185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 74
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca5afd112333f770800000000000000
+      internalID: 8643308327183997635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 81
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4263a67be0e0ce190800000000000000
+      internalID: -7931949387336763868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 98
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3ff6da8f7fa3050800000000000000
+      internalID: 5781205719117198327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 105
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9970512b0eaaa9c20800000000000000
+      internalID: 3214069166119389081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 81
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc965f879fad2b80800000000000000
+      internalID: -8417879063005848375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 86
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6256426a4d1c860800000000000000
+      internalID: 7548548260489930447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 46
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5088de208cff4c710800000000000000
+      internalID: 1712774992815294469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dc6ce8bdab3ea90800000000000000
+      internalID: -7285774319999333076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875e52db1c240f120800000000000000
+      internalID: 2445527997531678072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaa4a7c7f18f2d90800000000000000
+      internalID: -7120329584643101954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7fca7b0b020bb70800000000000000
+      internalID: 8912659605934110654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fecf070511f2a700800000000000000
+      internalID: 550267177107705589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 59
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb579fea284a4a3e0800000000000000
+      internalID: -2043327449731074626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 42
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dbe925ac669e6d0800000000000000
+      internalID: -2960722260863828703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc728c81690a5e50800000000000000
+      internalID: 6798756902043024585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf45b6e2a45a70080800000000000000
+      internalID: -9221219973992852229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 51
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a712c8a995943d60800000000000000
+      internalID: 7869078936116926368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 33
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179912d06f0973250800000000000000
+      internalID: 5924363221285837169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 37
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bbe13545dea31b0800000000000000
+      internalID: -5675963433919530216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 41
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65ed0c6873507db0800000000000000
+      internalID: -4796241826475547284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d34aae10b024f650800000000000000
+      internalID: 6265668922380010449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e496184182f65ba40800000000000000
+      internalID: 5383331147524696398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieDust_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 21
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7583c4b1197414800800000000000000
+      internalID: 594835314343426135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elf_DieDust_0: -7402220112506001185
+      Elf_DieDust_1: 8643308327183997635
+      Elf_DieDust_10: -7120329584643101954
+      Elf_DieDust_11: 8912659605934110654
+      Elf_DieDust_12: 550267177107705589
+      Elf_DieDust_13: -2043327449731074626
+      Elf_DieDust_14: -2960722260863828703
+      Elf_DieDust_15: 6798756902043024585
+      Elf_DieDust_16: -9221219973992852229
+      Elf_DieDust_17: 7869078936116926368
+      Elf_DieDust_18: 5924363221285837169
+      Elf_DieDust_19: -5675963433919530216
+      Elf_DieDust_2: -7931949387336763868
+      Elf_DieDust_20: -4796241826475547284
+      Elf_DieDust_21: 6265668922380010449
+      Elf_DieDust_22: 5383331147524696398
+      Elf_DieDust_23: 594835314343426135
+      Elf_DieDust_3: 5781205719117198327
+      Elf_DieDust_4: 3214069166119389081
+      Elf_DieDust_5: -8417879063005848375
+      Elf_DieDust_6: 7548548260489930447
+      Elf_DieDust_7: 1712774992815294469
+      Elf_DieDust_8: -7285774319999333076
+      Elf_DieDust_9: 2445527997531678072
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

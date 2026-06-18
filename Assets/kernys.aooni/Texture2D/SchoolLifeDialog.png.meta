@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: c3699e8f3b600db4bbe7f3c9b2bb5f04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1890929909031555337
+    second: SchoolLifeDialog_0
+  - first:
+      213: 6317134697845019499
+    second: SchoolLifeDialog_1
+  - first:
+      213: 7269735622280238448
+    second: SchoolLifeDialog_2
+  - first:
+      213: -4543947580928758203
+    second: SchoolLifeDialog_3
+  - first:
+      213: -6741436098604514431
+    second: SchoolLifeDialog_4
+  - first:
+      213: 7422853008155061824
+    second: SchoolLifeDialog_5
+  - first:
+      213: -6488586514896567633
+    second: SchoolLifeDialog_6
+  - first:
+      213: -8628357930228036461
+    second: SchoolLifeDialog_7
+  - first:
+      213: 4699402945881076121
+    second: SchoolLifeDialog_8
+  - first:
+      213: 4595628154774374092
+    second: SchoolLifeDialog_9
+  - first:
+      213: 4501473007741378698
+    second: SchoolLifeDialog_10
+  - first:
+      213: 2800142566617617802
+    second: SchoolLifeDialog_11
+  - first:
+      213: 539895154554886474
+    second: SchoolLifeDialog_12
+  - first:
+      213: -3366632344518011543
+    second: SchoolLifeDialog_13
+  - first:
+      213: 8026509877726353621
+    second: SchoolLifeDialog_14
+  - first:
+      213: -8058038817730849589
+    second: SchoolLifeDialog_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SchoolLifeDialog_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 291
+        width: 49
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe230d244112c5e0800000000000000
+      internalID: -1890929909031555337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 290
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63d85fb988faa750800000000000000
+      internalID: 6317134697845019499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 292
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0755401280a43e460800000000000000
+      internalID: 7269735622280238448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 289
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eeeb000c7a0f0c0800000000000000
+      internalID: -4543947580928758203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 246
+        width: 63
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183cea2069b9172a0800000000000000
+      internalID: -6741436098604514431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 226
+        width: 149
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ea503ab75430760800000000000000
+      internalID: 7422853008155061824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 240
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2433551f8e3f5a0800000000000000
+      internalID: -6488586514896567633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 234
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c45dd6d2ae14880800000000000000
+      internalID: -8628357930228036461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 241
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9917aada412a73140800000000000000
+      internalID: 4699402945881076121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 161
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc64c154573f6cf30800000000000000
+      internalID: 4595628154774374092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_10
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 78
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a802f68c9d1787e30800000000000000
+      internalID: 4501473007741378698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_11
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 72
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8591bb14da1cd620800000000000000
+      internalID: 2800142566617617802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 66
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49d23758c71e7700800000000000000
+      internalID: 539895154554886474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_13
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 56
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965d9a748b15741d0800000000000000
+      internalID: -3366632344518011543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 35
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d81b002534e36f60800000000000000
+      internalID: 8026509877726353621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SchoolLifeDialog_15
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc418da73681c2090800000000000000
+      internalID: -8058038817730849589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SchoolLifeDialog_0: -1890929909031555337
+      SchoolLifeDialog_1: 6317134697845019499
+      SchoolLifeDialog_10: 4501473007741378698
+      SchoolLifeDialog_11: 2800142566617617802
+      SchoolLifeDialog_12: 539895154554886474
+      SchoolLifeDialog_13: -3366632344518011543
+      SchoolLifeDialog_14: 8026509877726353621
+      SchoolLifeDialog_15: -8058038817730849589
+      SchoolLifeDialog_2: 7269735622280238448
+      SchoolLifeDialog_3: -4543947580928758203
+      SchoolLifeDialog_4: -6741436098604514431
+      SchoolLifeDialog_5: 7422853008155061824
+      SchoolLifeDialog_6: -6488586514896567633
+      SchoolLifeDialog_7: -8628357930228036461
+      SchoolLifeDialog_8: 4699402945881076121
+      SchoolLifeDialog_9: 4595628154774374092
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

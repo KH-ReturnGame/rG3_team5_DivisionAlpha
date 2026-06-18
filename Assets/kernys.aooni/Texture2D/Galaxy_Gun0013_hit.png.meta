@@ -1,0 +1,1066 @@
+fileFormatVersion: 2
+guid: 9635007985d4a574080fa22f075b37fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3793474520970484823
+    second: Galaxy_Gun0013_hit_0
+  - first:
+      213: -3384482924402914295
+    second: Galaxy_Gun0013_hit_1
+  - first:
+      213: 762967021411960717
+    second: Galaxy_Gun0013_hit_2
+  - first:
+      213: 2039487860468506812
+    second: Galaxy_Gun0013_hit_3
+  - first:
+      213: 2994889251242567837
+    second: Galaxy_Gun0013_hit_4
+  - first:
+      213: 389625162076489506
+    second: Galaxy_Gun0013_hit_5
+  - first:
+      213: 3543837992733230986
+    second: Galaxy_Gun0013_hit_6
+  - first:
+      213: -4921712213332066833
+    second: Galaxy_Gun0013_hit_7
+  - first:
+      213: 5396739854743707280
+    second: Galaxy_Gun0013_hit_8
+  - first:
+      213: 8586051385293103222
+    second: Galaxy_Gun0013_hit_9
+  - first:
+      213: -9085065007020408706
+    second: Galaxy_Gun0013_hit_10
+  - first:
+      213: -8744085028053362452
+    second: Galaxy_Gun0013_hit_11
+  - first:
+      213: 4829332908499734453
+    second: Galaxy_Gun0013_hit_12
+  - first:
+      213: 8093359997794960484
+    second: Galaxy_Gun0013_hit_13
+  - first:
+      213: 2866917577759745823
+    second: Galaxy_Gun0013_hit_14
+  - first:
+      213: 3473564268201984401
+    second: Galaxy_Gun0013_hit_15
+  - first:
+      213: 3543303634360021270
+    second: Galaxy_Gun0013_hit_16
+  - first:
+      213: -4944261634623491162
+    second: Galaxy_Gun0013_hit_17
+  - first:
+      213: -3444701108131067006
+    second: Galaxy_Gun0013_hit_18
+  - first:
+      213: 5116092598812503282
+    second: Galaxy_Gun0013_hit_19
+  - first:
+      213: -6134154311361388949
+    second: Galaxy_Gun0013_hit_20
+  - first:
+      213: 4300388920250352923
+    second: Galaxy_Gun0013_hit_21
+  - first:
+      213: -4048810975323878121
+    second: Galaxy_Gun0013_hit_22
+  - first:
+      213: 6548266764080553130
+    second: Galaxy_Gun0013_hit_23
+  - first:
+      213: 8465113072981709483
+    second: Galaxy_Gun0013_hit_24
+  - first:
+      213: 6000997296975717739
+    second: Galaxy_Gun0013_hit_25
+  - first:
+      213: 2542308166533160920
+    second: Galaxy_Gun0013_hit_26
+  - first:
+      213: 2239733477532969894
+    second: Galaxy_Gun0013_hit_27
+  - first:
+      213: 949950068223680236
+    second: Galaxy_Gun0013_hit_28
+  - first:
+      213: -1228159732357871693
+    second: Galaxy_Gun0013_hit_29
+  - first:
+      213: -5626396492616934220
+    second: Galaxy_Gun0013_hit_30
+  - first:
+      213: -7580000959741948159
+    second: Galaxy_Gun0013_hit_31
+  - first:
+      213: -919260700891237225
+    second: Galaxy_Gun0013_hit_32
+  - first:
+      213: -2003843981348898160
+    second: Galaxy_Gun0013_hit_33
+  - first:
+      213: -7235881857012128469
+    second: Galaxy_Gun0013_hit_34
+  - first:
+      213: 3567145873749082103
+    second: Galaxy_Gun0013_hit_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 116
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cd0f66af025a430800000000000000
+      internalID: 3793474520970484823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cc69646b6e701d0800000000000000
+      internalID: -3384482924402914295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_2
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 104
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87099ea67a969a00800000000000000
+      internalID: 762967021411960717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 98
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb062f64767bd4c10800000000000000
+      internalID: 2039487860468506812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_4
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 30
+        width: 52
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98e2f908ebff8920800000000000000
+      internalID: 2994889251242567837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 88
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2278f15450a386500800000000000000
+      internalID: 389625162076489506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_6
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 90
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87c56ad0ed3e2130800000000000000
+      internalID: 3543837992733230986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_7
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 57
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedf3ad71d092bbb0800000000000000
+      internalID: -4921712213332066833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 63
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e11330e4215ea40800000000000000
+      internalID: 5396739854743707280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 62
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67065ab7e38c72770800000000000000
+      internalID: 8586051385293103222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 67
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e708737c28d5be180800000000000000
+      internalID: -9085065007020408706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 71
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce85111cef4c6a680800000000000000
+      internalID: -8744085028053362452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_12
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 64
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf0b3181bc350340800000000000000
+      internalID: 4829332908499734453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 61
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464cceb9904615070800000000000000
+      internalID: 8093359997794960484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_14
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 33
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1761bee85659c720800000000000000
+      internalID: 2866917577759745823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 62
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1914ba65c44943030800000000000000
+      internalID: 3473564268201984401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6113169d1e75c2130800000000000000
+      internalID: 3543303634360021270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3bca73d34726bb0800000000000000
+      internalID: -4944261634623491162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 45
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b047cc796f130d0800000000000000
+      internalID: -3444701108131067006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 42
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc6936cc13000740800000000000000
+      internalID: 5116092598812503282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_20
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 45
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e9fd9672b1fdaa0800000000000000
+      internalID: -6134154311361388949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b154c8340fc0eab30800000000000000
+      internalID: 4300388920250352923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_22
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 44
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d0e159edbbfc7c0800000000000000
+      internalID: -4048810975323878121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_23
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 46
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac948f7ded10ea50800000000000000
+      internalID: 6548266764080553130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_24
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 45
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba217926d7f1a7570800000000000000
+      internalID: 8465113072981709483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 25
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6521583f33d74350800000000000000
+      internalID: 6000997296975717739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 28
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df98c7cec7184320800000000000000
+      internalID: 2542308166533160920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 34
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab27ef2bb1251f10800000000000000
+      internalID: 2239733477532969894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee94d2dd86ee2d00800000000000000
+      internalID: 949950068223680236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 8
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7ce510b33b4fee0800000000000000
+      internalID: -1228159732357871693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_30
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 15
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc501c23360be1b0800000000000000
+      internalID: -5626396492616934220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 10
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f0675a94d6ec690800000000000000
+      internalID: -7580000959741948159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_32
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794b66353412e33f0800000000000000
+      internalID: -919260700891237225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_33
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 15
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09af46a048ae034e0800000000000000
+      internalID: -2003843981348898160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_34
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b252914d9cbf49b90800000000000000
+      internalID: -7235881857012128469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Gun0013_hit_35
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff70dac54c018130800000000000000
+      internalID: 3567145873749082103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galaxy_Gun0013_hit_0: 3793474520970484823
+      Galaxy_Gun0013_hit_1: -3384482924402914295
+      Galaxy_Gun0013_hit_10: -9085065007020408706
+      Galaxy_Gun0013_hit_11: -8744085028053362452
+      Galaxy_Gun0013_hit_12: 4829332908499734453
+      Galaxy_Gun0013_hit_13: 8093359997794960484
+      Galaxy_Gun0013_hit_14: 2866917577759745823
+      Galaxy_Gun0013_hit_15: 3473564268201984401
+      Galaxy_Gun0013_hit_16: 3543303634360021270
+      Galaxy_Gun0013_hit_17: -4944261634623491162
+      Galaxy_Gun0013_hit_18: -3444701108131067006
+      Galaxy_Gun0013_hit_19: 5116092598812503282
+      Galaxy_Gun0013_hit_2: 762967021411960717
+      Galaxy_Gun0013_hit_20: -6134154311361388949
+      Galaxy_Gun0013_hit_21: 4300388920250352923
+      Galaxy_Gun0013_hit_22: -4048810975323878121
+      Galaxy_Gun0013_hit_23: 6548266764080553130
+      Galaxy_Gun0013_hit_24: 8465113072981709483
+      Galaxy_Gun0013_hit_25: 6000997296975717739
+      Galaxy_Gun0013_hit_26: 2542308166533160920
+      Galaxy_Gun0013_hit_27: 2239733477532969894
+      Galaxy_Gun0013_hit_28: 949950068223680236
+      Galaxy_Gun0013_hit_29: -1228159732357871693
+      Galaxy_Gun0013_hit_3: 2039487860468506812
+      Galaxy_Gun0013_hit_30: -5626396492616934220
+      Galaxy_Gun0013_hit_31: -7580000959741948159
+      Galaxy_Gun0013_hit_32: -919260700891237225
+      Galaxy_Gun0013_hit_33: -2003843981348898160
+      Galaxy_Gun0013_hit_34: -7235881857012128469
+      Galaxy_Gun0013_hit_35: 3567145873749082103
+      Galaxy_Gun0013_hit_4: 2994889251242567837
+      Galaxy_Gun0013_hit_5: 389625162076489506
+      Galaxy_Gun0013_hit_6: 3543837992733230986
+      Galaxy_Gun0013_hit_7: -4921712213332066833
+      Galaxy_Gun0013_hit_8: 5396739854743707280
+      Galaxy_Gun0013_hit_9: 8586051385293103222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

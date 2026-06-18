@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: 8aa05c080bc19484d847dd90d06b17ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5849575040209872130
+    second: aooni_Galaxy_Woobin_dust2_4 #154974_0
+  - first:
+      213: 5937553037258029975
+    second: aooni_Galaxy_Woobin_dust2_4 #154974_1
+  - first:
+      213: -7722757400924094259
+    second: aooni_Galaxy_Woobin_dust2_4 #154974_2
+  - first:
+      213: -224126176531469530
+    second: aooni_Galaxy_Woobin_dust2_4 #154974_3
+  - first:
+      213: 7291389373634206242
+    second: aooni_Galaxy_Woobin_dust2_4 #154974_4
+  - first:
+      213: 7711003831046551525
+    second: aooni_Galaxy_Woobin_dust2_4 #154974_5
+  - first:
+      213: 7486342920820440967
+    second: aooni_Galaxy_Woobin_dust2_4 #154974_6
+  - first:
+      213: 8494483252658919585
+    second: aooni_Galaxy_Woobin_dust2_4 #154974_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aooni_Galaxy_Woobin_dust2_4 #154974_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa9c494e7222dea0800000000000000
+      internalID: -5849575040209872130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Woobin_dust2_4 #154974_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 75
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b7ec4670d666250800000000000000
+      internalID: 5937553037258029975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Woobin_dust2_4 #154974_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 76
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0866f8f0143d490800000000000000
+      internalID: -7722757400924094259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Woobin_dust2_4 #154974_3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 67
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ba9fe0e6eb3ecf0800000000000000
+      internalID: -224126176531469530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Woobin_dust2_4 #154974_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22a568ef008303560800000000000000
+      internalID: 7291389373634206242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Woobin_dust2_4 #154974_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 51
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7b433312df20b60800000000000000
+      internalID: 7711003831046551525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Woobin_dust2_4 #154974_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f334ed835d4e760800000000000000
+      internalID: 7486342920820440967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Woobin_dust2_4 #154974_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a85d39338772e570800000000000000
+      internalID: 8494483252658919585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aooni_Galaxy_Woobin_dust2_4 #154974_0: -5849575040209872130
+      aooni_Galaxy_Woobin_dust2_4 #154974_1: 5937553037258029975
+      aooni_Galaxy_Woobin_dust2_4 #154974_2: -7722757400924094259
+      aooni_Galaxy_Woobin_dust2_4 #154974_3: -224126176531469530
+      aooni_Galaxy_Woobin_dust2_4 #154974_4: 7291389373634206242
+      aooni_Galaxy_Woobin_dust2_4 #154974_5: 7711003831046551525
+      aooni_Galaxy_Woobin_dust2_4 #154974_6: 7486342920820440967
+      aooni_Galaxy_Woobin_dust2_4 #154974_7: 8494483252658919585
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

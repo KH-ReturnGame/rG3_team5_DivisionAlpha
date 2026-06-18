@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: e49463617a1b17c4bae9e03f1bbb4818
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7559273805746975126
+    second: HeroesEp3_C_Yonggyu_0
+  - first:
+      213: -7727230290539396182
+    second: HeroesEp3_C_Yonggyu_1
+  - first:
+      213: 7221897045829936732
+    second: HeroesEp3_C_Yonggyu_2
+  - first:
+      213: -7842492470219143443
+    second: HeroesEp3_C_Yonggyu_3
+  - first:
+      213: 2732977717882095334
+    second: HeroesEp3_C_Yonggyu_4
+  - first:
+      213: 3416352688754046419
+    second: HeroesEp3_C_Yonggyu_5
+  - first:
+      213: 1906096421068658511
+    second: HeroesEp3_C_Yonggyu_6
+  - first:
+      213: -2688318978911026436
+    second: HeroesEp3_C_Yonggyu_7
+  - first:
+      213: 2887607762212517207
+    second: HeroesEp3_C_Yonggyu_8
+  - first:
+      213: -7569338027348953747
+    second: HeroesEp3_C_Yonggyu_9
+  - first:
+      213: 5440662474586629905
+    second: HeroesEp3_C_Yonggyu_10
+  - first:
+      213: 5627860493435077057
+    second: HeroesEp3_C_Yonggyu_11
+  - first:
+      213: 2506503018878485738
+    second: HeroesEp3_C_Yonggyu_12
+  - first:
+      213: -6778854883145435724
+    second: HeroesEp3_C_Yonggyu_13
+  - first:
+      213: -514987775257787805
+    second: HeroesEp3_C_Yonggyu_14
+  - first:
+      213: -8236807842706986724
+    second: HeroesEp3_C_Yonggyu_15
+  - first:
+      213: 8896665191300337895
+    second: HeroesEp3_C_Yonggyu_16
+  - first:
+      213: 510728810083240227
+    second: HeroesEp3_C_Yonggyu_17
+  - first:
+      213: -2156322902664688202
+    second: HeroesEp3_C_Yonggyu_18
+  - first:
+      213: 1606867825312862261
+    second: HeroesEp3_C_Yonggyu_19
+  - first:
+      213: -6618872249362058850
+    second: HeroesEp3_C_Yonggyu_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 121
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e49804680181790800000000000000
+      internalID: -7559273805746975126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 122
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3c2cacdfc53c490800000000000000
+      internalID: -7727230290539396182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 119
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56e2259915593460800000000000000
+      internalID: 7221897045829936732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 121
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de689ee46aed92390800000000000000
+      internalID: -7842492470219143443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 122
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e68b6521cc7de520800000000000000
+      internalID: 2732977717882095334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_5
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 119
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5b2a87ba2596f20800000000000000
+      internalID: 3416352688754046419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_6
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 121
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f47d0759890d37a10800000000000000
+      internalID: 1906096421068658511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_7
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 61
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf2411bc12c21bad0800000000000000
+      internalID: -2688318978911026436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 61
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7557655e5f7d21820800000000000000
+      internalID: 2887607762212517207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_9
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 61
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65720f0b2f44f690800000000000000
+      internalID: -7569338027348953747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_10
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 61
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117a88cd1bd118b40800000000000000
+      internalID: 5440662474586629905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_11
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 61
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c107a41d4d2a1e40800000000000000
+      internalID: 5627860493435077057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 61
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae442b43733e8c220800000000000000
+      internalID: 2506503018878485738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 61
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5b132566bace1a0800000000000000
+      internalID: -6778854883145435724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3624710d8556ad8f0800000000000000
+      internalID: -514987775257787805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_15
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c196c4458eaf0bd80800000000000000
+      internalID: -8236807842706986724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_16
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 0
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e01a0ddadd477b70800000000000000
+      internalID: 8896665191300337895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329c1959529761700800000000000000
+      internalID: 510728810083240227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdc1a5aeb33312e0800000000000000
+      internalID: -2156322902664688202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_19
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53017c806cdbc4610800000000000000
+      internalID: 1606867825312862261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yonggyu_20
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91751be1ca0524a0800000000000000
+      internalID: -6618872249362058850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp3_C_Yonggyu_0: -7559273805746975126
+      HeroesEp3_C_Yonggyu_1: -7727230290539396182
+      HeroesEp3_C_Yonggyu_10: 5440662474586629905
+      HeroesEp3_C_Yonggyu_11: 5627860493435077057
+      HeroesEp3_C_Yonggyu_12: 2506503018878485738
+      HeroesEp3_C_Yonggyu_13: -6778854883145435724
+      HeroesEp3_C_Yonggyu_14: -514987775257787805
+      HeroesEp3_C_Yonggyu_15: -8236807842706986724
+      HeroesEp3_C_Yonggyu_16: 8896665191300337895
+      HeroesEp3_C_Yonggyu_17: 510728810083240227
+      HeroesEp3_C_Yonggyu_18: -2156322902664688202
+      HeroesEp3_C_Yonggyu_19: 1606867825312862261
+      HeroesEp3_C_Yonggyu_2: 7221897045829936732
+      HeroesEp3_C_Yonggyu_20: -6618872249362058850
+      HeroesEp3_C_Yonggyu_3: -7842492470219143443
+      HeroesEp3_C_Yonggyu_4: 2732977717882095334
+      HeroesEp3_C_Yonggyu_5: 3416352688754046419
+      HeroesEp3_C_Yonggyu_6: 1906096421068658511
+      HeroesEp3_C_Yonggyu_7: -2688318978911026436
+      HeroesEp3_C_Yonggyu_8: 2887607762212517207
+      HeroesEp3_C_Yonggyu_9: -7569338027348953747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

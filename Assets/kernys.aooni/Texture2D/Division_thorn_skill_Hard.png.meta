@@ -1,0 +1,702 @@
+fileFormatVersion: 2
+guid: 291a41ce39b06c0429557a36f29170ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4715974765197184207
+    second: Division_thorn_skill_Hard_0
+  - first:
+      213: -1640665885630737623
+    second: Division_thorn_skill_Hard_1
+  - first:
+      213: -7005366751605636533
+    second: Division_thorn_skill_Hard_2
+  - first:
+      213: -8483613602353981122
+    second: Division_thorn_skill_Hard_3
+  - first:
+      213: -4317154549722208363
+    second: Division_thorn_skill_Hard_4
+  - first:
+      213: 3633596525642829747
+    second: Division_thorn_skill_Hard_5
+  - first:
+      213: 2889768373046365344
+    second: Division_thorn_skill_Hard_6
+  - first:
+      213: 4438319711015081570
+    second: Division_thorn_skill_Hard_7
+  - first:
+      213: -9095722957589413426
+    second: Division_thorn_skill_Hard_8
+  - first:
+      213: -3547308016795947301
+    second: Division_thorn_skill_Hard_9
+  - first:
+      213: -3195041356075225965
+    second: Division_thorn_skill_Hard_10
+  - first:
+      213: 5236275065649870351
+    second: Division_thorn_skill_Hard_11
+  - first:
+      213: 5895321222527942523
+    second: Division_thorn_skill_Hard_12
+  - first:
+      213: -3218246278559947339
+    second: Division_thorn_skill_Hard_13
+  - first:
+      213: 1302062279820768348
+    second: Division_thorn_skill_Hard_14
+  - first:
+      213: -6830477890766147593
+    second: Division_thorn_skill_Hard_15
+  - first:
+      213: -8352067163785339732
+    second: Division_thorn_skill_Hard_16
+  - first:
+      213: 2395151390655716124
+    second: Division_thorn_skill_Hard_17
+  - first:
+      213: -2657311809577368016
+    second: Division_thorn_skill_Hard_18
+  - first:
+      213: 4661324626365610252
+    second: Division_thorn_skill_Hard_19
+  - first:
+      213: 31966248282912911
+    second: Division_thorn_skill_Hard_20
+  - first:
+      213: 2387624516381486193
+    second: Division_thorn_skill_Hard_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 304
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccc8490012827140800000000000000
+      internalID: 4715974765197184207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 297
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923d0e3d11f2b39e0800000000000000
+      internalID: -1640665885630737623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 273
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42c6313e00f7ce90800000000000000
+      internalID: -7005366751605636533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 266
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39d4047066244a80800000000000000
+      internalID: -8483613602353981122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 266
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597a85f6fc26614c0800000000000000
+      internalID: -4317154549722208363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 284
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfc808d9c02d6230800000000000000
+      internalID: 3633596525642829747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 286
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac469e46058a1820800000000000000
+      internalID: 2889768373046365344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 279
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2661bae0344189d30800000000000000
+      internalID: 4438319711015081570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_8
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 271
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec18489492085c180800000000000000
+      internalID: -9095722957589413426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 260
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde6bf5372e65cec0800000000000000
+      internalID: -3547308016795947301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 56
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c247090dee8a3d0800000000000000
+      internalID: -3195041356075225965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_11
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 0
+        width: 56
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06bb42ed6cfaa840800000000000000
+      internalID: 5236275065649870351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 149
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f7999ca6360d150800000000000000
+      internalID: 5895321222527942523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 144
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b526b68f0e7653d0800000000000000
+      internalID: -3218246278559947339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_14
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 149
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54f620bebad11210800000000000000
+      internalID: 1302062279820768348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_15
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 127
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff69ba3c844531a0800000000000000
+      internalID: -6830477890766147593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 137
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacde5a6a2f771c80800000000000000
+      internalID: -8352067163785339732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_17
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 124
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b115fef794d3120800000000000000
+      internalID: 2395151390655716124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_18
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 113
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036c0bcfcf45f1bd0800000000000000
+      internalID: -2657311809577368016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_19
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 119
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c097d490d0a50b040800000000000000
+      internalID: 4661324626365610252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_20
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 62
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8874b92221917000800000000000000
+      internalID: 31966248282912911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_thorn_skill_Hard_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 59
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17caee3f8db822120800000000000000
+      internalID: 2387624516381486193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_thorn_skill_Hard_0: 4715974765197184207
+      Division_thorn_skill_Hard_1: -1640665885630737623
+      Division_thorn_skill_Hard_10: -3195041356075225965
+      Division_thorn_skill_Hard_11: 5236275065649870351
+      Division_thorn_skill_Hard_12: 5895321222527942523
+      Division_thorn_skill_Hard_13: -3218246278559947339
+      Division_thorn_skill_Hard_14: 1302062279820768348
+      Division_thorn_skill_Hard_15: -6830477890766147593
+      Division_thorn_skill_Hard_16: -8352067163785339732
+      Division_thorn_skill_Hard_17: 2395151390655716124
+      Division_thorn_skill_Hard_18: -2657311809577368016
+      Division_thorn_skill_Hard_19: 4661324626365610252
+      Division_thorn_skill_Hard_2: -7005366751605636533
+      Division_thorn_skill_Hard_20: 31966248282912911
+      Division_thorn_skill_Hard_21: 2387624516381486193
+      Division_thorn_skill_Hard_3: -8483613602353981122
+      Division_thorn_skill_Hard_4: -4317154549722208363
+      Division_thorn_skill_Hard_5: 3633596525642829747
+      Division_thorn_skill_Hard_6: 2889768373046365344
+      Division_thorn_skill_Hard_7: 4438319711015081570
+      Division_thorn_skill_Hard_8: -9095722957589413426
+      Division_thorn_skill_Hard_9: -3547308016795947301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

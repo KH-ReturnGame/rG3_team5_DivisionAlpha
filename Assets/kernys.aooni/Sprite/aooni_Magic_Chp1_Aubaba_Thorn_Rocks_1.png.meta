@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 0c2706ddbc4a1544fa105aa79eae5d8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6737877374590795681
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_0
+  - first:
+      213: 7072301525670201621
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_1
+  - first:
+      213: -4959035461864389405
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_2
+  - first:
+      213: 609404954957026358
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_3
+  - first:
+      213: -7119903004894998105
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_4
+  - first:
+      213: -2370405429959766446
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_5
+  - first:
+      213: 3881062722780590975
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_6
+  - first:
+      213: 5109672222586153743
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_7
+  - first:
+      213: -488405922920382996
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_8
+  - first:
+      213: 2493007632456087194
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_9
+  - first:
+      213: 7812896574188400631
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_10
+  - first:
+      213: -5047549423845593707
+    second: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 44
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50cf530a304e72a0800000000000000
+      internalID: -6737877374590795681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 23
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519860654ccd52260800000000000000
+      internalID: 7072301525670201621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 28
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e402038587fd2bb0800000000000000
+      internalID: -4959035461864389405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 40
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6349398e39a057800800000000000000
+      internalID: 609404954957026358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 24
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a15ffd90f5013d90800000000000000
+      internalID: -7119903004894998105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_5
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 27
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e479502d0aa1fd0800000000000000
+      internalID: -2370405429959766446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 20
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73f85ecbfd4cd530800000000000000
+      internalID: 3881062722780590975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bade170d339e640800000000000000
+      internalID: 5109672222586153743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced322a9665d839f0800000000000000
+      internalID: -488405922920382996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a96f1e2bb31f89220800000000000000
+      internalID: 2493007632456087194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 6
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffad5b2a0cfc6c60800000000000000
+      internalID: 7812896574188400631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59da475ca8083f9b0800000000000000
+      internalID: -5047549423845593707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_0: -6737877374590795681
+      aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_1: 7072301525670201621
+      aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_10: 7812896574188400631
+      aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_11: -5047549423845593707
+      aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_2: -4959035461864389405
+      aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_3: 609404954957026358
+      aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_4: -7119903004894998105
+      aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_5: -2370405429959766446
+      aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_6: 3881062722780590975
+      aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_7: 5109672222586153743
+      aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_8: -488405922920382996
+      aooni_Magic_Chp1_Aubaba_Thorn_Rocks_1_9: 2493007632456087194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

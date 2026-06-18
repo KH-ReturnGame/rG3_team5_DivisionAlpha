@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: cc9f2ec3ce98a9d468ca1ad62ec29fe6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6532086453808027643
+    second: Magic_aooni_GolemVfx_1_0
+  - first:
+      213: 7428441583649718633
+    second: Magic_aooni_GolemVfx_1_1
+  - first:
+      213: -6536006481102358451
+    second: Magic_aooni_GolemVfx_1_2
+  - first:
+      213: -4466629584827487489
+    second: Magic_aooni_GolemVfx_1_3
+  - first:
+      213: 3862688287145690587
+    second: Magic_aooni_GolemVfx_1_4
+  - first:
+      213: -1641278854547129860
+    second: Magic_aooni_GolemVfx_1_5
+  - first:
+      213: 7971532407548446131
+    second: Magic_aooni_GolemVfx_1_6
+  - first:
+      213: -1870579293178829424
+    second: Magic_aooni_GolemVfx_1_7
+  - first:
+      213: 7420953530097332410
+    second: Magic_aooni_GolemVfx_1_8
+  - first:
+      213: 6307158284898959408
+    second: Magic_aooni_GolemVfx_1_9
+  - first:
+      213: -6787532419474226575
+    second: Magic_aooni_GolemVfx_1_10
+  - first:
+      213: 5321507979865410592
+    second: Magic_aooni_GolemVfx_1_11
+  - first:
+      213: 6422272565063838057
+    second: Magic_aooni_GolemVfx_1_12
+  - first:
+      213: -5898473516883948247
+    second: Magic_aooni_GolemVfx_1_13
+  - first:
+      213: 6136301712738879534
+    second: Magic_aooni_GolemVfx_1_14
+  - first:
+      213: -127661996116909728
+    second: Magic_aooni_GolemVfx_1_15
+  - first:
+      213: -3330783940723809621
+    second: Magic_aooni_GolemVfx_1_16
+  - first:
+      213: -5786517166673648552
+    second: Magic_aooni_GolemVfx_1_17
+  - first:
+      213: 3922821181927391539
+    second: Magic_aooni_GolemVfx_1_18
+  - first:
+      213: -652864089484364727
+    second: Magic_aooni_GolemVfx_1_19
+  - first:
+      213: -24498811391478315
+    second: Magic_aooni_GolemVfx_1_20
+  - first:
+      213: -2946278448336112010
+    second: Magic_aooni_GolemVfx_1_21
+  - first:
+      213: 5083581535632592480
+    second: Magic_aooni_GolemVfx_1_22
+  - first:
+      213: 1013373994893631720
+    second: Magic_aooni_GolemVfx_1_23
+  - first:
+      213: 4418049181920721745
+    second: Magic_aooni_GolemVfx_1_24
+  - first:
+      213: -7820799507098371449
+    second: Magic_aooni_GolemVfx_1_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 214
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf75e517502a6aa50800000000000000
+      internalID: 6532086453808027643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9618e244340271760800000000000000
+      internalID: 7428441583649718633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 132
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d483e341cb07b45a0800000000000000
+      internalID: -6536006481102358451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_3
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 146
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa6b1dce085302c0800000000000000
+      internalID: -4466629584827487489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_4
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5816128860b9530800000000000000
+      internalID: 3862688287145690587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 149
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9bb51e3910939e0800000000000000
+      internalID: -1641278854547129860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 146
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5807b5d7290ae60800000000000000
+      internalID: 7971532407548446131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_7
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 132
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095efd92b0e5a06e0800000000000000
+      internalID: -1870579293178829424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0f120fae58cf660800000000000000
+      internalID: 7420953530097332410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 118
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03080991b07878750800000000000000
+      internalID: 6307158284898959408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 104
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1728ac3f937ddc1a0800000000000000
+      internalID: -6787532419474226575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 104
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cc849205bc9d940800000000000000
+      internalID: 5321507979865410592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ed5b0fde702950800000000000000
+      internalID: 6422272565063838057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 85
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d451d7699642ea0800000000000000
+      internalID: -5898473516883948247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e280c6e65e5882550800000000000000
+      internalID: 6136301712738879534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 60
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061622647147a3ef0800000000000000
+      internalID: -127661996116909728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 46
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2e49537ada6c1d0800000000000000
+      internalID: -3330783940723809621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 46
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854a7b19b4922bfa0800000000000000
+      internalID: -5786517166673648552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331092ab419a07630800000000000000
+      internalID: 3922821181927391539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_19
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 33
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944fca3d19f80f6f0800000000000000
+      internalID: -652864089484364727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_20
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d57799f576f8aff0800000000000000
+      internalID: -24498811391478315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_21
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 676798d7c57bc17d0800000000000000
+      internalID: -2946278448336112010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e8d1209728c8640800000000000000
+      internalID: 5083581535632592480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_23
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0e04e774a301e00800000000000000
+      internalID: 1013373994893631720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_24
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bf698b250105d30800000000000000
+      internalID: 4418049181920721745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_aooni_GolemVfx_1_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78af9dfd840f67390800000000000000
+      internalID: -7820799507098371449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_aooni_GolemVfx_1_0: 6532086453808027643
+      Magic_aooni_GolemVfx_1_1: 7428441583649718633
+      Magic_aooni_GolemVfx_1_10: -6787532419474226575
+      Magic_aooni_GolemVfx_1_11: 5321507979865410592
+      Magic_aooni_GolemVfx_1_12: 6422272565063838057
+      Magic_aooni_GolemVfx_1_13: -5898473516883948247
+      Magic_aooni_GolemVfx_1_14: 6136301712738879534
+      Magic_aooni_GolemVfx_1_15: -127661996116909728
+      Magic_aooni_GolemVfx_1_16: -3330783940723809621
+      Magic_aooni_GolemVfx_1_17: -5786517166673648552
+      Magic_aooni_GolemVfx_1_18: 3922821181927391539
+      Magic_aooni_GolemVfx_1_19: -652864089484364727
+      Magic_aooni_GolemVfx_1_2: -6536006481102358451
+      Magic_aooni_GolemVfx_1_20: -24498811391478315
+      Magic_aooni_GolemVfx_1_21: -2946278448336112010
+      Magic_aooni_GolemVfx_1_22: 5083581535632592480
+      Magic_aooni_GolemVfx_1_23: 1013373994893631720
+      Magic_aooni_GolemVfx_1_24: 4418049181920721745
+      Magic_aooni_GolemVfx_1_25: -7820799507098371449
+      Magic_aooni_GolemVfx_1_3: -4466629584827487489
+      Magic_aooni_GolemVfx_1_4: 3862688287145690587
+      Magic_aooni_GolemVfx_1_5: -1641278854547129860
+      Magic_aooni_GolemVfx_1_6: 7971532407548446131
+      Magic_aooni_GolemVfx_1_7: -1870579293178829424
+      Magic_aooni_GolemVfx_1_8: 7420953530097332410
+      Magic_aooni_GolemVfx_1_9: 6307158284898959408
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

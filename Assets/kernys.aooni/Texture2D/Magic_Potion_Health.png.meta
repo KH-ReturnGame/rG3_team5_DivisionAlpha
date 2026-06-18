@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 105ae1a82aeef244dacb73d0687c1362
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8724734862368505462
+    second: Magic_Potion_Health_0
+  - first:
+      213: 4560267296682856016
+    second: Magic_Potion_Health_1
+  - first:
+      213: 4156597660572848884
+    second: Magic_Potion_Health_2
+  - first:
+      213: 4553019469878056695
+    second: Magic_Potion_Health_3
+  - first:
+      213: 989341930035538654
+    second: Magic_Potion_Health_4
+  - first:
+      213: 6952397240957983734
+    second: Magic_Potion_Health_5
+  - first:
+      213: 5373546638518565907
+    second: Magic_Potion_Health_6
+  - first:
+      213: -4915169869803066651
+    second: Magic_Potion_Health_7
+  - first:
+      213: 5682456113008476156
+    second: Magic_Potion_Health_8
+  - first:
+      213: -7075754704923674210
+    second: Magic_Potion_Health_9
+  - first:
+      213: -369447216172284964
+    second: Magic_Potion_Health_10
+  - first:
+      213: 2341459723793749039
+    second: Magic_Potion_Health_11
+  - first:
+      213: -7553237516387387366
+    second: Magic_Potion_Health_12
+  - first:
+      213: 4561445942019696655
+    second: Magic_Potion_Health_13
+  - first:
+      213: -8946087866422352574
+    second: Magic_Potion_Health_14
+  - first:
+      213: -3563603655375535611
+    second: Magic_Potion_Health_15
+  - first:
+      213: -1938884409944485419
+    second: Magic_Potion_Health_16
+  - first:
+      213: 7141117380060156029
+    second: Magic_Potion_Health_17
+  - first:
+      213: 4996494228241165734
+    second: Magic_Potion_Health_18
+  - first:
+      213: -7970569618447380898
+    second: Magic_Potion_Health_19
+  - first:
+      213: -7161433350123186634
+    second: Magic_Potion_Health_20
+  - first:
+      213: -9163505604143233835
+    second: Magic_Potion_Health_21
+  - first:
+      213: 6650282724182165245
+    second: Magic_Potion_Health_22
+  - first:
+      213: -3050367940555300952
+    second: Magic_Potion_Health_23
+  - first:
+      213: -9168498770366891383
+    second: Magic_Potion_Health_24
+  - first:
+      213: -2314869554088117254
+    second: Magic_Potion_Health_25
+  - first:
+      213: -330120234563339620
+    second: Magic_Potion_Health_26
+  - first:
+      213: 7330795363923224022
+    second: Magic_Potion_Health_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Potion_Health_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 241
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a810f094ed38be680800000000000000
+      internalID: -8724734862368505462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 231
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ecc9be1f2594f30800000000000000
+      internalID: 4560267296682856016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 231
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f21aa8bc833fa930800000000000000
+      internalID: 4156597660572848884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 227
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6d48db5139f2f30800000000000000
+      internalID: 4553019469878056695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_4
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 226
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edaea2d5e39dabd00800000000000000
+      internalID: 989341930035538654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 153
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbd4bc8470eb7060800000000000000
+      internalID: 6952397240957983734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 155
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cb4ec823ca29a40800000000000000
+      internalID: 5373546638518565907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 176
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea6fab8b0fc9cbb0800000000000000
+      internalID: -4915169869803066651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 192
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfffd935ab32cde40800000000000000
+      internalID: 5682456113008476156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 187
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99b937b59eddcd90800000000000000
+      internalID: -7075754704923674210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 187
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd34bccd6b57fdaf0800000000000000
+      internalID: -369447216172284964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 154
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f245c9496398e7020800000000000000
+      internalID: 2341459723793749039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 173
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1873936f728d2790800000000000000
+      internalID: -7553237516387387366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 170
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f082b3caae28d4f30800000000000000
+      internalID: 4561445942019696655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_14
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 95
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245a670eb7c19d380800000000000000
+      internalID: -8946087866422352574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_15
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 87
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502ce013b598b8ec0800000000000000
+      internalID: -3563603655375535611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 85
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d157bcd6e2b715e0800000000000000
+      internalID: -1938884409944485419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 83
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d709ad10c685a1360800000000000000
+      internalID: 7141117380060156029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6adaa9c270d175540800000000000000
+      internalID: 4996494228241165734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 9
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e4ce27929d26190800000000000000
+      internalID: -7970569618447380898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_20
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 35
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 636954b9f4a7d9c90800000000000000
+      internalID: -7161433350123186634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_21
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 51
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4cdbf0430b4d080800000000000000
+      internalID: -9163505604143233835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_22
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 47
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df68bc627ec8a4c50800000000000000
+      internalID: 6650282724182165245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_23
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 51
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af16f4058aeaa5d0800000000000000
+      internalID: -3050367940555300952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_24
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 36
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98afca4f1f2f2c080800000000000000
+      internalID: -9168498770366891383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_25
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 8
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbf53fb76eefdfd0800000000000000
+      internalID: -2314869554088117254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 18
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9afead456d2b6bf0800000000000000
+      internalID: -330120234563339620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Health_27
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 19
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d569b31b873cb560800000000000000
+      internalID: 7330795363923224022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Potion_Health_0: -8724734862368505462
+      Magic_Potion_Health_1: 4560267296682856016
+      Magic_Potion_Health_10: -369447216172284964
+      Magic_Potion_Health_11: 2341459723793749039
+      Magic_Potion_Health_12: -7553237516387387366
+      Magic_Potion_Health_13: 4561445942019696655
+      Magic_Potion_Health_14: -8946087866422352574
+      Magic_Potion_Health_15: -3563603655375535611
+      Magic_Potion_Health_16: -1938884409944485419
+      Magic_Potion_Health_17: 7141117380060156029
+      Magic_Potion_Health_18: 4996494228241165734
+      Magic_Potion_Health_19: -7970569618447380898
+      Magic_Potion_Health_2: 4156597660572848884
+      Magic_Potion_Health_20: -7161433350123186634
+      Magic_Potion_Health_21: -9163505604143233835
+      Magic_Potion_Health_22: 6650282724182165245
+      Magic_Potion_Health_23: -3050367940555300952
+      Magic_Potion_Health_24: -9168498770366891383
+      Magic_Potion_Health_25: -2314869554088117254
+      Magic_Potion_Health_26: -330120234563339620
+      Magic_Potion_Health_27: 7330795363923224022
+      Magic_Potion_Health_3: 4553019469878056695
+      Magic_Potion_Health_4: 989341930035538654
+      Magic_Potion_Health_5: 6952397240957983734
+      Magic_Potion_Health_6: 5373546638518565907
+      Magic_Potion_Health_7: -4915169869803066651
+      Magic_Potion_Health_8: 5682456113008476156
+      Magic_Potion_Health_9: -7075754704923674210
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

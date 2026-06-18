@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 87cac4a4c0399754ba84fb1da38420ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7267188917603352426
+    second: Magic_Jjara_explosion_0
+  - first:
+      213: -4407891759959990963
+    second: Magic_Jjara_explosion_1
+  - first:
+      213: -3618978871379626350
+    second: Magic_Jjara_explosion_2
+  - first:
+      213: -8502233398307132324
+    second: Magic_Jjara_explosion_3
+  - first:
+      213: -7337007485772747865
+    second: Magic_Jjara_explosion_4
+  - first:
+      213: -6123360192388460811
+    second: Magic_Jjara_explosion_5
+  - first:
+      213: -38613526074578024
+    second: Magic_Jjara_explosion_6
+  - first:
+      213: -4049174053924824567
+    second: Magic_Jjara_explosion_7
+  - first:
+      213: 1298459007731841214
+    second: Magic_Jjara_explosion_8
+  - first:
+      213: -8965716185237136560
+    second: Magic_Jjara_explosion_9
+  - first:
+      213: -363989767744855705
+    second: Magic_Jjara_explosion_10
+  - first:
+      213: 5495072184100339078
+    second: Magic_Jjara_explosion_11
+  - first:
+      213: -3616057279095473007
+    second: Magic_Jjara_explosion_12
+  - first:
+      213: 1796637186019450566
+    second: Magic_Jjara_explosion_13
+  - first:
+      213: -871783622985277390
+    second: Magic_Jjara_explosion_14
+  - first:
+      213: 2231173463438987810
+    second: Magic_Jjara_explosion_15
+  - first:
+      213: -328700550567829450
+    second: Magic_Jjara_explosion_16
+  - first:
+      213: 5626974524798916663
+    second: Magic_Jjara_explosion_17
+  - first:
+      213: 4151329338078836223
+    second: Magic_Jjara_explosion_18
+  - first:
+      213: 6835854990955218234
+    second: Magic_Jjara_explosion_19
+  - first:
+      213: 5749376586233386449
+    second: Magic_Jjara_explosion_20
+  - first:
+      213: 4772368950868913727
+    second: Magic_Jjara_explosion_21
+  - first:
+      213: -1466047139185260335
+    second: Magic_Jjara_explosion_22
+  - first:
+      213: -3726546347101486620
+    second: Magic_Jjara_explosion_23
+  - first:
+      213: -2388169967593178329
+    second: Magic_Jjara_explosion_24
+  - first:
+      213: -1209353019768894545
+    second: Magic_Jjara_explosion_25
+  - first:
+      213: 4331512135066844520
+    second: Magic_Jjara_explosion_26
+  - first:
+      213: -3718483924670003091
+    second: Magic_Jjara_explosion_27
+  - first:
+      213: 2853436439396954912
+    second: Magic_Jjara_explosion_28
+  - first:
+      213: -1105264215536710434
+    second: Magic_Jjara_explosion_29
+  - first:
+      213: 9199027289237132821
+    second: Magic_Jjara_explosion_30
+  - first:
+      213: -5803076346286591997
+    second: Magic_Jjara_explosion_31
+  - first:
+      213: 2056040849636205750
+    second: Magic_Jjara_explosion_32
+  - first:
+      213: 421235989679879386
+    second: Magic_Jjara_explosion_33
+  - first:
+      213: 4657339510568513672
+    second: Magic_Jjara_explosion_34
+  - first:
+      213: -5080218540927272748
+    second: Magic_Jjara_explosion_35
+  - first:
+      213: -8492710505686383376
+    second: Magic_Jjara_explosion_36
+  - first:
+      213: -3911674027284025058
+    second: Magic_Jjara_explosion_37
+  - first:
+      213: -455371066264521845
+    second: Magic_Jjara_explosion_38
+  - first:
+      213: -482476616978466109
+    second: Magic_Jjara_explosion_39
+  - first:
+      213: 1157031602718233944
+    second: Magic_Jjara_explosion_40
+  - first:
+      213: -4554823638854482374
+    second: Magic_Jjara_explosion_41
+  - first:
+      213: -7007587758767869213
+    second: Magic_Jjara_explosion_42
+  - first:
+      213: 940795811007225881
+    second: Magic_Jjara_explosion_43
+  - first:
+      213: -8229288335598341699
+    second: Magic_Jjara_explosion_44
+  - first:
+      213: -3140939551481749586
+    second: Magic_Jjara_explosion_45
+  - first:
+      213: -5120065347622291881
+    second: Magic_Jjara_explosion_46
+  - first:
+      213: 4195165080384465291
+    second: Magic_Jjara_explosion_47
+  - first:
+      213: -7377030802121325801
+    second: Magic_Jjara_explosion_48
+  - first:
+      213: -7633660544233121136
+    second: Magic_Jjara_explosion_49
+  - first:
+      213: -1583276815981140159
+    second: Magic_Jjara_explosion_50
+  - first:
+      213: -1587793856754592308
+    second: Magic_Jjara_explosion_51
+  - first:
+      213: 7878464391516465415
+    second: Magic_Jjara_explosion_52
+  - first:
+      213: -3096274630329919033
+    second: Magic_Jjara_explosion_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 269
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690c892ce22c52b90800000000000000
+      internalID: -7267188917603352426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 206
+        width: 65
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d963f5cc504d2c0800000000000000
+      internalID: -4407891759959990963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 254
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296f5c104edc6cdc0800000000000000
+      internalID: -3618978871379626350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 210
+        width: 79
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ce07065cff10a80800000000000000
+      internalID: -8502233398307132324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 205
+        width: 88
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab22289096bd2a90800000000000000
+      internalID: -7337007485772747865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 234
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe0be41954750ba0800000000000000
+      internalID: -6123360192388460811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 101
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bacced331d67ff0800000000000000
+      internalID: -38613526074578024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_7
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 101
+        width: 96
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a1512c6a17ec7c0800000000000000
+      internalID: -4049174053924824567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 100
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb83347869d050210800000000000000
+      internalID: 1298459007731841214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b58f5c1a0639380800000000000000
+      internalID: -8965716185237136560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 86
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761e0b71c39d2faf0800000000000000
+      internalID: -363989767744855705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 77
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d3e6c890b624c40800000000000000
+      internalID: 5495072184100339078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_12
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 89
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c7c08301f21ddc0800000000000000
+      internalID: -3616057279095473007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_13
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce52fe6000fee810800000000000000
+      internalID: 1796637186019450566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_14
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 90
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230a5fee96dc6e3f0800000000000000
+      internalID: -871783622985277390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2221f889178b6fe10800000000000000
+      internalID: 2231173463438987810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 78
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630eded3798307bf0800000000000000
+      internalID: -328700550567829450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_17
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738dfce6487071e40800000000000000
+      internalID: 5626974524798916663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_18
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 91
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5b8ddc90c7c9930800000000000000
+      internalID: 4151329338078836223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 89
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3587f775e5ddde50800000000000000
+      internalID: 6835854990955218234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 93
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5936e2b83e9cf40800000000000000
+      internalID: 5749376586233386449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 57
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e25a5964cda3240800000000000000
+      internalID: 4772368950868913727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_22
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 61
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d882e4f4ed87abe0800000000000000
+      internalID: -1466047139185260335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 68
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e18cf567d5a84cc0800000000000000
+      internalID: -3726546347101486620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_24
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 66
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b3a5a41148bded0800000000000000
+      internalID: -2388169967593178329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 62
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab01a006d3873fe0800000000000000
+      internalID: -1209353019768894545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_26
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 57
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86df3f6665f9c1c30800000000000000
+      internalID: 4331512135066844520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_27
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 68
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d684b07629a456cc0800000000000000
+      internalID: -3718483924670003091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_28
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 64
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023396fc251799720800000000000000
+      internalID: 2853436439396954912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_29
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 56
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edccbf94d0059a0f0800000000000000
+      internalID: -1105264215536710434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_30
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 56
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5169a1eb49289af70800000000000000
+      internalID: 9199027289237132821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_31
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 44
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300bd1f1fc4577fa0800000000000000
+      internalID: -5803076346286591997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_32
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b422466246888c10800000000000000
+      internalID: 2056040849636205750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_33
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 49
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4ba7b96e788d500800000000000000
+      internalID: 421235989679879386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_34
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 57
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880f3d5fb9132a040800000000000000
+      internalID: 4657339510568513672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 52
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d83da637207f79b0800000000000000
+      internalID: -5080218540927272748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_36
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 42
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4c5589ac4d32a80800000000000000
+      internalID: -8492710505686383376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_37
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e113d967231f6b9c0800000000000000
+      internalID: -3911674027284025058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 34
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83ff4a8d623ea9f0800000000000000
+      internalID: -455371066264521845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_39
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 19
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caf098b216ed49f0800000000000000
+      internalID: -482476616978466109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_40
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 34
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855dbe9cc1a9e0010800000000000000
+      internalID: 1157031602718233944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 16
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36c68f68040ac0c0800000000000000
+      internalID: -4554823638854482374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_42
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 33
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2f34aaf0c00ce90800000000000000
+      internalID: -7007587758767869213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 22
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910e2493ec06e0d00800000000000000
+      internalID: 940795811007225881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_44
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 22
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db135620cd1bbcd80800000000000000
+      internalID: -8229288335598341699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 18
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf94fc8e142964d0800000000000000
+      internalID: -3140939551481749586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 23
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756bf2091bfd1f8b0800000000000000
+      internalID: -5120065347622291881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_47
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 22
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b896076e968383a30800000000000000
+      internalID: 4195165080384465291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_48
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713817612958f9990800000000000000
+      internalID: -7377030802121325801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_49
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ad11d0e2acf0690800000000000000
+      internalID: -7633660544233121136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_50
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 9
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147255adf12170ae0800000000000000
+      internalID: -1583276815981140159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_51
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 9
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5589756e507f9e0800000000000000
+      internalID: -1587793856754592308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_52
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 4
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70927e74f9de55d60800000000000000
+      internalID: 7878464391516465415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Jjara_explosion_53
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 4
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c99124e0a2d705d0800000000000000
+      internalID: -3096274630329919033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Jjara_explosion_0: -7267188917603352426
+      Magic_Jjara_explosion_1: -4407891759959990963
+      Magic_Jjara_explosion_10: -363989767744855705
+      Magic_Jjara_explosion_11: 5495072184100339078
+      Magic_Jjara_explosion_12: -3616057279095473007
+      Magic_Jjara_explosion_13: 1796637186019450566
+      Magic_Jjara_explosion_14: -871783622985277390
+      Magic_Jjara_explosion_15: 2231173463438987810
+      Magic_Jjara_explosion_16: -328700550567829450
+      Magic_Jjara_explosion_17: 5626974524798916663
+      Magic_Jjara_explosion_18: 4151329338078836223
+      Magic_Jjara_explosion_19: 6835854990955218234
+      Magic_Jjara_explosion_2: -3618978871379626350
+      Magic_Jjara_explosion_20: 5749376586233386449
+      Magic_Jjara_explosion_21: 4772368950868913727
+      Magic_Jjara_explosion_22: -1466047139185260335
+      Magic_Jjara_explosion_23: -3726546347101486620
+      Magic_Jjara_explosion_24: -2388169967593178329
+      Magic_Jjara_explosion_25: -1209353019768894545
+      Magic_Jjara_explosion_26: 4331512135066844520
+      Magic_Jjara_explosion_27: -3718483924670003091
+      Magic_Jjara_explosion_28: 2853436439396954912
+      Magic_Jjara_explosion_29: -1105264215536710434
+      Magic_Jjara_explosion_3: -8502233398307132324
+      Magic_Jjara_explosion_30: 9199027289237132821
+      Magic_Jjara_explosion_31: -5803076346286591997
+      Magic_Jjara_explosion_32: 2056040849636205750
+      Magic_Jjara_explosion_33: 421235989679879386
+      Magic_Jjara_explosion_34: 4657339510568513672
+      Magic_Jjara_explosion_35: -5080218540927272748
+      Magic_Jjara_explosion_36: -8492710505686383376
+      Magic_Jjara_explosion_37: -3911674027284025058
+      Magic_Jjara_explosion_38: -455371066264521845
+      Magic_Jjara_explosion_39: -482476616978466109
+      Magic_Jjara_explosion_4: -7337007485772747865
+      Magic_Jjara_explosion_40: 1157031602718233944
+      Magic_Jjara_explosion_41: -4554823638854482374
+      Magic_Jjara_explosion_42: -7007587758767869213
+      Magic_Jjara_explosion_43: 940795811007225881
+      Magic_Jjara_explosion_44: -8229288335598341699
+      Magic_Jjara_explosion_45: -3140939551481749586
+      Magic_Jjara_explosion_46: -5120065347622291881
+      Magic_Jjara_explosion_47: 4195165080384465291
+      Magic_Jjara_explosion_48: -7377030802121325801
+      Magic_Jjara_explosion_49: -7633660544233121136
+      Magic_Jjara_explosion_5: -6123360192388460811
+      Magic_Jjara_explosion_50: -1583276815981140159
+      Magic_Jjara_explosion_51: -1587793856754592308
+      Magic_Jjara_explosion_52: 7878464391516465415
+      Magic_Jjara_explosion_53: -3096274630329919033
+      Magic_Jjara_explosion_6: -38613526074578024
+      Magic_Jjara_explosion_7: -4049174053924824567
+      Magic_Jjara_explosion_8: 1298459007731841214
+      Magic_Jjara_explosion_9: -8965716185237136560
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

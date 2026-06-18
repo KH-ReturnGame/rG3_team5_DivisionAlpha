@@ -1,0 +1,1768 @@
+fileFormatVersion: 2
+guid: f1a53c639cfe43b4693785e289dc42cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3844136119919052599
+    second: Magic_Water_Field_0
+  - first:
+      213: 2235512137201279214
+    second: Magic_Water_Field_1
+  - first:
+      213: -6329349568303491152
+    second: Magic_Water_Field_2
+  - first:
+      213: -4982383029882285216
+    second: Magic_Water_Field_3
+  - first:
+      213: 7899386875622168139
+    second: Magic_Water_Field_4
+  - first:
+      213: 2440481003754740411
+    second: Magic_Water_Field_5
+  - first:
+      213: -6736373320557072548
+    second: Magic_Water_Field_6
+  - first:
+      213: -2052077819287486363
+    second: Magic_Water_Field_7
+  - first:
+      213: -2501131299794532813
+    second: Magic_Water_Field_8
+  - first:
+      213: -3461601706656341654
+    second: Magic_Water_Field_9
+  - first:
+      213: 6900627155780599374
+    second: Magic_Water_Field_10
+  - first:
+      213: 1865510813676995927
+    second: Magic_Water_Field_11
+  - first:
+      213: 2986936603598879158
+    second: Magic_Water_Field_12
+  - first:
+      213: 667345912761961060
+    second: Magic_Water_Field_13
+  - first:
+      213: 8741177446602127831
+    second: Magic_Water_Field_14
+  - first:
+      213: 7229459772375343153
+    second: Magic_Water_Field_15
+  - first:
+      213: -5563858780321749957
+    second: Magic_Water_Field_16
+  - first:
+      213: -2115166710281633012
+    second: Magic_Water_Field_17
+  - first:
+      213: -2284012027227213214
+    second: Magic_Water_Field_18
+  - first:
+      213: 2513791669979165284
+    second: Magic_Water_Field_19
+  - first:
+      213: 4828495436457111474
+    second: Magic_Water_Field_20
+  - first:
+      213: 1640361347913369983
+    second: Magic_Water_Field_21
+  - first:
+      213: -4524821047523305093
+    second: Magic_Water_Field_22
+  - first:
+      213: -5972979699265636875
+    second: Magic_Water_Field_23
+  - first:
+      213: 7311982724693777171
+    second: Magic_Water_Field_24
+  - first:
+      213: 1729163772107930161
+    second: Magic_Water_Field_25
+  - first:
+      213: -3365895397960893331
+    second: Magic_Water_Field_26
+  - first:
+      213: 705337971788615100
+    second: Magic_Water_Field_27
+  - first:
+      213: -7646115118689624623
+    second: Magic_Water_Field_28
+  - first:
+      213: -8378679863026430170
+    second: Magic_Water_Field_29
+  - first:
+      213: -1191926092351295875
+    second: Magic_Water_Field_30
+  - first:
+      213: 4851210923517967422
+    second: Magic_Water_Field_31
+  - first:
+      213: 3355416293109663854
+    second: Magic_Water_Field_32
+  - first:
+      213: -7255963367542328939
+    second: Magic_Water_Field_33
+  - first:
+      213: -5223794792729548181
+    second: Magic_Water_Field_34
+  - first:
+      213: 6962468175647348966
+    second: Magic_Water_Field_35
+  - first:
+      213: 7835254604445630174
+    second: Magic_Water_Field_36
+  - first:
+      213: 6764111757126710850
+    second: Magic_Water_Field_37
+  - first:
+      213: 3033973649566668052
+    second: Magic_Water_Field_38
+  - first:
+      213: 2988923926044379591
+    second: Magic_Water_Field_39
+  - first:
+      213: 8855668524456692373
+    second: Magic_Water_Field_40
+  - first:
+      213: -3253191242422783889
+    second: Magic_Water_Field_41
+  - first:
+      213: 404908742910088973
+    second: Magic_Water_Field_42
+  - first:
+      213: -3870918735829136631
+    second: Magic_Water_Field_43
+  - first:
+      213: 2823674586207867260
+    second: Magic_Water_Field_44
+  - first:
+      213: 5843764941090337850
+    second: Magic_Water_Field_45
+  - first:
+      213: 4011904153159353325
+    second: Magic_Water_Field_46
+  - first:
+      213: -3959091376624247601
+    second: Magic_Water_Field_47
+  - first:
+      213: 6105440357849795003
+    second: Magic_Water_Field_48
+  - first:
+      213: -9192885430050778580
+    second: Magic_Water_Field_49
+  - first:
+      213: -1799144407420173996
+    second: Magic_Water_Field_50
+  - first:
+      213: -7784277998380336234
+    second: Magic_Water_Field_51
+  - first:
+      213: -1444211278695913229
+    second: Magic_Water_Field_52
+  - first:
+      213: 2080538119333290733
+    second: Magic_Water_Field_53
+  - first:
+      213: -7509446444877764907
+    second: Magic_Water_Field_54
+  - first:
+      213: -6238506605735995141
+    second: Magic_Water_Field_55
+  - first:
+      213: -3792811806440610778
+    second: Magic_Water_Field_56
+  - first:
+      213: 5097464394760025838
+    second: Magic_Water_Field_57
+  - first:
+      213: 2615483619946157275
+    second: Magic_Water_Field_58
+  - first:
+      213: 7100023193711229996
+    second: Magic_Water_Field_59
+  - first:
+      213: 2168947144042743472
+    second: Magic_Water_Field_60
+  - first:
+      213: 4757987884924275725
+    second: Magic_Water_Field_61
+  - first:
+      213: -5715437190014823566
+    second: Magic_Water_Field_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Water_Field_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 141
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73706081f6d195530800000000000000
+      internalID: 3844136119919052599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_1
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 137
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0e4fcc172260f10800000000000000
+      internalID: 2235512137201279214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 136
+        width: 115
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b79ff91a12a928a0800000000000000
+      internalID: -6329349568303491152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 239
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0639ee838050bdab0800000000000000
+      internalID: -4982383029882285216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_4
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 212
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4697d8b28240ad60800000000000000
+      internalID: 7899386875622168139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_5
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 212
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbad3edea845ed120800000000000000
+      internalID: 2440481003754740411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 186
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5fe6c1e7289382a0800000000000000
+      internalID: -6736373320557072548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 159
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56049e1881e8583e0800000000000000
+      internalID: -2052077819287486363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_8
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 135
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336c22b95523a4dd0800000000000000
+      internalID: -2501131299794532813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 104
+        width: 42
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61ecd0969be5ffc0800000000000000
+      internalID: -3461601706656341654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 115
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e77bb46d3f3cf50800000000000000
+      internalID: 6900627155780599374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 105
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7550edd7330a3e910800000000000000
+      internalID: 1865510813676995927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 118
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b97f18f30bb37920800000000000000
+      internalID: 2986936603598879158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 86
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a4c786293e24900800000000000000
+      internalID: 667345912761961060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_14
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 86
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9306f2396ee4970800000000000000
+      internalID: 8741177446602127831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_15
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 106
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130a8621c53345460800000000000000
+      internalID: 7229459772375343153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_16
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 111
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34eb7afae339c2b0800000000000000
+      internalID: -5563858780321749957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_17
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 86
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c038ee8651b65a2e0800000000000000
+      internalID: -2115166710281633012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 81
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262f666992f8d40e0800000000000000
+      internalID: -2284012027227213214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 81
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462b1788438c2e220800000000000000
+      internalID: 2513791669979165284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 86
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bfee995403420340800000000000000
+      internalID: 4828495436457111474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_21
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 104
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7948a574fbb3c610800000000000000
+      internalID: 1640361347913369983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 104
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7999261b3b9431c0800000000000000
+      internalID: -4524821047523305093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_23
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 109
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5f6a61c96bb1da0800000000000000
+      internalID: -5972979699265636875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_24
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 109
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b5a2d2c81697560800000000000000
+      internalID: 7311982724693777171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 84
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ab7fa0a493ff710800000000000000
+      internalID: 1729163772107930161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_26
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 47
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c3b6508ffe941d0800000000000000
+      internalID: -3365895397960893331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_27
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 41
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd0e07f52dd9c900800000000000000
+      internalID: 705337971788615100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_28
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 84
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddd2c67fca83e590800000000000000
+      internalID: -7646115118689624623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_29
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 84
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f47958e03f8bb80800000000000000
+      internalID: -8378679863026430170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_30
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 47
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ea1eab88d657fe0800000000000000
+      internalID: -1191926092351295875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_31
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 81
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c78c2d1a6f25340800000000000000
+      internalID: 4851210923517967422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_32
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 81
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e680c504755d09e20800000000000000
+      internalID: 3355416293109663854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_33
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 41
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591746ec2c3ad4b90800000000000000
+      internalID: -7255963367542328939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_34
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 84
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ae1d7105a5187b0800000000000000
+      internalID: -5223794792729548181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_35
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 67
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e81c61cae7af9060800000000000000
+      internalID: 6962468175647348966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_36
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 81
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeb9bebc8a6cbc60800000000000000
+      internalID: 7835254604445630174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_37
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 81
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246b4982ec3fedd50800000000000000
+      internalID: 6764111757126710850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_38
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 70
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4151158a5f6da1a20800000000000000
+      internalID: 3033973649566668052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_39
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 84
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c98a88897aca7920800000000000000
+      internalID: 2988923926044379591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_40
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 13
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a49d88a97a5ea70800000000000000
+      internalID: 8855668524456692373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 13
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f607af81dc75ad2d0800000000000000
+      internalID: -3253191242422783889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_42
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 42
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d071b9b3b568e9500800000000000000
+      internalID: 404908742910088973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_43
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 47
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b00843bebb74ac0800000000000000
+      internalID: -3870918735829136631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_44
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 11
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71d7306315bf2720800000000000000
+      internalID: 2823674586207867260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_45
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 48
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3432989049391150800000000000000
+      internalID: 5843764941090337850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_46
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 29
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de34af142952da730800000000000000
+      internalID: 4011904153159353325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_47
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 12
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccdffe7e5b7e09c0800000000000000
+      internalID: -3959091376624247601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_48
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 12
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb988fe48a1eab450800000000000000
+      internalID: 6105440357849795003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_49
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 29
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2295f8486f4c6080800000000000000
+      internalID: -9192885430050778580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_50
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 11
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451071891b72807e0800000000000000
+      internalID: -1799144407420173996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_51
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 33
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69bb6a14760b8f390800000000000000
+      internalID: -7784277998380336234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_52
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 28
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8a7b86e7125fbe0800000000000000
+      internalID: -1444211278695913229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de22588756e8fdc10800000000000000
+      internalID: 2080538119333290733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_54
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6ad31ce3619c790800000000000000
+      internalID: -7509446444877764907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_55
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 15
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf89d2c8b4f5c69a0800000000000000
+      internalID: -6238506605735995141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_56
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 5
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6242339d1c93d5bc0800000000000000
+      internalID: -3792811806440610778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_57
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee67fd80cd4ddb640800000000000000
+      internalID: 5097464394760025838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_58
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 39
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd45eb2be701c4420800000000000000
+      internalID: 2615483619946157275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_59
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 14
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c31362a79588260800000000000000
+      internalID: 7100023193711229996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_60
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b604499fe5a91e10800000000000000
+      internalID: 2168947144042743472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_61
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c068eb5c4c70240800000000000000
+      internalID: 4757987884924275725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Water_Field_62
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2731c194820bea0b0800000000000000
+      internalID: -5715437190014823566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Water_Field_0: 3844136119919052599
+      Magic_Water_Field_1: 2235512137201279214
+      Magic_Water_Field_10: 6900627155780599374
+      Magic_Water_Field_11: 1865510813676995927
+      Magic_Water_Field_12: 2986936603598879158
+      Magic_Water_Field_13: 667345912761961060
+      Magic_Water_Field_14: 8741177446602127831
+      Magic_Water_Field_15: 7229459772375343153
+      Magic_Water_Field_16: -5563858780321749957
+      Magic_Water_Field_17: -2115166710281633012
+      Magic_Water_Field_18: -2284012027227213214
+      Magic_Water_Field_19: 2513791669979165284
+      Magic_Water_Field_2: -6329349568303491152
+      Magic_Water_Field_20: 4828495436457111474
+      Magic_Water_Field_21: 1640361347913369983
+      Magic_Water_Field_22: -4524821047523305093
+      Magic_Water_Field_23: -5972979699265636875
+      Magic_Water_Field_24: 7311982724693777171
+      Magic_Water_Field_25: 1729163772107930161
+      Magic_Water_Field_26: -3365895397960893331
+      Magic_Water_Field_27: 705337971788615100
+      Magic_Water_Field_28: -7646115118689624623
+      Magic_Water_Field_29: -8378679863026430170
+      Magic_Water_Field_3: -4982383029882285216
+      Magic_Water_Field_30: -1191926092351295875
+      Magic_Water_Field_31: 4851210923517967422
+      Magic_Water_Field_32: 3355416293109663854
+      Magic_Water_Field_33: -7255963367542328939
+      Magic_Water_Field_34: -5223794792729548181
+      Magic_Water_Field_35: 6962468175647348966
+      Magic_Water_Field_36: 7835254604445630174
+      Magic_Water_Field_37: 6764111757126710850
+      Magic_Water_Field_38: 3033973649566668052
+      Magic_Water_Field_39: 2988923926044379591
+      Magic_Water_Field_4: 7899386875622168139
+      Magic_Water_Field_40: 8855668524456692373
+      Magic_Water_Field_41: -3253191242422783889
+      Magic_Water_Field_42: 404908742910088973
+      Magic_Water_Field_43: -3870918735829136631
+      Magic_Water_Field_44: 2823674586207867260
+      Magic_Water_Field_45: 5843764941090337850
+      Magic_Water_Field_46: 4011904153159353325
+      Magic_Water_Field_47: -3959091376624247601
+      Magic_Water_Field_48: 6105440357849795003
+      Magic_Water_Field_49: -9192885430050778580
+      Magic_Water_Field_5: 2440481003754740411
+      Magic_Water_Field_50: -1799144407420173996
+      Magic_Water_Field_51: -7784277998380336234
+      Magic_Water_Field_52: -1444211278695913229
+      Magic_Water_Field_53: 2080538119333290733
+      Magic_Water_Field_54: -7509446444877764907
+      Magic_Water_Field_55: -6238506605735995141
+      Magic_Water_Field_56: -3792811806440610778
+      Magic_Water_Field_57: 5097464394760025838
+      Magic_Water_Field_58: 2615483619946157275
+      Magic_Water_Field_59: 7100023193711229996
+      Magic_Water_Field_6: -6736373320557072548
+      Magic_Water_Field_60: 2168947144042743472
+      Magic_Water_Field_61: 4757987884924275725
+      Magic_Water_Field_62: -5715437190014823566
+      Magic_Water_Field_7: -2052077819287486363
+      Magic_Water_Field_8: -2501131299794532813
+      Magic_Water_Field_9: -3461601706656341654
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

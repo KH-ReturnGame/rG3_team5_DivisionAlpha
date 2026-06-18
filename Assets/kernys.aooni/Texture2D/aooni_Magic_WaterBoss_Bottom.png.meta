@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: b0b3720534a29c346a44f2308acf6fd7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -455217701933449844
+    second: aooni_Magic_WaterBoss_Bottom_0
+  - first:
+      213: 2405452602840242437
+    second: aooni_Magic_WaterBoss_Bottom_1
+  - first:
+      213: -1119692604382970001
+    second: aooni_Magic_WaterBoss_Bottom_2
+  - first:
+      213: 1381408880201303658
+    second: aooni_Magic_WaterBoss_Bottom_3
+  - first:
+      213: 5502653771344673682
+    second: aooni_Magic_WaterBoss_Bottom_4
+  - first:
+      213: -8326606017138590143
+    second: aooni_Magic_WaterBoss_Bottom_5
+  - first:
+      213: -6659555821429319954
+    second: aooni_Magic_WaterBoss_Bottom_6
+  - first:
+      213: 8878340204391564637
+    second: aooni_Magic_WaterBoss_Bottom_7
+  - first:
+      213: 788660942086071918
+    second: aooni_Magic_WaterBoss_Bottom_8
+  - first:
+      213: -5600088924072275908
+    second: aooni_Magic_WaterBoss_Bottom_9
+  - first:
+      213: -5605764212462333320
+    second: aooni_Magic_WaterBoss_Bottom_10
+  - first:
+      213: -556967689472882320
+    second: aooni_Magic_WaterBoss_Bottom_11
+  - first:
+      213: 3494020085691073864
+    second: aooni_Magic_WaterBoss_Bottom_12
+  - first:
+      213: 5816718852234649289
+    second: aooni_Magic_WaterBoss_Bottom_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 85
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d79c479edbea9f0800000000000000
+      internalID: -455217701933449844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 85
+        width: 43
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509d45cc562e16120800000000000000
+      internalID: 2405452602840242437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 80
+        width: 111
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ffe1a328d0670f0800000000000000
+      internalID: -1119692604382970001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_3
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 68
+        width: 91
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6608f9be00cb2310800000000000000
+      internalID: 1381408880201303658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 53
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b76f2637a5d5c40800000000000000
+      internalID: 5502653771344673682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ef2d391f3f17c80800000000000000
+      internalID: -8326606017138590143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5
+        width: 29
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee612d5a3418493a0800000000000000
+      internalID: -6659555821429319954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_7
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 23
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5504dd5063363b70800000000000000
+      internalID: 8878340204391564637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_8
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 23
+        width: 18
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66e345c2f2e1fa00800000000000000
+      internalID: 788660942086071918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_9
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 12
+        width: 89
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30921a4bcc7842b0800000000000000
+      internalID: -5600088924072275908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_10
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 26
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872d59d36235432b0800000000000000
+      internalID: -5605764212462333320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_11
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 45
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079499d56d04548f0800000000000000
+      internalID: -556967689472882320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_12
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 35
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84542bd71c04d7030800000000000000
+      internalID: 3494020085691073864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_WaterBoss_Bottom_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 33
+        width: 41
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce93c15af229b050800000000000000
+      internalID: 5816718852234649289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aooni_Magic_WaterBoss_Bottom_0: -455217701933449844
+      aooni_Magic_WaterBoss_Bottom_1: 2405452602840242437
+      aooni_Magic_WaterBoss_Bottom_10: -5605764212462333320
+      aooni_Magic_WaterBoss_Bottom_11: -556967689472882320
+      aooni_Magic_WaterBoss_Bottom_12: 3494020085691073864
+      aooni_Magic_WaterBoss_Bottom_13: 5816718852234649289
+      aooni_Magic_WaterBoss_Bottom_2: -1119692604382970001
+      aooni_Magic_WaterBoss_Bottom_3: 1381408880201303658
+      aooni_Magic_WaterBoss_Bottom_4: 5502653771344673682
+      aooni_Magic_WaterBoss_Bottom_5: -8326606017138590143
+      aooni_Magic_WaterBoss_Bottom_6: -6659555821429319954
+      aooni_Magic_WaterBoss_Bottom_7: 8878340204391564637
+      aooni_Magic_WaterBoss_Bottom_8: 788660942086071918
+      aooni_Magic_WaterBoss_Bottom_9: -5600088924072275908
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

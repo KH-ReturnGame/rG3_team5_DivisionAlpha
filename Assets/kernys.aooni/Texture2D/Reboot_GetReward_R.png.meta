@@ -1,0 +1,3354 @@
+fileFormatVersion: 2
+guid: 1d30d6cc539de1242a8df1b7ac249f61
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3155905960896527275
+    second: Reboot_GetReward_R_0
+  - first:
+      213: 6725755892043688131
+    second: Reboot_GetReward_R_1
+  - first:
+      213: -2681282896012178378
+    second: Reboot_GetReward_R_2
+  - first:
+      213: -7143378592983143625
+    second: Reboot_GetReward_R_3
+  - first:
+      213: 829867693866999733
+    second: Reboot_GetReward_R_4
+  - first:
+      213: 1741753318854044607
+    second: Reboot_GetReward_R_5
+  - first:
+      213: 4368180126564889134
+    second: Reboot_GetReward_R_6
+  - first:
+      213: 8601651477395202121
+    second: Reboot_GetReward_R_7
+  - first:
+      213: 6283689014733098548
+    second: Reboot_GetReward_R_8
+  - first:
+      213: 3519438744080727720
+    second: Reboot_GetReward_R_9
+  - first:
+      213: 2025695334746220279
+    second: Reboot_GetReward_R_10
+  - first:
+      213: 3612565398366164591
+    second: Reboot_GetReward_R_11
+  - first:
+      213: 8150895986334443069
+    second: Reboot_GetReward_R_12
+  - first:
+      213: 1492122160121847596
+    second: Reboot_GetReward_R_13
+  - first:
+      213: -4359650011552797692
+    second: Reboot_GetReward_R_14
+  - first:
+      213: -7846568850118660043
+    second: Reboot_GetReward_R_15
+  - first:
+      213: 529936235620401400
+    second: Reboot_GetReward_R_16
+  - first:
+      213: -7373181432122772339
+    second: Reboot_GetReward_R_17
+  - first:
+      213: -8027358871316871306
+    second: Reboot_GetReward_R_18
+  - first:
+      213: -7661630935571311951
+    second: Reboot_GetReward_R_19
+  - first:
+      213: 9166507658021996957
+    second: Reboot_GetReward_R_20
+  - first:
+      213: 3664802790208392535
+    second: Reboot_GetReward_R_21
+  - first:
+      213: 3068525557078566517
+    second: Reboot_GetReward_R_22
+  - first:
+      213: 4986296571964996958
+    second: Reboot_GetReward_R_23
+  - first:
+      213: 8803259822973493760
+    second: Reboot_GetReward_R_24
+  - first:
+      213: -2049998762316290985
+    second: Reboot_GetReward_R_25
+  - first:
+      213: 50899554947420067
+    second: Reboot_GetReward_R_26
+  - first:
+      213: -5904223201100546767
+    second: Reboot_GetReward_R_27
+  - first:
+      213: 2197315854825776342
+    second: Reboot_GetReward_R_28
+  - first:
+      213: -168226921819487526
+    second: Reboot_GetReward_R_29
+  - first:
+      213: 5011804946491966619
+    second: Reboot_GetReward_R_30
+  - first:
+      213: 2319918724124301604
+    second: Reboot_GetReward_R_31
+  - first:
+      213: 1154007070320885775
+    second: Reboot_GetReward_R_32
+  - first:
+      213: -8430041135111156860
+    second: Reboot_GetReward_R_33
+  - first:
+      213: -7274120250446495206
+    second: Reboot_GetReward_R_34
+  - first:
+      213: -7993373361590789629
+    second: Reboot_GetReward_R_35
+  - first:
+      213: 188255690021712970
+    second: Reboot_GetReward_R_36
+  - first:
+      213: 738357783758876097
+    second: Reboot_GetReward_R_37
+  - first:
+      213: 6214913320664971255
+    second: Reboot_GetReward_R_38
+  - first:
+      213: -3440023348132248083
+    second: Reboot_GetReward_R_39
+  - first:
+      213: -2837547114052442918
+    second: Reboot_GetReward_R_40
+  - first:
+      213: -483117972459955416
+    second: Reboot_GetReward_R_41
+  - first:
+      213: 870866399776652792
+    second: Reboot_GetReward_R_42
+  - first:
+      213: 8879700942767329083
+    second: Reboot_GetReward_R_43
+  - first:
+      213: 905622463357159986
+    second: Reboot_GetReward_R_44
+  - first:
+      213: 5940690182627798317
+    second: Reboot_GetReward_R_45
+  - first:
+      213: 2077842140846600534
+    second: Reboot_GetReward_R_46
+  - first:
+      213: 4465579866780432588
+    second: Reboot_GetReward_R_47
+  - first:
+      213: -4734045452511083627
+    second: Reboot_GetReward_R_48
+  - first:
+      213: 2788381787457292933
+    second: Reboot_GetReward_R_49
+  - first:
+      213: -2032032598671549318
+    second: Reboot_GetReward_R_50
+  - first:
+      213: -5223166260724671224
+    second: Reboot_GetReward_R_51
+  - first:
+      213: 8715168961941717129
+    second: Reboot_GetReward_R_52
+  - first:
+      213: 4353930341643604637
+    second: Reboot_GetReward_R_53
+  - first:
+      213: -4716162745553047728
+    second: Reboot_GetReward_R_54
+  - first:
+      213: -6162679979679786189
+    second: Reboot_GetReward_R_55
+  - first:
+      213: 5063285762652573804
+    second: Reboot_GetReward_R_56
+  - first:
+      213: 4542929513916553933
+    second: Reboot_GetReward_R_57
+  - first:
+      213: -6676783764195794922
+    second: Reboot_GetReward_R_58
+  - first:
+      213: -5680388020534076035
+    second: Reboot_GetReward_R_59
+  - first:
+      213: 8627715348761381242
+    second: Reboot_GetReward_R_60
+  - first:
+      213: -1665092445574325634
+    second: Reboot_GetReward_R_61
+  - first:
+      213: -6222915380978072847
+    second: Reboot_GetReward_R_62
+  - first:
+      213: 2205599913933613260
+    second: Reboot_GetReward_R_63
+  - first:
+      213: 7890158370495658950
+    second: Reboot_GetReward_R_64
+  - first:
+      213: 5700780319526451196
+    second: Reboot_GetReward_R_65
+  - first:
+      213: 3492312730645589428
+    second: Reboot_GetReward_R_66
+  - first:
+      213: -2144439198363957027
+    second: Reboot_GetReward_R_67
+  - first:
+      213: 7159188989063366854
+    second: Reboot_GetReward_R_68
+  - first:
+      213: -8367976412941032807
+    second: Reboot_GetReward_R_69
+  - first:
+      213: -5112012312833114936
+    second: Reboot_GetReward_R_70
+  - first:
+      213: -195634973061371309
+    second: Reboot_GetReward_R_71
+  - first:
+      213: 9205189609318454611
+    second: Reboot_GetReward_R_72
+  - first:
+      213: 494608373403374996
+    second: Reboot_GetReward_R_73
+  - first:
+      213: 6160288096406201475
+    second: Reboot_GetReward_R_74
+  - first:
+      213: 8786143654795773384
+    second: Reboot_GetReward_R_75
+  - first:
+      213: -2455748899064512375
+    second: Reboot_GetReward_R_76
+  - first:
+      213: 1283086579465317387
+    second: Reboot_GetReward_R_77
+  - first:
+      213: -8706460938295443508
+    second: Reboot_GetReward_R_78
+  - first:
+      213: -579966606550240347
+    second: Reboot_GetReward_R_79
+  - first:
+      213: 8589200985061705855
+    second: Reboot_GetReward_R_80
+  - first:
+      213: -8136219236525232050
+    second: Reboot_GetReward_R_81
+  - first:
+      213: -7331387546775130678
+    second: Reboot_GetReward_R_82
+  - first:
+      213: 883894616507587754
+    second: Reboot_GetReward_R_83
+  - first:
+      213: -4757404597250420311
+    second: Reboot_GetReward_R_84
+  - first:
+      213: 6517909655591174250
+    second: Reboot_GetReward_R_85
+  - first:
+      213: -3469294630521650223
+    second: Reboot_GetReward_R_86
+  - first:
+      213: 6202520972631313744
+    second: Reboot_GetReward_R_87
+  - first:
+      213: -3105768543687975256
+    second: Reboot_GetReward_R_88
+  - first:
+      213: 5593600250645742783
+    second: Reboot_GetReward_R_89
+  - first:
+      213: -1782129643807321007
+    second: Reboot_GetReward_R_90
+  - first:
+      213: 8472483971163085958
+    second: Reboot_GetReward_R_91
+  - first:
+      213: -6849314835353999213
+    second: Reboot_GetReward_R_92
+  - first:
+      213: 5139881312697959324
+    second: Reboot_GetReward_R_93
+  - first:
+      213: 3258200082504467813
+    second: Reboot_GetReward_R_94
+  - first:
+      213: -6382957816657863230
+    second: Reboot_GetReward_R_95
+  - first:
+      213: 7857904226506106671
+    second: Reboot_GetReward_R_96
+  - first:
+      213: 4583354044445028485
+    second: Reboot_GetReward_R_97
+  - first:
+      213: -3897561291250362490
+    second: Reboot_GetReward_R_98
+  - first:
+      213: 6694352115613774051
+    second: Reboot_GetReward_R_99
+  - first:
+      213: 5271826339944564892
+    second: Reboot_GetReward_R_100
+  - first:
+      213: -4675242751107954421
+    second: Reboot_GetReward_R_101
+  - first:
+      213: 6733965086413788752
+    second: Reboot_GetReward_R_102
+  - first:
+      213: -6501747546373874147
+    second: Reboot_GetReward_R_103
+  - first:
+      213: 424526457026058888
+    second: Reboot_GetReward_R_104
+  - first:
+      213: -2812364640435090905
+    second: Reboot_GetReward_R_105
+  - first:
+      213: 1024378794477275177
+    second: Reboot_GetReward_R_106
+  - first:
+      213: -3643550957748010624
+    second: Reboot_GetReward_R_107
+  - first:
+      213: -7679567985496380754
+    second: Reboot_GetReward_R_108
+  - first:
+      213: 1759333093374852092
+    second: Reboot_GetReward_R_109
+  - first:
+      213: -4942665562673832872
+    second: Reboot_GetReward_R_110
+  - first:
+      213: 1531070655083914510
+    second: Reboot_GetReward_R_111
+  - first:
+      213: 2341947052368000682
+    second: Reboot_GetReward_R_112
+  - first:
+      213: -2068437260844301681
+    second: Reboot_GetReward_R_113
+  - first:
+      213: 1159059396020883201
+    second: Reboot_GetReward_R_114
+  - first:
+      213: 1845729842587252028
+    second: Reboot_GetReward_R_115
+  - first:
+      213: 6621103216426753373
+    second: Reboot_GetReward_R_116
+  - first:
+      213: 8015752802283450733
+    second: Reboot_GetReward_R_117
+  - first:
+      213: -5869878124789721932
+    second: Reboot_GetReward_R_118
+  - first:
+      213: -7705405634454476831
+    second: Reboot_GetReward_R_119
+  - first:
+      213: -4385119776661367230
+    second: Reboot_GetReward_R_120
+  - first:
+      213: 5846036393588593751
+    second: Reboot_GetReward_R_121
+  - first:
+      213: -7000732338574079746
+    second: Reboot_GetReward_R_122
+  - first:
+      213: 1190341055595791752
+    second: Reboot_GetReward_R_123
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_0
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 239
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab76cf20c70ccb20800000000000000
+      internalID: 3155905960896527275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_1
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 220
+        width: 70
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c82147695fa65d50800000000000000
+      internalID: 6725755892043688131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 256
+        width: 80
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c0dd0896b2acad0800000000000000
+      internalID: -2681282896012178378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 229
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b2c15540f9ddc90800000000000000
+      internalID: -7143378592983143625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_4
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 263
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfd38f4548448b00800000000000000
+      internalID: 829867693866999733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 254
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbb27a05a63fb2810800000000000000
+      internalID: 1741753318854044607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 257
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2232d67ea4ee9c30800000000000000
+      internalID: 4368180126564889134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 243
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940ead7f1743f5770800000000000000
+      internalID: 8601651477395202121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_8
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 258
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ec032ddd5243750800000000000000
+      internalID: 6283689014733098548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_9
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 263
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aebda514ee87d030800000000000000
+      internalID: 3519438744080727720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_10
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6e6b2ac27bc1c10800000000000000
+      internalID: 2025695334746220279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_11
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 263
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f669b71f619622230800000000000000
+      internalID: 3612565398366164591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_12
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 199
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d362f9ad6bccd1170800000000000000
+      internalID: 8150895986334443069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 243
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f1d83f23515b410800000000000000
+      internalID: 1492122160121847596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_14
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 239
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c2e54b9696f73c0800000000000000
+      internalID: -4359650011552797692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_15
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 243
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530380724336b1390800000000000000
+      internalID: -7846568850118660043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_16
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 239
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f003c5d236ba5700800000000000000
+      internalID: 529936235620401400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_17
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 218
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84f0d16d823da990800000000000000
+      internalID: -7373181432122772339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_18
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 230
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677c39623a7199090800000000000000
+      internalID: -8027358871316871306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_19
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 219
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2d025d14b6ca590800000000000000
+      internalID: -7661630935571311951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 215
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d998c43162af53f70800000000000000
+      internalID: 9166507658021996957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_21
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 227
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d4b3288befbd230800000000000000
+      internalID: 3664802790208392535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_22
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 207
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57620e58cb7959a20800000000000000
+      internalID: 3068525557078566517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 213
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5db8bc4052e23540800000000000000
+      internalID: 4986296571964996958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_24
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 199
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002adc5da267b2a70800000000000000
+      internalID: 8803259822973493760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_25
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 219
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754a52eacf0fc83e0800000000000000
+      internalID: -2049998762316290985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_26
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 215
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afcdd320e4d4b000800000000000000
+      internalID: 50899554947420067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_27
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 197
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d38cfc74cff0ea0800000000000000
+      internalID: -5904223201100546767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_28
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 196
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4693ac02f6e7e10800000000000000
+      internalID: 2197315854825776342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_29
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 187
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2ca4381865aadf0800000000000000
+      internalID: -168226921819487526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_30
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 195
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94033f8b028d8540800000000000000
+      internalID: 5011804946491966619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 191
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429d433c9c1023020800000000000000
+      internalID: 2319918724124301604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_32
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 203
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0004c6f05bd30010800000000000000
+      internalID: 1154007070320885775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_33
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 176
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bc4cb704a720b80800000000000000
+      internalID: -8430041135111156860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_34
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 143
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1249a21c222d0b90800000000000000
+      internalID: -7274120250446495206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_35
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 159
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a9f414745d11190800000000000000
+      internalID: -7993373361590789629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_36
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 179
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44b0ba7d81dc9200800000000000000
+      internalID: 188255690021712970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_37
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 167
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cda71a0e7c2f3a00800000000000000
+      internalID: 738357783758876097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_38
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 175
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f73414bcbecf3650800000000000000
+      internalID: 6214913320664971255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_39
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 151
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5078badf49240d0800000000000000
+      internalID: -3440023348132248083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_40
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 171
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad428790fe10f98d0800000000000000
+      internalID: -2837547114052442918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_41
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 183
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bdae283ce9b49f0800000000000000
+      internalID: -483117972459955416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 161
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdb2856060f51c00800000000000000
+      internalID: 870866399776652792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_43
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 151
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f0955f5f80b3b70800000000000000
+      internalID: 8879700942767329083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_44
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 159
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a840d05da619c00800000000000000
+      internalID: 905622463357159986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_45
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d2e28fe32917250800000000000000
+      internalID: 5940690182627798317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_46
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 143
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651bf701b6af5dc10800000000000000
+      internalID: 2077842140846600534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_47
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 139
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc8759baa3de8fd30800000000000000
+      internalID: 4465579866780432588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_48
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 135
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59306843eba4d4eb0800000000000000
+      internalID: -4734045452511083627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_49
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 147
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a8f83567252b620800000000000000
+      internalID: 2788381787457292933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_50
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 137
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c1b202e15ccc3e0800000000000000
+      internalID: -2032032598671549318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_51
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 128
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d53ba95f59387b0800000000000000
+      internalID: -5223166260724671224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_52
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 115
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980cb06feff72f870800000000000000
+      internalID: 8715168961941717129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_53
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 135
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92567ed3944c6c30800000000000000
+      internalID: 4353930341643604637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_54
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 119
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f216068f2dc8eb0800000000000000
+      internalID: -4716162745553047728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_55
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 127
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b56c2b533c97aa0800000000000000
+      internalID: -6162679979679786189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_56
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 133
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c60133f1397644640800000000000000
+      internalID: 5063285762652573804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 113
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca52acc25abb0f30800000000000000
+      internalID: 4542929513916553933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_58
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 115
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610a305aa8c4753a0800000000000000
+      internalID: -6676783764195794922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_59
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 107
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d9ea9f0353b21b0800000000000000
+      internalID: -5680388020534076035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_60
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 123
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a798b1ae56dcbb770800000000000000
+      internalID: 8627715348761381242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_61
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 115
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a1b572e3764e8e0800000000000000
+      internalID: -1665092445574325634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_62
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 75
+        width: 62
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2cc717e63c3a9a0800000000000000
+      internalID: -6222915380978072847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_63
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 107
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc825aa9f6ddb9e10800000000000000
+      internalID: 2205599913933613260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_64
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 99
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbf7feeb397f7d60800000000000000
+      internalID: 7890158370495658950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_65
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 111
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf779ef1f7d3d1f40800000000000000
+      internalID: 5700780319526451196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_66
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 103
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd64baecef277030800000000000000
+      internalID: 3492312730645589428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_67
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 111
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8c71b29eb6d32e0800000000000000
+      internalID: -2144439198363957027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_68
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 99
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c8820d547c8a5360800000000000000
+      internalID: 7159188989063366854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_69
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 95
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9926dc1b9c9fedb80800000000000000
+      internalID: -8367976412941032807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_70
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 83
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccb826d2eb7e09b0800000000000000
+      internalID: -5112012312833114936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_71
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 91
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35aa80d4707f84df0800000000000000
+      internalID: -195634973061371309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_72
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 91
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3551b81bd276fbf70800000000000000
+      internalID: 9205189609318454611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_73
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 83
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49554afe1b33dd600800000000000000
+      internalID: 494608373403374996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_74
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 99
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384eb54926dbd7550800000000000000
+      internalID: 6160288096406201475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_75
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 86
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c587a16a17aee970800000000000000
+      internalID: 8786143654795773384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_76
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 67
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98004bd236d6bedd0800000000000000
+      internalID: -2455748899064512375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_77
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 67
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ce91922707ec110800000000000000
+      internalID: 1283086579465317387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_78
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 79
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccff51ac7ef6c2780800000000000000
+      internalID: -8706460938295443508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_79
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 75
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3fbf2b17b83f7f0800000000000000
+      internalID: -579966606550240347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_80
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 75
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78c903d9c8f23770800000000000000
+      internalID: 8589200985061705855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_81
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 69
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40b63046b7561f80800000000000000
+      internalID: -8136219236525232050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_82
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 43
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdeebb9edda14a90800000000000000
+      internalID: -7331387546775130678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_83
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 44
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac90db7879344c00800000000000000
+      internalID: 883894616507587754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_84
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 46
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1141089bd4afdb0800000000000000
+      internalID: -4757404597250420311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_85
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 59
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60c9936c44447a50800000000000000
+      internalID: 6517909655591174250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_86
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 43
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d346962ae69adfc0800000000000000
+      internalID: -3469294630521650223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_87
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 63
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d899556f7c31650800000000000000
+      internalID: 6202520972631313744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_88
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 51
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae55eee6f716e4d0800000000000000
+      internalID: -3105768543687975256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_89
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 59
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb48643bac570ad40800000000000000
+      internalID: 5593600250645742783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_90
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 29
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 154db25f78a9447e0800000000000000
+      internalID: -1782129643807321007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_91
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 51
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cdd5a584f449570800000000000000
+      internalID: 8472483971163085958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39869eb427852f0a0800000000000000
+      internalID: -6849314835353999213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_93
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 29
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93c70752d6845740800000000000000
+      internalID: 5139881312697959324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_94
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565c3dc56b3773d20800000000000000
+      internalID: 3258200082504467813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_95
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 27
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd1ec12fad2b67a0800000000000000
+      internalID: -6382957816657863230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_96
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 35
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27efe3d242ec0d60800000000000000
+      internalID: 7857904226506106671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_97
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 23
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580fef248385b9f30800000000000000
+      internalID: 4583354044445028485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_98
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 39
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68795b0e7a419e9c0800000000000000
+      internalID: -3897561291250362490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_99
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 31
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e03b8ce7cd17ec50800000000000000
+      internalID: 6694352115613774051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_100
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 39
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9881f5ff1a492940800000000000000
+      internalID: 5271826339944564892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_101
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 0
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b098d750d733e1fb0800000000000000
+      internalID: -4675242751107954421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_102
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 28
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05693996199d37d50800000000000000
+      internalID: 6733965086413788752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_103
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 19
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e1e17ed0725c5a0800000000000000
+      internalID: -6501747546373874147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_104
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 10
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a1bcc309834e500800000000000000
+      internalID: 424526457026058888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_105
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 23
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a4ff3924978f8d0800000000000000
+      internalID: -2812364640435090905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_106
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 0
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928c2401613573e00800000000000000
+      internalID: 1024378794477275177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_107
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 27
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081456255b18f6dc0800000000000000
+      internalID: -3643550957748010624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_108
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 23
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaa604fa91bc6590800000000000000
+      internalID: -7679567985496380754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_109
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb723880286a6810800000000000000
+      internalID: 1759333093374852092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_110
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 31
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c154dabdf186bb0800000000000000
+      internalID: -4942665562673832872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_111
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e052d4a16a47f3510800000000000000
+      internalID: 1531070655083914510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_112
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6fa2b9f64408020800000000000000
+      internalID: 2341947052368000682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_113
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f828133354f6b43e0800000000000000
+      internalID: -2068437260844301681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_114
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 15
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f4765316ec51010800000000000000
+      internalID: 1159059396020883201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_115
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 11
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3530c243895d9910800000000000000
+      internalID: 1845729842587252028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_116
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d10549b42e2eb50800000000000000
+      internalID: 6621103216426753373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_117
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61727354bcad3f60800000000000000
+      internalID: 8015752802283450733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_118
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4921902f00a8ea0800000000000000
+      internalID: -5869878124789721932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_119
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 5
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e72c048666e01590800000000000000
+      internalID: -7705405634454476831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_120
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 7
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2461f86ebcce423c0800000000000000
+      internalID: -4385119776661367230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_121
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7549ad7502b412150800000000000000
+      internalID: 5846036393588593751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_122
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef8c3bf870768de90800000000000000
+      internalID: -7000732338574079746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Reboot_GetReward_R_123
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885c95422e0f48010800000000000000
+      internalID: 1190341055595791752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Reboot_GetReward_R_0: 3155905960896527275
+      Reboot_GetReward_R_1: 6725755892043688131
+      Reboot_GetReward_R_10: 2025695334746220279
+      Reboot_GetReward_R_100: 5271826339944564892
+      Reboot_GetReward_R_101: -4675242751107954421
+      Reboot_GetReward_R_102: 6733965086413788752
+      Reboot_GetReward_R_103: -6501747546373874147
+      Reboot_GetReward_R_104: 424526457026058888
+      Reboot_GetReward_R_105: -2812364640435090905
+      Reboot_GetReward_R_106: 1024378794477275177
+      Reboot_GetReward_R_107: -3643550957748010624
+      Reboot_GetReward_R_108: -7679567985496380754
+      Reboot_GetReward_R_109: 1759333093374852092
+      Reboot_GetReward_R_11: 3612565398366164591
+      Reboot_GetReward_R_110: -4942665562673832872
+      Reboot_GetReward_R_111: 1531070655083914510
+      Reboot_GetReward_R_112: 2341947052368000682
+      Reboot_GetReward_R_113: -2068437260844301681
+      Reboot_GetReward_R_114: 1159059396020883201
+      Reboot_GetReward_R_115: 1845729842587252028
+      Reboot_GetReward_R_116: 6621103216426753373
+      Reboot_GetReward_R_117: 8015752802283450733
+      Reboot_GetReward_R_118: -5869878124789721932
+      Reboot_GetReward_R_119: -7705405634454476831
+      Reboot_GetReward_R_12: 8150895986334443069
+      Reboot_GetReward_R_120: -4385119776661367230
+      Reboot_GetReward_R_121: 5846036393588593751
+      Reboot_GetReward_R_122: -7000732338574079746
+      Reboot_GetReward_R_123: 1190341055595791752
+      Reboot_GetReward_R_13: 1492122160121847596
+      Reboot_GetReward_R_14: -4359650011552797692
+      Reboot_GetReward_R_15: -7846568850118660043
+      Reboot_GetReward_R_16: 529936235620401400
+      Reboot_GetReward_R_17: -7373181432122772339
+      Reboot_GetReward_R_18: -8027358871316871306
+      Reboot_GetReward_R_19: -7661630935571311951
+      Reboot_GetReward_R_2: -2681282896012178378
+      Reboot_GetReward_R_20: 9166507658021996957
+      Reboot_GetReward_R_21: 3664802790208392535
+      Reboot_GetReward_R_22: 3068525557078566517
+      Reboot_GetReward_R_23: 4986296571964996958
+      Reboot_GetReward_R_24: 8803259822973493760
+      Reboot_GetReward_R_25: -2049998762316290985
+      Reboot_GetReward_R_26: 50899554947420067
+      Reboot_GetReward_R_27: -5904223201100546767
+      Reboot_GetReward_R_28: 2197315854825776342
+      Reboot_GetReward_R_29: -168226921819487526
+      Reboot_GetReward_R_3: -7143378592983143625
+      Reboot_GetReward_R_30: 5011804946491966619
+      Reboot_GetReward_R_31: 2319918724124301604
+      Reboot_GetReward_R_32: 1154007070320885775
+      Reboot_GetReward_R_33: -8430041135111156860
+      Reboot_GetReward_R_34: -7274120250446495206
+      Reboot_GetReward_R_35: -7993373361590789629
+      Reboot_GetReward_R_36: 188255690021712970
+      Reboot_GetReward_R_37: 738357783758876097
+      Reboot_GetReward_R_38: 6214913320664971255
+      Reboot_GetReward_R_39: -3440023348132248083
+      Reboot_GetReward_R_4: 829867693866999733
+      Reboot_GetReward_R_40: -2837547114052442918
+      Reboot_GetReward_R_41: -483117972459955416
+      Reboot_GetReward_R_42: 870866399776652792
+      Reboot_GetReward_R_43: 8879700942767329083
+      Reboot_GetReward_R_44: 905622463357159986
+      Reboot_GetReward_R_45: 5940690182627798317
+      Reboot_GetReward_R_46: 2077842140846600534
+      Reboot_GetReward_R_47: 4465579866780432588
+      Reboot_GetReward_R_48: -4734045452511083627
+      Reboot_GetReward_R_49: 2788381787457292933
+      Reboot_GetReward_R_5: 1741753318854044607
+      Reboot_GetReward_R_50: -2032032598671549318
+      Reboot_GetReward_R_51: -5223166260724671224
+      Reboot_GetReward_R_52: 8715168961941717129
+      Reboot_GetReward_R_53: 4353930341643604637
+      Reboot_GetReward_R_54: -4716162745553047728
+      Reboot_GetReward_R_55: -6162679979679786189
+      Reboot_GetReward_R_56: 5063285762652573804
+      Reboot_GetReward_R_57: 4542929513916553933
+      Reboot_GetReward_R_58: -6676783764195794922
+      Reboot_GetReward_R_59: -5680388020534076035
+      Reboot_GetReward_R_6: 4368180126564889134
+      Reboot_GetReward_R_60: 8627715348761381242
+      Reboot_GetReward_R_61: -1665092445574325634
+      Reboot_GetReward_R_62: -6222915380978072847
+      Reboot_GetReward_R_63: 2205599913933613260
+      Reboot_GetReward_R_64: 7890158370495658950
+      Reboot_GetReward_R_65: 5700780319526451196
+      Reboot_GetReward_R_66: 3492312730645589428
+      Reboot_GetReward_R_67: -2144439198363957027
+      Reboot_GetReward_R_68: 7159188989063366854
+      Reboot_GetReward_R_69: -8367976412941032807
+      Reboot_GetReward_R_7: 8601651477395202121
+      Reboot_GetReward_R_70: -5112012312833114936
+      Reboot_GetReward_R_71: -195634973061371309
+      Reboot_GetReward_R_72: 9205189609318454611
+      Reboot_GetReward_R_73: 494608373403374996
+      Reboot_GetReward_R_74: 6160288096406201475
+      Reboot_GetReward_R_75: 8786143654795773384
+      Reboot_GetReward_R_76: -2455748899064512375
+      Reboot_GetReward_R_77: 1283086579465317387
+      Reboot_GetReward_R_78: -8706460938295443508
+      Reboot_GetReward_R_79: -579966606550240347
+      Reboot_GetReward_R_8: 6283689014733098548
+      Reboot_GetReward_R_80: 8589200985061705855
+      Reboot_GetReward_R_81: -8136219236525232050
+      Reboot_GetReward_R_82: -7331387546775130678
+      Reboot_GetReward_R_83: 883894616507587754
+      Reboot_GetReward_R_84: -4757404597250420311
+      Reboot_GetReward_R_85: 6517909655591174250
+      Reboot_GetReward_R_86: -3469294630521650223
+      Reboot_GetReward_R_87: 6202520972631313744
+      Reboot_GetReward_R_88: -3105768543687975256
+      Reboot_GetReward_R_89: 5593600250645742783
+      Reboot_GetReward_R_9: 3519438744080727720
+      Reboot_GetReward_R_90: -1782129643807321007
+      Reboot_GetReward_R_91: 8472483971163085958
+      Reboot_GetReward_R_92: -6849314835353999213
+      Reboot_GetReward_R_93: 5139881312697959324
+      Reboot_GetReward_R_94: 3258200082504467813
+      Reboot_GetReward_R_95: -6382957816657863230
+      Reboot_GetReward_R_96: 7857904226506106671
+      Reboot_GetReward_R_97: 4583354044445028485
+      Reboot_GetReward_R_98: -3897561291250362490
+      Reboot_GetReward_R_99: 6694352115613774051
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

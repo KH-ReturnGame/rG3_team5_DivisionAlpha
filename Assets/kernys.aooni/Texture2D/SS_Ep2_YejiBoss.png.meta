@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: eb8c9189e336a9744a9dc707f9e94d50
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1023398266690741713
+    second: SS_Ep2_YejiBoss_0
+  - first:
+      213: 905724343332309002
+    second: SS_Ep2_YejiBoss_1
+  - first:
+      213: 8091601913792999239
+    second: SS_Ep2_YejiBoss_2
+  - first:
+      213: -6044846374748320960
+    second: SS_Ep2_YejiBoss_3
+  - first:
+      213: -1358808044287248421
+    second: SS_Ep2_YejiBoss_4
+  - first:
+      213: -3449401151320569446
+    second: SS_Ep2_YejiBoss_5
+  - first:
+      213: 2998232992253970655
+    second: SS_Ep2_YejiBoss_6
+  - first:
+      213: 7143673878073259036
+    second: SS_Ep2_YejiBoss_7
+  - first:
+      213: 8661038847294749927
+    second: SS_Ep2_YejiBoss_8
+  - first:
+      213: -4262401282670396432
+    second: SS_Ep2_YejiBoss_9
+  - first:
+      213: 8151908615100571012
+    second: SS_Ep2_YejiBoss_10
+  - first:
+      213: 262452199138086960
+    second: SS_Ep2_YejiBoss_11
+  - first:
+      213: 2195948908798181381
+    second: SS_Ep2_YejiBoss_12
+  - first:
+      213: 7808092940294483919
+    second: SS_Ep2_YejiBoss_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 59
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ad52ad2b82cc1f0800000000000000
+      internalID: -1023398266690741713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 59
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a080fb4dd77c19c00800000000000000
+      internalID: 905724343332309002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 57
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa087c1152b4070800000000000000
+      internalID: 8091601913792999239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 58
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b8157cf346c1ca0800000000000000
+      internalID: -6044846374748320960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 59
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7b052784b842de0800000000000000
+      internalID: -1358808044287248421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 57
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99c6b7bde34120d0800000000000000
+      internalID: -3449401151320569446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 58
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd88729650ddb9920800000000000000
+      internalID: 2998232992253970655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c143bc51b8d632360800000000000000
+      internalID: 7143673878073259036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecbcd681f0323870800000000000000
+      internalID: 8661038847294749927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbf248dd98e8d4c0800000000000000
+      internalID: -4262401282670396432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d148cd1b5612170800000000000000
+      internalID: 8151908615100571012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030552472ea64a300800000000000000
+      internalID: 262452199138086960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_12
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50082ddd5e3997e10800000000000000
+      internalID: 2195948908798181381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_YejiBoss_13
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfec7ff82beb5c60800000000000000
+      internalID: 7808092940294483919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep2_YejiBoss_0: -1023398266690741713
+      SS_Ep2_YejiBoss_1: 905724343332309002
+      SS_Ep2_YejiBoss_10: 8151908615100571012
+      SS_Ep2_YejiBoss_11: 262452199138086960
+      SS_Ep2_YejiBoss_12: 2195948908798181381
+      SS_Ep2_YejiBoss_13: 7808092940294483919
+      SS_Ep2_YejiBoss_2: 8091601913792999239
+      SS_Ep2_YejiBoss_3: -6044846374748320960
+      SS_Ep2_YejiBoss_4: -1358808044287248421
+      SS_Ep2_YejiBoss_5: -3449401151320569446
+      SS_Ep2_YejiBoss_6: 2998232992253970655
+      SS_Ep2_YejiBoss_7: 7143673878073259036
+      SS_Ep2_YejiBoss_8: 8661038847294749927
+      SS_Ep2_YejiBoss_9: -4262401282670396432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

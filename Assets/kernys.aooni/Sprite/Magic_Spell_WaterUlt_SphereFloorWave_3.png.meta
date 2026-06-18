@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 1d90a176c04768647803e76875311fbb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4218002058876584257
+    second: Magic_Spell_WaterUlt_SphereFloorWave_3_0
+  - first:
+      213: -2549269082456168913
+    second: Magic_Spell_WaterUlt_SphereFloorWave_3_1
+  - first:
+      213: 140630239570131474
+    second: Magic_Spell_WaterUlt_SphereFloorWave_3_2
+  - first:
+      213: 6802755976364421628
+    second: Magic_Spell_WaterUlt_SphereFloorWave_3_3
+  - first:
+      213: 1916179931612760981
+    second: Magic_Spell_WaterUlt_SphereFloorWave_3_4
+  - first:
+      213: 8503243396667796081
+    second: Magic_Spell_WaterUlt_SphereFloorWave_3_5
+  - first:
+      213: 2309756768765082988
+    second: Magic_Spell_WaterUlt_SphereFloorWave_3_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_SphereFloorWave_3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 14
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe7bc2b975a675c0800000000000000
+      internalID: -4218002058876584257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_SphereFloorWave_3_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 80
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26605fa64d2f9cd0800000000000000
+      internalID: -2549269082456168913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_SphereFloorWave_3_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 88
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a7142357e93f100800000000000000
+      internalID: 140630239570131474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_SphereFloorWave_3_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 25
+        width: 16
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1fdd8948e386e50800000000000000
+      internalID: 6802755976364421628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_SphereFloorWave_3_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59bc285de73a79a10800000000000000
+      internalID: 1916179931612760981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_SphereFloorWave_3_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ae11131d6910670800000000000000
+      internalID: 8503243396667796081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_SphereFloorWave_3_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 8
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dfbc72b87ed0020800000000000000
+      internalID: 2309756768765082988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Spell_WaterUlt_SphereFloorWave_3_0: -4218002058876584257
+      Magic_Spell_WaterUlt_SphereFloorWave_3_1: -2549269082456168913
+      Magic_Spell_WaterUlt_SphereFloorWave_3_2: 140630239570131474
+      Magic_Spell_WaterUlt_SphereFloorWave_3_3: 6802755976364421628
+      Magic_Spell_WaterUlt_SphereFloorWave_3_4: 1916179931612760981
+      Magic_Spell_WaterUlt_SphereFloorWave_3_5: 8503243396667796081
+      Magic_Spell_WaterUlt_SphereFloorWave_3_6: 2309756768765082988
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

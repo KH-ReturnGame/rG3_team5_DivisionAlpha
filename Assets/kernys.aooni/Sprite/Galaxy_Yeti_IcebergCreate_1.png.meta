@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: a9c58112165d82b409ef942cabe21baa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9029996602441326233
+    second: Galaxy_Yeti_IcebergCreate_1_0
+  - first:
+      213: -4548358752228991102
+    second: Galaxy_Yeti_IcebergCreate_1_1
+  - first:
+      213: -7017959979727943452
+    second: Galaxy_Yeti_IcebergCreate_1_2
+  - first:
+      213: -4201222509193221021
+    second: Galaxy_Yeti_IcebergCreate_1_3
+  - first:
+      213: 4132647628879355363
+    second: Galaxy_Yeti_IcebergCreate_1_4
+  - first:
+      213: 7809490071587417391
+    second: Galaxy_Yeti_IcebergCreate_1_5
+  - first:
+      213: -893259399744559635
+    second: Galaxy_Yeti_IcebergCreate_1_6
+  - first:
+      213: 5576841053928174402
+    second: Galaxy_Yeti_IcebergCreate_1_7
+  - first:
+      213: -5941241904653246468
+    second: Galaxy_Yeti_IcebergCreate_1_8
+  - first:
+      213: 2039726670956950449
+    second: Galaxy_Yeti_IcebergCreate_1_9
+  - first:
+      213: -2791936396101018624
+    second: Galaxy_Yeti_IcebergCreate_1_10
+  - first:
+      213: 646560370863575236
+    second: Galaxy_Yeti_IcebergCreate_1_11
+  - first:
+      213: 2568367318916201198
+    second: Galaxy_Yeti_IcebergCreate_1_12
+  - first:
+      213: -2358306343976992764
+    second: Galaxy_Yeti_IcebergCreate_1_13
+  - first:
+      213: -3345844858816268478
+    second: Galaxy_Yeti_IcebergCreate_1_14
+  - first:
+      213: -1081248939435176883
+    second: Galaxy_Yeti_IcebergCreate_1_15
+  - first:
+      213: 5664871806158683973
+    second: Galaxy_Yeti_IcebergCreate_1_16
+  - first:
+      213: 3959186900582701994
+    second: Galaxy_Yeti_IcebergCreate_1_17
+  - first:
+      213: -8372985428511450442
+    second: Galaxy_Yeti_IcebergCreate_1_18
+  - first:
+      213: -5887459644268659617
+    second: Galaxy_Yeti_IcebergCreate_1_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 70
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761208cdee10fa280800000000000000
+      internalID: -9029996602441326233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 79
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f1a5620dbf0e0c0800000000000000
+      internalID: -4548358752228991102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 71
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e88868c4923b9e90800000000000000
+      internalID: -7017959979727943452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 62
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ca92d036242b5c0800000000000000
+      internalID: -4201222509193221021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 50
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edd63d6f1d1a5930800000000000000
+      internalID: 4132647628879355363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 47
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d68e9f7d1e06c60800000000000000
+      internalID: 7809490071587417391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 46
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de562f10f418a93f0800000000000000
+      internalID: -893259399744559635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 48
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2433434246be46d40800000000000000
+      internalID: 5576841053928174402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cff5a7c37f77c8da0800000000000000
+      internalID: -5941241904653246468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3774da9909e4c10800000000000000
+      internalID: 2039726670956950449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_10
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 34
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c1aead3ac0149d0800000000000000
+      internalID: -2791936396101018624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c01b2f4b3b09f800800000000000000
+      internalID: 646560370863575236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 13
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeaf8b0087ca4a320800000000000000
+      internalID: 2568367318916201198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 11
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40083bfffdc954fd0800000000000000
+      internalID: -2358306343976992764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24770b4f3db2191d0800000000000000
+      internalID: -3345844858816268478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 4
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cc23b71d1aef0f0800000000000000
+      internalID: -1081248939435176883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fb638d4eaad9e40800000000000000
+      internalID: 5664871806158683973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_17
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 4
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab9c98628bd1f630800000000000000
+      internalID: 3959186900582701994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 1
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba9d006d1e2dcb80800000000000000
+      internalID: -8372985428511450442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergCreate_1_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c3be985aa8b4ea0800000000000000
+      internalID: -5887459644268659617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galaxy_Yeti_IcebergCreate_1_0: -9029996602441326233
+      Galaxy_Yeti_IcebergCreate_1_1: -4548358752228991102
+      Galaxy_Yeti_IcebergCreate_1_10: -2791936396101018624
+      Galaxy_Yeti_IcebergCreate_1_11: 646560370863575236
+      Galaxy_Yeti_IcebergCreate_1_12: 2568367318916201198
+      Galaxy_Yeti_IcebergCreate_1_13: -2358306343976992764
+      Galaxy_Yeti_IcebergCreate_1_14: -3345844858816268478
+      Galaxy_Yeti_IcebergCreate_1_15: -1081248939435176883
+      Galaxy_Yeti_IcebergCreate_1_16: 5664871806158683973
+      Galaxy_Yeti_IcebergCreate_1_17: 3959186900582701994
+      Galaxy_Yeti_IcebergCreate_1_18: -8372985428511450442
+      Galaxy_Yeti_IcebergCreate_1_19: -5887459644268659617
+      Galaxy_Yeti_IcebergCreate_1_2: -7017959979727943452
+      Galaxy_Yeti_IcebergCreate_1_3: -4201222509193221021
+      Galaxy_Yeti_IcebergCreate_1_4: 4132647628879355363
+      Galaxy_Yeti_IcebergCreate_1_5: 7809490071587417391
+      Galaxy_Yeti_IcebergCreate_1_6: -893259399744559635
+      Galaxy_Yeti_IcebergCreate_1_7: 5576841053928174402
+      Galaxy_Yeti_IcebergCreate_1_8: -5941241904653246468
+      Galaxy_Yeti_IcebergCreate_1_9: 2039726670956950449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

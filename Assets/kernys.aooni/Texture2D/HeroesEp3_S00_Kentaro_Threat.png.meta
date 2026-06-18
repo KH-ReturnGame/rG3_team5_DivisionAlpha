@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: ab004a90bb720034bb7d274c08459be6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6907863371433524809
+    second: HeroesEp3_S00_Kentaro_Threat_0
+  - first:
+      213: 2671687164807608556
+    second: HeroesEp3_S00_Kentaro_Threat_1
+  - first:
+      213: -1790095097536709877
+    second: HeroesEp3_S00_Kentaro_Threat_2
+  - first:
+      213: 8128383716980575830
+    second: HeroesEp3_S00_Kentaro_Threat_3
+  - first:
+      213: 2944358183687428660
+    second: HeroesEp3_S00_Kentaro_Threat_4
+  - first:
+      213: -2075460534904247046
+    second: HeroesEp3_S00_Kentaro_Threat_5
+  - first:
+      213: -3609906265398055263
+    second: HeroesEp3_S00_Kentaro_Threat_6
+  - first:
+      213: -2669010990947371091
+    second: HeroesEp3_S00_Kentaro_Threat_7
+  - first:
+      213: 7885437816627979822
+    second: HeroesEp3_S00_Kentaro_Threat_8
+  - first:
+      213: 4995905676382998922
+    second: HeroesEp3_S00_Kentaro_Threat_9
+  - first:
+      213: 8535007866103092702
+    second: HeroesEp3_S00_Kentaro_Threat_10
+  - first:
+      213: -8336796037042693060
+    second: HeroesEp3_S00_Kentaro_Threat_11
+  - first:
+      213: 3635587396529491016
+    second: HeroesEp3_S00_Kentaro_Threat_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp3_S00_Kentaro_Threat_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 125
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e3a3b0329addf50800000000000000
+      internalID: 6907863371433524809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S00_Kentaro_Threat_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 125
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8f359325db31520800000000000000
+      internalID: 2671687164807608556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S00_Kentaro_Threat_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 125
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bf72d3efd4827e0800000000000000
+      internalID: -1790095097536709877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S00_Kentaro_Threat_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 125
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e42b0bce1ddc070800000000000000
+      internalID: 8128383716980575830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S00_Kentaro_Threat_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 125
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a143e0b267cd820800000000000000
+      internalID: 2944358183687428660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S00_Kentaro_Threat_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afca0b7c3ab7233e0800000000000000
+      internalID: -2075460534904247046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S00_Kentaro_Threat_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aeed72b06907edc0800000000000000
+      internalID: -3609906265398055263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S00_Kentaro_Threat_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 63
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da7f7fe05a4c5fad0800000000000000
+      internalID: -2669010990947371091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S00_Kentaro_Threat_8
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 63
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26ea865ae3be6d60800000000000000
+      internalID: 7885437816627979822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S00_Kentaro_Threat_9
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 63
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a819a244eb5055540800000000000000
+      internalID: 4995905676382998922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S00_Kentaro_Threat_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed55d3e0f60727670800000000000000
+      internalID: 8535007866103092702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S00_Kentaro_Threat_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c9f2fac20cd4c80800000000000000
+      internalID: -8336796037042693060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S00_Kentaro_Threat_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c07089973347230800000000000000
+      internalID: 3635587396529491016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp3_S00_Kentaro_Threat_0: 6907863371433524809
+      HeroesEp3_S00_Kentaro_Threat_1: 2671687164807608556
+      HeroesEp3_S00_Kentaro_Threat_10: 8535007866103092702
+      HeroesEp3_S00_Kentaro_Threat_11: -8336796037042693060
+      HeroesEp3_S00_Kentaro_Threat_12: 3635587396529491016
+      HeroesEp3_S00_Kentaro_Threat_2: -1790095097536709877
+      HeroesEp3_S00_Kentaro_Threat_3: 8128383716980575830
+      HeroesEp3_S00_Kentaro_Threat_4: 2944358183687428660
+      HeroesEp3_S00_Kentaro_Threat_5: -2075460534904247046
+      HeroesEp3_S00_Kentaro_Threat_6: -3609906265398055263
+      HeroesEp3_S00_Kentaro_Threat_7: -2669010990947371091
+      HeroesEp3_S00_Kentaro_Threat_8: 7885437816627979822
+      HeroesEp3_S00_Kentaro_Threat_9: 4995905676382998922
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

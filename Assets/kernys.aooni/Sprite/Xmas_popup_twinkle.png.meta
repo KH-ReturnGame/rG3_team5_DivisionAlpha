@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: fed504c3da8ab9940b335aae237fb86c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5539567149209150275
+    second: Xmas_popup_twinkle_0
+  - first:
+      213: 2547479276654172998
+    second: Xmas_popup_twinkle_1
+  - first:
+      213: -2696538305610397190
+    second: Xmas_popup_twinkle_2
+  - first:
+      213: 6306990634792125876
+    second: Xmas_popup_twinkle_3
+  - first:
+      213: 4796123272981079560
+    second: Xmas_popup_twinkle_4
+  - first:
+      213: 2024010415746118634
+    second: Xmas_popup_twinkle_5
+  - first:
+      213: 6589822122499195458
+    second: Xmas_popup_twinkle_6
+  - first:
+      213: 1350830144634148892
+    second: Xmas_popup_twinkle_7
+  - first:
+      213: -3942574282468339228
+    second: Xmas_popup_twinkle_8
+  - first:
+      213: -4942383780443833798
+    second: Xmas_popup_twinkle_9
+  - first:
+      213: 4563882749195246591
+    second: Xmas_popup_twinkle_10
+  - first:
+      213: 4722406995912681300
+    second: Xmas_popup_twinkle_11
+  - first:
+      213: 6496662711119904775
+    second: Xmas_popup_twinkle_12
+  - first:
+      213: 6615802476190291658
+    second: Xmas_popup_twinkle_13
+  - first:
+      213: -2348006475081809454
+    second: Xmas_popup_twinkle_14
+  - first:
+      213: -9037096935841032131
+    second: Xmas_popup_twinkle_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 265
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343e80ae8fe70ec40800000000000000
+      internalID: 5539567149209150275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 297
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b14ada7e67a5320800000000000000
+      internalID: 2547479276654172998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 300
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9cbdaa2b8f39ad0800000000000000
+      internalID: -2696538305610397190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 270
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b50084019ee68750800000000000000
+      internalID: 6306990634792125876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 247
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8066501b4b04f8240800000000000000
+      internalID: 4796123272981079560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_5
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 216
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3fc3cdfbab61c10800000000000000
+      internalID: 2024010415746118634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_6
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 188
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24243985e40c37b50800000000000000
+      internalID: 6589822122499195458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_7
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 179
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18deca0cdc1fb210800000000000000
+      internalID: 1350830144634148892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 52
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e152e824992949c0800000000000000
+      internalID: -3942574282468339228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_9
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 117
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a3ef63320296bb0800000000000000
+      internalID: -4942383780443833798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 78
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbd05e0e2b265f30800000000000000
+      internalID: 4563882749195246591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_11
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457e134742c598140800000000000000
+      internalID: 4722406995912681300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 41
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70004d1a058c82a50800000000000000
+      internalID: 6496662711119904775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_13
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6d871dc4d00db50800000000000000
+      internalID: 6615802476190291658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_14
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 36
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d18e6a1d843a6fd0800000000000000
+      internalID: -2348006475081809454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas_popup_twinkle_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d389c6aa738c59280800000000000000
+      internalID: -9037096935841032131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xmas_popup_twinkle_0: 5539567149209150275
+      Xmas_popup_twinkle_1: 2547479276654172998
+      Xmas_popup_twinkle_10: 4563882749195246591
+      Xmas_popup_twinkle_11: 4722406995912681300
+      Xmas_popup_twinkle_12: 6496662711119904775
+      Xmas_popup_twinkle_13: 6615802476190291658
+      Xmas_popup_twinkle_14: -2348006475081809454
+      Xmas_popup_twinkle_15: -9037096935841032131
+      Xmas_popup_twinkle_2: -2696538305610397190
+      Xmas_popup_twinkle_3: 6306990634792125876
+      Xmas_popup_twinkle_4: 4796123272981079560
+      Xmas_popup_twinkle_5: 2024010415746118634
+      Xmas_popup_twinkle_6: 6589822122499195458
+      Xmas_popup_twinkle_7: 1350830144634148892
+      Xmas_popup_twinkle_8: -3942574282468339228
+      Xmas_popup_twinkle_9: -4942383780443833798
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

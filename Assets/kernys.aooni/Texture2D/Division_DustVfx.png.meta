@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 9e1ed2bd26de0664f96096f8e828fc8a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4213518387612579065
+    second: Division_DustVfx_0
+  - first:
+      213: -9212541055459604866
+    second: Division_DustVfx_1
+  - first:
+      213: 7569547698277897849
+    second: Division_DustVfx_2
+  - first:
+      213: 1541211510679005549
+    second: Division_DustVfx_3
+  - first:
+      213: 3704500885157969350
+    second: Division_DustVfx_4
+  - first:
+      213: -7583558130011151585
+    second: Division_DustVfx_5
+  - first:
+      213: -6702346817513343381
+    second: Division_DustVfx_6
+  - first:
+      213: -8025787609312315452
+    second: Division_DustVfx_7
+  - first:
+      213: 5401753224276161693
+    second: Division_DustVfx_8
+  - first:
+      213: -7765241800435598536
+    second: Division_DustVfx_9
+  - first:
+      213: 2330066101933407866
+    second: Division_DustVfx_10
+  - first:
+      213: -6962809193963262999
+    second: Division_DustVfx_11
+  - first:
+      213: 1057174574029900044
+    second: Division_DustVfx_12
+  - first:
+      213: 2306319621716293882
+    second: Division_DustVfx_13
+  - first:
+      213: -5826571003290733905
+    second: Division_DustVfx_14
+  - first:
+      213: 7277252018309374081
+    second: Division_DustVfx_15
+  - first:
+      213: -7183452974342253051
+    second: Division_DustVfx_16
+  - first:
+      213: -1264836352696543316
+    second: Division_DustVfx_17
+  - first:
+      213: 7811998910268612857
+    second: Division_DustVfx_18
+  - first:
+      213: 747705034651340607
+    second: Division_DustVfx_19
+  - first:
+      213: 6451672379524624006
+    second: Division_DustVfx_20
+  - first:
+      213: 4497858826592431653
+    second: Division_DustVfx_21
+  - first:
+      213: 1027249096546085704
+    second: Division_DustVfx_22
+  - first:
+      213: -4269955545232024418
+    second: Division_DustVfx_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_DustVfx_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4793c36ac697a30800000000000000
+      internalID: 4213518387612579065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 74
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76c0ae58ba762080800000000000000
+      internalID: -9212541055459604866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 81
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976da32c68f6c0960800000000000000
+      internalID: 7569547698277897849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 98
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69e3c904bb736510800000000000000
+      internalID: 1541211510679005549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 105
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdf5f18de7096330800000000000000
+      internalID: 3704500885157969350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 81
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13e8276f0ac1c690800000000000000
+      internalID: -7583558130011151585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 86
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66b5ac741b7cf2a0800000000000000
+      internalID: -6702346817513343381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 46
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7353811bcae9090800000000000000
+      internalID: -8025787609312315452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d943d4110f1e6fa40800000000000000
+      internalID: 5401753224276161693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b750a79b15c3490800000000000000
+      internalID: -7765241800435598536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e7be446ce065020800000000000000
+      internalID: 2330066101933407866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebeefabde12f5f90800000000000000
+      internalID: -6962809193963262999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0980a68ca6dbae00800000000000000
+      internalID: 1057174574029900044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 59
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8b9eef971b10020800000000000000
+      internalID: 2306319621716293882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 42
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2b3420b8cd32fa0800000000000000
+      internalID: -5826571003290733905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1802354772efdf460800000000000000
+      internalID: 7277252018309374081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5065b93549f3f4c90800000000000000
+      internalID: -7183452974342253051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 51
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca79582e906627ee0800000000000000
+      internalID: -1264836352696543316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 33
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0ac408e9bc96c60800000000000000
+      internalID: 7811998910268612857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 37
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f0a2b74c1606a00800000000000000
+      internalID: 747705034651340607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 41
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ea3c4c8d1f88950800000000000000
+      internalID: 6451672379524624006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ea5e8a5ca9b6e30800000000000000
+      internalID: 4497858826592431653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b68775c95814e00800000000000000
+      internalID: 1027249096546085704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_DustVfx_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 21
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c5cb70e021eb4c0800000000000000
+      internalID: -4269955545232024418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_DustVfx_0: 4213518387612579065
+      Division_DustVfx_1: -9212541055459604866
+      Division_DustVfx_10: 2330066101933407866
+      Division_DustVfx_11: -6962809193963262999
+      Division_DustVfx_12: 1057174574029900044
+      Division_DustVfx_13: 2306319621716293882
+      Division_DustVfx_14: -5826571003290733905
+      Division_DustVfx_15: 7277252018309374081
+      Division_DustVfx_16: -7183452974342253051
+      Division_DustVfx_17: -1264836352696543316
+      Division_DustVfx_18: 7811998910268612857
+      Division_DustVfx_19: 747705034651340607
+      Division_DustVfx_2: 7569547698277897849
+      Division_DustVfx_20: 6451672379524624006
+      Division_DustVfx_21: 4497858826592431653
+      Division_DustVfx_22: 1027249096546085704
+      Division_DustVfx_23: -4269955545232024418
+      Division_DustVfx_3: 1541211510679005549
+      Division_DustVfx_4: 3704500885157969350
+      Division_DustVfx_5: -7583558130011151585
+      Division_DustVfx_6: -6702346817513343381
+      Division_DustVfx_7: -8025787609312315452
+      Division_DustVfx_8: 5401753224276161693
+      Division_DustVfx_9: -7765241800435598536
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

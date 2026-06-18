@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: dd48cf1c5703f0a42aa186c368542bac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1146795685247588016
+    second: Gun0002_Bomb_10_0
+  - first:
+      213: 4442364456268208908
+    second: Gun0002_Bomb_10_1
+  - first:
+      213: 6029604937292248984
+    second: Gun0002_Bomb_10_2
+  - first:
+      213: -5410519156660019211
+    second: Gun0002_Bomb_10_3
+  - first:
+      213: -8098526771004736710
+    second: Gun0002_Bomb_10_4
+  - first:
+      213: -1099082303222972978
+    second: Gun0002_Bomb_10_5
+  - first:
+      213: 8262827338715765052
+    second: Gun0002_Bomb_10_6
+  - first:
+      213: -6368407692715505035
+    second: Gun0002_Bomb_10_7
+  - first:
+      213: 4877481951386213617
+    second: Gun0002_Bomb_10_8
+  - first:
+      213: 5674142799036190733
+    second: Gun0002_Bomb_10_9
+  - first:
+      213: 7412390404051780989
+    second: Gun0002_Bomb_10_10
+  - first:
+      213: 5730247541529757815
+    second: Gun0002_Bomb_10_11
+  - first:
+      213: 7372741025975491602
+    second: Gun0002_Bomb_10_12
+  - first:
+      213: 4927162532575627511
+    second: Gun0002_Bomb_10_13
+  - first:
+      213: -2716939360768460889
+    second: Gun0002_Bomb_10_14
+  - first:
+      213: 8480360288624057839
+    second: Gun0002_Bomb_10_15
+  - first:
+      213: -1986128293426712142
+    second: Gun0002_Bomb_10_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 121
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b61229899c3aef00800000000000000
+      internalID: 1146795685247588016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 119
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b10b2bfe276ad30800000000000000
+      internalID: 4442364456268208908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 105
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897fe378eb57da350800000000000000
+      internalID: 6029604937292248984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 110
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff55d04e79f9e4b0800000000000000
+      internalID: -5410519156660019211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 89
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b75424fc04c9f80800000000000000
+      internalID: -8098526771004736710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_5
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 84
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdf979e7764fb0f0800000000000000
+      internalID: -1099082303222972978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c391a8cafa57ba270800000000000000
+      internalID: 8262827338715765052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_7
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 74
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ac3dad1fede97a0800000000000000
+      internalID: -6368407692715505035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 68
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc11c62efb40b340800000000000000
+      internalID: 4877481951386213617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 50
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00946510da9ebe40800000000000000
+      internalID: 5674142799036190733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 42
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75450accc91ed660800000000000000
+      internalID: 7412390404051780989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 26
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778cfe367cde58f40800000000000000
+      internalID: 5730247541529757815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_12
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 26
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cd73296ec315660800000000000000
+      internalID: 7372741025975491602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_13
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8c8c8d73cc06440800000000000000
+      internalID: 4927162532575627511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_14
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 17
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a77e1ddb0e7b4ad0800000000000000
+      internalID: -2716939360768460889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 5
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed14ca60ca40b570800000000000000
+      internalID: 8480360288624057839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0002_Bomb_10_16
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1b2ff07dadf64e0800000000000000
+      internalID: -1986128293426712142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gun0002_Bomb_10_0: 1146795685247588016
+      Gun0002_Bomb_10_1: 4442364456268208908
+      Gun0002_Bomb_10_10: 7412390404051780989
+      Gun0002_Bomb_10_11: 5730247541529757815
+      Gun0002_Bomb_10_12: 7372741025975491602
+      Gun0002_Bomb_10_13: 4927162532575627511
+      Gun0002_Bomb_10_14: -2716939360768460889
+      Gun0002_Bomb_10_15: 8480360288624057839
+      Gun0002_Bomb_10_16: -1986128293426712142
+      Gun0002_Bomb_10_2: 6029604937292248984
+      Gun0002_Bomb_10_3: -5410519156660019211
+      Gun0002_Bomb_10_4: -8098526771004736710
+      Gun0002_Bomb_10_5: -1099082303222972978
+      Gun0002_Bomb_10_6: 8262827338715765052
+      Gun0002_Bomb_10_7: -6368407692715505035
+      Gun0002_Bomb_10_8: 4877481951386213617
+      Gun0002_Bomb_10_9: 5674142799036190733
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

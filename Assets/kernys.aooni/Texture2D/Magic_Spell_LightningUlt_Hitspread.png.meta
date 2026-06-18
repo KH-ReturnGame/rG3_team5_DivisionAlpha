@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: b3e48310a756d6748964756a1ed7bea3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1345435314733236444
+    second: Magic_Spell_LightningUlt_Hitspread_0
+  - first:
+      213: 7566633900766617550
+    second: Magic_Spell_LightningUlt_Hitspread_1
+  - first:
+      213: 1436648877394542887
+    second: Magic_Spell_LightningUlt_Hitspread_2
+  - first:
+      213: 5914801243549163967
+    second: Magic_Spell_LightningUlt_Hitspread_3
+  - first:
+      213: 4553602930752817025
+    second: Magic_Spell_LightningUlt_Hitspread_4
+  - first:
+      213: 3983933765142515070
+    second: Magic_Spell_LightningUlt_Hitspread_5
+  - first:
+      213: -7941738050934726182
+    second: Magic_Spell_LightningUlt_Hitspread_6
+  - first:
+      213: 5564127763879077916
+    second: Magic_Spell_LightningUlt_Hitspread_7
+  - first:
+      213: -7384482048604363469
+    second: Magic_Spell_LightningUlt_Hitspread_8
+  - first:
+      213: -4563779387761649091
+    second: Magic_Spell_LightningUlt_Hitspread_9
+  - first:
+      213: -101971268546578160
+    second: Magic_Spell_LightningUlt_Hitspread_10
+  - first:
+      213: 6944546201704312076
+    second: Magic_Spell_LightningUlt_Hitspread_11
+  - first:
+      213: 126913235301671012
+    second: Magic_Spell_LightningUlt_Hitspread_12
+  - first:
+      213: 7850632343321314870
+    second: Magic_Spell_LightningUlt_Hitspread_13
+  - first:
+      213: 36331078650273511
+    second: Magic_Spell_LightningUlt_Hitspread_14
+  - first:
+      213: 4208621558482618976
+    second: Magic_Spell_LightningUlt_Hitspread_15
+  - first:
+      213: 6605508809238386573
+    second: Magic_Spell_LightningUlt_Hitspread_16
+  - first:
+      213: 1119773045860682940
+    second: Magic_Spell_LightningUlt_Hitspread_17
+  - first:
+      213: -4289221610818186752
+    second: Magic_Spell_LightningUlt_Hitspread_18
+  - first:
+      213: -2851451258898579683
+    second: Magic_Spell_LightningUlt_Hitspread_19
+  - first:
+      213: -5259209365327815798
+    second: Magic_Spell_LightningUlt_Hitspread_20
+  - first:
+      213: 352580851649200656
+    second: Magic_Spell_LightningUlt_Hitspread_21
+  - first:
+      213: 528400587428576040
+    second: Magic_Spell_LightningUlt_Hitspread_22
+  - first:
+      213: 244681193655792717
+    second: Magic_Spell_LightningUlt_Hitspread_23
+  - first:
+      213: -6487193993767678038
+    second: Magic_Spell_LightningUlt_Hitspread_24
+  - first:
+      213: 1125301360610361039
+    second: Magic_Spell_LightningUlt_Hitspread_25
+  - first:
+      213: -8263640506103016916
+    second: Magic_Spell_LightningUlt_Hitspread_26
+  - first:
+      213: 8407028948216668066
+    second: Magic_Spell_LightningUlt_Hitspread_27
+  - first:
+      213: 1588655683362918755
+    second: Magic_Spell_LightningUlt_Hitspread_28
+  - first:
+      213: -8892882937151871400
+    second: Magic_Spell_LightningUlt_Hitspread_29
+  - first:
+      213: -4718641803712976282
+    second: Magic_Spell_LightningUlt_Hitspread_30
+  - first:
+      213: 3103484692654980336
+    second: Magic_Spell_LightningUlt_Hitspread_31
+  - first:
+      213: 3692888403183956989
+    second: Magic_Spell_LightningUlt_Hitspread_32
+  - first:
+      213: 4886879693112692487
+    second: Magic_Spell_LightningUlt_Hitspread_33
+  - first:
+      213: -1860946823982315901
+    second: Magic_Spell_LightningUlt_Hitspread_34
+  - first:
+      213: -4915130119202715062
+    second: Magic_Spell_LightningUlt_Hitspread_35
+  - first:
+      213: 2924145080712685090
+    second: Magic_Spell_LightningUlt_Hitspread_36
+  - first:
+      213: -8585153899108364228
+    second: Magic_Spell_LightningUlt_Hitspread_37
+  - first:
+      213: 8900739760040694414
+    second: Magic_Spell_LightningUlt_Hitspread_38
+  - first:
+      213: -2706250787604052334
+    second: Magic_Spell_LightningUlt_Hitspread_39
+  - first:
+      213: 1079807800372301231
+    second: Magic_Spell_LightningUlt_Hitspread_40
+  - first:
+      213: 6341207270234325480
+    second: Magic_Spell_LightningUlt_Hitspread_41
+  - first:
+      213: 4429982811879721698
+    second: Magic_Spell_LightningUlt_Hitspread_42
+  - first:
+      213: -8921960809805125361
+    second: Magic_Spell_LightningUlt_Hitspread_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_0
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 169
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f3f0da5bd045de0800000000000000
+      internalID: -1345435314733236444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 220
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf5f986175120960800000000000000
+      internalID: 7566633900766617550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_2
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 225
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721c014da8000f310800000000000000
+      internalID: 1436648877394542887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_3
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 257
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb169ce9468951250800000000000000
+      internalID: 5914801243549163967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 225
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18703bf4db5a13f30800000000000000
+      internalID: 4553602930752817025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_5
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 250
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d0100d6a6c94730800000000000000
+      internalID: 3983933765142515070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 249
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad125ded15749c190800000000000000
+      internalID: -7941738050934726182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 187
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18a6e2a8b0c73d40800000000000000
+      internalID: 5564127763879077916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_8
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 242
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33520b293bc058990800000000000000
+      internalID: -7384482048604363469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 207
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a9737a3d23aa0c0800000000000000
+      internalID: -4563779387761649091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_10
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 202
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0193cf8eba9b59ef0800000000000000
+      internalID: -101971268546578160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_11
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 229
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dafd60afbff5060800000000000000
+      internalID: 6944546201704312076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_12
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 220
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460a3734ae2e2c100800000000000000
+      internalID: 126913235301671012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_13
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 214
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6360cd5958c03fc60800000000000000
+      internalID: 7850632343321314870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 205
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee914d6ce2118000800000000000000
+      internalID: 36331078650273511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_15
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 208
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a486b5207086a30800000000000000
+      internalID: 4208621558482618976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_16
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 176
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d871e57b34b7bab50800000000000000
+      internalID: 6605508809238386573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_17
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 170
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc459307ab3a8f00800000000000000
+      internalID: 1119773045860682940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_18
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 171
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002d0449baf9974c0800000000000000
+      internalID: -4289221610818186752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_19
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 177
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f720b003c9d68d0800000000000000
+      internalID: -2851451258898579683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 184
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b5a3c52f88307b0800000000000000
+      internalID: -5259209365327815798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_21
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 173
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012c721aa6e94e400800000000000000
+      internalID: 352580851649200656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_22
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 170
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bb9c0e881455700800000000000000
+      internalID: 528400587428576040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_23
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 146
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44721fcf38456300800000000000000
+      internalID: 244681193655792717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 161
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf0e6cee6bd8f5a0800000000000000
+      internalID: -6487193993767678038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_25
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 61
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fceb17810afdd9f00800000000000000
+      internalID: 1125301360610361039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_26
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 90
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22533a0eb6a15d80800000000000000
+      internalID: -8263640506103016916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_27
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 101
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af51ea3944cba470800000000000000
+      internalID: 8407028948216668066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_28
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 76
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361904d4de90c0610800000000000000
+      internalID: 1588655683362918755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 77
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8562eedc512269480800000000000000
+      internalID: -8892882937151871400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 76
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a216ba744048eb0800000000000000
+      internalID: -4718641803712976282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_31
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 82
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcff8f82eac11b20800000000000000
+      internalID: 3103484692654980336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 74
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df370fadf66cf3330800000000000000
+      internalID: 3692888403183956989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_33
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 74
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f4d08603fa1d340800000000000000
+      internalID: 4886879693112692487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_34
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 66
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38684aa29b69c26e0800000000000000
+      internalID: -1860946823982315901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 67
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a4914b233f9cbb0800000000000000
+      internalID: -4915130119202715062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 43
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226e5974576a49820800000000000000
+      internalID: 2924145080712685090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_37
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 58
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30169dc3086bd880800000000000000
+      internalID: -8585153899108364228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_38
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 34
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82db6357a7c58b70800000000000000
+      internalID: 8900739760040694414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 47
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2964dbb3f37717ad0800000000000000
+      internalID: -2706250787604052334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_40
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 22
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad03ee297f3cfe00800000000000000
+      internalID: 1079807800372301231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_41
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 29
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e101754a6e700850800000000000000
+      internalID: 6341207270234325480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 32
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea4d2775e57a7d30800000000000000
+      internalID: 4429982811879721698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Hitspread_43
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09eb9ff9e3de2480800000000000000
+      internalID: -8921960809805125361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Spell_LightningUlt_Hitspread_0: -1345435314733236444
+      Magic_Spell_LightningUlt_Hitspread_1: 7566633900766617550
+      Magic_Spell_LightningUlt_Hitspread_10: -101971268546578160
+      Magic_Spell_LightningUlt_Hitspread_11: 6944546201704312076
+      Magic_Spell_LightningUlt_Hitspread_12: 126913235301671012
+      Magic_Spell_LightningUlt_Hitspread_13: 7850632343321314870
+      Magic_Spell_LightningUlt_Hitspread_14: 36331078650273511
+      Magic_Spell_LightningUlt_Hitspread_15: 4208621558482618976
+      Magic_Spell_LightningUlt_Hitspread_16: 6605508809238386573
+      Magic_Spell_LightningUlt_Hitspread_17: 1119773045860682940
+      Magic_Spell_LightningUlt_Hitspread_18: -4289221610818186752
+      Magic_Spell_LightningUlt_Hitspread_19: -2851451258898579683
+      Magic_Spell_LightningUlt_Hitspread_2: 1436648877394542887
+      Magic_Spell_LightningUlt_Hitspread_20: -5259209365327815798
+      Magic_Spell_LightningUlt_Hitspread_21: 352580851649200656
+      Magic_Spell_LightningUlt_Hitspread_22: 528400587428576040
+      Magic_Spell_LightningUlt_Hitspread_23: 244681193655792717
+      Magic_Spell_LightningUlt_Hitspread_24: -6487193993767678038
+      Magic_Spell_LightningUlt_Hitspread_25: 1125301360610361039
+      Magic_Spell_LightningUlt_Hitspread_26: -8263640506103016916
+      Magic_Spell_LightningUlt_Hitspread_27: 8407028948216668066
+      Magic_Spell_LightningUlt_Hitspread_28: 1588655683362918755
+      Magic_Spell_LightningUlt_Hitspread_29: -8892882937151871400
+      Magic_Spell_LightningUlt_Hitspread_3: 5914801243549163967
+      Magic_Spell_LightningUlt_Hitspread_30: -4718641803712976282
+      Magic_Spell_LightningUlt_Hitspread_31: 3103484692654980336
+      Magic_Spell_LightningUlt_Hitspread_32: 3692888403183956989
+      Magic_Spell_LightningUlt_Hitspread_33: 4886879693112692487
+      Magic_Spell_LightningUlt_Hitspread_34: -1860946823982315901
+      Magic_Spell_LightningUlt_Hitspread_35: -4915130119202715062
+      Magic_Spell_LightningUlt_Hitspread_36: 2924145080712685090
+      Magic_Spell_LightningUlt_Hitspread_37: -8585153899108364228
+      Magic_Spell_LightningUlt_Hitspread_38: 8900739760040694414
+      Magic_Spell_LightningUlt_Hitspread_39: -2706250787604052334
+      Magic_Spell_LightningUlt_Hitspread_4: 4553602930752817025
+      Magic_Spell_LightningUlt_Hitspread_40: 1079807800372301231
+      Magic_Spell_LightningUlt_Hitspread_41: 6341207270234325480
+      Magic_Spell_LightningUlt_Hitspread_42: 4429982811879721698
+      Magic_Spell_LightningUlt_Hitspread_43: -8921960809805125361
+      Magic_Spell_LightningUlt_Hitspread_5: 3983933765142515070
+      Magic_Spell_LightningUlt_Hitspread_6: -7941738050934726182
+      Magic_Spell_LightningUlt_Hitspread_7: 5564127763879077916
+      Magic_Spell_LightningUlt_Hitspread_8: -7384482048604363469
+      Magic_Spell_LightningUlt_Hitspread_9: -4563779387761649091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1820 @@
+fileFormatVersion: 2
+guid: 2d1d429abd3e9e84ab449160f1a205bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6921736402353261874
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_0
+  - first:
+      213: -4820281678145358834
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_1
+  - first:
+      213: 3079372157084109794
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_2
+  - first:
+      213: -1343517401306425140
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_3
+  - first:
+      213: 8605251110554170888
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_4
+  - first:
+      213: 7299171913052111391
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_5
+  - first:
+      213: 4364904376615965568
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_6
+  - first:
+      213: 617260763291781458
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_7
+  - first:
+      213: -5312923600493100236
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_8
+  - first:
+      213: -1713564603964526898
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_9
+  - first:
+      213: -2080762401565407347
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_10
+  - first:
+      213: -3964576961663329233
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_11
+  - first:
+      213: -5709598382651633578
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_12
+  - first:
+      213: -2545315905897897934
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_13
+  - first:
+      213: 6641280047819133376
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_14
+  - first:
+      213: 7584008277395167815
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_15
+  - first:
+      213: -8664358983894782511
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_16
+  - first:
+      213: -8202142489339648600
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_17
+  - first:
+      213: -4265994595757622781
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_18
+  - first:
+      213: 6421404771236063545
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_19
+  - first:
+      213: 4877571766419331951
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_20
+  - first:
+      213: 9076279672402586802
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_21
+  - first:
+      213: 7299925016760742908
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_22
+  - first:
+      213: -6592306614132608966
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_23
+  - first:
+      213: -6176679394015568770
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_24
+  - first:
+      213: -8952727726561741230
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_25
+  - first:
+      213: -1769854794644177360
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_26
+  - first:
+      213: 5427581470665830223
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_27
+  - first:
+      213: -5255555168944674838
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_28
+  - first:
+      213: 8048465018793166503
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_29
+  - first:
+      213: 8841945842022064010
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_30
+  - first:
+      213: 4060339045268803354
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_31
+  - first:
+      213: 799794256551772132
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_32
+  - first:
+      213: 8992166639173656525
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_33
+  - first:
+      213: 4948767896153019637
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_34
+  - first:
+      213: 8059273085512547692
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_35
+  - first:
+      213: -5593192966031038620
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_36
+  - first:
+      213: 2970410387846562902
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_37
+  - first:
+      213: -3066905730257826968
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_38
+  - first:
+      213: 1547387559460247625
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_39
+  - first:
+      213: -1638828241462930058
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_40
+  - first:
+      213: 3937258072145566443
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_41
+  - first:
+      213: 4467058059724082393
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_42
+  - first:
+      213: 886863224084498150
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_43
+  - first:
+      213: -9122254764956581357
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_44
+  - first:
+      213: 4267812576368858655
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_45
+  - first:
+      213: 9075059280983993293
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_46
+  - first:
+      213: -5228502098960199749
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_47
+  - first:
+      213: 8538231878391604515
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_48
+  - first:
+      213: 5536626147868393390
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_49
+  - first:
+      213: 6653240397186375323
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_50
+  - first:
+      213: -8444095455037137042
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_51
+  - first:
+      213: -6776347919271501208
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_52
+  - first:
+      213: -7178599548990312692
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_53
+  - first:
+      213: -3279716446768092386
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_54
+  - first:
+      213: -3309533784779511628
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_55
+  - first:
+      213: 8907665306492200248
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_56
+  - first:
+      213: -5441860009590769236
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_57
+  - first:
+      213: -299547815702021340
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_58
+  - first:
+      213: -42033067600681460
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_59
+  - first:
+      213: 7993985485765917789
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_60
+  - first:
+      213: -6861289276964327210
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_61
+  - first:
+      213: 1823150310775181826
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_62
+  - first:
+      213: -7759458771428631423
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_63
+  - first:
+      213: -854638070342919570
+    second: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 905
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d0823c592fe0060800000000000000
+      internalID: 6921736402353261874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 908
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0472d84a5bea1db0800000000000000
+      internalID: -4820281678145358834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 906
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb0a3269a02cba20800000000000000
+      internalID: 3079372157084109794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 341
+        width: 313
+        height: 623
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc81391ba0eda5de0800000000000000
+      internalID: -1343517401306425140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 840
+        width: 102
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806fd9fda4efb6770800000000000000
+      internalID: 8605251110554170888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 841
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f12caf7ae2edb4560800000000000000
+      internalID: 7299171913052111391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 868
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0831ebe7761439c30800000000000000
+      internalID: 4364904376615965568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 846
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2590bc1d463f09800800000000000000
+      internalID: 617260763291781458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_8
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 818
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433c1d96224b446b0800000000000000
+      internalID: -5312923600493100236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 774
+        width: 112
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecee20152123838e0800000000000000
+      internalID: -1713564603964526898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_10
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 775
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8784b0ce95af13e0800000000000000
+      internalID: -2080762401565407347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 818
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c1c53324efaf8c0800000000000000
+      internalID: -3964576961663329233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_12
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 812
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65097ef858e63c0b0800000000000000
+      internalID: -5709598382651633578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 773
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230edc35ba83dacd0800000000000000
+      internalID: -2545315905897897934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 776
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1162834019a2c50800000000000000
+      internalID: 6641280047819133376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_15
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 770
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ad2c3b85fcf3960800000000000000
+      internalID: 7584008277395167815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_16
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 770
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddac7ee86302c780800000000000000
+      internalID: -8664358983894782511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_17
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 708
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5a5cddcd22c2e80800000000000000
+      internalID: -8202142489339648600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_18
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 708
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a712274842cc4c0800000000000000
+      internalID: -4265994595757622781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_19
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 705
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939268c0e996d1950800000000000000
+      internalID: 6421404771236063545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_20
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 707
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b16e7ddad90b340800000000000000
+      internalID: 4877571766419331951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_21
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 704
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bca7ab164c65fd70800000000000000
+      internalID: 9076279672402586802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_22
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 741
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3f207402b8e4560800000000000000
+      internalID: 7299925016760742908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_23
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 724
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a30fa2edf0c6384a0800000000000000
+      internalID: -6592306614132608966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_24
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 711
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c1a3c01d6084aa0800000000000000
+      internalID: -6176679394015568770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_25
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 701
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2563f77f09581c380800000000000000
+      internalID: -8952727726561741230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_26
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 701
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e363df0763077e0800000000000000
+      internalID: -1769854794644177360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 362
+        width: 360
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f678c4794a25b40800000000000000
+      internalID: 5427581470665830223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_28
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 635
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7a5914b648017b0800000000000000
+      internalID: -5255555168944674838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_29
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 638
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a60350ca44e1bf60800000000000000
+      internalID: 8048465018793166503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_30
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 626
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f97fc85e6e4ba70800000000000000
+      internalID: 8841945842022064010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_31
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 611
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f45ec59d8395830800000000000000
+      internalID: 4060339045268803354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_32
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 570
+        width: 91
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef7a2b83a0791b00800000000000000
+      internalID: 799794256551772132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_33
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 569
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf50117ae79acc70800000000000000
+      internalID: 8992166639173656525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_34
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 565
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4de0e8e2e8da440800000000000000
+      internalID: 4948767896153019637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_35
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 565
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d77d1eb2a48df60800000000000000
+      internalID: 8059273085512547692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_36
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 471
+        width: 117
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467a183a1acf062b0800000000000000
+      internalID: -5593192966031038620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_37
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 491
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65489b48284093920800000000000000
+      internalID: 2970410387846562902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_38
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 552
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b4f5ccc792075d0800000000000000
+      internalID: -3066905730257826968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_39
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 540
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9489c7379cc697510800000000000000
+      internalID: 1547387559460247625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_40
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 534
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67559b3b566b149e0800000000000000
+      internalID: -1638828241462930058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_41
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 543
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea964b2b53f3a630800000000000000
+      internalID: 3937258072145566443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_42
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 494
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc46e843ad2efd30800000000000000
+      internalID: 4467058059724082393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_43
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 336
+        width: 125
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e60aeb4765ce4c00800000000000000
+      internalID: 886863224084498150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_44
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 428
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31206208f9d376180800000000000000
+      internalID: -9122254764956581357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_45
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 427
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1619662de05a3b30800000000000000
+      internalID: 4267812576368858655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 186
+        width: 158
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcba9a6955611fd70800000000000000
+      internalID: 9075059280983993293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 186
+        width: 317
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfc714fa01a077b0800000000000000
+      internalID: -5228502098960199749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_48
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 189
+        width: 159
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325a279e7a4ed7670800000000000000
+      internalID: 8538231878391604515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_49
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 312
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafb5dda52c06dc40800000000000000
+      internalID: 5536626147868393390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_50
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 340
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9e929f04ee055c50800000000000000
+      internalID: 6653240397186375323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_51
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 160
+        width: 155
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f55012ceb80da80800000000000000
+      internalID: -8444095455037137042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_52
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 315
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8626d55587395f1a0800000000000000
+      internalID: -6776347919271501208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_53
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 288
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f27a97ebd706c90800000000000000
+      internalID: -7178599548990312692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_54
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 244
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ba162b44b1c72d0800000000000000
+      internalID: -3279716446768092386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_55
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 154
+        width: 74
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b82012be8c2212d0800000000000000
+      internalID: -3309533784779511628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_56
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 203
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835e983c6626e9b70800000000000000
+      internalID: 8907665306492200248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 158
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca930fa4721aa74b0800000000000000
+      internalID: -5441860009590769236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_58
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 159
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b36d349dac7dbf0800000000000000
+      internalID: -299547815702021340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_59
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1
+        width: 160
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0667d0d52baa6ff0800000000000000
+      internalID: -42033067600681460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_60
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 4
+        width: 159
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cb4b2027750fe60800000000000000
+      internalID: 7993985485765917789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_61
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 0
+        width: 158
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0385951cdc7c0a0800000000000000
+      internalID: -6861289276964327210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_62
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 69
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202d5e55c812d4910800000000000000
+      internalID: 1823150310775181826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_63
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 1
+        width: 117
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c15b7db5dd05490800000000000000
+      internalID: -7759458771428631423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_64
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 21
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a5fadf337b324f0800000000000000
+      internalID: -854638070342919570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_0: 6921736402353261874
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_1: -4820281678145358834
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_10: -2080762401565407347
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_11: -3964576961663329233
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_12: -5709598382651633578
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_13: -2545315905897897934
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_14: 6641280047819133376
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_15: 7584008277395167815
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_16: -8664358983894782511
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_17: -8202142489339648600
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_18: -4265994595757622781
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_19: 6421404771236063545
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_2: 3079372157084109794
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_20: 4877571766419331951
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_21: 9076279672402586802
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_22: 7299925016760742908
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_23: -6592306614132608966
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_24: -6176679394015568770
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_25: -8952727726561741230
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_26: -1769854794644177360
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_27: 5427581470665830223
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_28: -5255555168944674838
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_29: 8048465018793166503
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_3: -1343517401306425140
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_30: 8841945842022064010
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_31: 4060339045268803354
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_32: 799794256551772132
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_33: 8992166639173656525
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_34: 4948767896153019637
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_35: 8059273085512547692
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_36: -5593192966031038620
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_37: 2970410387846562902
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_38: -3066905730257826968
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_39: 1547387559460247625
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_4: 8605251110554170888
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_40: -1638828241462930058
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_41: 3937258072145566443
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_42: 4467058059724082393
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_43: 886863224084498150
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_44: -9122254764956581357
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_45: 4267812576368858655
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_46: 9075059280983993293
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_47: -5228502098960199749
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_48: 8538231878391604515
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_49: 5536626147868393390
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_5: 7299171913052111391
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_50: 6653240397186375323
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_51: -8444095455037137042
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_52: -6776347919271501208
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_53: -7178599548990312692
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_54: -3279716446768092386
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_55: -3309533784779511628
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_56: 8907665306492200248
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_57: -5441860009590769236
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_58: -299547815702021340
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_59: -42033067600681460
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_6: 4364904376615965568
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_60: 7993985485765917789
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_61: -6861289276964327210
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_62: 1823150310775181826
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_63: -7759458771428631423
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_64: -854638070342919570
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_7: 617260763291781458
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_8: -5312923600493100236
+      sactx-0-1024x1024-Uncompressed-ActionVfxAtlas_004-0a922b34_9: -1713564603964526898
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: dbf8fdbdcd68d054fbacea6f5f0748a6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7618830668005928551
+    second: Plaza_Summer_GiantRocket_0
+  - first:
+      213: -4733330842222787612
+    second: Plaza_Summer_GiantRocket_1
+  - first:
+      213: 3203554795188651074
+    second: Plaza_Summer_GiantRocket_2
+  - first:
+      213: 376262128500243111
+    second: Plaza_Summer_GiantRocket_3
+  - first:
+      213: 1514490671488480832
+    second: Plaza_Summer_GiantRocket_4
+  - first:
+      213: 9056291458970833247
+    second: Plaza_Summer_GiantRocket_5
+  - first:
+      213: -6286505168605219025
+    second: Plaza_Summer_GiantRocket_6
+  - first:
+      213: -700216056329316138
+    second: Plaza_Summer_GiantRocket_7
+  - first:
+      213: -6785200833176111205
+    second: Plaza_Summer_GiantRocket_8
+  - first:
+      213: 6853931842665554894
+    second: Plaza_Summer_GiantRocket_9
+  - first:
+      213: 6253361847784191346
+    second: Plaza_Summer_GiantRocket_10
+  - first:
+      213: -1915917297786416281
+    second: Plaza_Summer_GiantRocket_11
+  - first:
+      213: 5916012337965712349
+    second: Plaza_Summer_GiantRocket_12
+  - first:
+      213: 5709289414556104453
+    second: Plaza_Summer_GiantRocket_13
+  - first:
+      213: 6904051110424210519
+    second: Plaza_Summer_GiantRocket_14
+  - first:
+      213: 4168730187656041974
+    second: Plaza_Summer_GiantRocket_15
+  - first:
+      213: -5863470821404631840
+    second: Plaza_Summer_GiantRocket_16
+  - first:
+      213: -5541695739241719455
+    second: Plaza_Summer_GiantRocket_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 210
+        width: 31
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e685250268bb960800000000000000
+      internalID: 7618830668005928551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 211
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e309e06da4df4eb0800000000000000
+      internalID: -4733330842222787612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 209
+        width: 39
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24408b1fc10557c20800000000000000
+      internalID: 3203554795188651074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 212
+        width: 33
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa70bf8960c83500800000000000000
+      internalID: 376262128500243111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 209
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046b6b9dd3d840510800000000000000
+      internalID: 1514490671488480832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 211
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f515c5289196ead70800000000000000
+      internalID: 9056291458970833247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 224
+        width: 90
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27f0a24bd8d1c8a0800000000000000
+      internalID: -6286505168605219025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 126
+        width: 80
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d85778e4355846f0800000000000000
+      internalID: -700216056329316138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 123
+        width: 85
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b977ad0bacf16d1a0800000000000000
+      internalID: -6785200833176111205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 127
+        width: 88
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3a1dc72be0e1f50800000000000000
+      internalID: 6853931842665554894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_10
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 126
+        width: 82
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2753825087768c650800000000000000
+      internalID: 6253361847784191346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 30
+        width: 83
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7631a6e5e5b4965e0800000000000000
+      internalID: -1915917297786416281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_12
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 8
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3464380e5e91250800000000000000
+      internalID: 5916012337965712349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 17
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507b38239787b3f40800000000000000
+      internalID: 5709289414556104453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 14
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ce9fbd7ed10df50800000000000000
+      internalID: 6904051110424210519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_15
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f59fafc40e4ad930800000000000000
+      internalID: 4168730187656041974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_16
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 17
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec1f4b9a54c0aea0800000000000000
+      internalID: -5863470821404631840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_GiantRocket_17
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 14
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16993391611f713b0800000000000000
+      internalID: -5541695739241719455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plaza_Summer_GiantRocket_0: 7618830668005928551
+      Plaza_Summer_GiantRocket_1: -4733330842222787612
+      Plaza_Summer_GiantRocket_10: 6253361847784191346
+      Plaza_Summer_GiantRocket_11: -1915917297786416281
+      Plaza_Summer_GiantRocket_12: 5916012337965712349
+      Plaza_Summer_GiantRocket_13: 5709289414556104453
+      Plaza_Summer_GiantRocket_14: 6904051110424210519
+      Plaza_Summer_GiantRocket_15: 4168730187656041974
+      Plaza_Summer_GiantRocket_16: -5863470821404631840
+      Plaza_Summer_GiantRocket_17: -5541695739241719455
+      Plaza_Summer_GiantRocket_2: 3203554795188651074
+      Plaza_Summer_GiantRocket_3: 376262128500243111
+      Plaza_Summer_GiantRocket_4: 1514490671488480832
+      Plaza_Summer_GiantRocket_5: 9056291458970833247
+      Plaza_Summer_GiantRocket_6: -6286505168605219025
+      Plaza_Summer_GiantRocket_7: -700216056329316138
+      Plaza_Summer_GiantRocket_8: -6785200833176111205
+      Plaza_Summer_GiantRocket_9: 6853931842665554894
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6f98583aca98e8448b53c1eca6133355
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteUp: {fileID: 737984426864177536, guid: 4055a65465621154e9ed7a0c832b5b16, type: 3}
+  - spriteDown: {fileID: -2900798946557091282, guid: 5dce2845c6750584e852da52c70d28ae, type: 3}
+  - spriteLeft: {fileID: 1560274906881497878, guid: 1b06106533ae8484ba677217fa8c1036, type: 3}
+  - spriteRight: {fileID: -3025101975909466527, guid: 65ea415e41bddf941837fb19d0a86f4c, type: 3}
+  - arrowEffectObject: {instanceID: 0}
+  - arrowBorderImage: {instanceID: 0}
+  - arrowCoolDownImage: {instanceID: 0}
+  - backstepEffectObject: {instanceID: 0}
+  - backstepBorderImage: {instanceID: 0}
+  - backstepCoolDownImage: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

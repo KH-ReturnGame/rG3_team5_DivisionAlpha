@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 06138036ce90bbb4d92355b4485f8805
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5706068679438263372
+    second: Magic_Buff_vitality_0
+  - first:
+      213: -123329553569443524
+    second: Magic_Buff_vitality_1
+  - first:
+      213: 5846789329687266665
+    second: Magic_Buff_vitality_2
+  - first:
+      213: 9138350883757780470
+    second: Magic_Buff_vitality_3
+  - first:
+      213: 646592716133811656
+    second: Magic_Buff_vitality_4
+  - first:
+      213: -7312871451200769415
+    second: Magic_Buff_vitality_5
+  - first:
+      213: 5124465018286022731
+    second: Magic_Buff_vitality_6
+  - first:
+      213: -2690363196006046005
+    second: Magic_Buff_vitality_7
+  - first:
+      213: -8892545793049566930
+    second: Magic_Buff_vitality_8
+  - first:
+      213: -3072400266407773601
+    second: Magic_Buff_vitality_9
+  - first:
+      213: -7847658023121322826
+    second: Magic_Buff_vitality_10
+  - first:
+      213: -1807061379171833104
+    second: Magic_Buff_vitality_11
+  - first:
+      213: 4430853871560622455
+    second: Magic_Buff_vitality_12
+  - first:
+      213: -9179273094440732037
+    second: Magic_Buff_vitality_13
+  - first:
+      213: -422824930880865696
+    second: Magic_Buff_vitality_14
+  - first:
+      213: -3893835884999228529
+    second: Magic_Buff_vitality_15
+  - first:
+      213: -8833984318077314040
+    second: Magic_Buff_vitality_16
+  - first:
+      213: -1313230369664083114
+    second: Magic_Buff_vitality_17
+  - first:
+      213: -4944287561012101794
+    second: Magic_Buff_vitality_18
+  - first:
+      213: -4855248329435479241
+    second: Magic_Buff_vitality_19
+  - first:
+      213: 6725990276242038102
+    second: Magic_Buff_vitality_20
+  - first:
+      213: 3000446213373795074
+    second: Magic_Buff_vitality_21
+  - first:
+      213: -9151047575200933816
+    second: Magic_Buff_vitality_22
+  - first:
+      213: -3015586601891258558
+    second: Magic_Buff_vitality_23
+  - first:
+      213: 9195908990611602202
+    second: Magic_Buff_vitality_24
+  - first:
+      213: 1804463484715856226
+    second: Magic_Buff_vitality_25
+  - first:
+      213: -3443494811794363621
+    second: Magic_Buff_vitality_26
+  - first:
+      213: -5646761384812628764
+    second: Magic_Buff_vitality_27
+  - first:
+      213: -5074855244167169443
+    second: Magic_Buff_vitality_28
+  - first:
+      213: -3642058766040881865
+    second: Magic_Buff_vitality_29
+  - first:
+      213: 1207689089798717053
+    second: Magic_Buff_vitality_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 201
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb9912a4c8ffc0b0800000000000000
+      internalID: -5706068679438263372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 194
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c319f29ac68d94ef0800000000000000
+      internalID: -123329553569443524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 203
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 965cd80fae7f32150800000000000000
+      internalID: 5846789329687266665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 197
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd624336b1f1de70800000000000000
+      internalID: 9138350883757780470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 199
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5c28746a829f800800000000000000
+      internalID: 646592716133811656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 189
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972351f0926738a90800000000000000
+      internalID: -7312871451200769415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 143
+        width: 69
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40aad698c1cd1740800000000000000
+      internalID: 5124465018286022731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 174
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc666496de8e9aad0800000000000000
+      internalID: -2690363196006046005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 176
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21e26847b4579480800000000000000
+      internalID: -8892545793049566930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 177
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5af2f86c34ac55d0800000000000000
+      internalID: -3072400266407773601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_10
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 178
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcfb1d4b94871390800000000000000
+      internalID: -7847658023121322826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_11
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 171
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faa227ff370ce6e0800000000000000
+      internalID: -1807061379171833104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 175
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771090ade1e8d7d30800000000000000
+      internalID: 4430853871560622455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_13
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 159
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a3f8521cbac9080800000000000000
+      internalID: -9179273094440732037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_14
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 151
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06abaa037f2d12af0800000000000000
+      internalID: -422824930880865696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 153
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83c3fc94e056f9c0800000000000000
+      internalID: -3893835884999228529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 152
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c51a13112676580800000000000000
+      internalID: -8833984318077314040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_17
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 150
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bdae3cfe776cde0800000000000000
+      internalID: -1313230369664083114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_18
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 151
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dbd72c8ac526bb0800000000000000
+      internalID: -4944287561012101794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_19
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 151
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73380bb5e51be9cb0800000000000000
+      internalID: -4855248329435479241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 153
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d532a3584875d50800000000000000
+      internalID: 6725990276242038102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 154
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b9fcb1fe9b3a920800000000000000
+      internalID: 3000446213373795074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 154
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848d275f6b2f00180800000000000000
+      internalID: -9151047575200933816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_23
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 87
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f18dc76fb7626d0800000000000000
+      internalID: -3015586601891258558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 87
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bb934418e6e9f70800000000000000
+      internalID: 9195908990611602202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 87
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261f6a89afdba0910800000000000000
+      internalID: 1804463484715856226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_26
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 87
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ba81d86bf3630d0800000000000000
+      internalID: -3443494811794363621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 87
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4b9d6307ca2a1b0800000000000000
+      internalID: -5646761384812628764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a33ec0b0e7299b0800000000000000
+      internalID: -5074855244167169443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_29
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 15
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735290749dec47dc0800000000000000
+      internalID: -3642058766040881865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Buff_vitality_30
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 15
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e319c14d292c010800000000000000
+      internalID: 1207689089798717053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Buff_vitality_0: -5706068679438263372
+      Magic_Buff_vitality_1: -123329553569443524
+      Magic_Buff_vitality_10: -7847658023121322826
+      Magic_Buff_vitality_11: -1807061379171833104
+      Magic_Buff_vitality_12: 4430853871560622455
+      Magic_Buff_vitality_13: -9179273094440732037
+      Magic_Buff_vitality_14: -422824930880865696
+      Magic_Buff_vitality_15: -3893835884999228529
+      Magic_Buff_vitality_16: -8833984318077314040
+      Magic_Buff_vitality_17: -1313230369664083114
+      Magic_Buff_vitality_18: -4944287561012101794
+      Magic_Buff_vitality_19: -4855248329435479241
+      Magic_Buff_vitality_2: 5846789329687266665
+      Magic_Buff_vitality_20: 6725990276242038102
+      Magic_Buff_vitality_21: 3000446213373795074
+      Magic_Buff_vitality_22: -9151047575200933816
+      Magic_Buff_vitality_23: -3015586601891258558
+      Magic_Buff_vitality_24: 9195908990611602202
+      Magic_Buff_vitality_25: 1804463484715856226
+      Magic_Buff_vitality_26: -3443494811794363621
+      Magic_Buff_vitality_27: -5646761384812628764
+      Magic_Buff_vitality_28: -5074855244167169443
+      Magic_Buff_vitality_29: -3642058766040881865
+      Magic_Buff_vitality_3: 9138350883757780470
+      Magic_Buff_vitality_30: 1207689089798717053
+      Magic_Buff_vitality_4: 646592716133811656
+      Magic_Buff_vitality_5: -7312871451200769415
+      Magic_Buff_vitality_6: 5124465018286022731
+      Magic_Buff_vitality_7: -2690363196006046005
+      Magic_Buff_vitality_8: -8892545793049566930
+      Magic_Buff_vitality_9: -3072400266407773601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

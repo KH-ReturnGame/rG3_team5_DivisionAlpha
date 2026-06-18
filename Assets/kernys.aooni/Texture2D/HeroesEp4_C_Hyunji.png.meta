@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 8f516b863791d2a4eb1f1c8a1c9ed58a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2728426832656007253
+    second: HeroesEp4_C_Hyunji_0
+  - first:
+      213: -2629460166009164128
+    second: HeroesEp4_C_Hyunji_1
+  - first:
+      213: -5407699092346046725
+    second: HeroesEp4_C_Hyunji_2
+  - first:
+      213: 3030376028519557288
+    second: HeroesEp4_C_Hyunji_3
+  - first:
+      213: -4957173645606091440
+    second: HeroesEp4_C_Hyunji_4
+  - first:
+      213: -1357280237306523978
+    second: HeroesEp4_C_Hyunji_5
+  - first:
+      213: -8911666099336013750
+    second: HeroesEp4_C_Hyunji_6
+  - first:
+      213: 6520068663364884982
+    second: HeroesEp4_C_Hyunji_7
+  - first:
+      213: -1828554290673771417
+    second: HeroesEp4_C_Hyunji_8
+  - first:
+      213: -318922230714833980
+    second: HeroesEp4_C_Hyunji_9
+  - first:
+      213: -7025495967447871312
+    second: HeroesEp4_C_Hyunji_10
+  - first:
+      213: 4280821008556646458
+    second: HeroesEp4_C_Hyunji_11
+  - first:
+      213: 6289188098383189377
+    second: HeroesEp4_C_Hyunji_12
+  - first:
+      213: 65513046967658861
+    second: HeroesEp4_C_Hyunji_13
+  - first:
+      213: 2414843644254653216
+    second: HeroesEp4_C_Hyunji_14
+  - first:
+      213: -4775370997279327914
+    second: HeroesEp4_C_Hyunji_15
+  - first:
+      213: -7827833839658154530
+    second: HeroesEp4_C_Hyunji_16
+  - first:
+      213: -3565628332723064163
+    second: HeroesEp4_C_Hyunji_17
+  - first:
+      213: -4503011587364652748
+    second: HeroesEp4_C_Hyunji_18
+  - first:
+      213: 843580784415554760
+    second: HeroesEp4_C_Hyunji_19
+  - first:
+      213: -1454657884024302275
+    second: HeroesEp4_C_Hyunji_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baff4e3604ea22ad0800000000000000
+      internalID: -2728426832656007253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 118
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aeebf519e7428bd0800000000000000
+      internalID: -2629460166009164128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 115
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6f284a35ef3f4b0800000000000000
+      internalID: -5407699092346046725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 117
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a864cb31fe0e0a20800000000000000
+      internalID: 3030376028519557288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 118
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05588b365d4943bb0800000000000000
+      internalID: -4957173645606091440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 115
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6becfaab0d8f92de0800000000000000
+      internalID: -1357280237306523978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_6
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 117
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a489f2016e6635480800000000000000
+      internalID: -8911666099336013750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 59
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9150f87efeb7a50800000000000000
+      internalID: 6520068663364884982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 59
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c9fdb8f8baf96e0800000000000000
+      internalID: -1828554290673771417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 59
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3644fbbe5f29bf0800000000000000
+      internalID: -318922230714833980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_10
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 59
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b09459e3ac608e90800000000000000
+      internalID: -7025495967447871312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 59
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a306c0ac608886b30800000000000000
+      internalID: 4280821008556646458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 59
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1859eb1014fa74750800000000000000
+      internalID: 6289188098383189377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_13
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 59
+        width: 20
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6929a4e4cfb8e000800000000000000
+      internalID: 65513046967658861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b88e3008f338120800000000000000
+      internalID: 2414843644254653216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_15
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659767401697abdb0800000000000000
+      internalID: -4775370997279327914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5c462b892fd5390800000000000000
+      internalID: -7827833839658154530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9239f24ce7548ec0800000000000000
+      internalID: -3565628332723064163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43979abb1d61281c0800000000000000
+      internalID: -4503011587364652748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_19
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc3f62014005bb00800000000000000
+      internalID: 843580784415554760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunji_20
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3592019c5400dbe0800000000000000
+      internalID: -1454657884024302275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp4_C_Hyunji_0: -2728426832656007253
+      HeroesEp4_C_Hyunji_1: -2629460166009164128
+      HeroesEp4_C_Hyunji_10: -7025495967447871312
+      HeroesEp4_C_Hyunji_11: 4280821008556646458
+      HeroesEp4_C_Hyunji_12: 6289188098383189377
+      HeroesEp4_C_Hyunji_13: 65513046967658861
+      HeroesEp4_C_Hyunji_14: 2414843644254653216
+      HeroesEp4_C_Hyunji_15: -4775370997279327914
+      HeroesEp4_C_Hyunji_16: -7827833839658154530
+      HeroesEp4_C_Hyunji_17: -3565628332723064163
+      HeroesEp4_C_Hyunji_18: -4503011587364652748
+      HeroesEp4_C_Hyunji_19: 843580784415554760
+      HeroesEp4_C_Hyunji_2: -5407699092346046725
+      HeroesEp4_C_Hyunji_20: -1454657884024302275
+      HeroesEp4_C_Hyunji_3: 3030376028519557288
+      HeroesEp4_C_Hyunji_4: -4957173645606091440
+      HeroesEp4_C_Hyunji_5: -1357280237306523978
+      HeroesEp4_C_Hyunji_6: -8911666099336013750
+      HeroesEp4_C_Hyunji_7: 6520068663364884982
+      HeroesEp4_C_Hyunji_8: -1828554290673771417
+      HeroesEp4_C_Hyunji_9: -318922230714833980
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

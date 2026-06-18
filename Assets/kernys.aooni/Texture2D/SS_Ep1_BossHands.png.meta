@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 408a8d7cdd469df41a61ef6d95337b23
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7980310962997407250
+    second: SS_Ep1_BossHands_0
+  - first:
+      213: 8053967872000633277
+    second: SS_Ep1_BossHands_1
+  - first:
+      213: -5035136819159960933
+    second: SS_Ep1_BossHands_2
+  - first:
+      213: 6625353928595536859
+    second: SS_Ep1_BossHands_3
+  - first:
+      213: 8078783750879781587
+    second: SS_Ep1_BossHands_4
+  - first:
+      213: 1549880924092937927
+    second: SS_Ep1_BossHands_5
+  - first:
+      213: 6022914759004610789
+    second: SS_Ep1_BossHands_6
+  - first:
+      213: 147170055347977707
+    second: SS_Ep1_BossHands_7
+  - first:
+      213: 2410086225228462188
+    second: SS_Ep1_BossHands_8
+  - first:
+      213: -237760309590612207
+    second: SS_Ep1_BossHands_9
+  - first:
+      213: -4675635001885200741
+    second: SS_Ep1_BossHands_10
+  - first:
+      213: 358686801044303213
+    second: SS_Ep1_BossHands_11
+  - first:
+      213: 2780641354068164313
+    second: SS_Ep1_BossHands_12
+  - first:
+      213: -4768494024407761318
+    second: SS_Ep1_BossHands_13
+  - first:
+      213: 2758442293113045879
+    second: SS_Ep1_BossHands_14
+  - first:
+      213: -5860879117294325663
+    second: SS_Ep1_BossHands_15
+  - first:
+      213: -3465892467959314365
+    second: SS_Ep1_BossHands_16
+  - first:
+      213: -6698317813394128251
+    second: SS_Ep1_BossHands_17
+  - first:
+      213: -7835974069343504611
+    second: SS_Ep1_BossHands_18
+  - first:
+      213: -8573404200219088676
+    second: SS_Ep1_BossHands_19
+  - first:
+      213: 4967318598765958608
+    second: SS_Ep1_BossHands_20
+  - first:
+      213: 8278990022768279646
+    second: SS_Ep1_BossHands_21
+  - first:
+      213: -4632735922969649344
+    second: SS_Ep1_BossHands_22
+  - first:
+      213: 6061026169616746568
+    second: SS_Ep1_BossHands_23
+  - first:
+      213: 7601473243718150871
+    second: SS_Ep1_BossHands_24
+  - first:
+      213: 7224765183736318622
+    second: SS_Ep1_BossHands_25
+  - first:
+      213: 7551972071803256581
+    second: SS_Ep1_BossHands_26
+  - first:
+      213: 4954460764528362625
+    second: SS_Ep1_BossHands_27
+  - first:
+      213: -8502915101139556189
+    second: SS_Ep1_BossHands_28
+  - first:
+      213: -4613222417841016838
+    second: SS_Ep1_BossHands_29
+  - first:
+      213: -1513855556361980859
+    second: SS_Ep1_BossHands_30
+  - first:
+      213: 6226612758606751161
+    second: SS_Ep1_BossHands_31
+  - first:
+      213: -9110894133555158339
+    second: SS_Ep1_BossHands_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 171
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1526de57d304190800000000000000
+      internalID: -7980310962997407250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 171
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9a10b9b1175cf60800000000000000
+      internalID: 8053967872000633277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 171
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92fa728db99f1ab0800000000000000
+      internalID: -5035136819159960933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 171
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbfc21ab4cf1fb50800000000000000
+      internalID: 6625353928595536859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_4
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 173
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d22368a40b9d1070800000000000000
+      internalID: 8078783750879781587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 173
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6b6b42d78428510800000000000000
+      internalID: 1549880924092937927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_6
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 173
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e06de20011b59350800000000000000
+      internalID: 6022914759004610789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 173
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed3796b26ada0200800000000000000
+      internalID: 147170055347977707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 121
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68fdc417a8527120800000000000000
+      internalID: 2410086225228462188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 121
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1172a25124e43bcf0800000000000000
+      internalID: -237760309590612207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 122
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eef350dbecc1fb0800000000000000
+      internalID: -4675635001885200741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 121
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dedd1cebf4af400800000000000000
+      internalID: 358686801044303213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_12
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 123
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de7efc3492d69620800000000000000
+      internalID: 2780641354068164313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 123
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e3a9903f7e2ddb0800000000000000
+      internalID: -4768494024407761318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_14
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 123
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773ca6696a4f74620800000000000000
+      internalID: 2758442293113045879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_15
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 123
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ba2ebe79f9aea0800000000000000
+      internalID: -5860879117294325663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 71
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3484599d92da6efc0800000000000000
+      internalID: -3465892467959314365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 73
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582c8fb107bca03a0800000000000000
+      internalID: -6698317813394128251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 73
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17bb97c917014390800000000000000
+      internalID: -7835974069343504611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_19
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 72
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd86912cd46250980800000000000000
+      internalID: -8573404200219088676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 73
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5d2a592f57fe440800000000000000
+      internalID: 4967318598765958608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_21
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 73
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e504b1ecf81e4e270800000000000000
+      internalID: 8278990022768279646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_22
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 73
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04fd33d293735bfb0800000000000000
+      internalID: -4632735922969649344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_23
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 73
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8484a5640371d1450800000000000000
+      internalID: 6061026169616746568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dae47d04abdd7960800000000000000
+      internalID: 7601473243718150871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_25
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 17
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a863af7a5834460800000000000000
+      internalID: 7224765183736318622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_26
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 23
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ff085569efdc860800000000000000
+      internalID: 7551972071803256581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_27
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 23
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184c253c0d7c1c440800000000000000
+      internalID: 4954460764528362625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_28
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 23
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8a54114c39ff980800000000000000
+      internalID: -8502915101139556189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_29
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affa7b227aa8affb0800000000000000
+      internalID: -4613222417841016838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_30
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 23
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544fac96464bdfae0800000000000000
+      internalID: -1513855556361980859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_31
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 23
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5abae505f596650800000000000000
+      internalID: 6226612758606751161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_BossHands_32
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 0
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2214f9e0a9f8180800000000000000
+      internalID: -9110894133555158339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep1_BossHands_0: -7980310962997407250
+      SS_Ep1_BossHands_1: 8053967872000633277
+      SS_Ep1_BossHands_10: -4675635001885200741
+      SS_Ep1_BossHands_11: 358686801044303213
+      SS_Ep1_BossHands_12: 2780641354068164313
+      SS_Ep1_BossHands_13: -4768494024407761318
+      SS_Ep1_BossHands_14: 2758442293113045879
+      SS_Ep1_BossHands_15: -5860879117294325663
+      SS_Ep1_BossHands_16: -3465892467959314365
+      SS_Ep1_BossHands_17: -6698317813394128251
+      SS_Ep1_BossHands_18: -7835974069343504611
+      SS_Ep1_BossHands_19: -8573404200219088676
+      SS_Ep1_BossHands_2: -5035136819159960933
+      SS_Ep1_BossHands_20: 4967318598765958608
+      SS_Ep1_BossHands_21: 8278990022768279646
+      SS_Ep1_BossHands_22: -4632735922969649344
+      SS_Ep1_BossHands_23: 6061026169616746568
+      SS_Ep1_BossHands_24: 7601473243718150871
+      SS_Ep1_BossHands_25: 7224765183736318622
+      SS_Ep1_BossHands_26: 7551972071803256581
+      SS_Ep1_BossHands_27: 4954460764528362625
+      SS_Ep1_BossHands_28: -8502915101139556189
+      SS_Ep1_BossHands_29: -4613222417841016838
+      SS_Ep1_BossHands_3: 6625353928595536859
+      SS_Ep1_BossHands_30: -1513855556361980859
+      SS_Ep1_BossHands_31: 6226612758606751161
+      SS_Ep1_BossHands_32: -9110894133555158339
+      SS_Ep1_BossHands_4: 8078783750879781587
+      SS_Ep1_BossHands_5: 1549880924092937927
+      SS_Ep1_BossHands_6: 6022914759004610789
+      SS_Ep1_BossHands_7: 147170055347977707
+      SS_Ep1_BossHands_8: 2410086225228462188
+      SS_Ep1_BossHands_9: -237760309590612207
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

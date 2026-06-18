@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 518e147263e135d4f9429006100e6950
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7935750859034534776
+    second: YANAH3_BossWhaleFinAttack_2_0
+  - first:
+      213: -1154549402584980970
+    second: YANAH3_BossWhaleFinAttack_2_1
+  - first:
+      213: -5596210324411802103
+    second: YANAH3_BossWhaleFinAttack_2_2
+  - first:
+      213: -3236460683361397333
+    second: YANAH3_BossWhaleFinAttack_2_3
+  - first:
+      213: 5401805217616121940
+    second: YANAH3_BossWhaleFinAttack_2_4
+  - first:
+      213: 1539684269617064972
+    second: YANAH3_BossWhaleFinAttack_2_5
+  - first:
+      213: 1353074400666514228
+    second: YANAH3_BossWhaleFinAttack_2_6
+  - first:
+      213: -2528339478528420826
+    second: YANAH3_BossWhaleFinAttack_2_7
+  - first:
+      213: 3419007723516028006
+    second: YANAH3_BossWhaleFinAttack_2_8
+  - first:
+      213: -7246896899990921385
+    second: YANAH3_BossWhaleFinAttack_2_9
+  - first:
+      213: -7637464241404026339
+    second: YANAH3_BossWhaleFinAttack_2_10
+  - first:
+      213: -3853603656143034806
+    second: YANAH3_BossWhaleFinAttack_2_11
+  - first:
+      213: 3860081082106059356
+    second: YANAH3_BossWhaleFinAttack_2_12
+  - first:
+      213: -8437470722976599449
+    second: YANAH3_BossWhaleFinAttack_2_13
+  - first:
+      213: -3077656560086888008
+    second: YANAH3_BossWhaleFinAttack_2_14
+  - first:
+      213: 1501213642668199434
+    second: YANAH3_BossWhaleFinAttack_2_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 87
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87321c26c53712e60800000000000000
+      internalID: 7935750859034534776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 81
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61268477f673affe0800000000000000
+      internalID: -1154549402584980970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 8
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e9f052c544652b0800000000000000
+      internalID: -5596210324411802103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_3
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 49
+        width: 55
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5d9bee728c513d0800000000000000
+      internalID: -3236460683361397333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 42
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4505cd5b93117fa40800000000000000
+      internalID: 5401805217616121940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 54
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c28c48fae0e5510800000000000000
+      internalID: 1539684269617064972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 27
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433f66e9ff517c210800000000000000
+      internalID: 1353074400666514228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 35
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62497b6d3a889ecd0800000000000000
+      internalID: -2528339478528420826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 14
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6646d7ce861c27f20800000000000000
+      internalID: 3419007723516028006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 14
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f59284aa9dd6b90800000000000000
+      internalID: -7246896899990921385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 19
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d126d5accb6420690800000000000000
+      internalID: -7637464241404026339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_11
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46a27a54ef358ac0800000000000000
+      internalID: -3853603656143034806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a1327ea43c19530800000000000000
+      internalID: 3860081082106059356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762b832c41518ea80800000000000000
+      internalID: -8437470722976599449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_14
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1de5b2aa7f945d0800000000000000
+      internalID: -3077656560086888008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_BossWhaleFinAttack_2_15
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 7
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e453faad165d410800000000000000
+      internalID: 1501213642668199434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YANAH3_BossWhaleFinAttack_2_0: 7935750859034534776
+      YANAH3_BossWhaleFinAttack_2_1: -1154549402584980970
+      YANAH3_BossWhaleFinAttack_2_10: -7637464241404026339
+      YANAH3_BossWhaleFinAttack_2_11: -3853603656143034806
+      YANAH3_BossWhaleFinAttack_2_12: 3860081082106059356
+      YANAH3_BossWhaleFinAttack_2_13: -8437470722976599449
+      YANAH3_BossWhaleFinAttack_2_14: -3077656560086888008
+      YANAH3_BossWhaleFinAttack_2_15: 1501213642668199434
+      YANAH3_BossWhaleFinAttack_2_2: -5596210324411802103
+      YANAH3_BossWhaleFinAttack_2_3: -3236460683361397333
+      YANAH3_BossWhaleFinAttack_2_4: 5401805217616121940
+      YANAH3_BossWhaleFinAttack_2_5: 1539684269617064972
+      YANAH3_BossWhaleFinAttack_2_6: 1353074400666514228
+      YANAH3_BossWhaleFinAttack_2_7: -2528339478528420826
+      YANAH3_BossWhaleFinAttack_2_8: 3419007723516028006
+      YANAH3_BossWhaleFinAttack_2_9: -7246896899990921385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

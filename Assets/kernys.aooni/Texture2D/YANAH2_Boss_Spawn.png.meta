@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 38b26850349c7454c8b2bf48f827ee10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2485690701560152032
+    second: YANAH2_Boss_Spawn_0
+  - first:
+      213: -4079501900077655078
+    second: YANAH2_Boss_Spawn_1
+  - first:
+      213: -7664458902723023559
+    second: YANAH2_Boss_Spawn_2
+  - first:
+      213: 710384173175877639
+    second: YANAH2_Boss_Spawn_3
+  - first:
+      213: 3038834284812754864
+    second: YANAH2_Boss_Spawn_4
+  - first:
+      213: -5829473163519111013
+    second: YANAH2_Boss_Spawn_5
+  - first:
+      213: 1112797361471181695
+    second: YANAH2_Boss_Spawn_6
+  - first:
+      213: -8332275548129291343
+    second: YANAH2_Boss_Spawn_7
+  - first:
+      213: -5498618109695038133
+    second: YANAH2_Boss_Spawn_8
+  - first:
+      213: 3708761738431346099
+    second: YANAH2_Boss_Spawn_9
+  - first:
+      213: 601484603882041131
+    second: YANAH2_Boss_Spawn_10
+  - first:
+      213: 6007134100788245531
+    second: YANAH2_Boss_Spawn_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YANAH2_Boss_Spawn_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 59
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0effbf7f582fe7220800000000000000
+      internalID: 2485690701560152032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Boss_Spawn_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 59
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb1751d2a2b267c0800000000000000
+      internalID: -4079501900077655078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Boss_Spawn_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 85
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d2d9b6c3f52a590800000000000000
+      internalID: -7664458902723023559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Boss_Spawn_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 78
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700353844aacbd900800000000000000
+      internalID: 710384173175877639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Boss_Spawn_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfda8d7eab1c2a20800000000000000
+      internalID: 3038834284812754864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Boss_Spawn_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 59
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9055cc2b0d891fa0800000000000000
+      internalID: -5829473163519111013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Boss_Spawn_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 27
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f735b7ded43717f00800000000000000
+      internalID: 1112797361471181695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Boss_Spawn_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 25
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b39417098fcd5c80800000000000000
+      internalID: -8332275548129291343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Boss_Spawn_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 24
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4de81056fbf0b3b0800000000000000
+      internalID: -5498618109695038133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Boss_Spawn_9
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5b2c7b62b287330800000000000000
+      internalID: 3708761738431346099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Boss_Spawn_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f61487f07e85800800000000000000
+      internalID: 601484603882041131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Boss_Spawn_11
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b147e9333a0ad5350800000000000000
+      internalID: 6007134100788245531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YANAH2_Boss_Spawn_0: 2485690701560152032
+      YANAH2_Boss_Spawn_1: -4079501900077655078
+      YANAH2_Boss_Spawn_10: 601484603882041131
+      YANAH2_Boss_Spawn_11: 6007134100788245531
+      YANAH2_Boss_Spawn_2: -7664458902723023559
+      YANAH2_Boss_Spawn_3: 710384173175877639
+      YANAH2_Boss_Spawn_4: 3038834284812754864
+      YANAH2_Boss_Spawn_5: -5829473163519111013
+      YANAH2_Boss_Spawn_6: 1112797361471181695
+      YANAH2_Boss_Spawn_7: -8332275548129291343
+      YANAH2_Boss_Spawn_8: -5498618109695038133
+      YANAH2_Boss_Spawn_9: 3708761738431346099
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: e236d5ba63704ad4495e3e8280d5790b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3716270550416803762
+    second: SkillVfx_EP0_PreFireman_SkillVfx_0
+  - first:
+      213: -2615398389398076209
+    second: SkillVfx_EP0_PreFireman_SkillVfx_1
+  - first:
+      213: -7318029352568353135
+    second: SkillVfx_EP0_PreFireman_SkillVfx_2
+  - first:
+      213: 7802194144668065809
+    second: SkillVfx_EP0_PreFireman_SkillVfx_3
+  - first:
+      213: -4757417990271037829
+    second: SkillVfx_EP0_PreFireman_SkillVfx_4
+  - first:
+      213: 851980737856924322
+    second: SkillVfx_EP0_PreFireman_SkillVfx_5
+  - first:
+      213: 7518920682159089279
+    second: SkillVfx_EP0_PreFireman_SkillVfx_6
+  - first:
+      213: 5081847159616381614
+    second: SkillVfx_EP0_PreFireman_SkillVfx_7
+  - first:
+      213: 8050428705204637943
+    second: SkillVfx_EP0_PreFireman_SkillVfx_8
+  - first:
+      213: 5120473794437981482
+    second: SkillVfx_EP0_PreFireman_SkillVfx_9
+  - first:
+      213: -5172853712751913695
+    second: SkillVfx_EP0_PreFireman_SkillVfx_10
+  - first:
+      213: -7696702059169429911
+    second: SkillVfx_EP0_PreFireman_SkillVfx_11
+  - first:
+      213: -6968404218841230069
+    second: SkillVfx_EP0_PreFireman_SkillVfx_12
+  - first:
+      213: 8477547886571365009
+    second: SkillVfx_EP0_PreFireman_SkillVfx_13
+  - first:
+      213: 6586231939769533648
+    second: SkillVfx_EP0_PreFireman_SkillVfx_14
+  - first:
+      213: 3468016361600846054
+    second: SkillVfx_EP0_PreFireman_SkillVfx_15
+  - first:
+      213: -8540070580353721500
+    second: SkillVfx_EP0_PreFireman_SkillVfx_16
+  - first:
+      213: -6462068128625098414
+    second: SkillVfx_EP0_PreFireman_SkillVfx_17
+  - first:
+      213: 7226012722020265655
+    second: SkillVfx_EP0_PreFireman_SkillVfx_18
+  - first:
+      213: 3142965245746401807
+    second: SkillVfx_EP0_PreFireman_SkillVfx_19
+  - first:
+      213: -4729019023202267520
+    second: SkillVfx_EP0_PreFireman_SkillVfx_20
+  - first:
+      213: 637743368746565237
+    second: SkillVfx_EP0_PreFireman_SkillVfx_21
+  - first:
+      213: -2208196131067945572
+    second: SkillVfx_EP0_PreFireman_SkillVfx_22
+  - first:
+      213: -1204709268925512777
+    second: SkillVfx_EP0_PreFireman_SkillVfx_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 213
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7c6de3068d29330800000000000000
+      internalID: 3716270550416803762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 196
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc48cc5950d34bbd0800000000000000
+      internalID: -2615398389398076209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 197
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e08409313217a90800000000000000
+      internalID: -7318029352568353135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_3
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 211
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 110a29d9c36f64c60800000000000000
+      internalID: 7802194144668065809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 188
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e87d13b814afdb0800000000000000
+      internalID: -4757417990271037829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 171
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaef6397f7d2db00800000000000000
+      internalID: 851980737856924322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 183
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f762e620682985860800000000000000
+      internalID: 7518920682159089279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_7
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 135
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea223cf1119568640800000000000000
+      internalID: 5081847159616381614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 144
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0945f114ed8bf60800000000000000
+      internalID: 8050428705204637943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_9
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 129
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a252c2f59c39f0740800000000000000
+      internalID: 5120473794437981482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 93
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1259c5884f45638b0800000000000000
+      internalID: -5172853712751913695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 89
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966403d8142df2590800000000000000
+      internalID: -7696702059169429911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 59
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0592ac78414b4f90800000000000000
+      internalID: -6968404218841230069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192237903ec46a570800000000000000
+      internalID: 8477547886571365009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_14
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 65
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d48b4acd0ff66b50800000000000000
+      internalID: 6586231939769533648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8067ca18ed02030800000000000000
+      internalID: 3468016361600846054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 35
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b904ded039b7980800000000000000
+      internalID: -8540070580353721500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_17
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 37
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2518de6464f1256a0800000000000000
+      internalID: -6462068128625098414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_18
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 41
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bea87e1944f74460800000000000000
+      internalID: 7226012722020265655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_19
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02dc162d3e0e9b20800000000000000
+      internalID: 3142965245746401807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_20
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 6
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ec6f9f0462f5eb0800000000000000
+      internalID: -4729019023202267520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 28
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57efff70738b9d800800000000000000
+      internalID: 637743368746565237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_22
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 7
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d9d4d7159ea51e0800000000000000
+      internalID: -2208196131067945572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_23
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 13
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b303108d43084fe0800000000000000
+      internalID: -1204709268925512777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SkillVfx_EP0_PreFireman_SkillVfx_0: 3716270550416803762
+      SkillVfx_EP0_PreFireman_SkillVfx_1: -2615398389398076209
+      SkillVfx_EP0_PreFireman_SkillVfx_10: -5172853712751913695
+      SkillVfx_EP0_PreFireman_SkillVfx_11: -7696702059169429911
+      SkillVfx_EP0_PreFireman_SkillVfx_12: -6968404218841230069
+      SkillVfx_EP0_PreFireman_SkillVfx_13: 8477547886571365009
+      SkillVfx_EP0_PreFireman_SkillVfx_14: 6586231939769533648
+      SkillVfx_EP0_PreFireman_SkillVfx_15: 3468016361600846054
+      SkillVfx_EP0_PreFireman_SkillVfx_16: -8540070580353721500
+      SkillVfx_EP0_PreFireman_SkillVfx_17: -6462068128625098414
+      SkillVfx_EP0_PreFireman_SkillVfx_18: 7226012722020265655
+      SkillVfx_EP0_PreFireman_SkillVfx_19: 3142965245746401807
+      SkillVfx_EP0_PreFireman_SkillVfx_2: -7318029352568353135
+      SkillVfx_EP0_PreFireman_SkillVfx_20: -4729019023202267520
+      SkillVfx_EP0_PreFireman_SkillVfx_21: 637743368746565237
+      SkillVfx_EP0_PreFireman_SkillVfx_22: -2208196131067945572
+      SkillVfx_EP0_PreFireman_SkillVfx_23: -1204709268925512777
+      SkillVfx_EP0_PreFireman_SkillVfx_3: 7802194144668065809
+      SkillVfx_EP0_PreFireman_SkillVfx_4: -4757417990271037829
+      SkillVfx_EP0_PreFireman_SkillVfx_5: 851980737856924322
+      SkillVfx_EP0_PreFireman_SkillVfx_6: 7518920682159089279
+      SkillVfx_EP0_PreFireman_SkillVfx_7: 5081847159616381614
+      SkillVfx_EP0_PreFireman_SkillVfx_8: 8050428705204637943
+      SkillVfx_EP0_PreFireman_SkillVfx_9: 5120473794437981482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

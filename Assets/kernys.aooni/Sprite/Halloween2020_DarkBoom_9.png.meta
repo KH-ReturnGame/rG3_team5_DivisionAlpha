@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: 290ebdaed4c2796428d0060bb10499e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7814659094136411031
+    second: Halloween2020_DarkBoom_9_0
+  - first:
+      213: -1782976614525610936
+    second: Halloween2020_DarkBoom_9_1
+  - first:
+      213: 1903429755637093369
+    second: Halloween2020_DarkBoom_9_2
+  - first:
+      213: -3181825492660527630
+    second: Halloween2020_DarkBoom_9_3
+  - first:
+      213: -4968782552518187554
+    second: Halloween2020_DarkBoom_9_4
+  - first:
+      213: 3397105479794380741
+    second: Halloween2020_DarkBoom_9_5
+  - first:
+      213: -3941439504927646529
+    second: Halloween2020_DarkBoom_9_6
+  - first:
+      213: 3313726718128823882
+    second: Halloween2020_DarkBoom_9_7
+  - first:
+      213: 6287759930015041512
+    second: Halloween2020_DarkBoom_9_8
+  - first:
+      213: -3988420584445269979
+    second: Halloween2020_DarkBoom_9_9
+  - first:
+      213: 5625844960438875553
+    second: Halloween2020_DarkBoom_9_10
+  - first:
+      213: 9132461333105227323
+    second: Halloween2020_DarkBoom_9_11
+  - first:
+      213: 4116649628149958894
+    second: Halloween2020_DarkBoom_9_12
+  - first:
+      213: 655163925526163581
+    second: Halloween2020_DarkBoom_9_13
+  - first:
+      213: -523572394042121600
+    second: Halloween2020_DarkBoom_9_14
+  - first:
+      213: 4372895780768107669
+    second: Halloween2020_DarkBoom_9_15
+  - first:
+      213: 4368289060729913352
+    second: Halloween2020_DarkBoom_9_16
+  - first:
+      213: 3341226583814951657
+    second: Halloween2020_DarkBoom_9_17
+  - first:
+      213: 3178076632312909553
+    second: Halloween2020_DarkBoom_9_18
+  - first:
+      213: 1730963255518387850
+    second: Halloween2020_DarkBoom_9_19
+  - first:
+      213: -1918663858129283817
+    second: Halloween2020_DarkBoom_9_20
+  - first:
+      213: -4707403170254884427
+    second: Halloween2020_DarkBoom_9_21
+  - first:
+      213: 1050085223537703704
+    second: Halloween2020_DarkBoom_9_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 74
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c293d25f0cc8390800000000000000
+      internalID: -7814659094136411031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 79
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8445f5837389147e0800000000000000
+      internalID: -1782976614525610936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 75
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f358a727475a6a10800000000000000
+      internalID: 1903429755637093369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 52
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fddfac8292e7d3d0800000000000000
+      internalID: -3181825492660527630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_4
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 57
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5aefe18965b0bb0800000000000000
+      internalID: -4968782552518187554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 64
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf4dab6f61f42f20800000000000000
+      internalID: 3397105479794380741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_6
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 59
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc981527a13d49c0800000000000000
+      internalID: -3941439504927646529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 53
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e1acca4e8bcfd20800000000000000
+      internalID: 3313726718128823882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 40
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e74b75a75c924750800000000000000
+      internalID: 6287759930015041512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_9
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 53
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528a8492c9846a8c0800000000000000
+      internalID: -3988420584445269979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_10
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 45
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5716c3f24031e40800000000000000
+      internalID: 5625844960438875553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b363ab452350dbe70800000000000000
+      internalID: 9132461333105227323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 27
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee84f9e9607412930800000000000000
+      internalID: 4116649628149958894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 30
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7033aa7e1c971900800000000000000
+      internalID: 655163925526163581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 16
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0822bee7ea5ebb8f0800000000000000
+      internalID: -523572394042121600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 13
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ccc744b85afac30800000000000000
+      internalID: 4372895780768107669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 29
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800080da1c74f9c30800000000000000
+      internalID: 4368289060729913352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 18
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2d16a10eb6e5e20800000000000000
+      internalID: 3341226583814951657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_18
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe0bf1ebdbca1c20800000000000000
+      internalID: 3178076632312909553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_19
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 20
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e5d6ce8ed950810800000000000000
+      internalID: 1730963255518387850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_20
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 11
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715d2d4f2698f55e0800000000000000
+      internalID: -1918663858129283817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 6
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1f86ee1c1fbaeb0800000000000000
+      internalID: -4707403170254884427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Halloween2020_DarkBoom_9_22
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81bf9dc72f6a29e00800000000000000
+      internalID: 1050085223537703704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Halloween2020_DarkBoom_9_0: -7814659094136411031
+      Halloween2020_DarkBoom_9_1: -1782976614525610936
+      Halloween2020_DarkBoom_9_10: 5625844960438875553
+      Halloween2020_DarkBoom_9_11: 9132461333105227323
+      Halloween2020_DarkBoom_9_12: 4116649628149958894
+      Halloween2020_DarkBoom_9_13: 655163925526163581
+      Halloween2020_DarkBoom_9_14: -523572394042121600
+      Halloween2020_DarkBoom_9_15: 4372895780768107669
+      Halloween2020_DarkBoom_9_16: 4368289060729913352
+      Halloween2020_DarkBoom_9_17: 3341226583814951657
+      Halloween2020_DarkBoom_9_18: 3178076632312909553
+      Halloween2020_DarkBoom_9_19: 1730963255518387850
+      Halloween2020_DarkBoom_9_2: 1903429755637093369
+      Halloween2020_DarkBoom_9_20: -1918663858129283817
+      Halloween2020_DarkBoom_9_21: -4707403170254884427
+      Halloween2020_DarkBoom_9_22: 1050085223537703704
+      Halloween2020_DarkBoom_9_3: -3181825492660527630
+      Halloween2020_DarkBoom_9_4: -4968782552518187554
+      Halloween2020_DarkBoom_9_5: 3397105479794380741
+      Halloween2020_DarkBoom_9_6: -3941439504927646529
+      Halloween2020_DarkBoom_9_7: 3313726718128823882
+      Halloween2020_DarkBoom_9_8: 6287759930015041512
+      Halloween2020_DarkBoom_9_9: -3988420584445269979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

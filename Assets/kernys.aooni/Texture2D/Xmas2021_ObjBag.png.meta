@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: e1563d71dcf504848bb8cfa44102fafb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6783764924129198442
+    second: Xmas2021_ObjBag_0
+  - first:
+      213: 6895201338660306491
+    second: Xmas2021_ObjBag_1
+  - first:
+      213: -1648462497624561797
+    second: Xmas2021_ObjBag_2
+  - first:
+      213: 8735617489180062955
+    second: Xmas2021_ObjBag_3
+  - first:
+      213: -4225544704667662346
+    second: Xmas2021_ObjBag_4
+  - first:
+      213: -4261392933017251554
+    second: Xmas2021_ObjBag_5
+  - first:
+      213: -5660503117608602960
+    second: Xmas2021_ObjBag_6
+  - first:
+      213: 2477011425428714185
+    second: Xmas2021_ObjBag_7
+  - first:
+      213: -6189110068933805953
+    second: Xmas2021_ObjBag_8
+  - first:
+      213: 4112218829736460583
+    second: Xmas2021_ObjBag_9
+  - first:
+      213: 3090007229177620345
+    second: Xmas2021_ObjBag_10
+  - first:
+      213: 8687703466596906779
+    second: Xmas2021_ObjBag_11
+  - first:
+      213: -8124436083312166304
+    second: Xmas2021_ObjBag_12
+  - first:
+      213: 8078672693824571161
+    second: Xmas2021_ObjBag_13
+  - first:
+      213: 5997036684283236752
+    second: Xmas2021_ObjBag_14
+  - first:
+      213: 5034974333247523533
+    second: Xmas2021_ObjBag_15
+  - first:
+      213: -1097629205218312669
+    second: Xmas2021_ObjBag_16
+  - first:
+      213: -7562754556210618793
+    second: Xmas2021_ObjBag_17
+  - first:
+      213: 2130107563309953840
+    second: Xmas2021_ObjBag_18
+  - first:
+      213: -8886761234668801837
+    second: Xmas2021_ObjBag_19
+  - first:
+      213: -410484847624941459
+    second: Xmas2021_ObjBag_20
+  - first:
+      213: -4342671985830397324
+    second: Xmas2021_ObjBag_21
+  - first:
+      213: -9022437987281766806
+    second: Xmas2021_ObjBag_22
+  - first:
+      213: -4262047253580702326
+    second: Xmas2021_ObjBag_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61c97ea146c42e50800000000000000
+      internalID: 6783764924129198442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 156
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e35adc51da0bf50800000000000000
+      internalID: 6895201338660306491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 156
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77e883a71c7f19e0800000000000000
+      internalID: -1648462497624561797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 156
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be47448b2d52b3970800000000000000
+      internalID: 8735617489180062955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 156
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f740cf9a79db55c0800000000000000
+      internalID: -4225544704667662346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11952b84bd7cd4c0800000000000000
+      internalID: -4261392933017251554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 117
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2b2f8b76ad171b0800000000000000
+      internalID: -5660503117608602960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 117
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2334584cc106220800000000000000
+      internalID: 2477011425428714185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 117
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7838610f2ddb1aa0800000000000000
+      internalID: -6189110068933805953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_9
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 117
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7214d19fc39811930800000000000000
+      internalID: 4112218829736460583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97765801439e1ea20800000000000000
+      internalID: 3090007229177620345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 78
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b173070064ce09870800000000000000
+      internalID: 8687703466596906779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 78
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06affc56d64304f80800000000000000
+      internalID: -8124436083312166304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 78
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917cf0c23063d1070800000000000000
+      internalID: 8078672693824571161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 78
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09150b73711c93350800000000000000
+      internalID: 5997036684283236752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca8d6aca72dfd540800000000000000
+      internalID: 5034974333247523533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 39
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e3ed7ad0074c0f0800000000000000
+      internalID: -1097629205218312669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 39
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e5991ecc2bb0790800000000000000
+      internalID: -7562754556210618793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 39
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03376740b89af8d10800000000000000
+      internalID: 2130107563309953840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 39
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0badbbdb1eba480800000000000000
+      internalID: -8886761234668801837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6092a7b43aad4af0800000000000000
+      internalID: -410484847624941459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_21
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47af98c56dabbb3c0800000000000000
+      internalID: -4342671985830397324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a667418147cd9c280800000000000000
+      internalID: -9022437987281766806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2021_ObjBag_23
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d946aaa9a2ad4c0800000000000000
+      internalID: -4262047253580702326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xmas2021_ObjBag_0: 6783764924129198442
+      Xmas2021_ObjBag_1: 6895201338660306491
+      Xmas2021_ObjBag_10: 3090007229177620345
+      Xmas2021_ObjBag_11: 8687703466596906779
+      Xmas2021_ObjBag_12: -8124436083312166304
+      Xmas2021_ObjBag_13: 8078672693824571161
+      Xmas2021_ObjBag_14: 5997036684283236752
+      Xmas2021_ObjBag_15: 5034974333247523533
+      Xmas2021_ObjBag_16: -1097629205218312669
+      Xmas2021_ObjBag_17: -7562754556210618793
+      Xmas2021_ObjBag_18: 2130107563309953840
+      Xmas2021_ObjBag_19: -8886761234668801837
+      Xmas2021_ObjBag_2: -1648462497624561797
+      Xmas2021_ObjBag_20: -410484847624941459
+      Xmas2021_ObjBag_21: -4342671985830397324
+      Xmas2021_ObjBag_22: -9022437987281766806
+      Xmas2021_ObjBag_23: -4262047253580702326
+      Xmas2021_ObjBag_3: 8735617489180062955
+      Xmas2021_ObjBag_4: -4225544704667662346
+      Xmas2021_ObjBag_5: -4261392933017251554
+      Xmas2021_ObjBag_6: -5660503117608602960
+      Xmas2021_ObjBag_7: 2477011425428714185
+      Xmas2021_ObjBag_8: -6189110068933805953
+      Xmas2021_ObjBag_9: 4112218829736460583
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

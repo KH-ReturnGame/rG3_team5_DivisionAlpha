@@ -1,0 +1,728 @@
+fileFormatVersion: 2
+guid: b90451ba72d17a146be162e3330c37f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7488992705443885012
+    second: Galaxy_Yeti_Spark_0
+  - first:
+      213: -289724055887406291
+    second: Galaxy_Yeti_Spark_1
+  - first:
+      213: -1238111277371989315
+    second: Galaxy_Yeti_Spark_2
+  - first:
+      213: -2942433991877554949
+    second: Galaxy_Yeti_Spark_3
+  - first:
+      213: -3124144365311067994
+    second: Galaxy_Yeti_Spark_4
+  - first:
+      213: 215071159493990309
+    second: Galaxy_Yeti_Spark_5
+  - first:
+      213: 2329944382794801893
+    second: Galaxy_Yeti_Spark_6
+  - first:
+      213: 9089485306169142217
+    second: Galaxy_Yeti_Spark_7
+  - first:
+      213: -5310500751714702975
+    second: Galaxy_Yeti_Spark_8
+  - first:
+      213: 4713241639511962972
+    second: Galaxy_Yeti_Spark_9
+  - first:
+      213: -2649899552167477716
+    second: Galaxy_Yeti_Spark_10
+  - first:
+      213: -512095737336032158
+    second: Galaxy_Yeti_Spark_11
+  - first:
+      213: -1888031867769724057
+    second: Galaxy_Yeti_Spark_12
+  - first:
+      213: 8406732079787044199
+    second: Galaxy_Yeti_Spark_13
+  - first:
+      213: 5102134169570930025
+    second: Galaxy_Yeti_Spark_14
+  - first:
+      213: -6143741550500228481
+    second: Galaxy_Yeti_Spark_15
+  - first:
+      213: 2960362467150346885
+    second: Galaxy_Yeti_Spark_16
+  - first:
+      213: -2391908321812775081
+    second: Galaxy_Yeti_Spark_17
+  - first:
+      213: 1632147785274429048
+    second: Galaxy_Yeti_Spark_18
+  - first:
+      213: -5968025736603344792
+    second: Galaxy_Yeti_Spark_19
+  - first:
+      213: -4916503052816171594
+    second: Galaxy_Yeti_Spark_20
+  - first:
+      213: 6826672883121170777
+    second: Galaxy_Yeti_Spark_21
+  - first:
+      213: -5698455979320226639
+    second: Galaxy_Yeti_Spark_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 207
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20968210d0c11890800000000000000
+      internalID: -7488992705443885012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 204
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b12f59181bafbf0800000000000000
+      internalID: -289724055887406291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 238
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db266df5a5851dee0800000000000000
+      internalID: -1238111277371989315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 207
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc8a13cfdf5a27d0800000000000000
+      internalID: -2942433991877554949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 217
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8789e804fc4a4d0800000000000000
+      internalID: -3124144365311067994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_5
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 178
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7121f74161cf200800000000000000
+      internalID: 215071159493990309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 173
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2a6e25210a55020800000000000000
+      internalID: 2329944382794801893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 178
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb28515ab6542e70800000000000000
+      internalID: 9089485306169142217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 173
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189a99ad3bf4d46b0800000000000000
+      internalID: -5310500751714702975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_9
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 184
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55b0bf9c4cc86140800000000000000
+      internalID: 4713241639511962972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 191
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e3796a56aa93bd0800000000000000
+      internalID: -2649899552167477716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_11
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 134
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264181dd3aba4e8f0800000000000000
+      internalID: -512095737336032158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_12
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 131
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763e7fcf40d5cc5e0800000000000000
+      internalID: -1888031867769724057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_13
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 89
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d66992946baa470800000000000000
+      internalID: 8406732079787044199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 76
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d68a5befb6ec640800000000000000
+      internalID: 5102134169570930025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 50
+        width: 56
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7250aa5c9b0dbaa0800000000000000
+      internalID: -6143741550500228481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 47
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a35ecaaf1551920800000000000000
+      internalID: 2960362467150346885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 52
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f7c0fdd0c3eced0800000000000000
+      internalID: -2391908321812775081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_18
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 50
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e093263cd86a610800000000000000
+      internalID: 1632147785274429048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_19
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8606e5766305d2da0800000000000000
+      internalID: -5968025736603344792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_20
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 22
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bdb4cfa58215cbb0800000000000000
+      internalID: -4916503052816171594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959aa3461d63dbe50800000000000000
+      internalID: 6826672883121170777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_Spark_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 7
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcca608a740be0b0800000000000000
+      internalID: -5698455979320226639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galaxy_Yeti_Spark_0: -7488992705443885012
+      Galaxy_Yeti_Spark_1: -289724055887406291
+      Galaxy_Yeti_Spark_10: -2649899552167477716
+      Galaxy_Yeti_Spark_11: -512095737336032158
+      Galaxy_Yeti_Spark_12: -1888031867769724057
+      Galaxy_Yeti_Spark_13: 8406732079787044199
+      Galaxy_Yeti_Spark_14: 5102134169570930025
+      Galaxy_Yeti_Spark_15: -6143741550500228481
+      Galaxy_Yeti_Spark_16: 2960362467150346885
+      Galaxy_Yeti_Spark_17: -2391908321812775081
+      Galaxy_Yeti_Spark_18: 1632147785274429048
+      Galaxy_Yeti_Spark_19: -5968025736603344792
+      Galaxy_Yeti_Spark_2: -1238111277371989315
+      Galaxy_Yeti_Spark_20: -4916503052816171594
+      Galaxy_Yeti_Spark_21: 6826672883121170777
+      Galaxy_Yeti_Spark_22: -5698455979320226639
+      Galaxy_Yeti_Spark_3: -2942433991877554949
+      Galaxy_Yeti_Spark_4: -3124144365311067994
+      Galaxy_Yeti_Spark_5: 215071159493990309
+      Galaxy_Yeti_Spark_6: 2329944382794801893
+      Galaxy_Yeti_Spark_7: 9089485306169142217
+      Galaxy_Yeti_Spark_8: -5310500751714702975
+      Galaxy_Yeti_Spark_9: 4713241639511962972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

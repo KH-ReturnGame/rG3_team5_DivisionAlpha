@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: 7fcbd67deed70d14b92c28fdcc625fb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8375049129935127806
+    second: HeroesEp4_S0_Pyo_0
+  - first:
+      213: 5386205279064392064
+    second: HeroesEp4_S0_Pyo_1
+  - first:
+      213: 6738828407408633046
+    second: HeroesEp4_S0_Pyo_2
+  - first:
+      213: 8981901600865807761
+    second: HeroesEp4_S0_Pyo_3
+  - first:
+      213: -2541497335444068051
+    second: HeroesEp4_S0_Pyo_4
+  - first:
+      213: -1513540486628525557
+    second: HeroesEp4_S0_Pyo_5
+  - first:
+      213: -2625522929742344690
+    second: HeroesEp4_S0_Pyo_6
+  - first:
+      213: -2149746682647697130
+    second: HeroesEp4_S0_Pyo_7
+  - first:
+      213: -313457220676813703
+    second: HeroesEp4_S0_Pyo_8
+  - first:
+      213: -5276088610603536554
+    second: HeroesEp4_S0_Pyo_9
+  - first:
+      213: 6234924777251337566
+    second: HeroesEp4_S0_Pyo_10
+  - first:
+      213: -4130924503171746282
+    second: HeroesEp4_S0_Pyo_11
+  - first:
+      213: -6578473804458735780
+    second: HeroesEp4_S0_Pyo_12
+  - first:
+      213: 7420638245837711067
+    second: HeroesEp4_S0_Pyo_13
+  - first:
+      213: 1541915194667219643
+    second: HeroesEp4_S0_Pyo_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 117
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef44a3e8fc62a3470800000000000000
+      internalID: 8375049129935127806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 117
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08187f9f925afba40800000000000000
+      internalID: 5386205279064392064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 115
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d427e19bb0258d50800000000000000
+      internalID: 6738828407408633046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 117
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d6e17faef16ac70800000000000000
+      internalID: 8981901600865807761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 115
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29214b83a9cabcd0800000000000000
+      internalID: -2541497335444068051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 59
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ab55d42f2defae0800000000000000
+      internalID: -1513540486628525557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 59
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e80175ec4409bd0800000000000000
+      internalID: -2625522929742344690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 59
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619a5bf28c09a22e0800000000000000
+      internalID: -2149746682647697130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 59
+        width: 19
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cf64d815066abf0800000000000000
+      internalID: -313457220676813703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 59
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fed71dc5197c6b0800000000000000
+      internalID: -5276088610603536554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55f8550d07e68650800000000000000
+      internalID: 6234924777251337566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616bd7a0d020ca6c0800000000000000
+      internalID: -4130924503171746282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_12
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c574609dde094b4a0800000000000000
+      internalID: -6578473804458735780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6a5d91b276bf660800000000000000
+      internalID: 7420638245837711067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S0_Pyo_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbabaeb33bbf56510800000000000000
+      internalID: 1541915194667219643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp4_S0_Pyo_0: 8375049129935127806
+      HeroesEp4_S0_Pyo_1: 5386205279064392064
+      HeroesEp4_S0_Pyo_10: 6234924777251337566
+      HeroesEp4_S0_Pyo_11: -4130924503171746282
+      HeroesEp4_S0_Pyo_12: -6578473804458735780
+      HeroesEp4_S0_Pyo_13: 7420638245837711067
+      HeroesEp4_S0_Pyo_14: 1541915194667219643
+      HeroesEp4_S0_Pyo_2: 6738828407408633046
+      HeroesEp4_S0_Pyo_3: 8981901600865807761
+      HeroesEp4_S0_Pyo_4: -2541497335444068051
+      HeroesEp4_S0_Pyo_5: -1513540486628525557
+      HeroesEp4_S0_Pyo_6: -2625522929742344690
+      HeroesEp4_S0_Pyo_7: -2149746682647697130
+      HeroesEp4_S0_Pyo_8: -313457220676813703
+      HeroesEp4_S0_Pyo_9: -5276088610603536554
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

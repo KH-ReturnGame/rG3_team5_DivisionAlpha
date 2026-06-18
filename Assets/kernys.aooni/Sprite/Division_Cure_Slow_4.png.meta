@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: 7691604dc79c6324fa4c4131c2920b3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2748894617481487269
+    second: Division_Cure_Slow_4_0
+  - first:
+      213: -8219278125994129704
+    second: Division_Cure_Slow_4_1
+  - first:
+      213: 4864914777162243248
+    second: Division_Cure_Slow_4_2
+  - first:
+      213: 2928053222177058756
+    second: Division_Cure_Slow_4_3
+  - first:
+      213: -7065410583987403111
+    second: Division_Cure_Slow_4_4
+  - first:
+      213: -6265517874757161183
+    second: Division_Cure_Slow_4_5
+  - first:
+      213: -2065287944132770246
+    second: Division_Cure_Slow_4_6
+  - first:
+      213: -5892184824398101203
+    second: Division_Cure_Slow_4_7
+  - first:
+      213: -3992571082802035407
+    second: Division_Cure_Slow_4_8
+  - first:
+      213: 8990004985684904180
+    second: Division_Cure_Slow_4_9
+  - first:
+      213: 8231237749438323572
+    second: Division_Cure_Slow_4_10
+  - first:
+      213: -5213271323453181926
+    second: Division_Cure_Slow_4_11
+  - first:
+      213: 1136336815839075998
+    second: Division_Cure_Slow_4_12
+  - first:
+      213: 3672222168126150917
+    second: Division_Cure_Slow_4_13
+  - first:
+      213: 6325581478967801624
+    second: Division_Cure_Slow_4_14
+  - first:
+      213: -1033146243804138302
+    second: Division_Cure_Slow_4_15
+  - first:
+      213: -7025965325159109521
+    second: Division_Cure_Slow_4_16
+  - first:
+      213: -2156226979706916174
+    second: Division_Cure_Slow_4_17
+  - first:
+      213: -3574262832236851961
+    second: Division_Cure_Slow_4_18
+  - first:
+      213: -6615049364946674186
+    second: Division_Cure_Slow_4_19
+  - first:
+      213: 1612643508880456050
+    second: Division_Cure_Slow_4_20
+  - first:
+      213: -4438256611865453800
+    second: Division_Cure_Slow_4_21
+  - first:
+      213: 5735735656831601893
+    second: Division_Cure_Slow_4_22
+  - first:
+      213: 5095704426661785228
+    second: Division_Cure_Slow_4_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 84
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c5800e8e6f9d9d0800000000000000
+      internalID: -2748894617481487269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d64bfd87124fed80800000000000000
+      internalID: -8219278125994129704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 66
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bcdd43e636a38340800000000000000
+      internalID: 4864914777162243248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 69
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf2d4f54e882a820800000000000000
+      internalID: 2928053222177058756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_4
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 76
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996452d028e92fd90800000000000000
+      internalID: -7065410583987403111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 62
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f2d3560b86c09a0800000000000000
+      internalID: -6265517874757161183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 54
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36c113ae8f9653e0800000000000000
+      internalID: -2065287944132770246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 41
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d25cdcece11ca3ea0800000000000000
+      internalID: -5892184824398101203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 62
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1358615f0c98798c0800000000000000
+      internalID: -3992571082802035407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 62
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f84db447e9e2cc70800000000000000
+      internalID: 8990004985684904180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 50
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b9e054f1b3b3270800000000000000
+      internalID: 8231237749438323572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 48
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10b7d73a5db6a7b0800000000000000
+      internalID: -5213271323453181926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_12
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 30
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e594d305415cf00800000000000000
+      internalID: 1136336815839075998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 35
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509597b0b9a56f230800000000000000
+      internalID: 3672222168126150917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_14
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 19
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8177aab37daf8c750800000000000000
+      internalID: 6325581478967801624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 18
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c4760117f689a1f0800000000000000
+      internalID: -1033146243804138302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6cedad03c1ce7e90800000000000000
+      internalID: -7025965325159109521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_17
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 15
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2b4737cfa8312e0800000000000000
+      internalID: -2156226979706916174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_18
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 23
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d04ae24eaa56ec0800000000000000
+      internalID: -3574262832236851961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_19
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 22
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd1eae86af9234a0800000000000000
+      internalID: -6615049364946674186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 12
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279b8282ab2416610800000000000000
+      internalID: 1612643508880456050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b1bbb50252862c0800000000000000
+      internalID: -4438256611865453800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_22
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 12
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ec4dfec03d699f40800000000000000
+      internalID: 5735735656831601893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Slow_4_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eaf878d2497b640800000000000000
+      internalID: 5095704426661785228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Cure_Slow_4_0: -2748894617481487269
+      Division_Cure_Slow_4_1: -8219278125994129704
+      Division_Cure_Slow_4_10: 8231237749438323572
+      Division_Cure_Slow_4_11: -5213271323453181926
+      Division_Cure_Slow_4_12: 1136336815839075998
+      Division_Cure_Slow_4_13: 3672222168126150917
+      Division_Cure_Slow_4_14: 6325581478967801624
+      Division_Cure_Slow_4_15: -1033146243804138302
+      Division_Cure_Slow_4_16: -7025965325159109521
+      Division_Cure_Slow_4_17: -2156226979706916174
+      Division_Cure_Slow_4_18: -3574262832236851961
+      Division_Cure_Slow_4_19: -6615049364946674186
+      Division_Cure_Slow_4_2: 4864914777162243248
+      Division_Cure_Slow_4_20: 1612643508880456050
+      Division_Cure_Slow_4_21: -4438256611865453800
+      Division_Cure_Slow_4_22: 5735735656831601893
+      Division_Cure_Slow_4_23: 5095704426661785228
+      Division_Cure_Slow_4_3: 2928053222177058756
+      Division_Cure_Slow_4_4: -7065410583987403111
+      Division_Cure_Slow_4_5: -6265517874757161183
+      Division_Cure_Slow_4_6: -2065287944132770246
+      Division_Cure_Slow_4_7: -5892184824398101203
+      Division_Cure_Slow_4_8: -3992571082802035407
+      Division_Cure_Slow_4_9: 8990004985684904180
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

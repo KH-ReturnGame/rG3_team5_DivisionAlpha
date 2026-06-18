@@ -1,0 +1,806 @@
+fileFormatVersion: 2
+guid: 65c2bb978ce034c4cb05177402d17af4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3584293274316507261
+    second: Magic_TypeIcons_0
+  - first:
+      213: 1512644697881838741
+    second: Magic_TypeIcons_1
+  - first:
+      213: 3734079902502409789
+    second: Magic_TypeIcons_2
+  - first:
+      213: 6317449188000387402
+    second: Magic_TypeIcons_3
+  - first:
+      213: 6075556903099746083
+    second: Magic_TypeIcons_4
+  - first:
+      213: -8133315826396463483
+    second: Magic_TypeIcons_5
+  - first:
+      213: 1729301873019319995
+    second: Magic_TypeIcons_6
+  - first:
+      213: -6656699262205383360
+    second: Magic_TypeIcons_7
+  - first:
+      213: -1657300224207437646
+    second: Magic_TypeIcons_8
+  - first:
+      213: 884663785838300207
+    second: Magic_TypeIcons_9
+  - first:
+      213: 951966538663143381
+    second: Magic_TypeIcons_10
+  - first:
+      213: 311794240817103479
+    second: Magic_TypeIcons_11
+  - first:
+      213: -6690458637488978693
+    second: Magic_TypeIcons_12
+  - first:
+      213: 6302715622381406695
+    second: Magic_TypeIcons_13
+  - first:
+      213: 1535507861795547812
+    second: Magic_TypeIcons_14
+  - first:
+      213: 8456993935099295713
+    second: Magic_TypeIcons_15
+  - first:
+      213: -1153668813644101720
+    second: Magic_TypeIcons_16
+  - first:
+      213: 7327848012945780074
+    second: Magic_TypeIcons_17
+  - first:
+      213: -5839594405629738829
+    second: Magic_TypeIcons_18
+  - first:
+      213: 149418602629359363
+    second: Magic_TypeIcons_19
+  - first:
+      213: -3761809601306912935
+    second: Magic_TypeIcons_20
+  - first:
+      213: 8891209637976785059
+    second: Magic_TypeIcons_21
+  - first:
+      213: -3360897061742501780
+    second: Magic_TypeIcons_22
+  - first:
+      213: 3158864620622083563
+    second: Magic_TypeIcons_23
+  - first:
+      213: 744266892037905327
+    second: Magic_TypeIcons_24
+  - first:
+      213: 6144374099906142059
+    second: Magic_TypeIcons_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_TypeIcons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 6
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78057a1eb7fdb130800000000000000
+      internalID: 3584293274316507261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 468
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59400a0a65efdf410800000000000000
+      internalID: 1512644697881838741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 467
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36d49723ed12d330800000000000000
+      internalID: 3734079902502409789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 467
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41d751b0961ca750800000000000000
+      internalID: 6317449188000387402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_4
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 468
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327ceed40d6b05450800000000000000
+      internalID: 6075556903099746083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 354
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e73991958a02f80800000000000000
+      internalID: -8133315826396463483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 467
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6fbba24e6bff710800000000000000
+      internalID: 1729301873019319995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_7
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 467
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04da4ab2a47ae93a0800000000000000
+      internalID: -6656699262205383360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_8
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 439
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0c0f11a361009e0800000000000000
+      internalID: -1657300224207437646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 365
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c4b8ca605f64c00800000000000000
+      internalID: 884663785838300207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 371
+        width: 97
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d7231fe580163d00800000000000000
+      internalID: 951966538663143381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_11
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 295
+        width: 6
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7728ae6c537b35400800000000000000
+      internalID: 311794240817103479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 6
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf486081157b623a0800000000000000
+      internalID: -6690458637488978693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 191
+        width: 90
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e94950277eb77750800000000000000
+      internalID: 6302715622381406695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 200
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaa42cc3483f4510800000000000000
+      internalID: 1535507861795547812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_15
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 182
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7f9394d274d5570800000000000000
+      internalID: 8456993935099295713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 186
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a70c4e83585dffe0800000000000000
+      internalID: -1153668813644101720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 429
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d6fa371feb1b560800000000000000
+      internalID: 7327848012945780074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 11
+        width: 83
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0c41cd3d795fea0800000000000000
+      internalID: -5839594405629738829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_19
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307ee8c6d67d21200800000000000000
+      internalID: 149418602629359363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_20
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 11
+        width: 87
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9579279391e5bcbc0800000000000000
+      internalID: -3761809601306912935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 41
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0c22fde0ce36b70800000000000000
+      internalID: 8891209637976785059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c602f2cdde1bb51d0800000000000000
+      internalID: -3360897061742501780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_23
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 79
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be57ab5d2aa86db20800000000000000
+      internalID: 3158864620622083563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 77
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabd0068bca245a00800000000000000
+      internalID: 744266892037905327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_TypeIcons_25
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 0
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f140880b3354550800000000000000
+      internalID: 6144374099906142059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_TypeIcons_0: 3584293274316507261
+      Magic_TypeIcons_1: 1512644697881838741
+      Magic_TypeIcons_10: 951966538663143381
+      Magic_TypeIcons_11: 311794240817103479
+      Magic_TypeIcons_12: -6690458637488978693
+      Magic_TypeIcons_13: 6302715622381406695
+      Magic_TypeIcons_14: 1535507861795547812
+      Magic_TypeIcons_15: 8456993935099295713
+      Magic_TypeIcons_16: -1153668813644101720
+      Magic_TypeIcons_17: 7327848012945780074
+      Magic_TypeIcons_18: -5839594405629738829
+      Magic_TypeIcons_19: 149418602629359363
+      Magic_TypeIcons_2: 3734079902502409789
+      Magic_TypeIcons_20: -3761809601306912935
+      Magic_TypeIcons_21: 8891209637976785059
+      Magic_TypeIcons_22: -3360897061742501780
+      Magic_TypeIcons_23: 3158864620622083563
+      Magic_TypeIcons_24: 744266892037905327
+      Magic_TypeIcons_25: 6144374099906142059
+      Magic_TypeIcons_3: 6317449188000387402
+      Magic_TypeIcons_4: 6075556903099746083
+      Magic_TypeIcons_5: -8133315826396463483
+      Magic_TypeIcons_6: 1729301873019319995
+      Magic_TypeIcons_7: -6656699262205383360
+      Magic_TypeIcons_8: -1657300224207437646
+      Magic_TypeIcons_9: 884663785838300207
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,754 @@
+fileFormatVersion: 2
+guid: ab2294aa03f16ef4382f48da723a8ac8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7791771891266183250
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_0
+  - first:
+      213: -1704146255387837446
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_1
+  - first:
+      213: 7060610437035959176
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_2
+  - first:
+      213: -2265249352712304940
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_3
+  - first:
+      213: -9053006283507331345
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_4
+  - first:
+      213: -3508380841696093632
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_5
+  - first:
+      213: 9100355420402735262
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_6
+  - first:
+      213: -3819497055977455553
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_7
+  - first:
+      213: -6735630398126407457
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_8
+  - first:
+      213: 4602349520078839248
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_9
+  - first:
+      213: -6320591768000878260
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_10
+  - first:
+      213: -462196730721375936
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_11
+  - first:
+      213: -1174601415832213186
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_12
+  - first:
+      213: -3292508239274616920
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_13
+  - first:
+      213: 5459149836697739736
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_14
+  - first:
+      213: -1489150391929539178
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_15
+  - first:
+      213: -5185607117965704752
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_16
+  - first:
+      213: 4791695250055775606
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_17
+  - first:
+      213: -2226997778409074135
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_18
+  - first:
+      213: -4071367354465207496
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_19
+  - first:
+      213: -5469356450192914164
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_20
+  - first:
+      213: 2762118333999774124
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_21
+  - first:
+      213: -2702306306068423831
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_22
+  - first:
+      213: 8140231311916743750
+    second: aooni_Magic_Wind_Boss_CloudBomb_1_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 93
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf943a5fb01ed390800000000000000
+      internalID: -7791771891266183250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 97
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbbb4a7208a958e0800000000000000
+      internalID: -1704146255387837446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 79
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883a1f4a8c35cf160800000000000000
+      internalID: 7060610437035959176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 69
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d646eb27b73090e0800000000000000
+      internalID: -2265249352712304940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 69
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee8a2200c24d5280800000000000000
+      internalID: -9053006283507331345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 78
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a1be1763abf4fc0800000000000000
+      internalID: -3508380841696093632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98d7e20a05fa4e70800000000000000
+      internalID: 9100355420402735262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 63
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3040d50aab6efac0800000000000000
+      internalID: -3819497055977455553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 67
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd04a5df6db3682a0800000000000000
+      internalID: -6735630398126407457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 67
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd1d741184dedf30800000000000000
+      internalID: 4602349520078839248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 54
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49ac02664fb848a0800000000000000
+      internalID: -6320591768000878260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_11
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 54
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0496101b582f599f0800000000000000
+      internalID: -462196730721375936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 50
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3966a05c3af2bfe0800000000000000
+      internalID: -1174601415832213186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a75df96339ae42d0800000000000000
+      internalID: -3292508239274616920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_14
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d120084adbc2cb40800000000000000
+      internalID: 5459149836697739736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_15
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 55
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695f7efbb99755be0800000000000000
+      internalID: -1489150391929539178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 43
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1caecfcc50908b0800000000000000
+      internalID: -5185607117965704752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_17
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 43
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675408341758f7240800000000000000
+      internalID: 4791695250055775606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 42
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922d756d15d1811e0800000000000000
+      internalID: -2226997778409074135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_19
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 42
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83bbafe46f89f77c0800000000000000
+      internalID: -4071367354465207496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 19
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0982445941f814b0800000000000000
+      internalID: -5469356450192914164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 30
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca976ad8df3055620800000000000000
+      internalID: 2762118333999774124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b5e786bba7f7ad0800000000000000
+      internalID: -2702306306068423831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_Wind_Boss_CloudBomb_1_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 14
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c3f48df39e7f070800000000000000
+      internalID: 8140231311916743750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aooni_Magic_Wind_Boss_CloudBomb_1_0: -7791771891266183250
+      aooni_Magic_Wind_Boss_CloudBomb_1_1: -1704146255387837446
+      aooni_Magic_Wind_Boss_CloudBomb_1_10: -6320591768000878260
+      aooni_Magic_Wind_Boss_CloudBomb_1_11: -462196730721375936
+      aooni_Magic_Wind_Boss_CloudBomb_1_12: -1174601415832213186
+      aooni_Magic_Wind_Boss_CloudBomb_1_13: -3292508239274616920
+      aooni_Magic_Wind_Boss_CloudBomb_1_14: 5459149836697739736
+      aooni_Magic_Wind_Boss_CloudBomb_1_15: -1489150391929539178
+      aooni_Magic_Wind_Boss_CloudBomb_1_16: -5185607117965704752
+      aooni_Magic_Wind_Boss_CloudBomb_1_17: 4791695250055775606
+      aooni_Magic_Wind_Boss_CloudBomb_1_18: -2226997778409074135
+      aooni_Magic_Wind_Boss_CloudBomb_1_19: -4071367354465207496
+      aooni_Magic_Wind_Boss_CloudBomb_1_2: 7060610437035959176
+      aooni_Magic_Wind_Boss_CloudBomb_1_20: -5469356450192914164
+      aooni_Magic_Wind_Boss_CloudBomb_1_21: 2762118333999774124
+      aooni_Magic_Wind_Boss_CloudBomb_1_22: -2702306306068423831
+      aooni_Magic_Wind_Boss_CloudBomb_1_23: 8140231311916743750
+      aooni_Magic_Wind_Boss_CloudBomb_1_3: -2265249352712304940
+      aooni_Magic_Wind_Boss_CloudBomb_1_4: -9053006283507331345
+      aooni_Magic_Wind_Boss_CloudBomb_1_5: -3508380841696093632
+      aooni_Magic_Wind_Boss_CloudBomb_1_6: 9100355420402735262
+      aooni_Magic_Wind_Boss_CloudBomb_1_7: -3819497055977455553
+      aooni_Magic_Wind_Boss_CloudBomb_1_8: -6735630398126407457
+      aooni_Magic_Wind_Boss_CloudBomb_1_9: 4602349520078839248
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

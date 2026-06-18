@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: b5b5dbff3a222bf49b085d1e381cbd55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1785642274719893126
+    second: YANAH3_Entertainer_1_micbeep_0
+  - first:
+      213: -7863646974785046529
+    second: YANAH3_Entertainer_1_micbeep_1
+  - first:
+      213: 240653731496997451
+    second: YANAH3_Entertainer_1_micbeep_2
+  - first:
+      213: 4374074675198263076
+    second: YANAH3_Entertainer_1_micbeep_3
+  - first:
+      213: -5576800436838522861
+    second: YANAH3_Entertainer_1_micbeep_4
+  - first:
+      213: -4728610126396660407
+    second: YANAH3_Entertainer_1_micbeep_5
+  - first:
+      213: 3618888563347977247
+    second: YANAH3_Entertainer_1_micbeep_6
+  - first:
+      213: 6865420786576971051
+    second: YANAH3_Entertainer_1_micbeep_7
+  - first:
+      213: -8977333737454218178
+    second: YANAH3_Entertainer_1_micbeep_8
+  - first:
+      213: 5924804520448169623
+    second: YANAH3_Entertainer_1_micbeep_9
+  - first:
+      213: -5356393471319397077
+    second: YANAH3_Entertainer_1_micbeep_10
+  - first:
+      213: 7215950752229785814
+    second: YANAH3_Entertainer_1_micbeep_11
+  - first:
+      213: 4810399647525329850
+    second: YANAH3_Entertainer_1_micbeep_12
+  - first:
+      213: -4365360695579212716
+    second: YANAH3_Entertainer_1_micbeep_13
+  - first:
+      213: -6553159150562003197
+    second: YANAH3_Entertainer_1_micbeep_14
+  - first:
+      213: -5392103499617061739
+    second: YANAH3_Entertainer_1_micbeep_15
+  - first:
+      213: 4512795883515806851
+    second: YANAH3_Entertainer_1_micbeep_16
+  - first:
+      213: 5342289382745741820
+    second: YANAH3_Entertainer_1_micbeep_17
+  - first:
+      213: 756110326181499805
+    second: YANAH3_Entertainer_1_micbeep_18
+  - first:
+      213: 3027765750037472132
+    second: YANAH3_Entertainer_1_micbeep_19
+  - first:
+      213: -5993957818914054230
+    second: YANAH3_Entertainer_1_micbeep_20
+  - first:
+      213: -7926532262390563717
+    second: YANAH3_Entertainer_1_micbeep_21
+  - first:
+      213: 8461187593634409605
+    second: YANAH3_Entertainer_1_micbeep_22
+  - first:
+      213: 7174822600984137660
+    second: YANAH3_Entertainer_1_micbeep_23
+  - first:
+      213: -3662429044672160552
+    second: YANAH3_Entertainer_1_micbeep_24
+  - first:
+      213: -8071379479692057904
+    second: YANAH3_Entertainer_1_micbeep_25
+  - first:
+      213: 8139307307889531938
+    second: YANAH3_Entertainer_1_micbeep_26
+  - first:
+      213: -1240293427612761429
+    second: YANAH3_Entertainer_1_micbeep_27
+  - first:
+      213: -8972166426193869169
+    second: YANAH3_Entertainer_1_micbeep_28
+  - first:
+      213: -7423595578453042658
+    second: YANAH3_Entertainer_1_micbeep_29
+  - first:
+      213: -860079873210589786
+    second: YANAH3_Entertainer_1_micbeep_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 293
+        width: 89
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68689982030e7c810800000000000000
+      internalID: 1785642274719893126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 282
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7bcd46db6bed290800000000000000
+      internalID: -7863646974785046529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 289
+        width: 116
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4230c33b49f65300800000000000000
+      internalID: 240653731496997451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_3
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 287
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f79340eb5d3bc30800000000000000
+      internalID: 4374074675198263076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 25
+        width: 106
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3102ff2cc893b92b0800000000000000
+      internalID: -5576800436838522861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 239
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945efcea42a906eb0800000000000000
+      internalID: -4728610126396660407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 210
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14741489ffd83230800000000000000
+      internalID: 3618888563347977247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 154
+        width: 101
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25d081b4dfd64f50800000000000000
+      internalID: 6865420786576971051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_8
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 245
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3459ec978a1a6380800000000000000
+      internalID: -8977333737454218178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 234
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79611f40252293250800000000000000
+      internalID: 5924804520448169623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_10
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 205
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d29c864844aa5b0800000000000000
+      internalID: -5356393471319397077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 233
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d08e573af4342460800000000000000
+      internalID: 7215950752229785814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 185
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abb596a2ef8f1c240800000000000000
+      internalID: 4810399647525329850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_13
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 208
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4548c87739f1b63c0800000000000000
+      internalID: -4365360695579212716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_14
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 154
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 307b62209708e05a0800000000000000
+      internalID: -6553159150562003197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 200
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5943f298f666b25b0800000000000000
+      internalID: -5392103499617061739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_16
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 162
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3840ecc32fba0ae30800000000000000
+      internalID: 4512795883515806851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_17
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 182
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf996e193ef932a40800000000000000
+      internalID: 5342289382745741820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 166
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d939d0be55e3e7a00800000000000000
+      internalID: 756110326181499805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_19
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483e31a68e8c40a20800000000000000
+      internalID: 3027765750037472132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_20
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 157
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafd3fcfe1f21dca0800000000000000
+      internalID: -5993957818914054230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_21
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 153
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c798767ec4ff190800000000000000
+      internalID: -7926532262390563717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_22
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 154
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58c6580894d2c6570800000000000000
+      internalID: 8461187593634409605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_23
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 152
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf8a1a4427129360800000000000000
+      internalID: 7174822600984137660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 105
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc1e3130307c2dc0800000000000000
+      internalID: -3662429044672160552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_25
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 75
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2e3919023bcff80800000000000000
+      internalID: -8071379479692057904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 69
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c1f746fd0a4f070800000000000000
+      internalID: 8139307307889531938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_27
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 49
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2c3ede2b799cee0800000000000000
+      internalID: -1240293427612761429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_28
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 18
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8647050c267c7380800000000000000
+      internalID: -8972166426193869169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_29
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 30
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a552e37271af890800000000000000
+      internalID: -7423595578453042658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Entertainer_1_micbeep_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 17
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6add1d689e16014f0800000000000000
+      internalID: -860079873210589786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YANAH3_Entertainer_1_micbeep_0: 1785642274719893126
+      YANAH3_Entertainer_1_micbeep_1: -7863646974785046529
+      YANAH3_Entertainer_1_micbeep_10: -5356393471319397077
+      YANAH3_Entertainer_1_micbeep_11: 7215950752229785814
+      YANAH3_Entertainer_1_micbeep_12: 4810399647525329850
+      YANAH3_Entertainer_1_micbeep_13: -4365360695579212716
+      YANAH3_Entertainer_1_micbeep_14: -6553159150562003197
+      YANAH3_Entertainer_1_micbeep_15: -5392103499617061739
+      YANAH3_Entertainer_1_micbeep_16: 4512795883515806851
+      YANAH3_Entertainer_1_micbeep_17: 5342289382745741820
+      YANAH3_Entertainer_1_micbeep_18: 756110326181499805
+      YANAH3_Entertainer_1_micbeep_19: 3027765750037472132
+      YANAH3_Entertainer_1_micbeep_2: 240653731496997451
+      YANAH3_Entertainer_1_micbeep_20: -5993957818914054230
+      YANAH3_Entertainer_1_micbeep_21: -7926532262390563717
+      YANAH3_Entertainer_1_micbeep_22: 8461187593634409605
+      YANAH3_Entertainer_1_micbeep_23: 7174822600984137660
+      YANAH3_Entertainer_1_micbeep_24: -3662429044672160552
+      YANAH3_Entertainer_1_micbeep_25: -8071379479692057904
+      YANAH3_Entertainer_1_micbeep_26: 8139307307889531938
+      YANAH3_Entertainer_1_micbeep_27: -1240293427612761429
+      YANAH3_Entertainer_1_micbeep_28: -8972166426193869169
+      YANAH3_Entertainer_1_micbeep_29: -7423595578453042658
+      YANAH3_Entertainer_1_micbeep_3: 4374074675198263076
+      YANAH3_Entertainer_1_micbeep_30: -860079873210589786
+      YANAH3_Entertainer_1_micbeep_4: -5576800436838522861
+      YANAH3_Entertainer_1_micbeep_5: -4728610126396660407
+      YANAH3_Entertainer_1_micbeep_6: 3618888563347977247
+      YANAH3_Entertainer_1_micbeep_7: 6865420786576971051
+      YANAH3_Entertainer_1_micbeep_8: -8977333737454218178
+      YANAH3_Entertainer_1_micbeep_9: 5924804520448169623
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

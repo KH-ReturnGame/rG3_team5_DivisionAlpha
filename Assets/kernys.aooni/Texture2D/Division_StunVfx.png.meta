@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 6b5e013648f86bc44ac4f92815f3d2bb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 961387937897589434
+    second: Division_StunVfx_0
+  - first:
+      213: 5907499201014385969
+    second: Division_StunVfx_1
+  - first:
+      213: 8101817021700987690
+    second: Division_StunVfx_2
+  - first:
+      213: 969242597056041192
+    second: Division_StunVfx_3
+  - first:
+      213: -3048571329521938987
+    second: Division_StunVfx_4
+  - first:
+      213: -4473483464998354722
+    second: Division_StunVfx_5
+  - first:
+      213: 3545008050726012638
+    second: Division_StunVfx_6
+  - first:
+      213: 7266084250278398086
+    second: Division_StunVfx_7
+  - first:
+      213: 6486217973958006886
+    second: Division_StunVfx_8
+  - first:
+      213: 6033127270228328937
+    second: Division_StunVfx_9
+  - first:
+      213: -6384200533136014020
+    second: Division_StunVfx_10
+  - first:
+      213: 3587814917802800271
+    second: Division_StunVfx_11
+  - first:
+      213: 8553059151715847060
+    second: Division_StunVfx_12
+  - first:
+      213: 7565206253680674254
+    second: Division_StunVfx_13
+  - first:
+      213: 2562618823187445851
+    second: Division_StunVfx_14
+  - first:
+      213: 8497378317204079065
+    second: Division_StunVfx_15
+  - first:
+      213: -4616590457559831500
+    second: Division_StunVfx_16
+  - first:
+      213: 7642390543579924228
+    second: Division_StunVfx_17
+  - first:
+      213: -2781541580905262399
+    second: Division_StunVfx_18
+  - first:
+      213: 1955146273228999898
+    second: Division_StunVfx_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_StunVfx_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 54
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba2bb16c39875d00800000000000000
+      internalID: 961387937897589434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 68
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13dcd5b5937abf150800000000000000
+      internalID: 5907499201014385969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_2
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 56
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b53bde7af6f6070800000000000000
+      internalID: 8101817021700987690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 59
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0d3bab101737d00800000000000000
+      internalID: 969242597056041192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd876f178c41b5d0800000000000000
+      internalID: -3048571329521938987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 60
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed080387d7efae1c0800000000000000
+      internalID: -4473483464998354722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_6
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 54
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed68c653a06623130800000000000000
+      internalID: 3545008050726012638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 30
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68887e5d02156d460800000000000000
+      internalID: 7266084250278398086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 40
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6685581c1eca30a50800000000000000
+      internalID: 6486217973958006886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e18ea29949f9b350800000000000000
+      internalID: 6033127270228328937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 28
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c358197a073c667a0800000000000000
+      internalID: -6384200533136014020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 29
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84bb7f98aa7ac130800000000000000
+      internalID: 3587814917802800271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 15
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b4de08bf192b670800000000000000
+      internalID: 8553059151715847060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5433b61030df860800000000000000
+      internalID: 7565206253680674254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_14
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 15
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5831da0e30409320800000000000000
+      internalID: 2562618823187445851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d14e07fe80cce570800000000000000
+      internalID: 8497378317204079065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c20b740739eefb0800000000000000
+      internalID: -4616590457559831500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_17
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 6
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407c2e055b93f0a60800000000000000
+      internalID: 7642390543579924228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_18
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2d92e5baaf569d0800000000000000
+      internalID: -2781541580905262399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_StunVfx_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc4ebb3d23122b10800000000000000
+      internalID: 1955146273228999898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_StunVfx_0: 961387937897589434
+      Division_StunVfx_1: 5907499201014385969
+      Division_StunVfx_10: -6384200533136014020
+      Division_StunVfx_11: 3587814917802800271
+      Division_StunVfx_12: 8553059151715847060
+      Division_StunVfx_13: 7565206253680674254
+      Division_StunVfx_14: 2562618823187445851
+      Division_StunVfx_15: 8497378317204079065
+      Division_StunVfx_16: -4616590457559831500
+      Division_StunVfx_17: 7642390543579924228
+      Division_StunVfx_18: -2781541580905262399
+      Division_StunVfx_19: 1955146273228999898
+      Division_StunVfx_2: 8101817021700987690
+      Division_StunVfx_3: 969242597056041192
+      Division_StunVfx_4: -3048571329521938987
+      Division_StunVfx_5: -4473483464998354722
+      Division_StunVfx_6: 3545008050726012638
+      Division_StunVfx_7: 7266084250278398086
+      Division_StunVfx_8: 6486217973958006886
+      Division_StunVfx_9: 6033127270228328937
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

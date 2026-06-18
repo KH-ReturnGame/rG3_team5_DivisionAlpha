@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: bb208574115723648b4603d6ccc3a5ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7579267683823176679
+    second: Plaza_Summer_Fireworks_Rocket_0
+  - first:
+      213: 7791595121845777331
+    second: Plaza_Summer_Fireworks_Rocket_1
+  - first:
+      213: -3986338259605037927
+    second: Plaza_Summer_Fireworks_Rocket_2
+  - first:
+      213: -3053216361210331741
+    second: Plaza_Summer_Fireworks_Rocket_3
+  - first:
+      213: -4183023360588117861
+    second: Plaza_Summer_Fireworks_Rocket_4
+  - first:
+      213: -6103811936442918835
+    second: Plaza_Summer_Fireworks_Rocket_5
+  - first:
+      213: 2125493077220801401
+    second: Plaza_Summer_Fireworks_Rocket_6
+  - first:
+      213: 7849928397670081284
+    second: Plaza_Summer_Fireworks_Rocket_7
+  - first:
+      213: 7047486000502077833
+    second: Plaza_Summer_Fireworks_Rocket_8
+  - first:
+      213: -2978913924876440513
+    second: Plaza_Summer_Fireworks_Rocket_9
+  - first:
+      213: -1923396441778926420
+    second: Plaza_Summer_Fireworks_Rocket_10
+  - first:
+      213: -3506587458772632126
+    second: Plaza_Summer_Fireworks_Rocket_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plaza_Summer_Fireworks_Rocket_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 247
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9143f10c23801d690800000000000000
+      internalID: -7579267683823176679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_Fireworks_Rocket_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 231
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3b84f4b7e412c60800000000000000
+      internalID: 7791595121845777331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_Fireworks_Rocket_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 228
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c51b1397eada8c0800000000000000
+      internalID: -3986338259605037927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_Fireworks_Rocket_3
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 228
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adb5a765ebc0a5d0800000000000000
+      internalID: -3053216361210331741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_Fireworks_Rocket_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 229
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b980cf88a6ae2f5c0800000000000000
+      internalID: -4183023360588117861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_Fireworks_Rocket_5
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 229
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48d7881267ea4ba0800000000000000
+      internalID: -6103811936442918835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_Fireworks_Rocket_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 229
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b3c4041b44f7d10800000000000000
+      internalID: 2125493077220801401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_Fireworks_Rocket_7
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 229
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4036067794c80fc60800000000000000
+      internalID: 7849928397670081284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_Fireworks_Rocket_8
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 228
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989f673ad23bdc160800000000000000
+      internalID: 7047486000502077833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_Fireworks_Rocket_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 229
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c664b7195c8a6d0800000000000000
+      internalID: -2978913924876440513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_Fireworks_Rocket_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 229
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac44857029be45e0800000000000000
+      internalID: -1923396441778926420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plaza_Summer_Fireworks_Rocket_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 129
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd7402f849165fc0800000000000000
+      internalID: -3506587458772632126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Plaza_Summer_Fireworks_Rocket_0: -7579267683823176679
+      Plaza_Summer_Fireworks_Rocket_1: 7791595121845777331
+      Plaza_Summer_Fireworks_Rocket_10: -1923396441778926420
+      Plaza_Summer_Fireworks_Rocket_11: -3506587458772632126
+      Plaza_Summer_Fireworks_Rocket_2: -3986338259605037927
+      Plaza_Summer_Fireworks_Rocket_3: -3053216361210331741
+      Plaza_Summer_Fireworks_Rocket_4: -4183023360588117861
+      Plaza_Summer_Fireworks_Rocket_5: -6103811936442918835
+      Plaza_Summer_Fireworks_Rocket_6: 2125493077220801401
+      Plaza_Summer_Fireworks_Rocket_7: 7849928397670081284
+      Plaza_Summer_Fireworks_Rocket_8: 7047486000502077833
+      Plaza_Summer_Fireworks_Rocket_9: -2978913924876440513
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1040 @@
+fileFormatVersion: 2
+guid: 636c65dfc540c0647938a59039ca876b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2155394211720695363
+    second: ep3Hard_fist_skill_0
+  - first:
+      213: 3235642272268434759
+    second: ep3Hard_fist_skill_1
+  - first:
+      213: 7929805086558762218
+    second: ep3Hard_fist_skill_2
+  - first:
+      213: 8771019301879141719
+    second: ep3Hard_fist_skill_3
+  - first:
+      213: -1666799926826514967
+    second: ep3Hard_fist_skill_4
+  - first:
+      213: 650751122545141331
+    second: ep3Hard_fist_skill_5
+  - first:
+      213: 8423936220513427201
+    second: ep3Hard_fist_skill_6
+  - first:
+      213: 7275300736236320562
+    second: ep3Hard_fist_skill_7
+  - first:
+      213: 6751764272184625557
+    second: ep3Hard_fist_skill_8
+  - first:
+      213: 8415085352296641259
+    second: ep3Hard_fist_skill_9
+  - first:
+      213: 8966037482222395597
+    second: ep3Hard_fist_skill_10
+  - first:
+      213: 9090565353792633089
+    second: ep3Hard_fist_skill_11
+  - first:
+      213: 8545105374773937321
+    second: ep3Hard_fist_skill_12
+  - first:
+      213: -3729447932402755142
+    second: ep3Hard_fist_skill_13
+  - first:
+      213: -7272870718760181257
+    second: ep3Hard_fist_skill_14
+  - first:
+      213: 7912965162543816912
+    second: ep3Hard_fist_skill_15
+  - first:
+      213: 7206529358195595134
+    second: ep3Hard_fist_skill_16
+  - first:
+      213: 8044238287743224711
+    second: ep3Hard_fist_skill_17
+  - first:
+      213: 7224778116335308621
+    second: ep3Hard_fist_skill_18
+  - first:
+      213: -8739451957362460673
+    second: ep3Hard_fist_skill_19
+  - first:
+      213: 8666227931727877983
+    second: ep3Hard_fist_skill_20
+  - first:
+      213: -859264078922242963
+    second: ep3Hard_fist_skill_21
+  - first:
+      213: -1861045429951470768
+    second: ep3Hard_fist_skill_22
+  - first:
+      213: -7444541105083297213
+    second: ep3Hard_fist_skill_23
+  - first:
+      213: 7489874688233470804
+    second: ep3Hard_fist_skill_24
+  - first:
+      213: 3086308183398819811
+    second: ep3Hard_fist_skill_25
+  - first:
+      213: -1344169395243835884
+    second: ep3Hard_fist_skill_26
+  - first:
+      213: 1201571936069344025
+    second: ep3Hard_fist_skill_27
+  - first:
+      213: 3697154996911207710
+    second: ep3Hard_fist_skill_28
+  - first:
+      213: -3247058026023007268
+    second: ep3Hard_fist_skill_29
+  - first:
+      213: 7708604974530041701
+    second: ep3Hard_fist_skill_30
+  - first:
+      213: 6903603374616611733
+    second: ep3Hard_fist_skill_31
+  - first:
+      213: 6760589050596042152
+    second: ep3Hard_fist_skill_32
+  - first:
+      213: -3807662764666973901
+    second: ep3Hard_fist_skill_33
+  - first:
+      213: 2991242529538472447
+    second: ep3Hard_fist_skill_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 80
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1747b52608612e0800000000000000
+      internalID: -2155394211720695363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2
+        width: 67
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d3cc2e08f47ec20800000000000000
+      internalID: 3235642272268434759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 103
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4bb6a56b35c0e60800000000000000
+      internalID: 7929805086558762218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 136
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755d99e859be8b970800000000000000
+      internalID: 8771019301879141719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 111
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5cbd13c465ed8e0800000000000000
+      internalID: -1666799926826514967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 115
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3566d78b2bee70900800000000000000
+      internalID: 650751122545141331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 127
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10fdf325c55d7e470800000000000000
+      internalID: 8423936220513427201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 100
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237f081397f07f460800000000000000
+      internalID: 7275300736236320562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_8
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 112
+        width: 30
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5990dba45d513bd50800000000000000
+      internalID: 6751764272184625557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_9
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 94
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2fb3afa8368c470800000000000000
+      internalID: 8415085352296641259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 93
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc024b20693cd6c70800000000000000
+      internalID: 8966037482222395597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_11
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 93
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1097840860d282e70800000000000000
+      internalID: 9090565353792633089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 67
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a48eaf7010569670800000000000000
+      internalID: 8545105374773937321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_13
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 97
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab991dc6dd65e3cc0800000000000000
+      internalID: -3729447932402755142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_14
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 93
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1a5f65d92911b90800000000000000
+      internalID: -7272870718760181257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_15
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 95
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d0277104ef70dd60800000000000000
+      internalID: 7912965162543816912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 77
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e771caaf44cb20460800000000000000
+      internalID: 7206529358195595134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 72
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b088d3a10e2af60800000000000000
+      internalID: 8044238287743224711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 83
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f8e251b61934460800000000000000
+      internalID: 7224778116335308621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_19
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 81
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff771d59fba37b680800000000000000
+      internalID: -8739451957362460673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_20
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5755356360a44870800000000000000
+      internalID: 8666227931727877983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_21
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 59
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64269f6fd74314f0800000000000000
+      internalID: -859264078922242963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_22
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 68
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053e0ecaa0d3c26e0800000000000000
+      internalID: -1861045429951470768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_23
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 68
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34257bbce4dafa890800000000000000
+      internalID: -7444541105083297213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_24
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 95
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b785c885161f760800000000000000
+      internalID: 7489874688233470804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 51
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e72edad0f4c4da20800000000000000
+      internalID: 3086308183398819811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 11
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e1a868e0d885de0800000000000000
+      internalID: -1344169395243835884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_27
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 13
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91bdd754f47dca010800000000000000
+      internalID: 1201571936069344025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_28
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 12
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15f37e91eeee4330800000000000000
+      internalID: 3697154996911207710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 15
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb41d1dde120f2d0800000000000000
+      internalID: -3247058026023007268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_30
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 14
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5671ca4e1677afa60800000000000000
+      internalID: 7708604974530041701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_31
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2
+        width: 86
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b063e31b68ecf50800000000000000
+      internalID: 6903603374616611733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_32
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a52c212cef62dd50800000000000000
+      internalID: 6760589050596042152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_33
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 3
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3311b8fa3e6782bc0800000000000000
+      internalID: -3807662764666973901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_fist_skill_34
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 4
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff97e2a7b37038920800000000000000
+      internalID: 2991242529538472447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ep3Hard_fist_skill_0: -2155394211720695363
+      ep3Hard_fist_skill_1: 3235642272268434759
+      ep3Hard_fist_skill_10: 8966037482222395597
+      ep3Hard_fist_skill_11: 9090565353792633089
+      ep3Hard_fist_skill_12: 8545105374773937321
+      ep3Hard_fist_skill_13: -3729447932402755142
+      ep3Hard_fist_skill_14: -7272870718760181257
+      ep3Hard_fist_skill_15: 7912965162543816912
+      ep3Hard_fist_skill_16: 7206529358195595134
+      ep3Hard_fist_skill_17: 8044238287743224711
+      ep3Hard_fist_skill_18: 7224778116335308621
+      ep3Hard_fist_skill_19: -8739451957362460673
+      ep3Hard_fist_skill_2: 7929805086558762218
+      ep3Hard_fist_skill_20: 8666227931727877983
+      ep3Hard_fist_skill_21: -859264078922242963
+      ep3Hard_fist_skill_22: -1861045429951470768
+      ep3Hard_fist_skill_23: -7444541105083297213
+      ep3Hard_fist_skill_24: 7489874688233470804
+      ep3Hard_fist_skill_25: 3086308183398819811
+      ep3Hard_fist_skill_26: -1344169395243835884
+      ep3Hard_fist_skill_27: 1201571936069344025
+      ep3Hard_fist_skill_28: 3697154996911207710
+      ep3Hard_fist_skill_29: -3247058026023007268
+      ep3Hard_fist_skill_3: 8771019301879141719
+      ep3Hard_fist_skill_30: 7708604974530041701
+      ep3Hard_fist_skill_31: 6903603374616611733
+      ep3Hard_fist_skill_32: 6760589050596042152
+      ep3Hard_fist_skill_33: -3807662764666973901
+      ep3Hard_fist_skill_34: 2991242529538472447
+      ep3Hard_fist_skill_4: -1666799926826514967
+      ep3Hard_fist_skill_5: 650751122545141331
+      ep3Hard_fist_skill_6: 8423936220513427201
+      ep3Hard_fist_skill_7: 7275300736236320562
+      ep3Hard_fist_skill_8: 6751764272184625557
+      ep3Hard_fist_skill_9: 8415085352296641259
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

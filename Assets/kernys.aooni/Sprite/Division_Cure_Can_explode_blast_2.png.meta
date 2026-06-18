@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 5d129ed8532bb4b42a71278a95907638
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6240116842386817834
+    second: Division_Cure_Can_explode_blast_2_0
+  - first:
+      213: 4079277966918041915
+    second: Division_Cure_Can_explode_blast_2_1
+  - first:
+      213: -7792386710270005452
+    second: Division_Cure_Can_explode_blast_2_2
+  - first:
+      213: -7776870796592159879
+    second: Division_Cure_Can_explode_blast_2_3
+  - first:
+      213: 3497454866716176052
+    second: Division_Cure_Can_explode_blast_2_4
+  - first:
+      213: -8823383754012683866
+    second: Division_Cure_Can_explode_blast_2_5
+  - first:
+      213: -2925819131184712579
+    second: Division_Cure_Can_explode_blast_2_6
+  - first:
+      213: 7951358046456253549
+    second: Division_Cure_Can_explode_blast_2_7
+  - first:
+      213: -7585737680988385825
+    second: Division_Cure_Can_explode_blast_2_8
+  - first:
+      213: 8103128784776286803
+    second: Division_Cure_Can_explode_blast_2_9
+  - first:
+      213: -6362859661427514651
+    second: Division_Cure_Can_explode_blast_2_10
+  - first:
+      213: -6370462080051313952
+    second: Division_Cure_Can_explode_blast_2_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_blast_2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 38
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcf99c1bc6a669a0800000000000000
+      internalID: -6240116842386817834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_blast_2_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 62
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b314a3ea2b18c9830800000000000000
+      internalID: 4079277966918041915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_blast_2_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 29
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fa1e5a291ebd390800000000000000
+      internalID: -7792386710270005452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_blast_2_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 34
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973e301d631031490800000000000000
+      internalID: -7776870796592159879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_blast_2_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 41
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be2494cba4798030800000000000000
+      internalID: 3497454866716176052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_blast_2_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 23
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a11f19593b0d8580800000000000000
+      internalID: -8823383754012683866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_blast_2_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 19
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7471b870076567d0800000000000000
+      internalID: -2925819131184712579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_blast_2_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 20
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c08f0e306e85e60800000000000000
+      internalID: 7951358046456253549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_blast_2_8
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 24
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd446525cb0ab690800000000000000
+      internalID: -7585737680988385825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_blast_2_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 12
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35255d192b8147070800000000000000
+      internalID: 8103128784776286803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_blast_2_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e263fc89d492b7a0800000000000000
+      internalID: -6362859661427514651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_blast_2_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 7
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e202778d729797a0800000000000000
+      internalID: -6370462080051313952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Cure_Can_explode_blast_2_0: -6240116842386817834
+      Division_Cure_Can_explode_blast_2_1: 4079277966918041915
+      Division_Cure_Can_explode_blast_2_10: -6362859661427514651
+      Division_Cure_Can_explode_blast_2_11: -6370462080051313952
+      Division_Cure_Can_explode_blast_2_2: -7792386710270005452
+      Division_Cure_Can_explode_blast_2_3: -7776870796592159879
+      Division_Cure_Can_explode_blast_2_4: 3497454866716176052
+      Division_Cure_Can_explode_blast_2_5: -8823383754012683866
+      Division_Cure_Can_explode_blast_2_6: -2925819131184712579
+      Division_Cure_Can_explode_blast_2_7: 7951358046456253549
+      Division_Cure_Can_explode_blast_2_8: -7585737680988385825
+      Division_Cure_Can_explode_blast_2_9: 8103128784776286803
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

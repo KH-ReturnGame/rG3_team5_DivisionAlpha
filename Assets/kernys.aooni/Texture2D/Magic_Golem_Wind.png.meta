@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: ea9129514ca98b34ca7df9fbedd0d43b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7970043971055963646
+    second: Magic_Golem_Wind_0
+  - first:
+      213: -2455227060791746759
+    second: Magic_Golem_Wind_1
+  - first:
+      213: -3889475207321085190
+    second: Magic_Golem_Wind_2
+  - first:
+      213: -1862451406275003782
+    second: Magic_Golem_Wind_3
+  - first:
+      213: 4521880688224441609
+    second: Magic_Golem_Wind_4
+  - first:
+      213: 3235577031858405052
+    second: Magic_Golem_Wind_5
+  - first:
+      213: 3582746377368366030
+    second: Magic_Golem_Wind_6
+  - first:
+      213: -3948063703241020514
+    second: Magic_Golem_Wind_7
+  - first:
+      213: -1005091597579631595
+    second: Magic_Golem_Wind_8
+  - first:
+      213: 2196688950248278515
+    second: Magic_Golem_Wind_9
+  - first:
+      213: 1216043833697682694
+    second: Magic_Golem_Wind_10
+  - first:
+      213: 1887183184245699386
+    second: Magic_Golem_Wind_11
+  - first:
+      213: -3750968611181888376
+    second: Magic_Golem_Wind_12
+  - first:
+      213: -8443252425972499930
+    second: Magic_Golem_Wind_13
+  - first:
+      213: -1163657723519336365
+    second: Magic_Golem_Wind_14
+  - first:
+      213: 5215238106041038277
+    second: Magic_Golem_Wind_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 77
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20237f44c37b46190800000000000000
+      internalID: -7970043971055963646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 117
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93fd49e1ff74dedd0800000000000000
+      internalID: -2455227060791746759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 0
+        width: 96
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa10f008eec50ac0800000000000000
+      internalID: -3889475207321085190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a3d8d405e3726e0800000000000000
+      internalID: -1862451406275003782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 64
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905115a2782f0ce30800000000000000
+      internalID: 4521880688224441609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_5
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 62
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe355bea2417ec20800000000000000
+      internalID: 3235577031858405052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 80
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbeb5719d878b130800000000000000
+      internalID: 3582746377368366030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 70
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ba4b9caf8a539c0800000000000000
+      internalID: -3948063703241020514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 30
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514498764823d02f0800000000000000
+      internalID: -1005091597579631595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_9
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 53
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9039136f43c7e10800000000000000
+      internalID: 2196688950248278515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 52
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605cad28c6140e010800000000000000
+      internalID: 1216043833697682694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 30
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a333e0b7b1f903a10800000000000000
+      internalID: 1887183184245699386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cfcdeebe1e1fbc0800000000000000
+      internalID: -3750968611181888376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 37
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a34f027aa83da80800000000000000
+      internalID: -8443252425972499930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3508d7d377bd9dfe0800000000000000
+      internalID: -1163657723519336365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Golem_Wind_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c538a90d6f306840800000000000000
+      internalID: 5215238106041038277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Golem_Wind_0: -7970043971055963646
+      Magic_Golem_Wind_1: -2455227060791746759
+      Magic_Golem_Wind_10: 1216043833697682694
+      Magic_Golem_Wind_11: 1887183184245699386
+      Magic_Golem_Wind_12: -3750968611181888376
+      Magic_Golem_Wind_13: -8443252425972499930
+      Magic_Golem_Wind_14: -1163657723519336365
+      Magic_Golem_Wind_15: 5215238106041038277
+      Magic_Golem_Wind_2: -3889475207321085190
+      Magic_Golem_Wind_3: -1862451406275003782
+      Magic_Golem_Wind_4: 4521880688224441609
+      Magic_Golem_Wind_5: 3235577031858405052
+      Magic_Golem_Wind_6: 3582746377368366030
+      Magic_Golem_Wind_7: -3948063703241020514
+      Magic_Golem_Wind_8: -1005091597579631595
+      Magic_Golem_Wind_9: 2196688950248278515
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

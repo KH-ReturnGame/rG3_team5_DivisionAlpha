@@ -1,0 +1,1300 @@
+fileFormatVersion: 2
+guid: b178bb3d477cce645b0dd18b0d304f8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7115447458578332208
+    second: BossPhoto_0
+  - first:
+      213: -3020102158751795728
+    second: BossPhoto_1
+  - first:
+      213: 5996681946657747259
+    second: BossPhoto_2
+  - first:
+      213: -5120737118244880772
+    second: BossPhoto_3
+  - first:
+      213: -1461141941000110923
+    second: BossPhoto_4
+  - first:
+      213: -7567847521653721387
+    second: BossPhoto_5
+  - first:
+      213: 1774850449289734272
+    second: BossPhoto_6
+  - first:
+      213: 6490408403606027845
+    second: BossPhoto_7
+  - first:
+      213: 439375162463859726
+    second: BossPhoto_8
+  - first:
+      213: 3611322344721431693
+    second: BossPhoto_9
+  - first:
+      213: -965295906649521354
+    second: BossPhoto_10
+  - first:
+      213: -6203126978980052988
+    second: BossPhoto_11
+  - first:
+      213: -5780070679355609723
+    second: BossPhoto_12
+  - first:
+      213: 6647315226814766266
+    second: BossPhoto_13
+  - first:
+      213: 1199074871093042880
+    second: BossPhoto_14
+  - first:
+      213: -7509284276760865850
+    second: BossPhoto_15
+  - first:
+      213: 2763742619254823991
+    second: BossPhoto_16
+  - first:
+      213: -8853427088579144261
+    second: BossPhoto_17
+  - first:
+      213: -1107607244762416892
+    second: BossPhoto_18
+  - first:
+      213: -9213544489763729675
+    second: BossPhoto_19
+  - first:
+      213: -6292344334863203989
+    second: BossPhoto_20
+  - first:
+      213: 6811813135547103472
+    second: BossPhoto_21
+  - first:
+      213: 7374992653234763058
+    second: BossPhoto_22
+  - first:
+      213: -2973365093586474699
+    second: BossPhoto_23
+  - first:
+      213: 1775884269592261904
+    second: BossPhoto_24
+  - first:
+      213: -6546921041467323684
+    second: BossPhoto_25
+  - first:
+      213: -6071837478312064238
+    second: BossPhoto_26
+  - first:
+      213: 3008540676843492582
+    second: BossPhoto_27
+  - first:
+      213: 123628155977364867
+    second: BossPhoto_28
+  - first:
+      213: 7187795140016321260
+    second: BossPhoto_29
+  - first:
+      213: -3518157313994626877
+    second: BossPhoto_30
+  - first:
+      213: -135654483445769670
+    second: BossPhoto_31
+  - first:
+      213: 2759996711181578725
+    second: BossPhoto_32
+  - first:
+      213: 3043888432082044489
+    second: BossPhoto_33
+  - first:
+      213: 1630891105232598449
+    second: BossPhoto_34
+  - first:
+      213: 7500626446253553878
+    second: BossPhoto_35
+  - first:
+      213: 5738383133067360925
+    second: BossPhoto_36
+  - first:
+      213: 7361585564129397523
+    second: BossPhoto_37
+  - first:
+      213: -7222093580393887849
+    second: BossPhoto_38
+  - first:
+      213: 6253657725385933057
+    second: BossPhoto_39
+  - first:
+      213: 7235319764110357266
+    second: BossPhoto_40
+  - first:
+      213: -3306301619922858980
+    second: BossPhoto_41
+  - first:
+      213: -8480204011870571376
+    second: BossPhoto_42
+  - first:
+      213: -7169974383655782961
+    second: BossPhoto_43
+  - first:
+      213: -7919133818511671062
+    second: BossPhoto_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BossPhoto_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d58b755c3ad04d90800000000000000
+      internalID: -7115447458578332208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 461
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5753a76117616d0800000000000000
+      internalID: -3020102158751795728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 461
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31788d657e783350800000000000000
+      internalID: 5996681946657747259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 428
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e3bd6c8bc7fe8b0800000000000000
+      internalID: -5120737118244880772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc7348652bf8bbe0800000000000000
+      internalID: -1461141941000110923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 428
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6728576ca99f690800000000000000
+      internalID: -7567847521653721387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_6
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 395
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0886b5f741981a810800000000000000
+      internalID: 1774850449289734272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 362
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eb5203e00921a50800000000000000
+      internalID: 6490408403606027845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 329
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04b9c1e169f81600800000000000000
+      internalID: 439375162463859726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 362
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c3d86f98efd1230800000000000000
+      internalID: 3611322344721431693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_10
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 329
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633440dbc749a92f0800000000000000
+      internalID: -965295906649521354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4008041d0e01ae9a0800000000000000
+      internalID: -6203126978980052988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 263
+        width: 134
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58dab5c575019cfa0800000000000000
+      internalID: -5780070679355609723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 296
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abcd654daf1004c50800000000000000
+      internalID: 6647315226814766266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce19960e38f3a010800000000000000
+      internalID: 1199074871093042880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c31e367cb9a9c790800000000000000
+      internalID: -7509284276760865850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 230
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c9a4fe449ca5620800000000000000
+      internalID: 2763742619254823991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 197
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb55b6c68fe422580800000000000000
+      internalID: -8853427088579144261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 164
+        width: 67
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4097949441df0a0f0800000000000000
+      internalID: -1107607244762416892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe006d1a1ae22080800000000000000
+      internalID: -9213544489763729675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 164
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61890c6a2a1da8a0800000000000000
+      internalID: -6292344334863203989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 131
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f8ff9cc4fb688e50800000000000000
+      internalID: 6811813135547103472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_22
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 131
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2357c256ebc395660800000000000000
+      internalID: 7374992653234763058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 131
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5396b31733c7cb6d0800000000000000
+      internalID: -2973365093586474699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_24
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 131
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015304b855535a810800000000000000
+      internalID: 1775884269592261904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_25
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 131
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda4fc6fff9a425a0800000000000000
+      internalID: -6546921041467323684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 67
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b4e43cbff7cbba0800000000000000
+      internalID: -6071837478312064238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_27
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 98
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4d19f3ecb70c920800000000000000
+      internalID: 3008540676843492582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_28
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 203
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3857441272737b100800000000000000
+      internalID: 123628155977364867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 65
+        width: 73
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2b3f6e89d20c360800000000000000
+      internalID: 7187795140016321260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_30
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 98
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8686b109efc2fc0800000000000000
+      internalID: -3518157313994626877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_31
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 98
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a960e47fe0e1ef0800000000000000
+      internalID: -135654483445769670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 65
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1793fb26a7d4620800000000000000
+      internalID: 2759996711181578725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_33
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 98
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946cb2ad6601e3a20800000000000000
+      internalID: 3043888432082044489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 32
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5bbb2c1d612a610800000000000000
+      internalID: 1630891105232598449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_35
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 95
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8f7d94304971860800000000000000
+      internalID: 7500626446253553878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_36
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 78
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ab2976e05d2af40800000000000000
+      internalID: 5738383133067360925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_37
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 65
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b8395311b992660800000000000000
+      internalID: 7361585564129397523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 67
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7974ef52728f5cb90800000000000000
+      internalID: -7222093580393887849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_39
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 32
+        width: 70
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1018184619479c650800000000000000
+      internalID: 6253657725385933057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 0
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2133928bdf4096460800000000000000
+      internalID: 7235319764110357266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_41
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 32
+        width: 68
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c0338b138ad12d0800000000000000
+      internalID: -3306301619922858980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 0
+        width: 68
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094bc999163405a80800000000000000
+      internalID: -8480204011870571376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_43
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 111
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5fb8549422f7c90800000000000000
+      internalID: -7169974383655782961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BossPhoto_44
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 32
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae044dadfb5991290800000000000000
+      internalID: -7919133818511671062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BossPhoto_0: -7115447458578332208
+      BossPhoto_1: -3020102158751795728
+      BossPhoto_10: -965295906649521354
+      BossPhoto_11: -6203126978980052988
+      BossPhoto_12: -5780070679355609723
+      BossPhoto_13: 6647315226814766266
+      BossPhoto_14: 1199074871093042880
+      BossPhoto_15: -7509284276760865850
+      BossPhoto_16: 2763742619254823991
+      BossPhoto_17: -8853427088579144261
+      BossPhoto_18: -1107607244762416892
+      BossPhoto_19: -9213544489763729675
+      BossPhoto_2: 5996681946657747259
+      BossPhoto_20: -6292344334863203989
+      BossPhoto_21: 6811813135547103472
+      BossPhoto_22: 7374992653234763058
+      BossPhoto_23: -2973365093586474699
+      BossPhoto_24: 1775884269592261904
+      BossPhoto_25: -6546921041467323684
+      BossPhoto_26: -6071837478312064238
+      BossPhoto_27: 3008540676843492582
+      BossPhoto_28: 123628155977364867
+      BossPhoto_29: 7187795140016321260
+      BossPhoto_3: -5120737118244880772
+      BossPhoto_30: -3518157313994626877
+      BossPhoto_31: -135654483445769670
+      BossPhoto_32: 2759996711181578725
+      BossPhoto_33: 3043888432082044489
+      BossPhoto_34: 1630891105232598449
+      BossPhoto_35: 7500626446253553878
+      BossPhoto_36: 5738383133067360925
+      BossPhoto_37: 7361585564129397523
+      BossPhoto_38: -7222093580393887849
+      BossPhoto_39: 6253657725385933057
+      BossPhoto_4: -1461141941000110923
+      BossPhoto_40: 7235319764110357266
+      BossPhoto_41: -3306301619922858980
+      BossPhoto_42: -8480204011870571376
+      BossPhoto_43: -7169974383655782961
+      BossPhoto_44: -7919133818511671062
+      BossPhoto_5: -7567847521653721387
+      BossPhoto_6: 1774850449289734272
+      BossPhoto_7: 6490408403606027845
+      BossPhoto_8: 439375162463859726
+      BossPhoto_9: 3611322344721431693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

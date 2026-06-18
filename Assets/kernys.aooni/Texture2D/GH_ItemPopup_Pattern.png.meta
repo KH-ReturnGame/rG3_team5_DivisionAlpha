@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 9b06e362c6fbe1b44bcff9919565bc3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7716666906105745678
+    second: GH_ItemPopup_Pattern_0
+  - first:
+      213: 3232908928898174836
+    second: GH_ItemPopup_Pattern_1
+  - first:
+      213: -8637875981570944654
+    second: GH_ItemPopup_Pattern_2
+  - first:
+      213: -9209948647278331125
+    second: GH_ItemPopup_Pattern_3
+  - first:
+      213: 4413656038463872177
+    second: GH_ItemPopup_Pattern_4
+  - first:
+      213: -1778512267208616208
+    second: GH_ItemPopup_Pattern_5
+  - first:
+      213: 2571871000337983888
+    second: GH_ItemPopup_Pattern_6
+  - first:
+      213: 8755954163432785117
+    second: GH_ItemPopup_Pattern_7
+  - first:
+      213: 5482030509706427755
+    second: GH_ItemPopup_Pattern_8
+  - first:
+      213: -4932234068982189702
+    second: GH_ItemPopup_Pattern_9
+  - first:
+      213: -825695279364910640
+    second: GH_ItemPopup_Pattern_10
+  - first:
+      213: -3779470547508621679
+    second: GH_ItemPopup_Pattern_11
+  - first:
+      213: 8746434653671944007
+    second: GH_ItemPopup_Pattern_12
+  - first:
+      213: -5949720392617931951
+    second: GH_ItemPopup_Pattern_13
+  - first:
+      213: -3785726212928353280
+    second: GH_ItemPopup_Pattern_14
+  - first:
+      213: -3840564563991371110
+    second: GH_ItemPopup_Pattern_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 22
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2feed836554e8e490800000000000000
+      internalID: -7716666906105745678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 23
+        width: 32
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f0a2aca899ddc20800000000000000
+      internalID: 3232908928898174836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 82
+        width: 76
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271d5986f89102880800000000000000
+      internalID: -8637875981570944654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 114
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0bb26f6080bf2080800000000000000
+      internalID: -9209948647278331125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 107
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc956d48c4704d30800000000000000
+      internalID: 4413656038463872177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 15
+        width: 22
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f61b5414847157e0800000000000000
+      internalID: -1778512267208616208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 26
+        width: 26
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09926476c0f11b320800000000000000
+      internalID: 2571871000337983888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 39
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4830dabe5638970800000000000000
+      internalID: 8755954163432785117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 7
+        width: 55
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6db7ea14b5141c40800000000000000
+      internalID: 5482030509706427755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 95
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71bc311f3f2d8bb0800000000000000
+      internalID: -4932234068982189702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 31
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1dcb4a48a8a84f0800000000000000
+      internalID: -825695279364910640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_11
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 2
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e82b0cf8f9c8bc0800000000000000
+      internalID: -3779470547508621679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 31
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f68471af3916970800000000000000
+      internalID: 8746434653671944007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 14
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b4c1d63d85e6da0800000000000000
+      internalID: -5949720392617931951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_14
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 5
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c45852116667bc0800000000000000
+      internalID: -3785726212928353280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GH_ItemPopup_Pattern_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92675290e293bac0800000000000000
+      internalID: -3840564563991371110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GH_ItemPopup_Pattern_0: -7716666906105745678
+      GH_ItemPopup_Pattern_1: 3232908928898174836
+      GH_ItemPopup_Pattern_10: -825695279364910640
+      GH_ItemPopup_Pattern_11: -3779470547508621679
+      GH_ItemPopup_Pattern_12: 8746434653671944007
+      GH_ItemPopup_Pattern_13: -5949720392617931951
+      GH_ItemPopup_Pattern_14: -3785726212928353280
+      GH_ItemPopup_Pattern_15: -3840564563991371110
+      GH_ItemPopup_Pattern_2: -8637875981570944654
+      GH_ItemPopup_Pattern_3: -9209948647278331125
+      GH_ItemPopup_Pattern_4: 4413656038463872177
+      GH_ItemPopup_Pattern_5: -1778512267208616208
+      GH_ItemPopup_Pattern_6: 2571871000337983888
+      GH_ItemPopup_Pattern_7: 8755954163432785117
+      GH_ItemPopup_Pattern_8: 5482030509706427755
+      GH_ItemPopup_Pattern_9: -4932234068982189702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

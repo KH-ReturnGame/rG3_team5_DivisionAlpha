@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 3a14529a3d7ce664abed8e1b6e91eb06
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4398190106750111638
+    second: Magic_GroundUlt_PopstoneVfx_0
+  - first:
+      213: 7239735433080031496
+    second: Magic_GroundUlt_PopstoneVfx_1
+  - first:
+      213: -7798846274385437899
+    second: Magic_GroundUlt_PopstoneVfx_2
+  - first:
+      213: -3978970156502221805
+    second: Magic_GroundUlt_PopstoneVfx_3
+  - first:
+      213: 784102266019361340
+    second: Magic_GroundUlt_PopstoneVfx_4
+  - first:
+      213: -1052781083411981847
+    second: Magic_GroundUlt_PopstoneVfx_5
+  - first:
+      213: -8560739564433576651
+    second: Magic_GroundUlt_PopstoneVfx_6
+  - first:
+      213: -9176455736378320955
+    second: Magic_GroundUlt_PopstoneVfx_7
+  - first:
+      213: 4462734362894051392
+    second: Magic_GroundUlt_PopstoneVfx_8
+  - first:
+      213: 8942741677061516870
+    second: Magic_GroundUlt_PopstoneVfx_9
+  - first:
+      213: 4310473842115124330
+    second: Magic_GroundUlt_PopstoneVfx_10
+  - first:
+      213: -9203103978691323809
+    second: Magic_GroundUlt_PopstoneVfx_11
+  - first:
+      213: -1071191736453684377
+    second: Magic_GroundUlt_PopstoneVfx_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_GroundUlt_PopstoneVfx_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 63
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f4a777992890d30800000000000000
+      internalID: 4398190106750111638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_PopstoneVfx_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 21
+        width: 95
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8094b84c405b87460800000000000000
+      internalID: 7239735433080031496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_PopstoneVfx_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 80
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b906d22aee4c390800000000000000
+      internalID: -7798846274385437899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_PopstoneVfx_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 79
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cfdc169bbd7c8c0800000000000000
+      internalID: -3978970156502221805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_PopstoneVfx_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 20
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32b9a94bd0b1ea00800000000000000
+      internalID: 784102266019361340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_PopstoneVfx_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 50
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e95af8be25c361f0800000000000000
+      internalID: -1052781083411981847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_PopstoneVfx_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 50
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ded4f09b4223980800000000000000
+      internalID: -8560739564433576651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_PopstoneVfx_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 53
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c71310702ea6a080800000000000000
+      internalID: -9176455736378320955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_PopstoneVfx_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 44
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048aa3b2241deed30800000000000000
+      internalID: 4462734362894051392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_PopstoneVfx_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 38
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e2553bc200b1c70800000000000000
+      internalID: 8942741677061516870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_PopstoneVfx_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 43
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c92ec1f11e1db30800000000000000
+      internalID: 4310473842115124330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_PopstoneVfx_11
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 38
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f589e1701b1084080800000000000000
+      internalID: -9203103978691323809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_PopstoneVfx_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 19
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76328568acc5221f0800000000000000
+      internalID: -1071191736453684377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_GroundUlt_PopstoneVfx_0: 4398190106750111638
+      Magic_GroundUlt_PopstoneVfx_1: 7239735433080031496
+      Magic_GroundUlt_PopstoneVfx_10: 4310473842115124330
+      Magic_GroundUlt_PopstoneVfx_11: -9203103978691323809
+      Magic_GroundUlt_PopstoneVfx_12: -1071191736453684377
+      Magic_GroundUlt_PopstoneVfx_2: -7798846274385437899
+      Magic_GroundUlt_PopstoneVfx_3: -3978970156502221805
+      Magic_GroundUlt_PopstoneVfx_4: 784102266019361340
+      Magic_GroundUlt_PopstoneVfx_5: -1052781083411981847
+      Magic_GroundUlt_PopstoneVfx_6: -8560739564433576651
+      Magic_GroundUlt_PopstoneVfx_7: -9176455736378320955
+      Magic_GroundUlt_PopstoneVfx_8: 4462734362894051392
+      Magic_GroundUlt_PopstoneVfx_9: 8942741677061516870
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 21d36efd3d4d26847b4a90b44cfd30cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8323624084583045195
+    second: Cheerleader_01_0
+  - first:
+      213: 8659759286516720554
+    second: Cheerleader_01_1
+  - first:
+      213: -6148510770320232725
+    second: Cheerleader_01_2
+  - first:
+      213: 3410818364543509064
+    second: Cheerleader_01_3
+  - first:
+      213: 4814115641024318027
+    second: Cheerleader_01_4
+  - first:
+      213: -7498921143840500803
+    second: Cheerleader_01_5
+  - first:
+      213: -6019530760101957623
+    second: Cheerleader_01_6
+  - first:
+      213: -2278384232541693232
+    second: Cheerleader_01_7
+  - first:
+      213: -5552494359189952187
+    second: Cheerleader_01_8
+  - first:
+      213: 7376416465468152025
+    second: Cheerleader_01_9
+  - first:
+      213: 5694676232522280294
+    second: Cheerleader_01_10
+  - first:
+      213: -1477195661339795661
+    second: Cheerleader_01_11
+  - first:
+      213: 4409194056790316424
+    second: Cheerleader_01_12
+  - first:
+      213: 5836196687825611985
+    second: Cheerleader_01_13
+  - first:
+      213: 7999481472465139439
+    second: Cheerleader_01_14
+  - first:
+      213: 5356173688778788120
+    second: Cheerleader_01_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cheerleader_01_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 169
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4855752104738370800000000000000
+      internalID: 8323624084583045195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 169
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa328319035ad2870800000000000000
+      internalID: 8659759286516720554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 169
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee2665d70a1caaa0800000000000000
+      internalID: -6148510770320232725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 169
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842aef33b39a55f20800000000000000
+      internalID: 3410818364543509064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 113
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a08e25bac2fc240800000000000000
+      internalID: 4814115641024318027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_5
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 113
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db398be53fa7ee790800000000000000
+      internalID: -7498921143840500803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 113
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900f591aaa4567ca0800000000000000
+      internalID: -6019530760101957623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 113
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da5085ac9d8160e0800000000000000
+      internalID: -2278384232541693232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 57
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5496f177cc391f2b0800000000000000
+      internalID: -5552494359189952187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 57
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8529381bb4e5660800000000000000
+      internalID: 7376416465468152025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 57
+        width: 26
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66da95e9cdd870f40800000000000000
+      internalID: 5694676232522280294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 57
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33fd71e5f52ff7be0800000000000000
+      internalID: -1477195661339795661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88510cc32aa903d30800000000000000
+      internalID: 4409194056790316424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc282157f55ef050800000000000000
+      internalID: 5836196687825611985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe67a91240ed30f60800000000000000
+      internalID: 7999481472465139439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cheerleader_01_15
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d04fa7793f45a40800000000000000
+      internalID: 5356173688778788120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Cheerleader_01_0: 8323624084583045195
+      Cheerleader_01_1: 8659759286516720554
+      Cheerleader_01_10: 5694676232522280294
+      Cheerleader_01_11: -1477195661339795661
+      Cheerleader_01_12: 4409194056790316424
+      Cheerleader_01_13: 5836196687825611985
+      Cheerleader_01_14: 7999481472465139439
+      Cheerleader_01_15: 5356173688778788120
+      Cheerleader_01_2: -6148510770320232725
+      Cheerleader_01_3: 3410818364543509064
+      Cheerleader_01_4: 4814115641024318027
+      Cheerleader_01_5: -7498921143840500803
+      Cheerleader_01_6: -6019530760101957623
+      Cheerleader_01_7: -2278384232541693232
+      Cheerleader_01_8: -5552494359189952187
+      Cheerleader_01_9: 7376416465468152025
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 2a036f08f1be6184094da3419fb3bc49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2141186046642005520
+    second: Magic_GroundUlt_Vfx_0
+  - first:
+      213: 5378290728082790454
+    second: Magic_GroundUlt_Vfx_1
+  - first:
+      213: -8691715039284293825
+    second: Magic_GroundUlt_Vfx_2
+  - first:
+      213: 2600739974937482937
+    second: Magic_GroundUlt_Vfx_3
+  - first:
+      213: -2658881202791968963
+    second: Magic_GroundUlt_Vfx_4
+  - first:
+      213: -6475395191925857595
+    second: Magic_GroundUlt_Vfx_5
+  - first:
+      213: 8087124619035726803
+    second: Magic_GroundUlt_Vfx_6
+  - first:
+      213: -1916566960069244630
+    second: Magic_GroundUlt_Vfx_7
+  - first:
+      213: 8247763711999391435
+    second: Magic_GroundUlt_Vfx_8
+  - first:
+      213: -1280002296394978811
+    second: Magic_GroundUlt_Vfx_9
+  - first:
+      213: 2876650469117454522
+    second: Magic_GroundUlt_Vfx_10
+  - first:
+      213: -2480661508559733084
+    second: Magic_GroundUlt_Vfx_11
+  - first:
+      213: 3759429089143605085
+    second: Magic_GroundUlt_Vfx_12
+  - first:
+      213: -8130792138552132017
+    second: Magic_GroundUlt_Vfx_13
+  - first:
+      213: -7200008189735108994
+    second: Magic_GroundUlt_Vfx_14
+  - first:
+      213: -6690629828984441796
+    second: Magic_GroundUlt_Vfx_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 96
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f951e392aaf842e0800000000000000
+      internalID: -2141186046642005520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 27
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638d62afbe683aa40800000000000000
+      internalID: 5378290728082790454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 224
+        width: 78
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f0a82f833d06780800000000000000
+      internalID: -8691715039284293825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 96
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b69e475a3fa71420800000000000000
+      internalID: 2600739974937482937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_4
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 224
+        width: 57
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f0f9722a1c91bd0800000000000000
+      internalID: -2658881202791968963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 204
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2acfc8166c226a0800000000000000
+      internalID: -6475395191925857595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 216
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3d0fb5efc3b3070800000000000000
+      internalID: 8087124619035726803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 192
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2982d4118cf665e0800000000000000
+      internalID: -1916566960069244630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 162
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6b415c561f57270800000000000000
+      internalID: 8247763711999391435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 130
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a61b371b48c3ee0800000000000000
+      internalID: -1280002296394978811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_10
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 98
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8e4ba4c5aebe720800000000000000
+      internalID: 2876650469117454522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 66
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeff46408be29dd0800000000000000
+      internalID: -2480661508559733084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 34
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d57cca896dc2c2430800000000000000
+      internalID: 3759429089143605085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_13
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 25
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ebf07f0af992f80800000000000000
+      internalID: -8130792138552132017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e7feed2be641c90800000000000000
+      internalID: -7200008189735108994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_GroundUlt_Vfx_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34ffb77e9b1623a0800000000000000
+      internalID: -6690629828984441796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_GroundUlt_Vfx_0: -2141186046642005520
+      Magic_GroundUlt_Vfx_1: 5378290728082790454
+      Magic_GroundUlt_Vfx_10: 2876650469117454522
+      Magic_GroundUlt_Vfx_11: -2480661508559733084
+      Magic_GroundUlt_Vfx_12: 3759429089143605085
+      Magic_GroundUlt_Vfx_13: -8130792138552132017
+      Magic_GroundUlt_Vfx_14: -7200008189735108994
+      Magic_GroundUlt_Vfx_15: -6690629828984441796
+      Magic_GroundUlt_Vfx_2: -8691715039284293825
+      Magic_GroundUlt_Vfx_3: 2600739974937482937
+      Magic_GroundUlt_Vfx_4: -2658881202791968963
+      Magic_GroundUlt_Vfx_5: -6475395191925857595
+      Magic_GroundUlt_Vfx_6: 8087124619035726803
+      Magic_GroundUlt_Vfx_7: -1916566960069244630
+      Magic_GroundUlt_Vfx_8: 8247763711999391435
+      Magic_GroundUlt_Vfx_9: -1280002296394978811
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

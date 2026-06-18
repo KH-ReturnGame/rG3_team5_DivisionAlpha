@@ -1,0 +1,962 @@
+fileFormatVersion: 2
+guid: 44017ede47774d54ebd4f106fe412b6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 293206840694341613
+    second: Nantu_Heal_0
+  - first:
+      213: -6730712089316116755
+    second: Nantu_Heal_1
+  - first:
+      213: -7195147488147898648
+    second: Nantu_Heal_2
+  - first:
+      213: -5429510852800548090
+    second: Nantu_Heal_3
+  - first:
+      213: 1766821616877637542
+    second: Nantu_Heal_4
+  - first:
+      213: -5352665505215089063
+    second: Nantu_Heal_5
+  - first:
+      213: -7724090598860138283
+    second: Nantu_Heal_6
+  - first:
+      213: 5642027479342341805
+    second: Nantu_Heal_7
+  - first:
+      213: -5158356730404403295
+    second: Nantu_Heal_8
+  - first:
+      213: 5350643544815746168
+    second: Nantu_Heal_9
+  - first:
+      213: 4813304974110272380
+    second: Nantu_Heal_10
+  - first:
+      213: 232919877648539267
+    second: Nantu_Heal_11
+  - first:
+      213: 7247159338742243259
+    second: Nantu_Heal_12
+  - first:
+      213: -8907677664648269428
+    second: Nantu_Heal_13
+  - first:
+      213: 3081735951312542838
+    second: Nantu_Heal_14
+  - first:
+      213: -5157794792874833315
+    second: Nantu_Heal_15
+  - first:
+      213: -5072315133095621752
+    second: Nantu_Heal_16
+  - first:
+      213: -7577366297414432930
+    second: Nantu_Heal_17
+  - first:
+      213: 5331025744595043004
+    second: Nantu_Heal_18
+  - first:
+      213: -3801113765168595690
+    second: Nantu_Heal_19
+  - first:
+      213: 1164993646859119250
+    second: Nantu_Heal_20
+  - first:
+      213: -279238674825433506
+    second: Nantu_Heal_21
+  - first:
+      213: 8415672333270043074
+    second: Nantu_Heal_22
+  - first:
+      213: -2445353145297923880
+    second: Nantu_Heal_23
+  - first:
+      213: -1546642821157514740
+    second: Nantu_Heal_24
+  - first:
+      213: 1594307364520795949
+    second: Nantu_Heal_25
+  - first:
+      213: -5953314479733782271
+    second: Nantu_Heal_26
+  - first:
+      213: 193412915886501480
+    second: Nantu_Heal_27
+  - first:
+      213: 2274339505555516344
+    second: Nantu_Heal_28
+  - first:
+      213: 3383399108578041569
+    second: Nantu_Heal_29
+  - first:
+      213: 6773235532855600733
+    second: Nantu_Heal_30
+  - first:
+      213: 8115373537581462151
+    second: Nantu_Heal_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nantu_Heal_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 116
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deffc41711ea11400800000000000000
+      internalID: 293206840694341613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6b2eef305b792a0800000000000000
+      internalID: -6730712089316116755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 114
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee76662b73b52c90800000000000000
+      internalID: -7195147488147898648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603f1ba65a086a4b0800000000000000
+      internalID: -5429510852800548090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 117
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af097746e2058810800000000000000
+      internalID: 1766821616877637542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 121
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956fa28251387b5b0800000000000000
+      internalID: -5352665505215089063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 91
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8d10a36848ec490800000000000000
+      internalID: -7724090598860138283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 98
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae513789128c4e40800000000000000
+      internalID: 5642027479342341805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 138
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7008342e5d968b0800000000000000
+      internalID: -5158356730404403295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87cba7084fd414a40800000000000000
+      internalID: 5350643544815746168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 91
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ba6793f5b4cc240800000000000000
+      internalID: 4813304974110272380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 93
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e5e58056f7b3300800000000000000
+      internalID: 232919877648539267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 84
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfd2608505139460800000000000000
+      internalID: 7247159338742243259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 82
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8175f0eb52916480800000000000000
+      internalID: -8907677664648269428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 82
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67cd88d158684ca20800000000000000
+      internalID: 3081735951312542838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 85
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a065a86f4db68b0800000000000000
+      internalID: -5157794792874833315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 60
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b4ffeb2448b99b0800000000000000
+      internalID: -5072315133095621752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 61
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e578895cf79c7d690800000000000000
+      internalID: -7577366297414432930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 38
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2cc037bab9bf940800000000000000
+      internalID: 5331025744595043004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 37
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d37447b2bbf3bc0800000000000000
+      internalID: -3801113765168595690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 39
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29aef96ac83ea2010800000000000000
+      internalID: 1164993646859119250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5eaa7b97e1ff1cf0800000000000000
+      internalID: -279238674825433506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9c4a226697ac470800000000000000
+      internalID: 8415672333270043074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 28
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d01228354c501ed0800000000000000
+      internalID: -2445353145297923880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 34
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c029f727c88398ae0800000000000000
+      internalID: -1546642821157514740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f1d0dd91e102610800000000000000
+      internalID: 1594307364520795949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 36
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109474fc504916da0800000000000000
+      internalID: -5953314479733782271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_27
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 35
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e2362b5042fa200800000000000000
+      internalID: 193412915886501480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb2647fab3109f10800000000000000
+      internalID: 2274339505555516344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeda20309f34fe20800000000000000
+      internalID: 3383399108578041569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_30
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5669ebb4dd5ffd50800000000000000
+      internalID: 6773235532855600733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nantu_Heal_31
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782f52f3c399f9070800000000000000
+      internalID: 8115373537581462151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nantu_Heal_0: 293206840694341613
+      Nantu_Heal_1: -6730712089316116755
+      Nantu_Heal_10: 4813304974110272380
+      Nantu_Heal_11: 232919877648539267
+      Nantu_Heal_12: 7247159338742243259
+      Nantu_Heal_13: -8907677664648269428
+      Nantu_Heal_14: 3081735951312542838
+      Nantu_Heal_15: -5157794792874833315
+      Nantu_Heal_16: -5072315133095621752
+      Nantu_Heal_17: -7577366297414432930
+      Nantu_Heal_18: 5331025744595043004
+      Nantu_Heal_19: -3801113765168595690
+      Nantu_Heal_2: -7195147488147898648
+      Nantu_Heal_20: 1164993646859119250
+      Nantu_Heal_21: -279238674825433506
+      Nantu_Heal_22: 8415672333270043074
+      Nantu_Heal_23: -2445353145297923880
+      Nantu_Heal_24: -1546642821157514740
+      Nantu_Heal_25: 1594307364520795949
+      Nantu_Heal_26: -5953314479733782271
+      Nantu_Heal_27: 193412915886501480
+      Nantu_Heal_28: 2274339505555516344
+      Nantu_Heal_29: 3383399108578041569
+      Nantu_Heal_3: -5429510852800548090
+      Nantu_Heal_30: 6773235532855600733
+      Nantu_Heal_31: 8115373537581462151
+      Nantu_Heal_4: 1766821616877637542
+      Nantu_Heal_5: -5352665505215089063
+      Nantu_Heal_6: -7724090598860138283
+      Nantu_Heal_7: 5642027479342341805
+      Nantu_Heal_8: -5158356730404403295
+      Nantu_Heal_9: 5350643544815746168
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: 1db4771333294c14b8d80432749004e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5744797394100710020
+    second: SS_Ep1_z_chef_seek_0
+  - first:
+      213: -7604272644083159664
+    second: SS_Ep1_z_chef_seek_1
+  - first:
+      213: -7957752781429969749
+    second: SS_Ep1_z_chef_seek_2
+  - first:
+      213: 1103817154155438272
+    second: SS_Ep1_z_chef_seek_3
+  - first:
+      213: 2105587137005400633
+    second: SS_Ep1_z_chef_seek_4
+  - first:
+      213: -3374832109487089669
+    second: SS_Ep1_z_chef_seek_5
+  - first:
+      213: 1461821080896586820
+    second: SS_Ep1_z_chef_seek_6
+  - first:
+      213: -3637952058738878564
+    second: SS_Ep1_z_chef_seek_7
+  - first:
+      213: 5593492180409354388
+    second: SS_Ep1_z_chef_seek_8
+  - first:
+      213: 3966012987184609745
+    second: SS_Ep1_z_chef_seek_9
+  - first:
+      213: 308431193225801378
+    second: SS_Ep1_z_chef_seek_10
+  - first:
+      213: 766493113109886988
+    second: SS_Ep1_z_chef_seek_11
+  - first:
+      213: -522191842880334217
+    second: SS_Ep1_z_chef_seek_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_seek_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 355
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a66fdeace99bf40800000000000000
+      internalID: 5744797394100710020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_seek_1
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 355
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09de332c152387690800000000000000
+      internalID: -7604272644083159664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_seek_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 355
+        width: 91
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac6d7cd102609190800000000000000
+      internalID: -7957752781429969749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_seek_3
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 355
+        width: 92
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0ea6a7adb815f00800000000000000
+      internalID: 1103817154155438272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_seek_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 237
+        width: 88
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932b6d0685c883d10800000000000000
+      internalID: 2105587137005400633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_seek_5
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 237
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf79079b3103a21d0800000000000000
+      internalID: -3374832109487089669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_seek_6
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 237
+        width: 83
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444c40c278e694410800000000000000
+      internalID: 1461821080896586820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_seek_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 237
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97d7f490e5638dc0800000000000000
+      internalID: -3637952058738878564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_seek_8
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 119
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4988933a08310ad40800000000000000
+      internalID: 5593492180409354388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_seek_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 119
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d979bb8ccb1a0730800000000000000
+      internalID: 3966012987184609745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_seek_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 119
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeafdd3984c74400800000000000000
+      internalID: 308431193225801378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_seek_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 119
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08b2b1ec6123aa00800000000000000
+      internalID: 766493113109886988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_chef_seek_12
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1
+        width: 82
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776d28c194dc0c8f0800000000000000
+      internalID: -522191842880334217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep1_z_chef_seek_0: 5744797394100710020
+      SS_Ep1_z_chef_seek_1: -7604272644083159664
+      SS_Ep1_z_chef_seek_10: 308431193225801378
+      SS_Ep1_z_chef_seek_11: 766493113109886988
+      SS_Ep1_z_chef_seek_12: -522191842880334217
+      SS_Ep1_z_chef_seek_2: -7957752781429969749
+      SS_Ep1_z_chef_seek_3: 1103817154155438272
+      SS_Ep1_z_chef_seek_4: 2105587137005400633
+      SS_Ep1_z_chef_seek_5: -3374832109487089669
+      SS_Ep1_z_chef_seek_6: 1461821080896586820
+      SS_Ep1_z_chef_seek_7: -3637952058738878564
+      SS_Ep1_z_chef_seek_8: 5593492180409354388
+      SS_Ep1_z_chef_seek_9: 3966012987184609745
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: b8f6ef2be3a311948acece5560b4c760
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -991941556920943531
+    second: YANAH3_Skill_Splashgun2_0_0
+  - first:
+      213: -8433903097949559918
+    second: YANAH3_Skill_Splashgun2_0_1
+  - first:
+      213: 3157266857140869062
+    second: YANAH3_Skill_Splashgun2_0_2
+  - first:
+      213: 2627010973554343821
+    second: YANAH3_Skill_Splashgun2_0_3
+  - first:
+      213: 3614835635382906600
+    second: YANAH3_Skill_Splashgun2_0_4
+  - first:
+      213: -7770714728808546765
+    second: YANAH3_Skill_Splashgun2_0_5
+  - first:
+      213: -2159772954857223787
+    second: YANAH3_Skill_Splashgun2_0_6
+  - first:
+      213: -6735627936035792882
+    second: YANAH3_Skill_Splashgun2_0_7
+  - first:
+      213: 5507450380672088601
+    second: YANAH3_Skill_Splashgun2_0_8
+  - first:
+      213: -1433494539150716177
+    second: YANAH3_Skill_Splashgun2_0_9
+  - first:
+      213: -534997376473375992
+    second: YANAH3_Skill_Splashgun2_0_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YANAH3_Skill_Splashgun2_0_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 46
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c77c5d86aeb32f0800000000000000
+      internalID: -991941556920943531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_Splashgun2_0_1
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 85
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29366a031d1c4fa80800000000000000
+      internalID: -8433903097949559918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_Splashgun2_0_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 56
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7def88a7dd0db20800000000000000
+      internalID: 3157266857140869062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_Splashgun2_0_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f72cbdf84057420800000000000000
+      internalID: 2627010973554343821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_Splashgun2_0_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 81
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeeb60bbd97a2230800000000000000
+      internalID: 3614835635382906600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_Splashgun2_0_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 35
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e787a0020e82490800000000000000
+      internalID: -7770714728808546765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_Splashgun2_0_6
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 48
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5994d36c0f1f602e0800000000000000
+      internalID: -2159772954857223787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_Splashgun2_0_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08936d341e3682a0800000000000000
+      internalID: -6735627936035792882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_Splashgun2_0_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91abc0601f46e6c40800000000000000
+      internalID: 5507450380672088601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_Splashgun2_0_9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 8
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe29576cf443b1ce0800000000000000
+      internalID: -1433494539150716177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_Splashgun2_0_10
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bd98b78be4398f0800000000000000
+      internalID: -534997376473375992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YANAH3_Skill_Splashgun2_0_0: -991941556920943531
+      YANAH3_Skill_Splashgun2_0_1: -8433903097949559918
+      YANAH3_Skill_Splashgun2_0_10: -534997376473375992
+      YANAH3_Skill_Splashgun2_0_2: 3157266857140869062
+      YANAH3_Skill_Splashgun2_0_3: 2627010973554343821
+      YANAH3_Skill_Splashgun2_0_4: 3614835635382906600
+      YANAH3_Skill_Splashgun2_0_5: -7770714728808546765
+      YANAH3_Skill_Splashgun2_0_6: -2159772954857223787
+      YANAH3_Skill_Splashgun2_0_7: -6735627936035792882
+      YANAH3_Skill_Splashgun2_0_8: 5507450380672088601
+      YANAH3_Skill_Splashgun2_0_9: -1433494539150716177
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

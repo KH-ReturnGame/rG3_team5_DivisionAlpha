@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: bf58ef60c286d3242b7ce0404e4affc2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3073914170519256534
+    second: aooni_Galaxy_SeahGrabSpawn_0
+  - first:
+      213: 3002770639246093896
+    second: aooni_Galaxy_SeahGrabSpawn_1
+  - first:
+      213: 6605877574767107089
+    second: aooni_Galaxy_SeahGrabSpawn_2
+  - first:
+      213: -2846960070345654165
+    second: aooni_Galaxy_SeahGrabSpawn_3
+  - first:
+      213: -851556961097569381
+    second: aooni_Galaxy_SeahGrabSpawn_4
+  - first:
+      213: -352857492013412358
+    second: aooni_Galaxy_SeahGrabSpawn_5
+  - first:
+      213: -7270240698298653998
+    second: aooni_Galaxy_SeahGrabSpawn_6
+  - first:
+      213: 4927992600776149111
+    second: aooni_Galaxy_SeahGrabSpawn_7
+  - first:
+      213: 6182685914489687530
+    second: aooni_Galaxy_SeahGrabSpawn_8
+  - first:
+      213: 2066229886180024867
+    second: aooni_Galaxy_SeahGrabSpawn_9
+  - first:
+      213: 6518880206876364021
+    second: aooni_Galaxy_SeahGrabSpawn_10
+  - first:
+      213: 8307417350061176518
+    second: aooni_Galaxy_SeahGrabSpawn_11
+  - first:
+      213: 3115967364610164526
+    second: aooni_Galaxy_SeahGrabSpawn_12
+  - first:
+      213: -1795119930328890654
+    second: aooni_Galaxy_SeahGrabSpawn_13
+  - first:
+      213: -3881863320489841876
+    second: aooni_Galaxy_SeahGrabSpawn_14
+  - first:
+      213: 1091915677537253663
+    second: aooni_Galaxy_SeahGrabSpawn_15
+  - first:
+      213: -6675601842751211982
+    second: aooni_Galaxy_SeahGrabSpawn_16
+  - first:
+      213: 2784055388867601977
+    second: aooni_Galaxy_SeahGrabSpawn_17
+  - first:
+      213: 3955637049401891167
+    second: aooni_Galaxy_SeahGrabSpawn_18
+  - first:
+      213: 1450818293402574773
+    second: aooni_Galaxy_SeahGrabSpawn_19
+  - first:
+      213: -7542678439954452920
+    second: aooni_Galaxy_SeahGrabSpawn_20
+  - first:
+      213: -8764198918350842903
+    second: aooni_Galaxy_SeahGrabSpawn_21
+  - first:
+      213: 3273704892197510716
+    second: aooni_Galaxy_SeahGrabSpawn_22
+  - first:
+      213: 2336607687009444461
+    second: aooni_Galaxy_SeahGrabSpawn_23
+  - first:
+      213: -3521353574670092671
+    second: aooni_Galaxy_SeahGrabSpawn_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 93
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddf6dbd6acb8aa20800000000000000
+      internalID: 3073914170519256534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 81
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e6c3eacfbfba920800000000000000
+      internalID: 3002770639246093896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 78
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c56b1a7aaccab50800000000000000
+      internalID: 6605877574767107089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 93
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60835d56e09d78d0800000000000000
+      internalID: -2846960070345654165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 81
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ba4c3a479ae24f0800000000000000
+      internalID: -851556961097569381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 78
+        width: 8
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff84340bf56a1bf0800000000000000
+      internalID: -352857492013412358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 93
+        width: 8
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d22252ba9aea1b90800000000000000
+      internalID: -7270240698298653998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 81
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7780409292fb36440800000000000000
+      internalID: 4927992600776149111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 78
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed08faf4105dc550800000000000000
+      internalID: 6182685914489687530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_9
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 93
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3226e065229bcac10800000000000000
+      internalID: 2066229886180024867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 81
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fcc0387207b77a50800000000000000
+      internalID: 6518880206876364021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 78
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c63057b010e94370800000000000000
+      internalID: 8307417350061176518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 81
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e278c4b1fc32e3b20800000000000000
+      internalID: 3115967364610164526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 78
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2c58f2fe37617e0800000000000000
+      internalID: -1795119930328890654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_14
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 15
+        width: 8
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ba59380e9d02ac0800000000000000
+      internalID: -3881863320489841876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_15
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19b9440683472f00800000000000000
+      internalID: 1091915677537253663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_16
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236fedc2e7f7b53a0800000000000000
+      internalID: -6675601842751211982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_17
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936277820a3f2a620800000000000000
+      internalID: 2784055388867601977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3
+        width: 8
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5959f540fe35e630800000000000000
+      internalID: 3955637049401891167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_19
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf16e31d87522410800000000000000
+      internalID: 1450818293402574773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_20
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 8
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e6483fbe5035790800000000000000
+      internalID: -7542678439954452920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 3
+        width: 8
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3d5dab48f4f5680800000000000000
+      internalID: -8764198918350842903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_22
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e14ee21498e6d20800000000000000
+      internalID: 3273704892197510716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_23
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6225abbf4c4d6020800000000000000
+      internalID: 2336607687009444461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_SeahGrabSpawn_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186bc3da493a12fc0800000000000000
+      internalID: -3521353574670092671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aooni_Galaxy_SeahGrabSpawn_0: 3073914170519256534
+      aooni_Galaxy_SeahGrabSpawn_1: 3002770639246093896
+      aooni_Galaxy_SeahGrabSpawn_10: 6518880206876364021
+      aooni_Galaxy_SeahGrabSpawn_11: 8307417350061176518
+      aooni_Galaxy_SeahGrabSpawn_12: 3115967364610164526
+      aooni_Galaxy_SeahGrabSpawn_13: -1795119930328890654
+      aooni_Galaxy_SeahGrabSpawn_14: -3881863320489841876
+      aooni_Galaxy_SeahGrabSpawn_15: 1091915677537253663
+      aooni_Galaxy_SeahGrabSpawn_16: -6675601842751211982
+      aooni_Galaxy_SeahGrabSpawn_17: 2784055388867601977
+      aooni_Galaxy_SeahGrabSpawn_18: 3955637049401891167
+      aooni_Galaxy_SeahGrabSpawn_19: 1450818293402574773
+      aooni_Galaxy_SeahGrabSpawn_2: 6605877574767107089
+      aooni_Galaxy_SeahGrabSpawn_20: -7542678439954452920
+      aooni_Galaxy_SeahGrabSpawn_21: -8764198918350842903
+      aooni_Galaxy_SeahGrabSpawn_22: 3273704892197510716
+      aooni_Galaxy_SeahGrabSpawn_23: 2336607687009444461
+      aooni_Galaxy_SeahGrabSpawn_24: -3521353574670092671
+      aooni_Galaxy_SeahGrabSpawn_3: -2846960070345654165
+      aooni_Galaxy_SeahGrabSpawn_4: -851556961097569381
+      aooni_Galaxy_SeahGrabSpawn_5: -352857492013412358
+      aooni_Galaxy_SeahGrabSpawn_6: -7270240698298653998
+      aooni_Galaxy_SeahGrabSpawn_7: 4927992600776149111
+      aooni_Galaxy_SeahGrabSpawn_8: 6182685914489687530
+      aooni_Galaxy_SeahGrabSpawn_9: 2066229886180024867
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

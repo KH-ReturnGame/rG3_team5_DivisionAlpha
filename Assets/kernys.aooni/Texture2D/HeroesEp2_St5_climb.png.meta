@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: df3b873db31683b4b8f05a969860a81d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6269418700236508492
+    second: HeroesEp2_St5_climb_0
+  - first:
+      213: 3027766735976255915
+    second: HeroesEp2_St5_climb_1
+  - first:
+      213: 4756574506776709135
+    second: HeroesEp2_St5_climb_2
+  - first:
+      213: -4303203749398863096
+    second: HeroesEp2_St5_climb_3
+  - first:
+      213: 3180303467610581639
+    second: HeroesEp2_St5_climb_4
+  - first:
+      213: 2535110354795850089
+    second: HeroesEp2_St5_climb_5
+  - first:
+      213: 8807375618202393440
+    second: HeroesEp2_St5_climb_6
+  - first:
+      213: -4524287242440446457
+    second: HeroesEp2_St5_climb_7
+  - first:
+      213: -841465381188550604
+    second: HeroesEp2_St5_climb_8
+  - first:
+      213: 2542734086358706412
+    second: HeroesEp2_St5_climb_9
+  - first:
+      213: 7071442042189194219
+    second: HeroesEp2_St5_climb_10
+  - first:
+      213: 4376448693487952229
+    second: HeroesEp2_St5_climb_11
+  - first:
+      213: 3887138687734782700
+    second: HeroesEp2_St5_climb_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp2_St5_climb_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 157
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dc9cf4713710750800000000000000
+      internalID: 6269418700236508492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_St5_climb_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 156
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1db98fdc9c40a20800000000000000
+      internalID: 3027766735976255915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_St5_climb_2
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 157
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08ca10005fb20240800000000000000
+      internalID: 4756574506776709135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_St5_climb_3
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 156
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 803a3f04df2f744c0800000000000000
+      internalID: -4303203749398863096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_St5_climb_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 116
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a2fd06725b22c20800000000000000
+      internalID: 3180303467610581639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_St5_climb_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 53
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9696504af658e2320800000000000000
+      internalID: 2535110354795850089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_St5_climb_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 52
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06bd36616751a3a70800000000000000
+      internalID: 8807375618202393440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_St5_climb_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 53
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70e618449b08631c0800000000000000
+      internalID: -4524287242440446457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_St5_climb_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 52
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430c77fa1b38254f0800000000000000
+      internalID: -841465381188550604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_St5_climb_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce820b7fd2b994320800000000000000
+      internalID: 2542734086358706412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_St5_climb_10
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3237e321fc22260800000000000000
+      internalID: 7071442042189194219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_St5_climb_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561621936e44cbc30800000000000000
+      internalID: 4376448693487952229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_St5_climb_12
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea1c13aa04e1f530800000000000000
+      internalID: 3887138687734782700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp2_St5_climb_0: 6269418700236508492
+      HeroesEp2_St5_climb_1: 3027766735976255915
+      HeroesEp2_St5_climb_10: 7071442042189194219
+      HeroesEp2_St5_climb_11: 4376448693487952229
+      HeroesEp2_St5_climb_12: 3887138687734782700
+      HeroesEp2_St5_climb_2: 4756574506776709135
+      HeroesEp2_St5_climb_3: -4303203749398863096
+      HeroesEp2_St5_climb_4: 3180303467610581639
+      HeroesEp2_St5_climb_5: 2535110354795850089
+      HeroesEp2_St5_climb_6: 8807375618202393440
+      HeroesEp2_St5_climb_7: -4524287242440446457
+      HeroesEp2_St5_climb_8: -841465381188550604
+      HeroesEp2_St5_climb_9: 2542734086358706412
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

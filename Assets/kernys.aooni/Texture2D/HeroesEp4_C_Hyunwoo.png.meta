@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: fcb00f66dffc96646a5658690c6fe3b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6215328872695581547
+    second: HeroesEp4_C_Hyunwoo_0
+  - first:
+      213: 3967193966281619054
+    second: HeroesEp4_C_Hyunwoo_1
+  - first:
+      213: 4259101925923727960
+    second: HeroesEp4_C_Hyunwoo_2
+  - first:
+      213: -4173091249472624455
+    second: HeroesEp4_C_Hyunwoo_3
+  - first:
+      213: 6259282442362918915
+    second: HeroesEp4_C_Hyunwoo_4
+  - first:
+      213: 2873856213500968266
+    second: HeroesEp4_C_Hyunwoo_5
+  - first:
+      213: 4803487471003712903
+    second: HeroesEp4_C_Hyunwoo_6
+  - first:
+      213: 5296186660088357287
+    second: HeroesEp4_C_Hyunwoo_7
+  - first:
+      213: 5708001887994960926
+    second: HeroesEp4_C_Hyunwoo_8
+  - first:
+      213: 6500293301573662313
+    second: HeroesEp4_C_Hyunwoo_9
+  - first:
+      213: 9124621061292095652
+    second: HeroesEp4_C_Hyunwoo_10
+  - first:
+      213: 6451955279646737553
+    second: HeroesEp4_C_Hyunwoo_11
+  - first:
+      213: -453150541344609778
+    second: HeroesEp4_C_Hyunwoo_12
+  - first:
+      213: -4754028486987791112
+    second: HeroesEp4_C_Hyunwoo_13
+  - first:
+      213: 7905090794687947652
+    second: HeroesEp4_C_Hyunwoo_14
+  - first:
+      213: 7180897002109706400
+    second: HeroesEp4_C_Hyunwoo_15
+  - first:
+      213: 6503847509152385133
+    second: HeroesEp4_C_Hyunwoo_16
+  - first:
+      213: -4880481390361593113
+    second: HeroesEp4_C_Hyunwoo_17
+  - first:
+      213: -7171070890502183828
+    second: HeroesEp4_C_Hyunwoo_18
+  - first:
+      213: 875923005805073197
+    second: HeroesEp4_C_Hyunwoo_19
+  - first:
+      213: -7044807223493104889
+    second: HeroesEp4_C_Hyunwoo_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 141
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59430cc0257beb9a0800000000000000
+      internalID: -6215328872695581547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 142
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e66f94ba4ed4e0730800000000000000
+      internalID: 3967193966281619054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 139
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aaddcc2ae5b1b30800000000000000
+      internalID: 4259101925923727960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_3
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 141
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8a4eb5e933616c0800000000000000
+      internalID: -4173091249472624455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_4
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 142
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30891edd7307dd650800000000000000
+      internalID: 6259282442362918915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 139
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d3645fffcf1e720800000000000000
+      internalID: 2873856213500968266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_6
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 141
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d3738a76a69a240800000000000000
+      internalID: 4803487471003712903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 71
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a1aabaf4b5df7940800000000000000
+      internalID: 5296186660088357287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_8
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 71
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1cd23f8975e63f40800000000000000
+      internalID: 5708001887994960926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 71
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9663628515ea53a50800000000000000
+      internalID: 6500293301573662313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_10
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 71
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8fc5cc28a21ae70800000000000000
+      internalID: 9124621061292095652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_11
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 71
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194cc069423f98950800000000000000
+      internalID: 6451955279646737553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_12
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 71
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ae069cbf516b9f0800000000000000
+      internalID: -453150541344609778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_13
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 71
+        width: 29
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4410d674c460eb0800000000000000
+      internalID: -4754028486987791112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483e59ed13684bd60800000000000000
+      internalID: 7905090794687947652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0aa6307cba7a360800000000000000
+      internalID: 7180897002109706400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d684658c9de424a50800000000000000
+      internalID: 6503847509152385133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_17
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eab79a880c054cb0800000000000000
+      internalID: -4880481390361593113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 2
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c642970e40d3b7c90800000000000000
+      internalID: -7171070890502183828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d239a9b3557e72c00800000000000000
+      internalID: 875923005805073197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Hyunwoo_20
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b669cb721db3e90800000000000000
+      internalID: -7044807223493104889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp4_C_Hyunwoo_0: -6215328872695581547
+      HeroesEp4_C_Hyunwoo_1: 3967193966281619054
+      HeroesEp4_C_Hyunwoo_10: 9124621061292095652
+      HeroesEp4_C_Hyunwoo_11: 6451955279646737553
+      HeroesEp4_C_Hyunwoo_12: -453150541344609778
+      HeroesEp4_C_Hyunwoo_13: -4754028486987791112
+      HeroesEp4_C_Hyunwoo_14: 7905090794687947652
+      HeroesEp4_C_Hyunwoo_15: 7180897002109706400
+      HeroesEp4_C_Hyunwoo_16: 6503847509152385133
+      HeroesEp4_C_Hyunwoo_17: -4880481390361593113
+      HeroesEp4_C_Hyunwoo_18: -7171070890502183828
+      HeroesEp4_C_Hyunwoo_19: 875923005805073197
+      HeroesEp4_C_Hyunwoo_2: 4259101925923727960
+      HeroesEp4_C_Hyunwoo_20: -7044807223493104889
+      HeroesEp4_C_Hyunwoo_3: -4173091249472624455
+      HeroesEp4_C_Hyunwoo_4: 6259282442362918915
+      HeroesEp4_C_Hyunwoo_5: 2873856213500968266
+      HeroesEp4_C_Hyunwoo_6: 4803487471003712903
+      HeroesEp4_C_Hyunwoo_7: 5296186660088357287
+      HeroesEp4_C_Hyunwoo_8: 5708001887994960926
+      HeroesEp4_C_Hyunwoo_9: 6500293301573662313
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

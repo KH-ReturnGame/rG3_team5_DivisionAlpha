@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: 33c840d13b1a58344be3d179bdc50482
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4004807844948557964
+    second: Magic_Spell_Water_HitParticle_0
+  - first:
+      213: 3889045030382019777
+    second: Magic_Spell_Water_HitParticle_1
+  - first:
+      213: -3601521599778392784
+    second: Magic_Spell_Water_HitParticle_2
+  - first:
+      213: -972415967730446694
+    second: Magic_Spell_Water_HitParticle_3
+  - first:
+      213: 5349529884938927144
+    second: Magic_Spell_Water_HitParticle_4
+  - first:
+      213: 8222329477192591869
+    second: Magic_Spell_Water_HitParticle_5
+  - first:
+      213: -7818204397722397641
+    second: Magic_Spell_Water_HitParticle_6
+  - first:
+      213: 1584007650187371359
+    second: Magic_Spell_Water_HitParticle_7
+  - first:
+      213: 755427520531750911
+    second: Magic_Spell_Water_HitParticle_8
+  - first:
+      213: -7435614587692165453
+    second: Magic_Spell_Water_HitParticle_9
+  - first:
+      213: 1532301321174332434
+    second: Magic_Spell_Water_HitParticle_10
+  - first:
+      213: 4350423256802291719
+    second: Magic_Spell_Water_HitParticle_11
+  - first:
+      213: 3082800404278890484
+    second: Magic_Spell_Water_HitParticle_12
+  - first:
+      213: 3802585174645034941
+    second: Magic_Spell_Water_HitParticle_13
+  - first:
+      213: -1688773891419272399
+    second: Magic_Spell_Water_HitParticle_14
+  - first:
+      213: -9079734397253852435
+    second: Magic_Spell_Water_HitParticle_15
+  - first:
+      213: 5659739192836515253
+    second: Magic_Spell_Water_HitParticle_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 50
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c804bdf348fe39730800000000000000
+      internalID: 4004807844948557964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 58
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c42b6f99d9a8f530800000000000000
+      internalID: 3889045030382019777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 70
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035ff4acf23d40ec0800000000000000
+      internalID: -3601521599778392784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 70
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e428554d84182f0800000000000000
+      internalID: -972415967730446694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 69
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cfe1b56195d3a40800000000000000
+      internalID: 5349529884938927144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 61
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9a94288159b1270800000000000000
+      internalID: 8222329477192591869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_6
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 47
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7341c5cd588208390800000000000000
+      internalID: -7818204397722397641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 25
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f536beeb0968bf510800000000000000
+      internalID: 1584007650187371359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 25
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff59d6d351db7a00800000000000000
+      internalID: 755427520531750911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 28
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b655e59de36fc890800000000000000
+      internalID: -7435614587692165453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 27
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2143571eee3d34510800000000000000
+      internalID: 1532301321174332434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 26
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7007c4c07eecf5c30800000000000000
+      internalID: 4350423256802291719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff497262ae48ca20800000000000000
+      internalID: 3082800404278890484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf42e2c11f75c430800000000000000
+      internalID: 3802585174645034941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b0000e7154098e0800000000000000
+      internalID: -1688773891419272399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_15
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2e9c41cad4ef180800000000000000
+      internalID: -9079734397253852435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_Water_HitParticle_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5606e2fce6b8e40800000000000000
+      internalID: 5659739192836515253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Spell_Water_HitParticle_0: 4004807844948557964
+      Magic_Spell_Water_HitParticle_1: 3889045030382019777
+      Magic_Spell_Water_HitParticle_10: 1532301321174332434
+      Magic_Spell_Water_HitParticle_11: 4350423256802291719
+      Magic_Spell_Water_HitParticle_12: 3082800404278890484
+      Magic_Spell_Water_HitParticle_13: 3802585174645034941
+      Magic_Spell_Water_HitParticle_14: -1688773891419272399
+      Magic_Spell_Water_HitParticle_15: -9079734397253852435
+      Magic_Spell_Water_HitParticle_16: 5659739192836515253
+      Magic_Spell_Water_HitParticle_2: -3601521599778392784
+      Magic_Spell_Water_HitParticle_3: -972415967730446694
+      Magic_Spell_Water_HitParticle_4: 5349529884938927144
+      Magic_Spell_Water_HitParticle_5: 8222329477192591869
+      Magic_Spell_Water_HitParticle_6: -7818204397722397641
+      Magic_Spell_Water_HitParticle_7: 1584007650187371359
+      Magic_Spell_Water_HitParticle_8: 755427520531750911
+      Magic_Spell_Water_HitParticle_9: -7435614587692165453
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
