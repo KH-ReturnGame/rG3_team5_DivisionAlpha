@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 33c722ced17e2334fac74d334db90a90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8687179538149722225
+    second: painter_Red3_0
+  - first:
+      213: 4116407498389422959
+    second: painter_Red3_1
+  - first:
+      213: 5023454768030856441
+    second: painter_Red3_2
+  - first:
+      213: -8415421788867757376
+    second: painter_Red3_3
+  - first:
+      213: -2207813740055322448
+    second: painter_Red3_4
+  - first:
+      213: 5821289113035575823
+    second: painter_Red3_5
+  - first:
+      213: -7546358584973825947
+    second: painter_Red3_6
+  - first:
+      213: 3334226276478813992
+    second: painter_Red3_7
+  - first:
+      213: 5924615712162557805
+    second: painter_Red3_8
+  - first:
+      213: 7622407027222957620
+    second: painter_Red3_9
+  - first:
+      213: 6911686426479122516
+    second: painter_Red3_10
+  - first:
+      213: -5317708513988235377
+    second: painter_Red3_11
+  - first:
+      213: -2027393457186513547
+    second: painter_Red3_12
+  - first:
+      213: 7214696252863630929
+    second: painter_Red3_13
+  - first:
+      213: -292078850766979738
+    second: painter_Red3_14
+  - first:
+      213: 2147435167253182331
+    second: painter_Red3_15
+  - first:
+      213: -1389648823759694328
+    second: painter_Red3_16
+  - first:
+      213: -7358207202761771295
+    second: painter_Red3_17
+  - first:
+      213: 3524241426545553226
+    second: painter_Red3_18
+  - first:
+      213: -3058690028547982343
+    second: painter_Red3_19
+  - first:
+      213: -1237645703446647610
+    second: painter_Red3_20
+  - first:
+      213: -7591994050673053161
+    second: painter_Red3_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: painter_Red3_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 116
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f873b889c30f07780800000000000000
+      internalID: -8687179538149722225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6381446fca602930800000000000000
+      internalID: 4116407498389422959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4b8b10f75e6b540800000000000000
+      internalID: 5023454768030856441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca7477487a663b80800000000000000
+      internalID: -8415421788867757376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0a6c5d9154c51e0800000000000000
+      internalID: -2207813740055322448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 56
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0295551b9f59c050800000000000000
+      internalID: 5821289113035575823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 60
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5686aea69d2f54790800000000000000
+      internalID: -7546358584973825947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 49
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8270b4a022d854e20800000000000000
+      internalID: 3334226276478813992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6fa52aa996783250800000000000000
+      internalID: 5924615712162557805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 40
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ec0175eca38c960800000000000000
+      internalID: 7622407027222957620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 47
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4585d296f2e3bef50800000000000000
+      internalID: 6911686426479122516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 44
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f29ace744b336b0800000000000000
+      internalID: -5317708513988235377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 37
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d527c64604dd3e0800000000000000
+      internalID: -2027393457186513547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 39
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e47425400cf1460800000000000000
+      internalID: 7214696252863630929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d31ad25d352fbf0800000000000000
+      internalID: -292078850766979738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 28
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b77be4238e83dcd10800000000000000
+      internalID: 2147435167253182331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 11
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8069349e1c9f6bce0800000000000000
+      internalID: -1389648823759694328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 35
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e6f9a7d88562e990800000000000000
+      internalID: -7358207202761771295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 8
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fa6fbb7ee98e030800000000000000
+      internalID: 3524241426545553226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb3e5aef995d85d0800000000000000
+      internalID: -3058690028547982343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc26404acff2dee0800000000000000
+      internalID: -1237645703446647610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter_Red3_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712f0c092a1d3a690800000000000000
+      internalID: -7591994050673053161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      painter_Red3_0: -8687179538149722225
+      painter_Red3_1: 4116407498389422959
+      painter_Red3_10: 6911686426479122516
+      painter_Red3_11: -5317708513988235377
+      painter_Red3_12: -2027393457186513547
+      painter_Red3_13: 7214696252863630929
+      painter_Red3_14: -292078850766979738
+      painter_Red3_15: 2147435167253182331
+      painter_Red3_16: -1389648823759694328
+      painter_Red3_17: -7358207202761771295
+      painter_Red3_18: 3524241426545553226
+      painter_Red3_19: -3058690028547982343
+      painter_Red3_2: 5023454768030856441
+      painter_Red3_20: -1237645703446647610
+      painter_Red3_21: -7591994050673053161
+      painter_Red3_3: -8415421788867757376
+      painter_Red3_4: -2207813740055322448
+      painter_Red3_5: 5821289113035575823
+      painter_Red3_6: -7546358584973825947
+      painter_Red3_7: 3334226276478813992
+      painter_Red3_8: 5924615712162557805
+      painter_Red3_9: 7622407027222957620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 4c37f89f0a6016c4b840c07852ed8679
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6576877882830018138
+    second: GardenParty_DottedLine_0
+  - first:
+      213: -8380919040251063299
+    second: GardenParty_DottedLine_1
+  - first:
+      213: 5277380833990864690
+    second: GardenParty_DottedLine_2
+  - first:
+      213: 1771800102118148375
+    second: GardenParty_DottedLine_3
+  - first:
+      213: -4164128172676095730
+    second: GardenParty_DottedLine_4
+  - first:
+      213: -7618478563619032197
+    second: GardenParty_DottedLine_5
+  - first:
+      213: -5781613786813341863
+    second: GardenParty_DottedLine_6
+  - first:
+      213: -2167364688953604946
+    second: GardenParty_DottedLine_7
+  - first:
+      213: 4188409766376326544
+    second: GardenParty_DottedLine_8
+  - first:
+      213: -3177171912276041385
+    second: GardenParty_DottedLine_9
+  - first:
+      213: -9088092706292158279
+    second: GardenParty_DottedLine_10
+  - first:
+      213: 7941621912719042747
+    second: GardenParty_DottedLine_11
+  - first:
+      213: -7508757004113499264
+    second: GardenParty_DottedLine_12
+  - first:
+      213: 7071172684997828096
+    second: GardenParty_DottedLine_13
+  - first:
+      213: 6402208516214209524
+    second: GardenParty_DottedLine_14
+  - first:
+      213: 7802977337960024207
+    second: GardenParty_DottedLine_15
+  - first:
+      213: 7128883165704809529
+    second: GardenParty_DottedLine_16
+  - first:
+      213: 922707836122553653
+    second: GardenParty_DottedLine_17
+  - first:
+      213: -8774736897539107998
+    second: GardenParty_DottedLine_18
+  - first:
+      213: -892428542395928406
+    second: GardenParty_DottedLine_19
+  - first:
+      213: 7347884685504822632
+    second: GardenParty_DottedLine_20
+  - first:
+      213: -9128820746695510775
+    second: GardenParty_DottedLine_21
+  - first:
+      213: -5235493342169796828
+    second: GardenParty_DottedLine_22
+  - first:
+      213: 6559157131140962755
+    second: GardenParty_DottedLine_23
+  - first:
+      213: 5790582980084978340
+    second: GardenParty_DottedLine_24
+  - first:
+      213: -7172314887729365628
+    second: GardenParty_DottedLine_25
+  - first:
+      213: -3979903269319933017
+    second: GardenParty_DottedLine_26
+  - first:
+      213: -2829653334695648353
+    second: GardenParty_DottedLine_27
+  - first:
+      213: -2668000389298857401
+    second: GardenParty_DottedLine_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 311
+        width: 4
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a92bce496c3ab4a0800000000000000
+      internalID: -6576877882830018138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 305
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df31782798ef0bb80800000000000000
+      internalID: -8380919040251063299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 299
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fea7268e50d3940800000000000000
+      internalID: 5277380833990864690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719c0c33ec2b69810800000000000000
+      internalID: 1771800102118148375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 4
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01e17c4d7b0636c0800000000000000
+      internalID: -4164128172676095730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b733f8e5c1ab54690800000000000000
+      internalID: -7618478563619032197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 203
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f5d78a4e493cfa0800000000000000
+      internalID: -5781613786813341863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 185
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea402307c49fbe1e0800000000000000
+      internalID: -2167364688953604946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09543aacd78302a30800000000000000
+      internalID: 4188409766376326544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751207aaafa68e3d0800000000000000
+      internalID: -3177171912276041385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b033ab95db90e180800000000000000
+      internalID: -9088092706292158279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 131
+        width: 4
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a3189d0f463e60800000000000000
+      internalID: 7941621912719042747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 113
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ba611b9498bc790800000000000000
+      internalID: -7508757004113499264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e9db2a71ad12260800000000000000
+      internalID: 7071172684997828096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbbde2a9b639d850800000000000000
+      internalID: 6402208516214209524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88c7830c8eb94c60800000000000000
+      internalID: 7802977337960024207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ce8110871eee260800000000000000
+      internalID: 7128883165704809529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ddd8363ed1ecc00800000000000000
+      internalID: 922707836122553653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2631ba0484fd93680800000000000000
+      internalID: -8774736897539107998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 71
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0321f08f47d93f0800000000000000
+      internalID: -892428542395928406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86d3c02d03ee8f560800000000000000
+      internalID: 7347884685504822632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9057ffeb5e9ef4180800000000000000
+      internalID: -9128820746695510775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42feb0c4b8ac757b0800000000000000
+      internalID: -5235493342169796828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 47
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c990aba8aec60b50800000000000000
+      internalID: 6559157131140962755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a253626a884c5050800000000000000
+      internalID: 5790582980084978340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 4
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d35a33c91d67c90800000000000000
+      internalID: -7172314887729365628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a305cf101b84c8c0800000000000000
+      internalID: -3979903269319933017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9367f3c84d0bb8d0800000000000000
+      internalID: -2829653334695648353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenParty_DottedLine_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74adc3718cb59fad0800000000000000
+      internalID: -2668000389298857401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GardenParty_DottedLine_0: -6576877882830018138
+      GardenParty_DottedLine_1: -8380919040251063299
+      GardenParty_DottedLine_10: -9088092706292158279
+      GardenParty_DottedLine_11: 7941621912719042747
+      GardenParty_DottedLine_12: -7508757004113499264
+      GardenParty_DottedLine_13: 7071172684997828096
+      GardenParty_DottedLine_14: 6402208516214209524
+      GardenParty_DottedLine_15: 7802977337960024207
+      GardenParty_DottedLine_16: 7128883165704809529
+      GardenParty_DottedLine_17: 922707836122553653
+      GardenParty_DottedLine_18: -8774736897539107998
+      GardenParty_DottedLine_19: -892428542395928406
+      GardenParty_DottedLine_2: 5277380833990864690
+      GardenParty_DottedLine_20: 7347884685504822632
+      GardenParty_DottedLine_21: -9128820746695510775
+      GardenParty_DottedLine_22: -5235493342169796828
+      GardenParty_DottedLine_23: 6559157131140962755
+      GardenParty_DottedLine_24: 5790582980084978340
+      GardenParty_DottedLine_25: -7172314887729365628
+      GardenParty_DottedLine_26: -3979903269319933017
+      GardenParty_DottedLine_27: -2829653334695648353
+      GardenParty_DottedLine_28: -2668000389298857401
+      GardenParty_DottedLine_3: 1771800102118148375
+      GardenParty_DottedLine_4: -4164128172676095730
+      GardenParty_DottedLine_5: -7618478563619032197
+      GardenParty_DottedLine_6: -5781613786813341863
+      GardenParty_DottedLine_7: -2167364688953604946
+      GardenParty_DottedLine_8: 4188409766376326544
+      GardenParty_DottedLine_9: -3177171912276041385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: ad08a94cec38aff47a0d6c5a56d313be
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7753509421804434263
+    second: HeroesEp3_C_Dust_0
+  - first:
+      213: -2219580698037890925
+    second: HeroesEp3_C_Dust_1
+  - first:
+      213: -507118604873016412
+    second: HeroesEp3_C_Dust_2
+  - first:
+      213: -7004669187939451843
+    second: HeroesEp3_C_Dust_3
+  - first:
+      213: -5603998664630396771
+    second: HeroesEp3_C_Dust_4
+  - first:
+      213: -1483602448672383043
+    second: HeroesEp3_C_Dust_5
+  - first:
+      213: -1923714681060366647
+    second: HeroesEp3_C_Dust_6
+  - first:
+      213: 291752018935327319
+    second: HeroesEp3_C_Dust_7
+  - first:
+      213: -4299176533345585009
+    second: HeroesEp3_C_Dust_8
+  - first:
+      213: -6080625091643802819
+    second: HeroesEp3_C_Dust_9
+  - first:
+      213: 9165263956852461278
+    second: HeroesEp3_C_Dust_10
+  - first:
+      213: -1082669982674244354
+    second: HeroesEp3_C_Dust_11
+  - first:
+      213: -6195868370796704702
+    second: HeroesEp3_C_Dust_12
+  - first:
+      213: -8212983147504360195
+    second: HeroesEp3_C_Dust_13
+  - first:
+      213: -7950209500802307232
+    second: HeroesEp3_C_Dust_14
+  - first:
+      213: 6460611657421239352
+    second: HeroesEp3_C_Dust_15
+  - first:
+      213: -2370886103021116161
+    second: HeroesEp3_C_Dust_16
+  - first:
+      213: -1668525728384551814
+    second: HeroesEp3_C_Dust_17
+  - first:
+      213: -2983981593165022921
+    second: HeroesEp3_C_Dust_18
+  - first:
+      213: -8532452863316774620
+    second: HeroesEp3_C_Dust_19
+  - first:
+      213: -8633323946888319141
+    second: HeroesEp3_C_Dust_20
+  - first:
+      213: -2705710206410013335
+    second: HeroesEp3_C_Dust_21
+  - first:
+      213: 2411339807133023571
+    second: HeroesEp3_C_Dust_22
+  - first:
+      213: -6339088202650806516
+    second: HeroesEp3_C_Dust_23
+  - first:
+      213: -9057406404447559835
+    second: HeroesEp3_C_Dust_24
+  - first:
+      213: 6827546920217746022
+    second: HeroesEp3_C_Dust_25
+  - first:
+      213: 2799071287831037918
+    second: HeroesEp3_C_Dust_26
+  - first:
+      213: -5801836607071638583
+    second: HeroesEp3_C_Dust_27
+  - first:
+      213: 3235822631390309711
+    second: HeroesEp3_C_Dust_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7533c414dbff99b60800000000000000
+      internalID: 7753509421804434263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 44
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390532f6d177231e0800000000000000
+      internalID: -2219580698037890925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab5d81d05a56f8f0800000000000000
+      internalID: -507118604873016412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cbeb36c7a6ace90800000000000000
+      internalID: -7004669187939451843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 45
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9811f0e7e89a32b0800000000000000
+      internalID: -5603998664630396771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 45
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf9bf2fe6f296be0800000000000000
+      internalID: -1483602448672383043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 36
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6613a90b79d45e0800000000000000
+      internalID: -1923714681060366647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_7
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 38
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75aa42b5ae28c0400800000000000000
+      internalID: 291752018935327319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 47
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88bd3f88b14654c0800000000000000
+      internalID: -4299176533345585009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 38
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b7e3812b74d9ba0800000000000000
+      internalID: -6080625091643802819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 39
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edec1e4520f813f70800000000000000
+      internalID: 9165263956852461278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc29b1136599f0f0800000000000000
+      internalID: -1082669982674244354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c859b3b8ad30aa0800000000000000
+      internalID: -6195868370796704702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_13
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4abb2775f950e80800000000000000
+      internalID: -8212983147504360195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b2ebeb49e2ba190800000000000000
+      internalID: -7950209500802307232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_15
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 14
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83437589214b8a950800000000000000
+      internalID: 6460611657421239352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_16
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 14
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4248a96abe81fd0800000000000000
+      internalID: -2370886103021116161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 20
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74f905b0b438d8e0800000000000000
+      internalID: -1668525728384551814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73938130d84c696d0800000000000000
+      internalID: -2983981593165022921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_19
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 13
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4213d33e353a69980800000000000000
+      internalID: -8532452863316774620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_20
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 13
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f29d29c95403880800000000000000
+      internalID: -8633323946888319141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 18
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96548c917e2637ad0800000000000000
+      internalID: -2705710206410013335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 13
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35d3cec57ccc67120800000000000000
+      internalID: 2411339807133023571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_23
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 21
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0711299dd80708a0800000000000000
+      internalID: -6339088202650806516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 10
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f1e840dd0ad4280800000000000000
+      internalID: -9057406404447559835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 21
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a14e200c150ce50800000000000000
+      internalID: 6827546920217746022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed70a24918c48d620800000000000000
+      internalID: 2799071287831037918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 12
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb23a6685cbb7fa0800000000000000
+      internalID: -5801836607071638583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Dust_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 10
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d60340a83f7ec20800000000000000
+      internalID: 3235822631390309711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp3_C_Dust_0: 7753509421804434263
+      HeroesEp3_C_Dust_1: -2219580698037890925
+      HeroesEp3_C_Dust_10: 9165263956852461278
+      HeroesEp3_C_Dust_11: -1082669982674244354
+      HeroesEp3_C_Dust_12: -6195868370796704702
+      HeroesEp3_C_Dust_13: -8212983147504360195
+      HeroesEp3_C_Dust_14: -7950209500802307232
+      HeroesEp3_C_Dust_15: 6460611657421239352
+      HeroesEp3_C_Dust_16: -2370886103021116161
+      HeroesEp3_C_Dust_17: -1668525728384551814
+      HeroesEp3_C_Dust_18: -2983981593165022921
+      HeroesEp3_C_Dust_19: -8532452863316774620
+      HeroesEp3_C_Dust_2: -507118604873016412
+      HeroesEp3_C_Dust_20: -8633323946888319141
+      HeroesEp3_C_Dust_21: -2705710206410013335
+      HeroesEp3_C_Dust_22: 2411339807133023571
+      HeroesEp3_C_Dust_23: -6339088202650806516
+      HeroesEp3_C_Dust_24: -9057406404447559835
+      HeroesEp3_C_Dust_25: 6827546920217746022
+      HeroesEp3_C_Dust_26: 2799071287831037918
+      HeroesEp3_C_Dust_27: -5801836607071638583
+      HeroesEp3_C_Dust_28: 3235822631390309711
+      HeroesEp3_C_Dust_3: -7004669187939451843
+      HeroesEp3_C_Dust_4: -5603998664630396771
+      HeroesEp3_C_Dust_5: -1483602448672383043
+      HeroesEp3_C_Dust_6: -1923714681060366647
+      HeroesEp3_C_Dust_7: 291752018935327319
+      HeroesEp3_C_Dust_8: -4299176533345585009
+      HeroesEp3_C_Dust_9: -6080625091643802819
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

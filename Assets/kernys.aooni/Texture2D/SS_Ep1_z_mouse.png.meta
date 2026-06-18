@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 43bbffa01e359a54d911557fc7bb812b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3860800869568484334
+    second: SS_Ep1_z_mouse_0
+  - first:
+      213: -8099681062611568282
+    second: SS_Ep1_z_mouse_1
+  - first:
+      213: -7899130697680571055
+    second: SS_Ep1_z_mouse_2
+  - first:
+      213: -5506193764074756873
+    second: SS_Ep1_z_mouse_3
+  - first:
+      213: 7625998591406042446
+    second: SS_Ep1_z_mouse_4
+  - first:
+      213: 7533098451800912482
+    second: SS_Ep1_z_mouse_5
+  - first:
+      213: -7900074761665151045
+    second: SS_Ep1_z_mouse_6
+  - first:
+      213: 3044714108086217234
+    second: SS_Ep1_z_mouse_7
+  - first:
+      213: -4325877503119704135
+    second: SS_Ep1_z_mouse_8
+  - first:
+      213: -8156888271386136732
+    second: SS_Ep1_z_mouse_9
+  - first:
+      213: -2533974879153721388
+    second: SS_Ep1_z_mouse_10
+  - first:
+      213: -2973134064704376817
+    second: SS_Ep1_z_mouse_11
+  - first:
+      213: 6572627621102506165
+    second: SS_Ep1_z_mouse_12
+  - first:
+      213: 6825137568755653915
+    second: SS_Ep1_z_mouse_13
+  - first:
+      213: -2120172219812719703
+    second: SS_Ep1_z_mouse_14
+  - first:
+      213: -5118604123926680848
+    second: SS_Ep1_z_mouse_15
+  - first:
+      213: -4287520091968416192
+    second: SS_Ep1_z_mouse_16
+  - first:
+      213: 4052161434543866913
+    second: SS_Ep1_z_mouse_17
+  - first:
+      213: -1873357825542280205
+    second: SS_Ep1_z_mouse_18
+  - first:
+      213: -4879275970100832179
+    second: SS_Ep1_z_mouse_19
+  - first:
+      213: -705808914366854890
+    second: SS_Ep1_z_mouse_20
+  - first:
+      213: -7477992200292588415
+    second: SS_Ep1_z_mouse_21
+  - first:
+      213: 4207274692435467195
+    second: SS_Ep1_z_mouse_22
+  - first:
+      213: 2378701253657619355
+    second: SS_Ep1_z_mouse_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 202
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3162b7fe1549530800000000000000
+      internalID: 3860800869568484334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 202
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669341dccf6289f80800000000000000
+      internalID: -8099681062611568282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 202
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155bd5a5b76a06290800000000000000
+      internalID: -7899130697680571055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 202
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f46ad3d1f11693b0800000000000000
+      internalID: -5506193764074756873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 163
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4de26a805df4d960800000000000000
+      internalID: 7625998591406042446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 163
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26273ad3121fa8860800000000000000
+      internalID: 7533098451800912482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 163
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf7be35cdb4d5290800000000000000
+      internalID: -7900074761665151045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_7
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 163
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a6917895ff04a20800000000000000
+      internalID: 3044714108086217234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 120
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf32b4945567f3c0800000000000000
+      internalID: -4325877503119704135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 120
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46faa7f8559ecce80800000000000000
+      internalID: -8156888271386136732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_10
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 121
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df6742e54385dcd0800000000000000
+      internalID: -2533974879153721388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_11
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 121
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00beab025e4db6d0800000000000000
+      internalID: -2973134064704376817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 82
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b05cb48ff9a63b50800000000000000
+      internalID: 6572627621102506165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_13
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 80
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d9ad82572c7be50800000000000000
+      internalID: 6825137568755653915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_14
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 82
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a359676992a392e0800000000000000
+      internalID: -2120172219812719703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_15
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 80
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa20873ba017f8b0800000000000000
+      internalID: -5118604123926680848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0465fde413baf74c0800000000000000
+      internalID: -4287520091968416192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_17
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 43
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124468efa5b2c3830800000000000000
+      internalID: 4052161434543866913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 43
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbaa5fabfe7006e0800000000000000
+      internalID: -1873357825542280205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 43
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d485a015b54594cb0800000000000000
+      internalID: -4879275970100832179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 0
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6190cdb28867436f0800000000000000
+      internalID: -705808914366854890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_21
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1842b64c6b5d83890800000000000000
+      internalID: -7477992200292588415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_22
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 0
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbb5b1baa0e336a30800000000000000
+      internalID: 4207274692435467195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_z_mouse_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 0
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9be903ff28d20120800000000000000
+      internalID: 2378701253657619355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep1_z_mouse_0: 3860800869568484334
+      SS_Ep1_z_mouse_1: -8099681062611568282
+      SS_Ep1_z_mouse_10: -2533974879153721388
+      SS_Ep1_z_mouse_11: -2973134064704376817
+      SS_Ep1_z_mouse_12: 6572627621102506165
+      SS_Ep1_z_mouse_13: 6825137568755653915
+      SS_Ep1_z_mouse_14: -2120172219812719703
+      SS_Ep1_z_mouse_15: -5118604123926680848
+      SS_Ep1_z_mouse_16: -4287520091968416192
+      SS_Ep1_z_mouse_17: 4052161434543866913
+      SS_Ep1_z_mouse_18: -1873357825542280205
+      SS_Ep1_z_mouse_19: -4879275970100832179
+      SS_Ep1_z_mouse_2: -7899130697680571055
+      SS_Ep1_z_mouse_20: -705808914366854890
+      SS_Ep1_z_mouse_21: -7477992200292588415
+      SS_Ep1_z_mouse_22: 4207274692435467195
+      SS_Ep1_z_mouse_23: 2378701253657619355
+      SS_Ep1_z_mouse_3: -5506193764074756873
+      SS_Ep1_z_mouse_4: 7625998591406042446
+      SS_Ep1_z_mouse_5: 7533098451800912482
+      SS_Ep1_z_mouse_6: -7900074761665151045
+      SS_Ep1_z_mouse_7: 3044714108086217234
+      SS_Ep1_z_mouse_8: -4325877503119704135
+      SS_Ep1_z_mouse_9: -8156888271386136732
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

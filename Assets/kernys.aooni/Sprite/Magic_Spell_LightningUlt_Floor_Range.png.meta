@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 4018dcf2ce0addf498142efa5afd8cc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3441903519936774568
+    second: Magic_Spell_LightningUlt_Floor_Range_0
+  - first:
+      213: -1135905265933613692
+    second: Magic_Spell_LightningUlt_Floor_Range_1
+  - first:
+      213: 7593386955222754924
+    second: Magic_Spell_LightningUlt_Floor_Range_2
+  - first:
+      213: 815693584306313152
+    second: Magic_Spell_LightningUlt_Floor_Range_3
+  - first:
+      213: 5587522771940453481
+    second: Magic_Spell_LightningUlt_Floor_Range_4
+  - first:
+      213: 8512067270458795781
+    second: Magic_Spell_LightningUlt_Floor_Range_5
+  - first:
+      213: 995588446931837862
+    second: Magic_Spell_LightningUlt_Floor_Range_6
+  - first:
+      213: 5304548754271493825
+    second: Magic_Spell_LightningUlt_Floor_Range_7
+  - first:
+      213: 5459058776574703466
+    second: Magic_Spell_LightningUlt_Floor_Range_8
+  - first:
+      213: -220628960184213826
+    second: Magic_Spell_LightningUlt_Floor_Range_9
+  - first:
+      213: 4382618237636721019
+    second: Magic_Spell_LightningUlt_Floor_Range_10
+  - first:
+      213: 684943690502184408
+    second: Magic_Spell_LightningUlt_Floor_Range_11
+  - first:
+      213: -3191007727591665673
+    second: Magic_Spell_LightningUlt_Floor_Range_12
+  - first:
+      213: 1606511949103291043
+    second: Magic_Spell_LightningUlt_Floor_Range_13
+  - first:
+      213: 1572842280608285903
+    second: Magic_Spell_LightningUlt_Floor_Range_14
+  - first:
+      213: -5032864508614580870
+    second: Magic_Spell_LightningUlt_Floor_Range_15
+  - first:
+      213: -7422716804614772121
+    second: Magic_Spell_LightningUlt_Floor_Range_16
+  - first:
+      213: -6612317424709385806
+    second: Magic_Spell_LightningUlt_Floor_Range_17
+  - first:
+      213: -8107817474534215648
+    second: Magic_Spell_LightningUlt_Floor_Range_18
+  - first:
+      213: 9022315220746465337
+    second: Magic_Spell_LightningUlt_Floor_Range_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a18ff0f30914cf20800000000000000
+      internalID: 3441903519936774568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 124
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485088dcd247c30f0800000000000000
+      internalID: -1135905265933613692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 124
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66232c4431216960800000000000000
+      internalID: 7593386955222754924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 124
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c794224efce15b00800000000000000
+      internalID: 815693584306313152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 124
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96caaeb6b5eda8d40800000000000000
+      internalID: 5587522771940453481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507ece76510f02670800000000000000
+      internalID: 8512067270458795781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3ead9ea6a01dd00800000000000000
+      internalID: 995588446931837862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 82
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ced710ccfa8d9940800000000000000
+      internalID: 5304548754271493825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67b6b1b80972cb40800000000000000
+      internalID: 5459058776574703466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 66
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe5e01312b20fcf0800000000000000
+      internalID: -220628960184213826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b793c78211032dc30800000000000000
+      internalID: 4382618237636721019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_11
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 50
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd178358a8618900800000000000000
+      internalID: 684943690502184408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ff4f51e06347b3d0800000000000000
+      internalID: -3191007727591665673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aad8b52b1a7b4610800000000000000
+      internalID: 1606511949103291043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc44f5f88bbd3d510800000000000000
+      internalID: 1572842280608285903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 34
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a756b59056ca72ab0800000000000000
+      internalID: -5032864508614580870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a2d98b4663df890800000000000000
+      internalID: -7422716804614772121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_17
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b14216f5545c34a0800000000000000
+      internalID: -6612317424709385806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_18
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020fea6c6fe3b7f80800000000000000
+      internalID: -8107817474534215648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningUlt_Floor_Range_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930713814e3b53d70800000000000000
+      internalID: 9022315220746465337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Spell_LightningUlt_Floor_Range_0: 3441903519936774568
+      Magic_Spell_LightningUlt_Floor_Range_1: -1135905265933613692
+      Magic_Spell_LightningUlt_Floor_Range_10: 4382618237636721019
+      Magic_Spell_LightningUlt_Floor_Range_11: 684943690502184408
+      Magic_Spell_LightningUlt_Floor_Range_12: -3191007727591665673
+      Magic_Spell_LightningUlt_Floor_Range_13: 1606511949103291043
+      Magic_Spell_LightningUlt_Floor_Range_14: 1572842280608285903
+      Magic_Spell_LightningUlt_Floor_Range_15: -5032864508614580870
+      Magic_Spell_LightningUlt_Floor_Range_16: -7422716804614772121
+      Magic_Spell_LightningUlt_Floor_Range_17: -6612317424709385806
+      Magic_Spell_LightningUlt_Floor_Range_18: -8107817474534215648
+      Magic_Spell_LightningUlt_Floor_Range_19: 9022315220746465337
+      Magic_Spell_LightningUlt_Floor_Range_2: 7593386955222754924
+      Magic_Spell_LightningUlt_Floor_Range_3: 815693584306313152
+      Magic_Spell_LightningUlt_Floor_Range_4: 5587522771940453481
+      Magic_Spell_LightningUlt_Floor_Range_5: 8512067270458795781
+      Magic_Spell_LightningUlt_Floor_Range_6: 995588446931837862
+      Magic_Spell_LightningUlt_Floor_Range_7: 5304548754271493825
+      Magic_Spell_LightningUlt_Floor_Range_8: 5459058776574703466
+      Magic_Spell_LightningUlt_Floor_Range_9: -220628960184213826
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

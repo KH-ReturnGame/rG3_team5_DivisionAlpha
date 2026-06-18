@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: c2c4a66907b66964a811790116aa3b70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 661347133579967620
+    second: InfEvo_PulseBomb_Explosion_3_0
+  - first:
+      213: 5334766471592729169
+    second: InfEvo_PulseBomb_Explosion_3_1
+  - first:
+      213: 3133234026525355320
+    second: InfEvo_PulseBomb_Explosion_3_2
+  - first:
+      213: 4445112149586354765
+    second: InfEvo_PulseBomb_Explosion_3_3
+  - first:
+      213: -933521811208219969
+    second: InfEvo_PulseBomb_Explosion_3_4
+  - first:
+      213: -7676770720694446363
+    second: InfEvo_PulseBomb_Explosion_3_5
+  - first:
+      213: -4857567294438349279
+    second: InfEvo_PulseBomb_Explosion_3_6
+  - first:
+      213: 5137153771962942467
+    second: InfEvo_PulseBomb_Explosion_3_7
+  - first:
+      213: -804071753724977088
+    second: InfEvo_PulseBomb_Explosion_3_8
+  - first:
+      213: 6887839025752600039
+    second: InfEvo_PulseBomb_Explosion_3_9
+  - first:
+      213: -3249909025013090834
+    second: InfEvo_PulseBomb_Explosion_3_10
+  - first:
+      213: -5659052683795158644
+    second: InfEvo_PulseBomb_Explosion_3_11
+  - first:
+      213: -6113985349375664764
+    second: InfEvo_PulseBomb_Explosion_3_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InfEvo_PulseBomb_Explosion_3_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 68
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cb14ac6b39d2900800000000000000
+      internalID: 661347133579967620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_PulseBomb_Explosion_3_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 78
+        width: 54
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ad2f257d5e80a40800000000000000
+      internalID: 5334766471592729169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_PulseBomb_Explosion_3_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 46
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83de53d1fbb7b7b20800000000000000
+      internalID: 3133234026525355320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_PulseBomb_Explosion_3_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 31
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d422ed6e2f530bd30800000000000000
+      internalID: 4445112149586354765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_PulseBomb_Explosion_3_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 48
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2dad4dbd67b03f0800000000000000
+      internalID: -933521811208219969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_PulseBomb_Explosion_3_5
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 58
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e653eae3b1a67590800000000000000
+      internalID: -7676770720694446363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_PulseBomb_Explosion_3_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126627e3844769cb0800000000000000
+      internalID: -4857567294438349279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_PulseBomb_Explosion_3_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304c8664326da4740800000000000000
+      internalID: 5137153771962942467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_PulseBomb_Explosion_3_8
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 6
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0402c49000d57d4f0800000000000000
+      internalID: -804071753724977088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_PulseBomb_Explosion_3_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed6e00c915869f50800000000000000
+      internalID: 6887839025752600039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_PulseBomb_Explosion_3_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 21
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee532c3e5f006e2d0800000000000000
+      internalID: -3249909025013090834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_PulseBomb_Explosion_3_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c892b2921910771b0800000000000000
+      internalID: -5659052683795158644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_PulseBomb_Explosion_3_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d5580d7b2c62ba0800000000000000
+      internalID: -6113985349375664764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InfEvo_PulseBomb_Explosion_3_0: 661347133579967620
+      InfEvo_PulseBomb_Explosion_3_1: 5334766471592729169
+      InfEvo_PulseBomb_Explosion_3_10: -3249909025013090834
+      InfEvo_PulseBomb_Explosion_3_11: -5659052683795158644
+      InfEvo_PulseBomb_Explosion_3_12: -6113985349375664764
+      InfEvo_PulseBomb_Explosion_3_2: 3133234026525355320
+      InfEvo_PulseBomb_Explosion_3_3: 4445112149586354765
+      InfEvo_PulseBomb_Explosion_3_4: -933521811208219969
+      InfEvo_PulseBomb_Explosion_3_5: -7676770720694446363
+      InfEvo_PulseBomb_Explosion_3_6: -4857567294438349279
+      InfEvo_PulseBomb_Explosion_3_7: 5137153771962942467
+      InfEvo_PulseBomb_Explosion_3_8: -804071753724977088
+      InfEvo_PulseBomb_Explosion_3_9: 6887839025752600039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

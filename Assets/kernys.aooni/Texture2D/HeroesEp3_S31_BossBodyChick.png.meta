@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: cd0d1d5aa55a59049b70ccd0290c4b1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3681183084773929643
+    second: HeroesEp3_S31_BossBodyChick_0
+  - first:
+      213: -3893093391008671701
+    second: HeroesEp3_S31_BossBodyChick_1
+  - first:
+      213: -1090823031399702514
+    second: HeroesEp3_S31_BossBodyChick_2
+  - first:
+      213: 2370926897386547361
+    second: HeroesEp3_S31_BossBodyChick_3
+  - first:
+      213: 1691502630916414892
+    second: HeroesEp3_S31_BossBodyChick_4
+  - first:
+      213: 3319019549838618040
+    second: HeroesEp3_S31_BossBodyChick_5
+  - first:
+      213: -853058635536122868
+    second: HeroesEp3_S31_BossBodyChick_6
+  - first:
+      213: 7600861766227983542
+    second: HeroesEp3_S31_BossBodyChick_7
+  - first:
+      213: -7116150107426984050
+    second: HeroesEp3_S31_BossBodyChick_8
+  - first:
+      213: 4805535779055082359
+    second: HeroesEp3_S31_BossBodyChick_9
+  - first:
+      213: 8749975495403666844
+    second: HeroesEp3_S31_BossBodyChick_10
+  - first:
+      213: -7258864428732024097
+    second: HeroesEp3_S31_BossBodyChick_11
+  - first:
+      213: -269123857863460645
+    second: HeroesEp3_S31_BossBodyChick_12
+  - first:
+      213: 6925094693282936055
+    second: HeroesEp3_S31_BossBodyChick_13
+  - first:
+      213: -3310442989173699068
+    second: HeroesEp3_S31_BossBodyChick_14
+  - first:
+      213: 2343899605363465564
+    second: HeroesEp3_S31_BossBodyChick_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 224
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d8fd6fc7fc9ecc0800000000000000
+      internalID: -3681183084773929643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 226
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28d187ff24f8f9c0800000000000000
+      internalID: -3893093391008671701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 226
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e002b9c7b3e9cd0f0800000000000000
+      internalID: -1090823031399702514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_3
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 226
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8e423937937e020800000000000000
+      internalID: 2370926897386547361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_4
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 226
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad596c4eac697710800000000000000
+      internalID: 1691502630916414892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_5
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 113
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd25b612b68f0e20800000000000000
+      internalID: 3319019549838618040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 104
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c3a40d0b35924f0800000000000000
+      internalID: -853058635536122868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_7
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 112
+        width: 63
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bcfdda518fab7960800000000000000
+      internalID: 7600861766227983542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_8
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 133
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8fe4762e2b5e3d90800000000000000
+      internalID: -7116150107426984050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 120
+        width: 53
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b120a8451b0b240800000000000000
+      internalID: 4805535779055082359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 121
+        width: 53
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d78ec8a582e6970800000000000000
+      internalID: 8749975495403666844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 123
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda75bcd245534b90800000000000000
+      internalID: -7258864428732024097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 121
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd83773f641e34cf0800000000000000
+      internalID: -269123857863460645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 18
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4721dcee0ea1060800000000000000
+      internalID: 6925094693282936055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 18
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e8e1d04a1fe02d0800000000000000
+      internalID: -3310442989173699068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_BossBodyChick_15
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 18
+        width: 53
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d1ed6c544378020800000000000000
+      internalID: 2343899605363465564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp3_S31_BossBodyChick_0: -3681183084773929643
+      HeroesEp3_S31_BossBodyChick_1: -3893093391008671701
+      HeroesEp3_S31_BossBodyChick_10: 8749975495403666844
+      HeroesEp3_S31_BossBodyChick_11: -7258864428732024097
+      HeroesEp3_S31_BossBodyChick_12: -269123857863460645
+      HeroesEp3_S31_BossBodyChick_13: 6925094693282936055
+      HeroesEp3_S31_BossBodyChick_14: -3310442989173699068
+      HeroesEp3_S31_BossBodyChick_15: 2343899605363465564
+      HeroesEp3_S31_BossBodyChick_2: -1090823031399702514
+      HeroesEp3_S31_BossBodyChick_3: 2370926897386547361
+      HeroesEp3_S31_BossBodyChick_4: 1691502630916414892
+      HeroesEp3_S31_BossBodyChick_5: 3319019549838618040
+      HeroesEp3_S31_BossBodyChick_6: -853058635536122868
+      HeroesEp3_S31_BossBodyChick_7: 7600861766227983542
+      HeroesEp3_S31_BossBodyChick_8: -7116150107426984050
+      HeroesEp3_S31_BossBodyChick_9: 4805535779055082359
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 21c59f0f6c67dc6489034cb49284e131
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6572440079977535585
+    second: CircusS2_ChickenAttack2_0
+  - first:
+      213: 369964065841738054
+    second: CircusS2_ChickenAttack2_1
+  - first:
+      213: -4408041272395060305
+    second: CircusS2_ChickenAttack2_2
+  - first:
+      213: -3396945506920133279
+    second: CircusS2_ChickenAttack2_3
+  - first:
+      213: 4877728389369188120
+    second: CircusS2_ChickenAttack2_4
+  - first:
+      213: -8564135135099107947
+    second: CircusS2_ChickenAttack2_5
+  - first:
+      213: -1603109864013441384
+    second: CircusS2_ChickenAttack2_6
+  - first:
+      213: -2340115242155742061
+    second: CircusS2_ChickenAttack2_7
+  - first:
+      213: -4782028744755687509
+    second: CircusS2_ChickenAttack2_8
+  - first:
+      213: -1845672310062342565
+    second: CircusS2_ChickenAttack2_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CircusS2_ChickenAttack2_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 235
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97266dc1900ac4a0800000000000000
+      internalID: -6572440079977535585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_ChickenAttack2_1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 234
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641f7249b50622500800000000000000
+      internalID: 369964065841738054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_ChickenAttack2_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faba1ab41dd73d2c0800000000000000
+      internalID: -4408041272395060305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_ChickenAttack2_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 161
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d8aaa2f00abd0d0800000000000000
+      internalID: -3396945506920133279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_ChickenAttack2_4
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 95
+        width: 37
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f4037702c21b340800000000000000
+      internalID: 4877728389369188120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_ChickenAttack2_5
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 182
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595c9f72874162980800000000000000
+      internalID: -8564135135099107947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_ChickenAttack2_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 97
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896dd83821c90c9e0800000000000000
+      internalID: -1603109864013441384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_ChickenAttack2_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c64d1f59d368fd0800000000000000
+      internalID: -2340115242155742061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_ChickenAttack2_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 68
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf41236132d2adb0800000000000000
+      internalID: -4782028744755687509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_ChickenAttack2_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e95f210dad266e0800000000000000
+      internalID: -1845672310062342565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CircusS2_ChickenAttack2_0: -6572440079977535585
+      CircusS2_ChickenAttack2_1: 369964065841738054
+      CircusS2_ChickenAttack2_2: -4408041272395060305
+      CircusS2_ChickenAttack2_3: -3396945506920133279
+      CircusS2_ChickenAttack2_4: 4877728389369188120
+      CircusS2_ChickenAttack2_5: -8564135135099107947
+      CircusS2_ChickenAttack2_6: -1603109864013441384
+      CircusS2_ChickenAttack2_7: -2340115242155742061
+      CircusS2_ChickenAttack2_8: -4782028744755687509
+      CircusS2_ChickenAttack2_9: -1845672310062342565
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 460b2d2a1c9b5b74d8d52dcce57f53e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2411563937264895962
+    second: SS_Ep2_MysteryOlivia_Dance_0
+  - first:
+      213: 3062307065443169696
+    second: SS_Ep2_MysteryOlivia_Dance_1
+  - first:
+      213: 4061115353383599606
+    second: SS_Ep2_MysteryOlivia_Dance_2
+  - first:
+      213: 4659486119920971246
+    second: SS_Ep2_MysteryOlivia_Dance_3
+  - first:
+      213: 6471616891765764544
+    second: SS_Ep2_MysteryOlivia_Dance_4
+  - first:
+      213: -8741784750015996413
+    second: SS_Ep2_MysteryOlivia_Dance_5
+  - first:
+      213: 4055027629156078688
+    second: SS_Ep2_MysteryOlivia_Dance_6
+  - first:
+      213: -4926031277956802298
+    second: SS_Ep2_MysteryOlivia_Dance_7
+  - first:
+      213: 1004898196871365124
+    second: SS_Ep2_MysteryOlivia_Dance_8
+  - first:
+      213: 6083723521167646033
+    second: SS_Ep2_MysteryOlivia_Dance_9
+  - first:
+      213: -1420981686513408238
+    second: SS_Ep2_MysteryOlivia_Dance_10
+  - first:
+      213: 8385014464652826147
+    second: SS_Ep2_MysteryOlivia_Dance_11
+  - first:
+      213: -5452738586424095467
+    second: SS_Ep2_MysteryOlivia_Dance_12
+  - first:
+      213: -2118064077908141461
+    second: SS_Ep2_MysteryOlivia_Dance_13
+  - first:
+      213: 417269289319779367
+    second: SS_Ep2_MysteryOlivia_Dance_14
+  - first:
+      213: -6903917902568102419
+    second: SS_Ep2_MysteryOlivia_Dance_15
+  - first:
+      213: 5157365880774596285
+    second: SS_Ep2_MysteryOlivia_Dance_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 71
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad701d9bf98977120800000000000000
+      internalID: 2411563937264895962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 71
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5b8ec1d008f7a20800000000000000
+      internalID: 3062307065443169696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 71
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd705ea5eafb5830800000000000000
+      internalID: 4061115353383599606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 71
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeda0c560f1d9a040800000000000000
+      internalID: 4659486119920971246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 71
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1bd14664dcfc950800000000000000
+      internalID: 6471616891765764544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_5
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 71
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30e9e58f511fea680800000000000000
+      internalID: -8741784750015996413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 71
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0641e3ee42a564830800000000000000
+      internalID: 4055027629156078688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_7
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 71
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609dbe4e6a833abb0800000000000000
+      internalID: -4926031277956802298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402c2fbf59d12fd00800000000000000
+      internalID: 1004898196871365124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_9
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 45
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dd2ee3f4abd6450800000000000000
+      internalID: 6083723521167646033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 43
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217680f4fa8a74ce0800000000000000
+      internalID: -1420981686513408238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326d42ada3e8d5470800000000000000
+      internalID: 8385014464652826147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d402f352bf354b0800000000000000
+      internalID: -5452738586424095467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a15c071ff1b92e0800000000000000
+      internalID: -2118064077908141461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1
+        width: 24
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cc59535307ac500800000000000000
+      internalID: 417269289319779367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 29
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5e7f20f3b5030a0800000000000000
+      internalID: -6903917902568102419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryOlivia_Dance_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 31
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db61a4491f4a29740800000000000000
+      internalID: 5157365880774596285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep2_MysteryOlivia_Dance_0: 2411563937264895962
+      SS_Ep2_MysteryOlivia_Dance_1: 3062307065443169696
+      SS_Ep2_MysteryOlivia_Dance_10: -1420981686513408238
+      SS_Ep2_MysteryOlivia_Dance_11: 8385014464652826147
+      SS_Ep2_MysteryOlivia_Dance_12: -5452738586424095467
+      SS_Ep2_MysteryOlivia_Dance_13: -2118064077908141461
+      SS_Ep2_MysteryOlivia_Dance_14: 417269289319779367
+      SS_Ep2_MysteryOlivia_Dance_15: -6903917902568102419
+      SS_Ep2_MysteryOlivia_Dance_16: 5157365880774596285
+      SS_Ep2_MysteryOlivia_Dance_2: 4061115353383599606
+      SS_Ep2_MysteryOlivia_Dance_3: 4659486119920971246
+      SS_Ep2_MysteryOlivia_Dance_4: 6471616891765764544
+      SS_Ep2_MysteryOlivia_Dance_5: -8741784750015996413
+      SS_Ep2_MysteryOlivia_Dance_6: 4055027629156078688
+      SS_Ep2_MysteryOlivia_Dance_7: -4926031277956802298
+      SS_Ep2_MysteryOlivia_Dance_8: 1004898196871365124
+      SS_Ep2_MysteryOlivia_Dance_9: 6083723521167646033
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

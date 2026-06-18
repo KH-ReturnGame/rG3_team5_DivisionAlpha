@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 7f43c812d809d464188ee7758eefe1e1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7804556232689964422
+    second: Division_Ep3_GKeeper_ExDash_4_0
+  - first:
+      213: 3717322270580144575
+    second: Division_Ep3_GKeeper_ExDash_4_1
+  - first:
+      213: -8411650178536667529
+    second: Division_Ep3_GKeeper_ExDash_4_2
+  - first:
+      213: -4584980376684688427
+    second: Division_Ep3_GKeeper_ExDash_4_3
+  - first:
+      213: -8579072428897212839
+    second: Division_Ep3_GKeeper_ExDash_4_4
+  - first:
+      213: 188264741883011490
+    second: Division_Ep3_GKeeper_ExDash_4_5
+  - first:
+      213: -8300446138444959294
+    second: Division_Ep3_GKeeper_ExDash_4_6
+  - first:
+      213: 6387347126924098585
+    second: Division_Ep3_GKeeper_ExDash_4_7
+  - first:
+      213: 2061676257570259325
+    second: Division_Ep3_GKeeper_ExDash_4_8
+  - first:
+      213: 708032386586315344
+    second: Division_Ep3_GKeeper_ExDash_4_9
+  - first:
+      213: -2290452658921423405
+    second: Division_Ep3_GKeeper_ExDash_4_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_ExDash_4_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 188
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685db071b8a5f4c60800000000000000
+      internalID: 7804556232689964422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_ExDash_4_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 176
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9f39de8e4969330800000000000000
+      internalID: 3717322270580144575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_ExDash_4_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 59
+        width: 31
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776887dbab0d34b80800000000000000
+      internalID: -8411650178536667529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_ExDash_4_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 157
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db8291c3a0ee50c0800000000000000
+      internalID: -4584980376684688427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_ExDash_4_4
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 124
+        width: 10
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956eb3d641301f880800000000000000
+      internalID: -8579072428897212839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_ExDash_4_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 110
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1eaa709c9dc9200800000000000000
+      internalID: 188264741883011490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_ExDash_4_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 77
+        width: 6
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1b9b8f634eecc80800000000000000
+      internalID: -8300446138444959294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_ExDash_4_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 93
+        width: 10
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c3c6dce5a64a850800000000000000
+      internalID: 6387347126924098585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_ExDash_4_8
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 30
+        width: 34
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71055e02ab8c9c10800000000000000
+      internalID: 2061676257570259325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_ExDash_4_9
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 50
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a03fb44bf63d900800000000000000
+      internalID: 708032386586315344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_ExDash_4_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 7
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddb32a217da630e0800000000000000
+      internalID: -2290452658921423405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Ep3_GKeeper_ExDash_4_0: 7804556232689964422
+      Division_Ep3_GKeeper_ExDash_4_1: 3717322270580144575
+      Division_Ep3_GKeeper_ExDash_4_10: -2290452658921423405
+      Division_Ep3_GKeeper_ExDash_4_2: -8411650178536667529
+      Division_Ep3_GKeeper_ExDash_4_3: -4584980376684688427
+      Division_Ep3_GKeeper_ExDash_4_4: -8579072428897212839
+      Division_Ep3_GKeeper_ExDash_4_5: 188264741883011490
+      Division_Ep3_GKeeper_ExDash_4_6: -8300446138444959294
+      Division_Ep3_GKeeper_ExDash_4_7: 6387347126924098585
+      Division_Ep3_GKeeper_ExDash_4_8: 2061676257570259325
+      Division_Ep3_GKeeper_ExDash_4_9: 708032386586315344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

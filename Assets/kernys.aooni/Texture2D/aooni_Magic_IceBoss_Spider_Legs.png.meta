@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 0c9326d283b32374e9ef21e5cf39d4de
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6486029011679331085
+    second: aooni_Magic_IceBoss_Spider_Legs_0
+  - first:
+      213: -9171791593131330970
+    second: aooni_Magic_IceBoss_Spider_Legs_1
+  - first:
+      213: 6587235270728144309
+    second: aooni_Magic_IceBoss_Spider_Legs_2
+  - first:
+      213: 7768001477603421451
+    second: aooni_Magic_IceBoss_Spider_Legs_3
+  - first:
+      213: 7570215391067096323
+    second: aooni_Magic_IceBoss_Spider_Legs_4
+  - first:
+      213: -7474020193158239918
+    second: aooni_Magic_IceBoss_Spider_Legs_5
+  - first:
+      213: 6238836987395046793
+    second: aooni_Magic_IceBoss_Spider_Legs_6
+  - first:
+      213: -4181034700632753029
+    second: aooni_Magic_IceBoss_Spider_Legs_7
+  - first:
+      213: 1448832973692239466
+    second: aooni_Magic_IceBoss_Spider_Legs_8
+  - first:
+      213: -6358132704894324446
+    second: aooni_Magic_IceBoss_Spider_Legs_9
+  - first:
+      213: -2345420820983494972
+    second: aooni_Magic_IceBoss_Spider_Legs_10
+  - first:
+      213: 588582201603198189
+    second: aooni_Magic_IceBoss_Spider_Legs_11
+  - first:
+      213: -2987542806365994799
+    second: aooni_Magic_IceBoss_Spider_Legs_12
+  - first:
+      213: -8035917367424188315
+    second: aooni_Magic_IceBoss_Spider_Legs_13
+  - first:
+      213: 5510442774710828289
+    second: aooni_Magic_IceBoss_Spider_Legs_14
+  - first:
+      213: -3266347980445579636
+    second: aooni_Magic_IceBoss_Spider_Legs_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 93
+        width: 36
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03460c8501030a50800000000000000
+      internalID: 6486029011679331085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 93
+        width: 37
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6623e79e32047b080800000000000000
+      internalID: -9171791593131330970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_2
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 97
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5dcabf39f8a6b50800000000000000
+      internalID: 6587235270728144309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_3
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 93
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0de24fef2c7dcb60800000000000000
+      internalID: 7768001477603421451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 110
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305cfb91acece0960800000000000000
+      internalID: 7570215391067096323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 98
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259e4bebb32f64890800000000000000
+      internalID: -7474020193158239918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_6
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 95
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dff3d6f2dc49650800000000000000
+      internalID: 6238836987395046793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 26
+        width: 39
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7cf333871bf9f5c0800000000000000
+      internalID: -4181034700632753029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_8
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 11
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e7ccfc9e94b1410800000000000000
+      internalID: 1448832973692239466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 55
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 221faf1edff53c7a0800000000000000
+      internalID: -6358132704894324446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 55
+        width: 50
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6497c9034637fd0800000000000000
+      internalID: -2345420820983494972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 19
+        width: 36
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec0da7d4601b2800800000000000000
+      internalID: 588582201603198189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_12
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 19
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0084375ad1a86d0800000000000000
+      internalID: -2987542806365994799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_13
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5600a4efabfaa7090800000000000000
+      internalID: -8035917367424188315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_14
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 14
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10db1cd0286097c40800000000000000
+      internalID: 5510442774710828289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Magic_IceBoss_Spider_Legs_15
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 14
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c860ab051d99ba2d0800000000000000
+      internalID: -3266347980445579636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aooni_Magic_IceBoss_Spider_Legs_0: 6486029011679331085
+      aooni_Magic_IceBoss_Spider_Legs_1: -9171791593131330970
+      aooni_Magic_IceBoss_Spider_Legs_10: -2345420820983494972
+      aooni_Magic_IceBoss_Spider_Legs_11: 588582201603198189
+      aooni_Magic_IceBoss_Spider_Legs_12: -2987542806365994799
+      aooni_Magic_IceBoss_Spider_Legs_13: -8035917367424188315
+      aooni_Magic_IceBoss_Spider_Legs_14: 5510442774710828289
+      aooni_Magic_IceBoss_Spider_Legs_15: -3266347980445579636
+      aooni_Magic_IceBoss_Spider_Legs_2: 6587235270728144309
+      aooni_Magic_IceBoss_Spider_Legs_3: 7768001477603421451
+      aooni_Magic_IceBoss_Spider_Legs_4: 7570215391067096323
+      aooni_Magic_IceBoss_Spider_Legs_5: -7474020193158239918
+      aooni_Magic_IceBoss_Spider_Legs_6: 6238836987395046793
+      aooni_Magic_IceBoss_Spider_Legs_7: -4181034700632753029
+      aooni_Magic_IceBoss_Spider_Legs_8: 1448832973692239466
+      aooni_Magic_IceBoss_Spider_Legs_9: -6358132704894324446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 686a2bbfc6d56c14892e63500468c967
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6536233041953277474
+    second: InGame_Revival_0
+  - first:
+      213: 2609700942909037653
+    second: InGame_Revival_1
+  - first:
+      213: -1286858641016215113
+    second: InGame_Revival_2
+  - first:
+      213: 8588676904965026564
+    second: InGame_Revival_3
+  - first:
+      213: -3321315607945441492
+    second: InGame_Revival_4
+  - first:
+      213: -667019508082519581
+    second: InGame_Revival_5
+  - first:
+      213: -7616737882670683314
+    second: InGame_Revival_6
+  - first:
+      213: -9029919556336015079
+    second: InGame_Revival_7
+  - first:
+      213: 1410090675641121727
+    second: InGame_Revival_8
+  - first:
+      213: 3284406558155568125
+    second: InGame_Revival_9
+  - first:
+      213: -6255132897135217018
+    second: InGame_Revival_10
+  - first:
+      213: -8917555782999323338
+    second: InGame_Revival_11
+  - first:
+      213: 5155610277279105336
+    second: InGame_Revival_12
+  - first:
+      213: 2469140184787892675
+    second: InGame_Revival_13
+  - first:
+      213: 7993302869832378104
+    second: InGame_Revival_14
+  - first:
+      213: -6679222887311427778
+    second: InGame_Revival_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InGame_Revival_0
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 599
+        width: 53
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed93435cda2aa45a0800000000000000
+      internalID: -6536233041953277474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_1
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 395
+        width: 234
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c58184e25873420800000000000000
+      internalID: 2609700942909037653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_2
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 683
+        width: 67
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9261252e8242ee0800000000000000
+      internalID: -1286858641016215113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_3
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 689
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403ba0be32c113770800000000000000
+      internalID: 8588676904965026564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_4
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 594
+        width: 72
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f83793d0158e1d0800000000000000
+      internalID: -3321315607945441492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_5
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 503
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e15c7a9a454eb6f0800000000000000
+      internalID: -667019508082519581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_6
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 0
+        width: 504
+        height: 607
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b272c3049eb4690800000000000000
+      internalID: -7616737882670683314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_7
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 588
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9192d3e81084fa280800000000000000
+      internalID: -9029919556336015079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_8
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 495
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbfdae9ff5a19310800000000000000
+      internalID: 1410090675641121727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 475
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df373d4fc5e849d20800000000000000
+      internalID: 3284406558155568125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 425
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686356b65cd4139a0800000000000000
+      internalID: -6255132897135217018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 425
+        width: 68
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d4899334a7e3480800000000000000
+      internalID: -8917555782999323338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_12
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 426
+        width: 61
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83103994b386c8740800000000000000
+      internalID: 5155610277279105336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_13
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 395
+        width: 75
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9bcee7ae5244220800000000000000
+      internalID: 2469140184787892675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 240
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6287a1c9aedee60800000000000000
+      internalID: 7993302869832378104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_Revival_15
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 0
+        width: 242
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37b42a0c22ae43a0800000000000000
+      internalID: -6679222887311427778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InGame_Revival_0: -6536233041953277474
+      InGame_Revival_1: 2609700942909037653
+      InGame_Revival_10: -6255132897135217018
+      InGame_Revival_11: -8917555782999323338
+      InGame_Revival_12: 5155610277279105336
+      InGame_Revival_13: 2469140184787892675
+      InGame_Revival_14: 7993302869832378104
+      InGame_Revival_15: -6679222887311427778
+      InGame_Revival_2: -1286858641016215113
+      InGame_Revival_3: 8588676904965026564
+      InGame_Revival_4: -3321315607945441492
+      InGame_Revival_5: -667019508082519581
+      InGame_Revival_6: -7616737882670683314
+      InGame_Revival_7: -9029919556336015079
+      InGame_Revival_8: 1410090675641121727
+      InGame_Revival_9: 3284406558155568125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

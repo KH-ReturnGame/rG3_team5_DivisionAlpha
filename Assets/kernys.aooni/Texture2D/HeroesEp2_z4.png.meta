@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 90b88191732017545ac41524d4478ebf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8139414251235452825
+    second: HeroesEp2_z4_0
+  - first:
+      213: -1321005248027960797
+    second: HeroesEp2_z4_1
+  - first:
+      213: 5408064532120505140
+    second: HeroesEp2_z4_2
+  - first:
+      213: 4108864997904211295
+    second: HeroesEp2_z4_3
+  - first:
+      213: 9141242919682246484
+    second: HeroesEp2_z4_4
+  - first:
+      213: -2114827334245208103
+    second: HeroesEp2_z4_5
+  - first:
+      213: -6159043161585874663
+    second: HeroesEp2_z4_6
+  - first:
+      213: 6396917768184302736
+    second: HeroesEp2_z4_7
+  - first:
+      213: -4715704943087843434
+    second: HeroesEp2_z4_8
+  - first:
+      213: 192691308066183253
+    second: HeroesEp2_z4_9
+  - first:
+      213: -8905480375988393179
+    second: HeroesEp2_z4_10
+  - first:
+      213: 8512258549340406461
+    second: HeroesEp2_z4_11
+  - first:
+      213: -2057698670896729072
+    second: HeroesEp2_z4_12
+  - first:
+      213: -3350360943572451070
+    second: HeroesEp2_z4_13
+  - first:
+      213: -5937790496285274198
+    second: HeroesEp2_z4_14
+  - first:
+      213: -205358737444040193
+    second: HeroesEp2_z4_15
+  - first:
+      213: -2634784126163419698
+    second: HeroesEp2_z4_16
+  - first:
+      213: -6840152398512770846
+    second: HeroesEp2_z4_17
+  - first:
+      213: 296727747953390579
+    second: HeroesEp2_z4_18
+  - first:
+      213: -6761368693997213568
+    second: HeroesEp2_z4_19
+  - first:
+      213: -7503382718749811063
+    second: HeroesEp2_z4_20
+  - first:
+      213: -644112541484552780
+    second: HeroesEp2_z4_21
+  - first:
+      213: -4309577129030560883
+    second: HeroesEp2_z4_22
+  - first:
+      213: 5127466685171554609
+    second: HeroesEp2_z4_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp2_z4_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 581
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99724a4132205f070800000000000000
+      internalID: 8139414251235452825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 579
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32addd4d9b8daade0800000000000000
+      internalID: -1321005248027960797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 581
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b8e6fe90e4d0b40800000000000000
+      internalID: 5408064532120505140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_3
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 579
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ddd1622fe950930800000000000000
+      internalID: 4108864997904211295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 466
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4570739c0083cde70800000000000000
+      internalID: 9141242919682246484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_5
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 465
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df270d8ebf96a2e0800000000000000
+      internalID: -2114827334245208103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 465
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919006560eea68aa0800000000000000
+      internalID: -6159043161585874663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_7
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 465
+        width: 70
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c820e51da66c850800000000000000
+      internalID: 6396917768184302736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 349
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69702b1d6537e8eb0800000000000000
+      internalID: -4715704943087843434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 347
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558179849b39ca200800000000000000
+      internalID: 192691308066183253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 349
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52beff208c0696480800000000000000
+      internalID: -8905480375988393179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_11
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 347
+        width: 92
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db287bdfc0e912670800000000000000
+      internalID: 8512258549340406461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 233
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014386206f59173e0800000000000000
+      internalID: -2057698670896729072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 233
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201850909702181d0800000000000000
+      internalID: -3350360943572451070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 233
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafc93ed00bb89da0800000000000000
+      internalID: -5937790496285274198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 233
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1102bf05b662df0800000000000000
+      internalID: -205358737444040193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdf0340ccd5f6bd0800000000000000
+      internalID: -2634784126163419698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 117
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e03c1d52a5e211a0800000000000000
+      internalID: -6840152398512770846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 117
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f373cb80503e1400800000000000000
+      internalID: 296727747953390579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_19
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 117
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08869defefaca22a0800000000000000
+      internalID: -6761368693997213568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98edc130c21aed790800000000000000
+      internalID: -7503382718749811063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_21
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd60716e07af07f0800000000000000
+      internalID: -644112541484552780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 92
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d835cfb2f6e4134c0800000000000000
+      internalID: -4309577129030560883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp2_z4_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139dc4f98cb682740800000000000000
+      internalID: 5127466685171554609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp2_z4_0: 8139414251235452825
+      HeroesEp2_z4_1: -1321005248027960797
+      HeroesEp2_z4_10: -8905480375988393179
+      HeroesEp2_z4_11: 8512258549340406461
+      HeroesEp2_z4_12: -2057698670896729072
+      HeroesEp2_z4_13: -3350360943572451070
+      HeroesEp2_z4_14: -5937790496285274198
+      HeroesEp2_z4_15: -205358737444040193
+      HeroesEp2_z4_16: -2634784126163419698
+      HeroesEp2_z4_17: -6840152398512770846
+      HeroesEp2_z4_18: 296727747953390579
+      HeroesEp2_z4_19: -6761368693997213568
+      HeroesEp2_z4_2: 5408064532120505140
+      HeroesEp2_z4_20: -7503382718749811063
+      HeroesEp2_z4_21: -644112541484552780
+      HeroesEp2_z4_22: -4309577129030560883
+      HeroesEp2_z4_23: 5127466685171554609
+      HeroesEp2_z4_3: 4108864997904211295
+      HeroesEp2_z4_4: 9141242919682246484
+      HeroesEp2_z4_5: -2114827334245208103
+      HeroesEp2_z4_6: -6159043161585874663
+      HeroesEp2_z4_7: 6396917768184302736
+      HeroesEp2_z4_8: -4715704943087843434
+      HeroesEp2_z4_9: 192691308066183253
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

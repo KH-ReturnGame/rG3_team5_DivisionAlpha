@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: cfdab3a22b3f426439e579178bb77d4e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7283413136260753999
+    second: Magic_Spell_LightningDebuff_Lightning_0
+  - first:
+      213: -3278779205793115044
+    second: Magic_Spell_LightningDebuff_Lightning_1
+  - first:
+      213: 3811430322818796724
+    second: Magic_Spell_LightningDebuff_Lightning_2
+  - first:
+      213: 8283158709771302207
+    second: Magic_Spell_LightningDebuff_Lightning_3
+  - first:
+      213: 8389083531891389386
+    second: Magic_Spell_LightningDebuff_Lightning_4
+  - first:
+      213: -8418447859080069718
+    second: Magic_Spell_LightningDebuff_Lightning_5
+  - first:
+      213: -704768862712874622
+    second: Magic_Spell_LightningDebuff_Lightning_6
+  - first:
+      213: -4900839907183178740
+    second: Magic_Spell_LightningDebuff_Lightning_7
+  - first:
+      213: -6401937655549401287
+    second: Magic_Spell_LightningDebuff_Lightning_8
+  - first:
+      213: -988441221434178441
+    second: Magic_Spell_LightningDebuff_Lightning_9
+  - first:
+      213: 166421950978479260
+    second: Magic_Spell_LightningDebuff_Lightning_10
+  - first:
+      213: 8184761404696980062
+    second: Magic_Spell_LightningDebuff_Lightning_11
+  - first:
+      213: 3648284454203576088
+    second: Magic_Spell_LightningDebuff_Lightning_12
+  - first:
+      213: 1629407137067027555
+    second: Magic_Spell_LightningDebuff_Lightning_13
+  - first:
+      213: 5717116840951296304
+    second: Magic_Spell_LightningDebuff_Lightning_14
+  - first:
+      213: -3975967121187347678
+    second: Magic_Spell_LightningDebuff_Lightning_15
+  - first:
+      213: 8407501993751906976
+    second: Magic_Spell_LightningDebuff_Lightning_16
+  - first:
+      213: -2848057045970037514
+    second: Magic_Spell_LightningDebuff_Lightning_17
+  - first:
+      213: -1105440462413250875
+    second: Magic_Spell_LightningDebuff_Lightning_18
+  - first:
+      213: 2712820130875074328
+    second: Magic_Spell_LightningDebuff_Lightning_19
+  - first:
+      213: 1825351444068852238
+    second: Magic_Spell_LightningDebuff_Lightning_20
+  - first:
+      213: 3655780520360091229
+    second: Magic_Spell_LightningDebuff_Lightning_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 81
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a6c3388a1e31560800000000000000
+      internalID: 7283413136260753999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2
+        width: 56
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5493cd1faf6f72d0800000000000000
+      internalID: -3278779205793115044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_2
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 2
+        width: 65
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc44cd4fabe4e430800000000000000
+      internalID: 3811430322818796724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 123
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35f912e5f0b3f270800000000000000
+      internalID: 8283158709771302207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_4
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 123
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac3377566030c6470800000000000000
+      internalID: 8389083531891389386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 115
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad7267664aab2b80800000000000000
+      internalID: -8418447859080069718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_6
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 122
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2893e3114782836f0800000000000000
+      internalID: -704768862712874622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_7
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 115
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0cc947f118bcfbb0800000000000000
+      internalID: -4900839907183178740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_8
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 70
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937e7c60f9fb727a0800000000000000
+      internalID: -6401937655549401287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_9
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 94
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774001332f95842f0800000000000000
+      internalID: -988441221434178441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_10
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 100
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9456e6f1ef3f4200800000000000000
+      internalID: 166421950978479260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_11
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 11
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a6a42022d169170800000000000000
+      internalID: 8184761404696980062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_12
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 63
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f4264b16f41a230800000000000000
+      internalID: 3648284454203576088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 9
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ccd5f7821dc9610800000000000000
+      internalID: 1629407137067027555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_14
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 7
+        width: 70
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0313e4ce977475f40800000000000000
+      internalID: 5717116840951296304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_15
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 35
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 223eef608f682d8c0800000000000000
+      internalID: -3975967121187347678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_16
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 45
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa88f9b4827da470800000000000000
+      internalID: 8407501993751906976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_17
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 21
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f458e2d43ba978d0800000000000000
+      internalID: -2848057045970037514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_18
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 32
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ceb38d91cfa8a0f0800000000000000
+      internalID: -1105440462413250875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_19
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 14
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8176650398fd5a520800000000000000
+      internalID: 2712820130875074328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_20
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 5
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0268fd9773f45910800000000000000
+      internalID: 1825351444068852238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_LightningDebuff_Lightning_21
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 11
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e1bdc9301fbb230800000000000000
+      internalID: 3655780520360091229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Spell_LightningDebuff_Lightning_0: 7283413136260753999
+      Magic_Spell_LightningDebuff_Lightning_1: -3278779205793115044
+      Magic_Spell_LightningDebuff_Lightning_10: 166421950978479260
+      Magic_Spell_LightningDebuff_Lightning_11: 8184761404696980062
+      Magic_Spell_LightningDebuff_Lightning_12: 3648284454203576088
+      Magic_Spell_LightningDebuff_Lightning_13: 1629407137067027555
+      Magic_Spell_LightningDebuff_Lightning_14: 5717116840951296304
+      Magic_Spell_LightningDebuff_Lightning_15: -3975967121187347678
+      Magic_Spell_LightningDebuff_Lightning_16: 8407501993751906976
+      Magic_Spell_LightningDebuff_Lightning_17: -2848057045970037514
+      Magic_Spell_LightningDebuff_Lightning_18: -1105440462413250875
+      Magic_Spell_LightningDebuff_Lightning_19: 2712820130875074328
+      Magic_Spell_LightningDebuff_Lightning_2: 3811430322818796724
+      Magic_Spell_LightningDebuff_Lightning_20: 1825351444068852238
+      Magic_Spell_LightningDebuff_Lightning_21: 3655780520360091229
+      Magic_Spell_LightningDebuff_Lightning_3: 8283158709771302207
+      Magic_Spell_LightningDebuff_Lightning_4: 8389083531891389386
+      Magic_Spell_LightningDebuff_Lightning_5: -8418447859080069718
+      Magic_Spell_LightningDebuff_Lightning_6: -704768862712874622
+      Magic_Spell_LightningDebuff_Lightning_7: -4900839907183178740
+      Magic_Spell_LightningDebuff_Lightning_8: -6401937655549401287
+      Magic_Spell_LightningDebuff_Lightning_9: -988441221434178441
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

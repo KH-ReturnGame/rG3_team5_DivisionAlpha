@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: b9d534068b6158f4eb5f492f3c7e8c14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5054044468701401620
+    second: HeroesEp3_C_Yesul_0
+  - first:
+      213: 1156752783750290013
+    second: HeroesEp3_C_Yesul_1
+  - first:
+      213: 6461876421233537981
+    second: HeroesEp3_C_Yesul_2
+  - first:
+      213: -1708293716205499859
+    second: HeroesEp3_C_Yesul_3
+  - first:
+      213: 8551776302769094167
+    second: HeroesEp3_C_Yesul_4
+  - first:
+      213: -3333240363007354272
+    second: HeroesEp3_C_Yesul_5
+  - first:
+      213: -1159368359090720749
+    second: HeroesEp3_C_Yesul_6
+  - first:
+      213: -2031513716265752602
+    second: HeroesEp3_C_Yesul_7
+  - first:
+      213: 7816060091421283189
+    second: HeroesEp3_C_Yesul_8
+  - first:
+      213: -6387406557355675169
+    second: HeroesEp3_C_Yesul_9
+  - first:
+      213: 1437862446151401715
+    second: HeroesEp3_C_Yesul_10
+  - first:
+      213: -7914852352055600573
+    second: HeroesEp3_C_Yesul_11
+  - first:
+      213: -87668050030248576
+    second: HeroesEp3_C_Yesul_12
+  - first:
+      213: 2818777405764880344
+    second: HeroesEp3_C_Yesul_13
+  - first:
+      213: -5103385733414038273
+    second: HeroesEp3_C_Yesul_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 117
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced660c455d6cd9b0800000000000000
+      internalID: -5054044468701401620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 118
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a5160378c9d0010800000000000000
+      internalID: 1156752783750290013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 116
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db3f81e5e523da950800000000000000
+      internalID: 6461876421233537981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 118
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a0a818aebea48e0800000000000000
+      internalID: -1708293716205499859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 116
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71eb725fc330ea670800000000000000
+      internalID: 8551776302769094167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_5
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 59
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ad3f3dc83fdb1d0800000000000000
+      internalID: -3333240363007354272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_6
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 59
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310f198be9819efe0800000000000000
+      internalID: -1159368359090720749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_7
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 59
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e765a9d90d9ec3e0800000000000000
+      internalID: -2031513716265752602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 59
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573d54ced39387c60800000000000000
+      internalID: 7816060091421283189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 59
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd170d8f39f5b57a0800000000000000
+      internalID: -6387406557355675169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f08ab2d64054f310800000000000000
+      internalID: 1437862446151401715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 2
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a9f0278bbc82290800000000000000
+      internalID: -7914852352055600573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_12
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08dbbcb7f5a88cef0800000000000000
+      internalID: -87668050030248576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d74383bd1f4e1720800000000000000
+      internalID: 2818777405764880344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Yesul_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 0
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff45f00e6b12d29b0800000000000000
+      internalID: -5103385733414038273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp3_C_Yesul_0: -5054044468701401620
+      HeroesEp3_C_Yesul_1: 1156752783750290013
+      HeroesEp3_C_Yesul_10: 1437862446151401715
+      HeroesEp3_C_Yesul_11: -7914852352055600573
+      HeroesEp3_C_Yesul_12: -87668050030248576
+      HeroesEp3_C_Yesul_13: 2818777405764880344
+      HeroesEp3_C_Yesul_14: -5103385733414038273
+      HeroesEp3_C_Yesul_2: 6461876421233537981
+      HeroesEp3_C_Yesul_3: -1708293716205499859
+      HeroesEp3_C_Yesul_4: 8551776302769094167
+      HeroesEp3_C_Yesul_5: -3333240363007354272
+      HeroesEp3_C_Yesul_6: -1159368359090720749
+      HeroesEp3_C_Yesul_7: -2031513716265752602
+      HeroesEp3_C_Yesul_8: 7816060091421283189
+      HeroesEp3_C_Yesul_9: -6387406557355675169
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

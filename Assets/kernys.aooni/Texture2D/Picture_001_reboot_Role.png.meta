@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: a7ead1c61a8b79a488f43cba3c210b4c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7986984644632314079
+    second: Picture_001_reboot_Role_0
+  - first:
+      213: -7211489190929307973
+    second: Picture_001_reboot_Role_1
+  - first:
+      213: -6440754242223204908
+    second: Picture_001_reboot_Role_2
+  - first:
+      213: 8277813144122573818
+    second: Picture_001_reboot_Role_3
+  - first:
+      213: -2322296612369685481
+    second: Picture_001_reboot_Role_4
+  - first:
+      213: 5748313543520547916
+    second: Picture_001_reboot_Role_5
+  - first:
+      213: 6845345760570591302
+    second: Picture_001_reboot_Role_6
+  - first:
+      213: -6971134132034912838
+    second: Picture_001_reboot_Role_7
+  - first:
+      213: -2217701048689990584
+    second: Picture_001_reboot_Role_8
+  - first:
+      213: -289356395357039769
+    second: Picture_001_reboot_Role_9
+  - first:
+      213: 5144176405030432420
+    second: Picture_001_reboot_Role_10
+  - first:
+      213: -7623229251738275990
+    second: Picture_001_reboot_Role_11
+  - first:
+      213: -5548511149019680730
+    second: Picture_001_reboot_Role_12
+  - first:
+      213: -6064351312862904107
+    second: Picture_001_reboot_Role_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_0
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 485
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ff03658c7882190800000000000000
+      internalID: -7986984644632314079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_1
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 491
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6e619f9c4abeb90800000000000000
+      internalID: -7211489190929307973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 388
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d512ba2428dd96a0800000000000000
+      internalID: -6440754242223204908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 473
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af34c746233b0e270800000000000000
+      internalID: 8277813144122573818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_4
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 455
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714ac9cf88b85cfd0800000000000000
+      internalID: -2322296612369685481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_5
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 437
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44fb1346bc16cf40800000000000000
+      internalID: 5748313543520547916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_6
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 431
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648498773bd8ffe50800000000000000
+      internalID: 6845345760570591302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 419
+        width: 29
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd357a017e814f90800000000000000
+      internalID: -6971134132034912838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 384
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84462d665a42931e0800000000000000
+      internalID: -2217701048689990584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 305
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763914934effbfbf0800000000000000
+      internalID: -289356395357039769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_10
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 143
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aee8c37f29c36740800000000000000
+      internalID: 5144176405030432420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_11
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fe5c89269d43690800000000000000
+      internalID: -7623229251738275990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 8
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620336ad18abff2b0800000000000000
+      internalID: -5548511149019680730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Picture_001_reboot_Role_13
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 17
+        width: 38
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d002ab7c9817dba0800000000000000
+      internalID: -6064351312862904107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Picture_001_reboot_Role_0: -7986984644632314079
+      Picture_001_reboot_Role_1: -7211489190929307973
+      Picture_001_reboot_Role_10: 5144176405030432420
+      Picture_001_reboot_Role_11: -7623229251738275990
+      Picture_001_reboot_Role_12: -5548511149019680730
+      Picture_001_reboot_Role_13: -6064351312862904107
+      Picture_001_reboot_Role_2: -6440754242223204908
+      Picture_001_reboot_Role_3: 8277813144122573818
+      Picture_001_reboot_Role_4: -2322296612369685481
+      Picture_001_reboot_Role_5: 5748313543520547916
+      Picture_001_reboot_Role_6: 6845345760570591302
+      Picture_001_reboot_Role_7: -6971134132034912838
+      Picture_001_reboot_Role_8: -2217701048689990584
+      Picture_001_reboot_Role_9: -289356395357039769
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

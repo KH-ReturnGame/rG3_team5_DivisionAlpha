@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 751cf6dd741eac54cacaa3fd7bbbc6ca
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7742766735566363515
+    second: Galaxy_Pirates_Set4Sejin_0
+  - first:
+      213: 7815983076216644658
+    second: Galaxy_Pirates_Set4Sejin_1
+  - first:
+      213: -3139834510938918410
+    second: Galaxy_Pirates_Set4Sejin_2
+  - first:
+      213: 4897534330651033090
+    second: Galaxy_Pirates_Set4Sejin_3
+  - first:
+      213: 2747012821967329954
+    second: Galaxy_Pirates_Set4Sejin_4
+  - first:
+      213: -319113146022828443
+    second: Galaxy_Pirates_Set4Sejin_5
+  - first:
+      213: -1600240528521766332
+    second: Galaxy_Pirates_Set4Sejin_6
+  - first:
+      213: -7522115208424905606
+    second: Galaxy_Pirates_Set4Sejin_7
+  - first:
+      213: -7843938901405580977
+    second: Galaxy_Pirates_Set4Sejin_8
+  - first:
+      213: -5654152006120062413
+    second: Galaxy_Pirates_Set4Sejin_9
+  - first:
+      213: 4860908690391264789
+    second: Galaxy_Pirates_Set4Sejin_10
+  - first:
+      213: -4218805111265234723
+    second: Galaxy_Pirates_Set4Sejin_11
+  - first:
+      213: 6021766774420744662
+    second: Galaxy_Pirates_Set4Sejin_12
+  - first:
+      213: 4666689433871464861
+    second: Galaxy_Pirates_Set4Sejin_13
+  - first:
+      213: 4429654798534729401
+    second: Galaxy_Pirates_Set4Sejin_14
+  - first:
+      213: 1049467285739887236
+    second: Galaxy_Pirates_Set4Sejin_15
+  - first:
+      213: -7715043048906518683
+    second: Galaxy_Pirates_Set4Sejin_16
+  - first:
+      213: 957545500050298128
+    second: Galaxy_Pirates_Set4Sejin_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 115
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bd424b255d37b60800000000000000
+      internalID: 7742766735566363515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 115
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234ab5c6233f77c60800000000000000
+      internalID: 7815983076216644658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 115
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f139f9d5211d64d0800000000000000
+      internalID: -3139834510938918410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 115
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e3cb5868987f340800000000000000
+      internalID: 4897534330651033090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 115
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa5ec67b995f1620800000000000000
+      internalID: 2747012821967329954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_5
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 115
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566e620d848429bf0800000000000000
+      internalID: -319113146022828443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 56
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ad64eb7bdcac9e0800000000000000
+      internalID: -1600240528521766332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 56
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74254262141c9790800000000000000
+      internalID: -7522115208424905606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 56
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f414addc02bb42390800000000000000
+      internalID: -7843938901405580977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 56
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 332c62915ba6881b0800000000000000
+      internalID: -5654152006120062413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_10
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 56
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e616023ba657340800000000000000
+      internalID: 4860908690391264789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 56
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0fe6e7a1bc375c0800000000000000
+      internalID: -4218805111265234723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d929950afc919350800000000000000
+      internalID: 6021766774420744662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_13
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d993afe905963c040800000000000000
+      internalID: 4666689433871464861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 8
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be5448e19b497d30800000000000000
+      internalID: 4429654798534729401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 4
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a5be1afe4709e00800000000000000
+      internalID: 1049467285739887236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_16
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f841b1939aee490800000000000000
+      internalID: -7715043048906518683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Pirates_Set4Sejin_17
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 0
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01595ca1f82e94d00800000000000000
+      internalID: 957545500050298128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galaxy_Pirates_Set4Sejin_0: 7742766735566363515
+      Galaxy_Pirates_Set4Sejin_1: 7815983076216644658
+      Galaxy_Pirates_Set4Sejin_10: 4860908690391264789
+      Galaxy_Pirates_Set4Sejin_11: -4218805111265234723
+      Galaxy_Pirates_Set4Sejin_12: 6021766774420744662
+      Galaxy_Pirates_Set4Sejin_13: 4666689433871464861
+      Galaxy_Pirates_Set4Sejin_14: 4429654798534729401
+      Galaxy_Pirates_Set4Sejin_15: 1049467285739887236
+      Galaxy_Pirates_Set4Sejin_16: -7715043048906518683
+      Galaxy_Pirates_Set4Sejin_17: 957545500050298128
+      Galaxy_Pirates_Set4Sejin_2: -3139834510938918410
+      Galaxy_Pirates_Set4Sejin_3: 4897534330651033090
+      Galaxy_Pirates_Set4Sejin_4: 2747012821967329954
+      Galaxy_Pirates_Set4Sejin_5: -319113146022828443
+      Galaxy_Pirates_Set4Sejin_6: -1600240528521766332
+      Galaxy_Pirates_Set4Sejin_7: -7522115208424905606
+      Galaxy_Pirates_Set4Sejin_8: -7843938901405580977
+      Galaxy_Pirates_Set4Sejin_9: -5654152006120062413
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

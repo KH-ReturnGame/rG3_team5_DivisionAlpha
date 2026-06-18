@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: aa79a882bfc33a04fb0e917004fe8066
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5435248609556691992
+    second: YANAH2_Skill_Zombie_WarpShow_0
+  - first:
+      213: 5773829474089436241
+    second: YANAH2_Skill_Zombie_WarpShow_1
+  - first:
+      213: -5676714211560598542
+    second: YANAH2_Skill_Zombie_WarpShow_2
+  - first:
+      213: 746594714124742675
+    second: YANAH2_Skill_Zombie_WarpShow_3
+  - first:
+      213: 6966054247398814838
+    second: YANAH2_Skill_Zombie_WarpShow_4
+  - first:
+      213: -184768435166669917
+    second: YANAH2_Skill_Zombie_WarpShow_5
+  - first:
+      213: 6273271009655018742
+    second: YANAH2_Skill_Zombie_WarpShow_6
+  - first:
+      213: -4086873377642817729
+    second: YANAH2_Skill_Zombie_WarpShow_7
+  - first:
+      213: 761455833663054275
+    second: YANAH2_Skill_Zombie_WarpShow_8
+  - first:
+      213: -446114410804172422
+    second: YANAH2_Skill_Zombie_WarpShow_9
+  - first:
+      213: -81795945639480538
+    second: YANAH2_Skill_Zombie_WarpShow_10
+  - first:
+      213: 3467309567494495594
+    second: YANAH2_Skill_Zombie_WarpShow_11
+  - first:
+      213: -7609983231287320287
+    second: YANAH2_Skill_Zombie_WarpShow_12
+  - first:
+      213: 4421573241751401533
+    second: YANAH2_Skill_Zombie_WarpShow_13
+  - first:
+      213: 1340556361848623674
+    second: YANAH2_Skill_Zombie_WarpShow_14
+  - first:
+      213: -3882433345564681132
+    second: YANAH2_Skill_Zombie_WarpShow_15
+  - first:
+      213: 7656745148276941211
+    second: YANAH2_Skill_Zombie_WarpShow_16
+  - first:
+      213: -4116568184263868723
+    second: YANAH2_Skill_Zombie_WarpShow_17
+  - first:
+      213: -7394597402694277516
+    second: YANAH2_Skill_Zombie_WarpShow_18
+  - first:
+      213: -3154424921495521019
+    second: YANAH2_Skill_Zombie_WarpShow_19
+  - first:
+      213: -3849551908602879501
+    second: YANAH2_Skill_Zombie_WarpShow_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_0
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 106
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e30071df2e1294b0800000000000000
+      internalID: -5435248609556691992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_1
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 140
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15408ccc053c02050800000000000000
+      internalID: 5773829474089436241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_2
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 128
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3d48840824831b0800000000000000
+      internalID: -5676714211560598542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_3
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 144
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310f696dfef6c5a00800000000000000
+      internalID: 746594714124742675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_4
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 152
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674be462e656ca060800000000000000
+      internalID: 6966054247398814838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_5
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 61
+        width: 102
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a39f2056129f6df0800000000000000
+      internalID: -184768435166669917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_6
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 132
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f45e3efeb22f0750800000000000000
+      internalID: 6273271009655018742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_7
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 136
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f375993f0528847c0800000000000000
+      internalID: -4086873377642817729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_8
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 130
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c1a2addb0c319a00800000000000000
+      internalID: 761455833663054275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_9
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 31
+        width: 74
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79a5d69e451fc9f0800000000000000
+      internalID: -446114410804172422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_10
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 104
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623771455076ddef0800000000000000
+      internalID: -81795945639480538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_11
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 116
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d92d85eab5e1030800000000000000
+      internalID: 3467309567494495594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_12
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 114
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121a0701298e36690800000000000000
+      internalID: -7609983231287320287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 31
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34f6f6df659c5d30800000000000000
+      internalID: 4421573241751401533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_14
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 82
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32906598ec9a9210800000000000000
+      internalID: 1340556361848623674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_15
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c5c753173de1ac0800000000000000
+      internalID: -3882433345564681132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_16
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 97
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b912eba2529324a60800000000000000
+      internalID: 7656745148276941211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_17
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 73
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcef6430c030fd6c0800000000000000
+      internalID: -4116568184263868723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_18
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 73
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476a16b27dc116990800000000000000
+      internalID: -7394597402694277516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_19
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 80
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509be9b2f3b3934d0800000000000000
+      internalID: -3154424921495521019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_Zombie_WarpShow_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 31
+        width: 80
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f16c475fe4a39ac0800000000000000
+      internalID: -3849551908602879501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YANAH2_Skill_Zombie_WarpShow_0: -5435248609556691992
+      YANAH2_Skill_Zombie_WarpShow_1: 5773829474089436241
+      YANAH2_Skill_Zombie_WarpShow_10: -81795945639480538
+      YANAH2_Skill_Zombie_WarpShow_11: 3467309567494495594
+      YANAH2_Skill_Zombie_WarpShow_12: -7609983231287320287
+      YANAH2_Skill_Zombie_WarpShow_13: 4421573241751401533
+      YANAH2_Skill_Zombie_WarpShow_14: 1340556361848623674
+      YANAH2_Skill_Zombie_WarpShow_15: -3882433345564681132
+      YANAH2_Skill_Zombie_WarpShow_16: 7656745148276941211
+      YANAH2_Skill_Zombie_WarpShow_17: -4116568184263868723
+      YANAH2_Skill_Zombie_WarpShow_18: -7394597402694277516
+      YANAH2_Skill_Zombie_WarpShow_19: -3154424921495521019
+      YANAH2_Skill_Zombie_WarpShow_2: -5676714211560598542
+      YANAH2_Skill_Zombie_WarpShow_20: -3849551908602879501
+      YANAH2_Skill_Zombie_WarpShow_3: 746594714124742675
+      YANAH2_Skill_Zombie_WarpShow_4: 6966054247398814838
+      YANAH2_Skill_Zombie_WarpShow_5: -184768435166669917
+      YANAH2_Skill_Zombie_WarpShow_6: 6273271009655018742
+      YANAH2_Skill_Zombie_WarpShow_7: -4086873377642817729
+      YANAH2_Skill_Zombie_WarpShow_8: 761455833663054275
+      YANAH2_Skill_Zombie_WarpShow_9: -446114410804172422
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

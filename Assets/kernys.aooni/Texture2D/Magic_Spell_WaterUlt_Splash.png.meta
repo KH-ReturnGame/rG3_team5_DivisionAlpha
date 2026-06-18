@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: b6e3a55fadfd9544193b15e0c4dbd948
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1432190589659828156
+    second: Magic_Spell_WaterUlt_Splash_0
+  - first:
+      213: 4532886281079412588
+    second: Magic_Spell_WaterUlt_Splash_1
+  - first:
+      213: -7179013157797303109
+    second: Magic_Spell_WaterUlt_Splash_2
+  - first:
+      213: 657139062643705220
+    second: Magic_Spell_WaterUlt_Splash_3
+  - first:
+      213: 6525006868023420231
+    second: Magic_Spell_WaterUlt_Splash_4
+  - first:
+      213: 3103511675780477114
+    second: Magic_Spell_WaterUlt_Splash_5
+  - first:
+      213: -1558525153558333345
+    second: Magic_Spell_WaterUlt_Splash_6
+  - first:
+      213: 6664457587047289901
+    second: Magic_Spell_WaterUlt_Splash_7
+  - first:
+      213: 4031020090663384240
+    second: Magic_Spell_WaterUlt_Splash_8
+  - first:
+      213: 2958891655651010471
+    second: Magic_Spell_WaterUlt_Splash_9
+  - first:
+      213: -5033975596085221105
+    second: Magic_Spell_WaterUlt_Splash_10
+  - first:
+      213: 2669418729663317883
+    second: Magic_Spell_WaterUlt_Splash_11
+  - first:
+      213: -6907195008339354488
+    second: Magic_Spell_WaterUlt_Splash_12
+  - first:
+      213: 7331481818487912873
+    second: Magic_Spell_WaterUlt_Splash_13
+  - first:
+      213: -6472792583509684660
+    second: Magic_Spell_WaterUlt_Splash_14
+  - first:
+      213: -6783331515840804581
+    second: Magic_Spell_WaterUlt_Splash_15
+  - first:
+      213: -6101009224053187480
+    second: Magic_Spell_WaterUlt_Splash_16
+  - first:
+      213: 7751484668070758095
+    second: Magic_Spell_WaterUlt_Splash_17
+  - first:
+      213: -3955153032312233120
+    second: Magic_Spell_WaterUlt_Splash_18
+  - first:
+      213: -6326661750425996457
+    second: Magic_Spell_WaterUlt_Splash_19
+  - first:
+      213: 413829993503291117
+    second: Magic_Spell_WaterUlt_Splash_20
+  - first:
+      213: -9025574749017670371
+    second: Magic_Spell_WaterUlt_Splash_21
+  - first:
+      213: -6254179999509114709
+    second: Magic_Spell_WaterUlt_Splash_22
+  - first:
+      213: 610748280168667835
+    second: Magic_Spell_WaterUlt_Splash_23
+  - first:
+      213: -5465634381774842583
+    second: Magic_Spell_WaterUlt_Splash_24
+  - first:
+      213: -7805541207373393540
+    second: Magic_Spell_WaterUlt_Splash_25
+  - first:
+      213: -7868621705451646035
+    second: Magic_Spell_WaterUlt_Splash_26
+  - first:
+      213: -2990853737344104989
+    second: Magic_Spell_WaterUlt_Splash_27
+  - first:
+      213: 5702767430335212153
+    second: Magic_Spell_WaterUlt_Splash_28
+  - first:
+      213: -4534609356466281460
+    second: Magic_Spell_WaterUlt_Splash_29
+  - first:
+      213: -7446441192246827429
+    second: Magic_Spell_WaterUlt_Splash_30
+  - first:
+      213: 8416551629519822027
+    second: Magic_Spell_WaterUlt_Splash_31
+  - first:
+      213: 7875829452931331785
+    second: Magic_Spell_WaterUlt_Splash_32
+  - first:
+      213: -695924562193219001
+    second: Magic_Spell_WaterUlt_Splash_33
+  - first:
+      213: 3748509667981964874
+    second: Magic_Spell_WaterUlt_Splash_34
+  - first:
+      213: 822634454447161527
+    second: Magic_Spell_WaterUlt_Splash_35
+  - first:
+      213: 2988427385136215550
+    second: Magic_Spell_WaterUlt_Splash_36
+  - first:
+      213: 3724526545492128283
+    second: Magic_Spell_WaterUlt_Splash_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfc453d0c920e310800000000000000
+      internalID: 1432190589659828156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 70
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67dafe6e0c08ee30800000000000000
+      internalID: 4532886281079412588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 66
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbce2aba1950f5c90800000000000000
+      internalID: -7179013157797303109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 57
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48549ecee70ae1900800000000000000
+      internalID: 657139062643705220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_4
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 53
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745258dec2b7d8a50800000000000000
+      internalID: 6525006868023420231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_5
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab03c2f0d63e11b20800000000000000
+      internalID: 3103511675780477114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_6
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 57
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58f4a851a10f5ae0800000000000000
+      internalID: -1558525153558333345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 54
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d245c989dd8ec7c50800000000000000
+      internalID: 6664457587047289901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 54
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4347a4a6f01f730800000000000000
+      internalID: 4031020090663384240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_9
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 51
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a722ffa848101920800000000000000
+      internalID: 2958891655651010471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_10
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 58
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09ea53ddd9b32ab0800000000000000
+      internalID: -5033975596085221105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_11
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 55
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b774b52013eab0520800000000000000
+      internalID: 2669418729663317883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 45
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cd49d5cb6b420a0800000000000000
+      internalID: -6907195008339354488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_13
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 33
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9f43cbed7aeb560800000000000000
+      internalID: 7331481818487912873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_14
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 47
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e4f1b80750c26a0800000000000000
+      internalID: -6472792583509684660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_15
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 37
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19c89c0de3ccd1a0800000000000000
+      internalID: -6783331515840804581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c9dec6f6cd45ba0800000000000000
+      internalID: -6101009224053187480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc68e3a8c3ec29b60800000000000000
+      internalID: 7751484668070758095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_18
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 34
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06368bcb5497c19c0800000000000000
+      internalID: -3955153032312233120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_19
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 38
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753bec778ae2338a0800000000000000
+      internalID: -6326661750425996457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_20
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de67a20cf283eb500800000000000000
+      internalID: 413829993503291117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_21
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 30
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1df017d597beb280800000000000000
+      internalID: -9025574749017670371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_22
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 26
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba018ef2d60b439a0800000000000000
+      internalID: -6254179999509114709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba52ae2350d97800800000000000000
+      internalID: 610748280168667835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_24
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 27
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925162aec7a2624b0800000000000000
+      internalID: -5465634381774842583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 26
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71d5de90a52da390800000000000000
+      internalID: -7805541207373393540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 29
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da350a6af3a0dc290800000000000000
+      internalID: -7868621705451646035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 18
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e584724f5a5e76d0800000000000000
+      internalID: -2990853737344104989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 10
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97a2cc963cc442f40800000000000000
+      internalID: 5702767430335212153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_29
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 14
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c042aa0d0d4d111c0800000000000000
+      internalID: -4534609356466281460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 16
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56aa47403de8a890800000000000000
+      internalID: -7446441192246827429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_31
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 7
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc934f3d199dc470800000000000000
+      internalID: 8416551629519822027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 7
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6f785d8219c4d60800000000000000
+      internalID: 7875829452931331785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74201004c449756f0800000000000000
+      internalID: -695924562193219001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_34
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46be2dbea1650430800000000000000
+      internalID: 3748509667981964874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b002558da59a6b00800000000000000
+      internalID: 822634454447161527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 8
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5f7189fd6097920800000000000000
+      internalID: 2988427385136215550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Spell_WaterUlt_Splash_37
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 4
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b123294e82d20b330800000000000000
+      internalID: 3724526545492128283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Spell_WaterUlt_Splash_0: 1432190589659828156
+      Magic_Spell_WaterUlt_Splash_1: 4532886281079412588
+      Magic_Spell_WaterUlt_Splash_10: -5033975596085221105
+      Magic_Spell_WaterUlt_Splash_11: 2669418729663317883
+      Magic_Spell_WaterUlt_Splash_12: -6907195008339354488
+      Magic_Spell_WaterUlt_Splash_13: 7331481818487912873
+      Magic_Spell_WaterUlt_Splash_14: -6472792583509684660
+      Magic_Spell_WaterUlt_Splash_15: -6783331515840804581
+      Magic_Spell_WaterUlt_Splash_16: -6101009224053187480
+      Magic_Spell_WaterUlt_Splash_17: 7751484668070758095
+      Magic_Spell_WaterUlt_Splash_18: -3955153032312233120
+      Magic_Spell_WaterUlt_Splash_19: -6326661750425996457
+      Magic_Spell_WaterUlt_Splash_2: -7179013157797303109
+      Magic_Spell_WaterUlt_Splash_20: 413829993503291117
+      Magic_Spell_WaterUlt_Splash_21: -9025574749017670371
+      Magic_Spell_WaterUlt_Splash_22: -6254179999509114709
+      Magic_Spell_WaterUlt_Splash_23: 610748280168667835
+      Magic_Spell_WaterUlt_Splash_24: -5465634381774842583
+      Magic_Spell_WaterUlt_Splash_25: -7805541207373393540
+      Magic_Spell_WaterUlt_Splash_26: -7868621705451646035
+      Magic_Spell_WaterUlt_Splash_27: -2990853737344104989
+      Magic_Spell_WaterUlt_Splash_28: 5702767430335212153
+      Magic_Spell_WaterUlt_Splash_29: -4534609356466281460
+      Magic_Spell_WaterUlt_Splash_3: 657139062643705220
+      Magic_Spell_WaterUlt_Splash_30: -7446441192246827429
+      Magic_Spell_WaterUlt_Splash_31: 8416551629519822027
+      Magic_Spell_WaterUlt_Splash_32: 7875829452931331785
+      Magic_Spell_WaterUlt_Splash_33: -695924562193219001
+      Magic_Spell_WaterUlt_Splash_34: 3748509667981964874
+      Magic_Spell_WaterUlt_Splash_35: 822634454447161527
+      Magic_Spell_WaterUlt_Splash_36: 2988427385136215550
+      Magic_Spell_WaterUlt_Splash_37: 3724526545492128283
+      Magic_Spell_WaterUlt_Splash_4: 6525006868023420231
+      Magic_Spell_WaterUlt_Splash_5: 3103511675780477114
+      Magic_Spell_WaterUlt_Splash_6: -1558525153558333345
+      Magic_Spell_WaterUlt_Splash_7: 6664457587047289901
+      Magic_Spell_WaterUlt_Splash_8: 4031020090663384240
+      Magic_Spell_WaterUlt_Splash_9: 2958891655651010471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

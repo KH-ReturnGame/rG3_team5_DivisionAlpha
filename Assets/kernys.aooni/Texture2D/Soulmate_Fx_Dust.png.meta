@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 58948ba9712255c45a5a10b1dd72549c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1954912141377608168
+    second: Soulmate_Fx_Dust_0
+  - first:
+      213: 6380949073802385153
+    second: Soulmate_Fx_Dust_1
+  - first:
+      213: 8500004766375307707
+    second: Soulmate_Fx_Dust_2
+  - first:
+      213: 9202134245734285639
+    second: Soulmate_Fx_Dust_3
+  - first:
+      213: -4492568772335067802
+    second: Soulmate_Fx_Dust_4
+  - first:
+      213: 7627082568554327955
+    second: Soulmate_Fx_Dust_5
+  - first:
+      213: -8916008255236073789
+    second: Soulmate_Fx_Dust_6
+  - first:
+      213: -7268287574572155553
+    second: Soulmate_Fx_Dust_7
+  - first:
+      213: -2768179589163524145
+    second: Soulmate_Fx_Dust_8
+  - first:
+      213: 49169080627601684
+    second: Soulmate_Fx_Dust_9
+  - first:
+      213: 7200809488305075138
+    second: Soulmate_Fx_Dust_10
+  - first:
+      213: -7645674365587374746
+    second: Soulmate_Fx_Dust_11
+  - first:
+      213: 29988007316210680
+    second: Soulmate_Fx_Dust_12
+  - first:
+      213: -5972874087006626508
+    second: Soulmate_Fx_Dust_13
+  - first:
+      213: -3170534683613176381
+    second: Soulmate_Fx_Dust_14
+  - first:
+      213: -4246453727500364359
+    second: Soulmate_Fx_Dust_15
+  - first:
+      213: 5426188509173764481
+    second: Soulmate_Fx_Dust_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 101
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816e616d3c1ced4e0800000000000000
+      internalID: -1954912141377608168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 74
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10759d9ff5fad8850800000000000000
+      internalID: 6380949073802385153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 75
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb96de0dc4516f570800000000000000
+      internalID: 8500004766375307707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 74
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741037c675c84bf70800000000000000
+      internalID: 9202134245734285639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d94f3118037a1c0800000000000000
+      internalID: -4492568772335067802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 40
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f2143af27d8d960800000000000000
+      internalID: 7627082568554327955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 41
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6143c1bb9f34480800000000000000
+      internalID: -8916008255236073789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 44
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dbd30c5fad12b90800000000000000
+      internalID: -7268287574572155553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfdb6184537599d0800000000000000
+      internalID: -2768179589163524145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_9
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 45
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411adb0b40faea000800000000000000
+      internalID: 49169080627601684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_10
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 39
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3bfadf31a6ee360800000000000000
+      internalID: 7200809488305075138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dbada4cab15e590800000000000000
+      internalID: -7645674365587374746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3ca9b0fe98a6000800000000000000
+      internalID: 29988007316210680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_13
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 10
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d95dbd9a61c1da0800000000000000
+      internalID: -5972874087006626508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_14
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 9
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd5e23e08ffff3d0800000000000000
+      internalID: -3170534683613176381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 7
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5153165d09115c0800000000000000
+      internalID: -4246453727500364359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_Fx_Dust_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181db9d23b1bd4b40800000000000000
+      internalID: 5426188509173764481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Soulmate_Fx_Dust_0: -1954912141377608168
+      Soulmate_Fx_Dust_1: 6380949073802385153
+      Soulmate_Fx_Dust_10: 7200809488305075138
+      Soulmate_Fx_Dust_11: -7645674365587374746
+      Soulmate_Fx_Dust_12: 29988007316210680
+      Soulmate_Fx_Dust_13: -5972874087006626508
+      Soulmate_Fx_Dust_14: -3170534683613176381
+      Soulmate_Fx_Dust_15: -4246453727500364359
+      Soulmate_Fx_Dust_16: 5426188509173764481
+      Soulmate_Fx_Dust_2: 8500004766375307707
+      Soulmate_Fx_Dust_3: 9202134245734285639
+      Soulmate_Fx_Dust_4: -4492568772335067802
+      Soulmate_Fx_Dust_5: 7627082568554327955
+      Soulmate_Fx_Dust_6: -8916008255236073789
+      Soulmate_Fx_Dust_7: -7268287574572155553
+      Soulmate_Fx_Dust_8: -2768179589163524145
+      Soulmate_Fx_Dust_9: 49169080627601684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

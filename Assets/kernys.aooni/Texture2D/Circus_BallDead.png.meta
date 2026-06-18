@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 3737dc190acab08488ecf795764a72c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3388844793277529566
+    second: Circus_BallDead_0
+  - first:
+      213: -4879789676621902844
+    second: Circus_BallDead_1
+  - first:
+      213: -4311183896005684927
+    second: Circus_BallDead_2
+  - first:
+      213: 8010354498555669830
+    second: Circus_BallDead_3
+  - first:
+      213: 5514243243664126608
+    second: Circus_BallDead_4
+  - first:
+      213: 2028668051230328489
+    second: Circus_BallDead_5
+  - first:
+      213: -3860062024910625249
+    second: Circus_BallDead_6
+  - first:
+      213: 3975383255968998678
+    second: Circus_BallDead_7
+  - first:
+      213: -6185567940073632842
+    second: Circus_BallDead_8
+  - first:
+      213: -6090022732941680294
+    second: Circus_BallDead_9
+  - first:
+      213: 655978305017305229
+    second: Circus_BallDead_10
+  - first:
+      213: -8521342611602446665
+    second: Circus_BallDead_11
+  - first:
+      213: -1918196922980144611
+    second: Circus_BallDead_12
+  - first:
+      213: 3671266693504361641
+    second: Circus_BallDead_13
+  - first:
+      213: 8240905060129087862
+    second: Circus_BallDead_14
+  - first:
+      213: 4769967344950371687
+    second: Circus_BallDead_15
+  - first:
+      213: 5881924735210480093
+    second: Circus_BallDead_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Circus_BallDead_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 112
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222c2c98d9768f0d0800000000000000
+      internalID: -3388844793277529566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 104
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c4552b421874cb0800000000000000
+      internalID: -4879789676621902844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 132
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141523596199b24c0800000000000000
+      internalID: -4311183896005684927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 131
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dec5bc9fe7a2f60800000000000000
+      internalID: 8010354498555669830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_4
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 135
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092b2bfa307868c40800000000000000
+      internalID: 5514243243664126608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 134
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a684c028d6472c10800000000000000
+      internalID: 2028668051230328489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 144
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f162a323a0e4e6ac0800000000000000
+      internalID: -3860062024910625249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_7
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 106
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 615611242066b2730800000000000000
+      internalID: 3975383255968998678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_8
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 105
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bbcdd52bb2782aa0800000000000000
+      internalID: -6185567940073632842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 48
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5125f83794eb7ba0800000000000000
+      internalID: -6090022732941680294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 50
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d885beafac08a1900800000000000000
+      internalID: 655978305017305229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 60
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b66902fa0c1eb980800000000000000
+      internalID: -8521342611602446665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_12
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 72
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a6584cf023165e0800000000000000
+      internalID: -1918196922980144611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_13
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 62
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4ec064b95f2f230800000000000000
+      internalID: 3671266693504361641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 62
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671a6b07d739d5270800000000000000
+      internalID: 8240905060129087862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 80
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765eaf12704523240800000000000000
+      internalID: 4769967344950371687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_BallDead_16
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 65
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1edc5026bc0a150800000000000000
+      internalID: 5881924735210480093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Circus_BallDead_0: -3388844793277529566
+      Circus_BallDead_1: -4879789676621902844
+      Circus_BallDead_10: 655978305017305229
+      Circus_BallDead_11: -8521342611602446665
+      Circus_BallDead_12: -1918196922980144611
+      Circus_BallDead_13: 3671266693504361641
+      Circus_BallDead_14: 8240905060129087862
+      Circus_BallDead_15: 4769967344950371687
+      Circus_BallDead_16: 5881924735210480093
+      Circus_BallDead_2: -4311183896005684927
+      Circus_BallDead_3: 8010354498555669830
+      Circus_BallDead_4: 5514243243664126608
+      Circus_BallDead_5: 2028668051230328489
+      Circus_BallDead_6: -3860062024910625249
+      Circus_BallDead_7: 3975383255968998678
+      Circus_BallDead_8: -6185567940073632842
+      Circus_BallDead_9: -6090022732941680294
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

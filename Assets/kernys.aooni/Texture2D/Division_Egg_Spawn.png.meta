@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 6fdf9e3a90db88447b3665e487441ab6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -251255952058639273
+    second: Division_Egg_Spawn_0
+  - first:
+      213: 5611975802710912801
+    second: Division_Egg_Spawn_1
+  - first:
+      213: -6153374136028586142
+    second: Division_Egg_Spawn_2
+  - first:
+      213: 1083120787327130428
+    second: Division_Egg_Spawn_3
+  - first:
+      213: -4456930422085148439
+    second: Division_Egg_Spawn_4
+  - first:
+      213: 4715464189606898438
+    second: Division_Egg_Spawn_5
+  - first:
+      213: 2701930798206668121
+    second: Division_Egg_Spawn_6
+  - first:
+      213: 2672828164494626725
+    second: Division_Egg_Spawn_7
+  - first:
+      213: 2922920915596293580
+    second: Division_Egg_Spawn_8
+  - first:
+      213: -3230459028948896456
+    second: Division_Egg_Spawn_9
+  - first:
+      213: -8570398511739274303
+    second: Division_Egg_Spawn_10
+  - first:
+      213: -3868280295952310530
+    second: Division_Egg_Spawn_11
+  - first:
+      213: -5859699480956926917
+    second: Division_Egg_Spawn_12
+  - first:
+      213: -4747945236456102633
+    second: Division_Egg_Spawn_13
+  - first:
+      213: -8966861713393187093
+    second: Division_Egg_Spawn_14
+  - first:
+      213: 615999156259227830
+    second: Division_Egg_Spawn_15
+  - first:
+      213: -1069124629516335700
+    second: Division_Egg_Spawn_16
+  - first:
+      213: -7675961376095007050
+    second: Division_Egg_Spawn_17
+  - first:
+      213: -7455862728833403145
+    second: Division_Egg_Spawn_18
+  - first:
+      213: 9029229729572862637
+    second: Division_Egg_Spawn_19
+  - first:
+      213: -5324816499329750885
+    second: Division_Egg_Spawn_20
+  - first:
+      213: -1789605268004778291
+    second: Division_Egg_Spawn_21
+  - first:
+      213: 1020762166004644551
+    second: Division_Egg_Spawn_22
+  - first:
+      213: 6255650691703428248
+    second: Division_Egg_Spawn_23
+  - first:
+      213: 1701202715590343966
+    second: Division_Egg_Spawn_24
+  - first:
+      213: 3379618923548625022
+    second: Division_Egg_Spawn_25
+  - first:
+      213: -6204839897907220766
+    second: Division_Egg_Spawn_26
+  - first:
+      213: -7031615603315175192
+    second: Division_Egg_Spawn_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 86
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c97d5fa0c538cf0800000000000000
+      internalID: -251255952058639273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 78
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12feba0524eb1ed40800000000000000
+      internalID: 5611975802710912801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 49
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f90f343d2da9aa0800000000000000
+      internalID: -6153374136028586142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 65
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b99711e94080f00800000000000000
+      internalID: 1083120787327130428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 64
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0abfa156dc522c0800000000000000
+      internalID: -4456930422085148439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 58
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b289462b1b07140800000000000000
+      internalID: 4715464189606898438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 57
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dcbcadebf2f7520800000000000000
+      internalID: 2701930798206668121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 67
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af8c5aed0bc71520800000000000000
+      internalID: 2672828164494626725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc53da0261d409820800000000000000
+      internalID: 2922920915596293580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8353c0ef0aa1b23d0800000000000000
+      internalID: -3230459028948896456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb7e3426f3df0980800000000000000
+      internalID: -8570398511739274303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 57
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe9e1cd09b115ac0800000000000000
+      internalID: -3868280295952310530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 36
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34850b3e5a2eaea0800000000000000
+      internalID: -5859699480956926917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 20
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715a60096f8eb1eb0800000000000000
+      internalID: -4747945236456102633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 18
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be60627b7ce4f8380800000000000000
+      internalID: -8966861713393187093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 26
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b885ca08f77c8800800000000000000
+      internalID: 615999156259227830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5ce0d50d4b921f0800000000000000
+      internalID: -1069124629516335700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 15
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be0d342cc1897590800000000000000
+      internalID: -7675961376095007050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f67fc9d954778890800000000000000
+      internalID: -7455862728833403145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa3692a9944e4d70800000000000000
+      internalID: 9029229729572862637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98af4f1b937a16b0800000000000000
+      internalID: -5324816499329750885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce48609d7b0a27e0800000000000000
+      internalID: -1789605268004778291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_22
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca7dd028c97a2e00800000000000000
+      internalID: 1020762166004644551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894d8e5092980d650800000000000000
+      internalID: 6255650691703428248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d31b14bd2eb9710800000000000000
+      internalID: 1701202715590343966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78cd464181d6ee20800000000000000
+      internalID: 3379618923548625022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eea11dccfaf3e9a0800000000000000
+      internalID: -6204839897907220766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Egg_Spawn_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e01e472ddeaa6e90800000000000000
+      internalID: -7031615603315175192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Egg_Spawn_0: -251255952058639273
+      Division_Egg_Spawn_1: 5611975802710912801
+      Division_Egg_Spawn_10: -8570398511739274303
+      Division_Egg_Spawn_11: -3868280295952310530
+      Division_Egg_Spawn_12: -5859699480956926917
+      Division_Egg_Spawn_13: -4747945236456102633
+      Division_Egg_Spawn_14: -8966861713393187093
+      Division_Egg_Spawn_15: 615999156259227830
+      Division_Egg_Spawn_16: -1069124629516335700
+      Division_Egg_Spawn_17: -7675961376095007050
+      Division_Egg_Spawn_18: -7455862728833403145
+      Division_Egg_Spawn_19: 9029229729572862637
+      Division_Egg_Spawn_2: -6153374136028586142
+      Division_Egg_Spawn_20: -5324816499329750885
+      Division_Egg_Spawn_21: -1789605268004778291
+      Division_Egg_Spawn_22: 1020762166004644551
+      Division_Egg_Spawn_23: 6255650691703428248
+      Division_Egg_Spawn_24: 1701202715590343966
+      Division_Egg_Spawn_25: 3379618923548625022
+      Division_Egg_Spawn_26: -6204839897907220766
+      Division_Egg_Spawn_27: -7031615603315175192
+      Division_Egg_Spawn_3: 1083120787327130428
+      Division_Egg_Spawn_4: -4456930422085148439
+      Division_Egg_Spawn_5: 4715464189606898438
+      Division_Egg_Spawn_6: 2701930798206668121
+      Division_Egg_Spawn_7: 2672828164494626725
+      Division_Egg_Spawn_8: 2922920915596293580
+      Division_Egg_Spawn_9: -3230459028948896456
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

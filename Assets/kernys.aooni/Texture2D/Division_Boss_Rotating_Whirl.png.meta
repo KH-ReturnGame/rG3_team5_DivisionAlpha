@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 58ff6122d093a424cbb04ca75bdf3dbc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1547330831502013861
+    second: Division_Boss_Rotating_Whirl_0
+  - first:
+      213: 3817780874965491135
+    second: Division_Boss_Rotating_Whirl_1
+  - first:
+      213: 9127776692330516694
+    second: Division_Boss_Rotating_Whirl_2
+  - first:
+      213: 2217154669847633946
+    second: Division_Boss_Rotating_Whirl_3
+  - first:
+      213: -7650390981747236784
+    second: Division_Boss_Rotating_Whirl_4
+  - first:
+      213: 2663441097470766726
+    second: Division_Boss_Rotating_Whirl_5
+  - first:
+      213: -2697980352721461441
+    second: Division_Boss_Rotating_Whirl_6
+  - first:
+      213: 2116399872482069014
+    second: Division_Boss_Rotating_Whirl_7
+  - first:
+      213: 8908448186391838849
+    second: Division_Boss_Rotating_Whirl_8
+  - first:
+      213: 411702867701179569
+    second: Division_Boss_Rotating_Whirl_9
+  - first:
+      213: -4199537899100045678
+    second: Division_Boss_Rotating_Whirl_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Boss_Rotating_Whirl_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 180
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a005e8ec6c68ae0800000000000000
+      internalID: -1547330831502013861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Rotating_Whirl_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 247
+        width: 110
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd19927a7b7bf430800000000000000
+      internalID: 3817780874965491135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Rotating_Whirl_2
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 212
+        width: 70
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d053776a806cae70800000000000000
+      internalID: 9127776692330516694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Rotating_Whirl_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 151
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10ed5cdc6ae4ce10800000000000000
+      internalID: 2217154669847633946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Rotating_Whirl_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 106
+        width: 61
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050aa148fe954d590800000000000000
+      internalID: -7650390981747236784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Rotating_Whirl_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 155
+        width: 97
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68eebee019176f420800000000000000
+      internalID: 2663441097470766726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Rotating_Whirl_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 106
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fdd09e929de8ad0800000000000000
+      internalID: -2697980352721461441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Rotating_Whirl_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 52
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ac9f98876fe5d10800000000000000
+      internalID: 2116399872482069014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Rotating_Whirl_8
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 64
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180cbd13d6a21ab70800000000000000
+      internalID: 8908448186391838849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Rotating_Whirl_9
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 71
+        width: 68
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4a65ea399a6b500800000000000000
+      internalID: 411702867701179569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Rotating_Whirl_10
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 55
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ef957e78e38b5c0800000000000000
+      internalID: -4199537899100045678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Boss_Rotating_Whirl_0: -1547330831502013861
+      Division_Boss_Rotating_Whirl_1: 3817780874965491135
+      Division_Boss_Rotating_Whirl_10: -4199537899100045678
+      Division_Boss_Rotating_Whirl_2: 9127776692330516694
+      Division_Boss_Rotating_Whirl_3: 2217154669847633946
+      Division_Boss_Rotating_Whirl_4: -7650390981747236784
+      Division_Boss_Rotating_Whirl_5: 2663441097470766726
+      Division_Boss_Rotating_Whirl_6: -2697980352721461441
+      Division_Boss_Rotating_Whirl_7: 2116399872482069014
+      Division_Boss_Rotating_Whirl_8: 8908448186391838849
+      Division_Boss_Rotating_Whirl_9: 411702867701179569
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

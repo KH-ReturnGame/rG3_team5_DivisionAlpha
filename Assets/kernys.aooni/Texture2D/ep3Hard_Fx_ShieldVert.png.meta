@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 1bfce03fea2e7f94881c3878a35defd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4252447451666075468
+    second: ep3Hard_Fx_ShieldVert_0
+  - first:
+      213: 8667844583981592853
+    second: ep3Hard_Fx_ShieldVert_1
+  - first:
+      213: -8864012685408464735
+    second: ep3Hard_Fx_ShieldVert_2
+  - first:
+      213: -8637027052668992778
+    second: ep3Hard_Fx_ShieldVert_3
+  - first:
+      213: 7217793589217317711
+    second: ep3Hard_Fx_ShieldVert_4
+  - first:
+      213: 8611558568839865299
+    second: ep3Hard_Fx_ShieldVert_5
+  - first:
+      213: 6774558949753558201
+    second: ep3Hard_Fx_ShieldVert_6
+  - first:
+      213: 4272287510264315076
+    second: ep3Hard_Fx_ShieldVert_7
+  - first:
+      213: 7891040423322214702
+    second: ep3Hard_Fx_ShieldVert_8
+  - first:
+      213: 3633031473589292828
+    second: ep3Hard_Fx_ShieldVert_9
+  - first:
+      213: -2149017170428543080
+    second: ep3Hard_Fx_ShieldVert_10
+  - first:
+      213: -956163357693438535
+    second: ep3Hard_Fx_ShieldVert_11
+  - first:
+      213: 8493113712663525221
+    second: ep3Hard_Fx_ShieldVert_12
+  - first:
+      213: 4936361079627704840
+    second: ep3Hard_Fx_ShieldVert_13
+  - first:
+      213: 8475849676548013449
+    second: ep3Hard_Fx_ShieldVert_14
+  - first:
+      213: -4240385361643914013
+    second: ep3Hard_Fx_ShieldVert_15
+  - first:
+      213: -8761731798264309966
+    second: ep3Hard_Fx_ShieldVert_16
+  - first:
+      213: 1731175724357578994
+    second: ep3Hard_Fx_ShieldVert_17
+  - first:
+      213: 4720086589773755147
+    second: ep3Hard_Fx_ShieldVert_18
+  - first:
+      213: -5983949658531694522
+    second: ep3Hard_Fx_ShieldVert_19
+  - first:
+      213: -3033244418273500297
+    second: ep3Hard_Fx_ShieldVert_20
+  - first:
+      213: 536931759478323925
+    second: ep3Hard_Fx_ShieldVert_21
+  - first:
+      213: 3220212966505937701
+    second: ep3Hard_Fx_ShieldVert_22
+  - first:
+      213: 1492997820627096727
+    second: ep3Hard_Fx_ShieldVert_23
+  - first:
+      213: -7364093163321511136
+    second: ep3Hard_Fx_ShieldVert_24
+  - first:
+      213: -7847453864520002280
+    second: ep3Hard_Fx_ShieldVert_25
+  - first:
+      213: 8608287171826910004
+    second: ep3Hard_Fx_ShieldVert_26
+  - first:
+      213: 592823183428517673
+    second: ep3Hard_Fx_ShieldVert_27
+  - first:
+      213: -2409591532392849184
+    second: ep3Hard_Fx_ShieldVert_28
+  - first:
+      213: 3694170999258119646
+    second: ep3Hard_Fx_ShieldVert_29
+  - first:
+      213: 7480358159095174633
+    second: ep3Hard_Fx_ShieldVert_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 20
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f42964d6ab30b30800000000000000
+      internalID: 4252447451666075468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 53
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511348499be5a4870800000000000000
+      internalID: 8667844583981592853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_2
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 69
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a01ca91d63bcf480800000000000000
+      internalID: -8864012685408464735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_3
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2c93218ad132880800000000000000
+      internalID: -8637027052668992778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 58
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43d3632701ca2460800000000000000
+      internalID: 7217793589217317711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 10
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d3eb2274e6628770800000000000000
+      internalID: 8611558568839865299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 55
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4110eb871140e50800000000000000
+      internalID: 6774558949753558201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 53
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc74a3ead63a4b30800000000000000
+      internalID: 4272287510264315076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 57
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e216e5cd47b928d60800000000000000
+      internalID: 7891040423322214702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 26
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f8a1960ee1b6230800000000000000
+      internalID: 3633031473589292828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 62
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f346cf4482d22e0800000000000000
+      internalID: -2149017170428543080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_11
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 68
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5107dfd760bb2f0800000000000000
+      internalID: -956163357693438535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 57
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567fe485ce99dd570800000000000000
+      internalID: 8493113712663525221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 55
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ae54a7f3a718440800000000000000
+      internalID: 4936361079627704840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_14
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 53
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98df044bf5440a570800000000000000
+      internalID: 8475849676548013449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 57
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecb278eaff1725c0800000000000000
+      internalID: -4240385361643914013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2371633e953186680800000000000000
+      internalID: -8761731798264309966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 51
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0fc1e262f560810800000000000000
+      internalID: 1731175724357578994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_18
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 12
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03bc8ccebd118140800000000000000
+      internalID: 4720086589773755147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_19
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 15
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648f5696d7db4fca0800000000000000
+      internalID: -5983949658531694522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_20
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 12
+        width: 12
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7732fdbb540c7e5d0800000000000000
+      internalID: -3033244418273500297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 22
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dab4582790937700800000000000000
+      internalID: 536931759478323925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_22
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 12
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b71b1b1ae70bc20800000000000000
+      internalID: 3220212966505937701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_23
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 32
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79419ec8b9138b410800000000000000
+      internalID: 1492997820627096727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_24
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 12
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023b65bd84c7dc990800000000000000
+      internalID: -7364093163321511136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815d40ea94e381390800000000000000
+      internalID: -7847453864520002280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_26
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4338b49f297c67770800000000000000
+      internalID: 8608287171826910004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 13
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f7fde5b812a3800800000000000000
+      internalID: 592823183428517673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_28
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e06fe194496f8ed0800000000000000
+      internalID: -2409591532392849184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_29
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 13
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd745683f4544330800000000000000
+      internalID: 3694170999258119646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ep3Hard_Fx_ShieldVert_30
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e51091fc129fc760800000000000000
+      internalID: 7480358159095174633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ep3Hard_Fx_ShieldVert_0: 4252447451666075468
+      ep3Hard_Fx_ShieldVert_1: 8667844583981592853
+      ep3Hard_Fx_ShieldVert_10: -2149017170428543080
+      ep3Hard_Fx_ShieldVert_11: -956163357693438535
+      ep3Hard_Fx_ShieldVert_12: 8493113712663525221
+      ep3Hard_Fx_ShieldVert_13: 4936361079627704840
+      ep3Hard_Fx_ShieldVert_14: 8475849676548013449
+      ep3Hard_Fx_ShieldVert_15: -4240385361643914013
+      ep3Hard_Fx_ShieldVert_16: -8761731798264309966
+      ep3Hard_Fx_ShieldVert_17: 1731175724357578994
+      ep3Hard_Fx_ShieldVert_18: 4720086589773755147
+      ep3Hard_Fx_ShieldVert_19: -5983949658531694522
+      ep3Hard_Fx_ShieldVert_2: -8864012685408464735
+      ep3Hard_Fx_ShieldVert_20: -3033244418273500297
+      ep3Hard_Fx_ShieldVert_21: 536931759478323925
+      ep3Hard_Fx_ShieldVert_22: 3220212966505937701
+      ep3Hard_Fx_ShieldVert_23: 1492997820627096727
+      ep3Hard_Fx_ShieldVert_24: -7364093163321511136
+      ep3Hard_Fx_ShieldVert_25: -7847453864520002280
+      ep3Hard_Fx_ShieldVert_26: 8608287171826910004
+      ep3Hard_Fx_ShieldVert_27: 592823183428517673
+      ep3Hard_Fx_ShieldVert_28: -2409591532392849184
+      ep3Hard_Fx_ShieldVert_29: 3694170999258119646
+      ep3Hard_Fx_ShieldVert_3: -8637027052668992778
+      ep3Hard_Fx_ShieldVert_30: 7480358159095174633
+      ep3Hard_Fx_ShieldVert_4: 7217793589217317711
+      ep3Hard_Fx_ShieldVert_5: 8611558568839865299
+      ep3Hard_Fx_ShieldVert_6: 6774558949753558201
+      ep3Hard_Fx_ShieldVert_7: 4272287510264315076
+      ep3Hard_Fx_ShieldVert_8: 7891040423322214702
+      ep3Hard_Fx_ShieldVert_9: 3633031473589292828
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

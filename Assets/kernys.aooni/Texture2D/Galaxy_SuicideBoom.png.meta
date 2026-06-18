@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 60375841c0e0d254ba08b70b48c15b9b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8940575465073389516
+    second: Galaxy_SuicideBoom_0
+  - first:
+      213: 7279769456013169740
+    second: Galaxy_SuicideBoom_1
+  - first:
+      213: 3970000653341230796
+    second: Galaxy_SuicideBoom_2
+  - first:
+      213: 7515639577795036316
+    second: Galaxy_SuicideBoom_3
+  - first:
+      213: -2481601163573076023
+    second: Galaxy_SuicideBoom_4
+  - first:
+      213: 3139920606831227254
+    second: Galaxy_SuicideBoom_5
+  - first:
+      213: -7631143696809637193
+    second: Galaxy_SuicideBoom_6
+  - first:
+      213: -1184493706025418272
+    second: Galaxy_SuicideBoom_7
+  - first:
+      213: 774078650888835025
+    second: Galaxy_SuicideBoom_8
+  - first:
+      213: -5918184259514327570
+    second: Galaxy_SuicideBoom_9
+  - first:
+      213: 5900707525029187537
+    second: Galaxy_SuicideBoom_10
+  - first:
+      213: 8038724067118979099
+    second: Galaxy_SuicideBoom_11
+  - first:
+      213: -6439816723827841230
+    second: Galaxy_SuicideBoom_12
+  - first:
+      213: -1391134576767628547
+    second: Galaxy_SuicideBoom_13
+  - first:
+      213: 2058207838046834347
+    second: Galaxy_SuicideBoom_14
+  - first:
+      213: -931976140167166297
+    second: Galaxy_SuicideBoom_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 45
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4305ab4dbf1bce380800000000000000
+      internalID: -8940575465073389516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44576810cfe60560800000000000000
+      internalID: 7279769456013169740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 74
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6097c6f86481730800000000000000
+      internalID: 3970000653341230796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 73
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94075e506aec4860800000000000000
+      internalID: 7515639577795036316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 66
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfd70bc3e49f8dd0800000000000000
+      internalID: -2481601163573076023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 46
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671ba19e72d339b20800000000000000
+      internalID: 3139920606831227254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba43b14d3bb81690800000000000000
+      internalID: -7631143696809637193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_7
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 57
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e14ba50045df8fe0800000000000000
+      internalID: -1184493706025418272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 24
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df41768e641eba00800000000000000
+      internalID: 774078650888835025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_9
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 31
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed175895c26edda0800000000000000
+      internalID: -5918184259514327570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 25
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfc6d01b3683e150800000000000000
+      internalID: 5900707525029187537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b189204b2f84f8f60800000000000000
+      internalID: 8038724067118979099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2372f9d2fcc21a6a0800000000000000
+      internalID: -6439816723827841230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa80051972b1bce0800000000000000
+      internalID: -1391134576767628547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 14
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baec4b4bf19309c10800000000000000
+      internalID: 2058207838046834347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_SuicideBoom_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6423a63a4f013f0800000000000000
+      internalID: -931976140167166297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galaxy_SuicideBoom_0: -8940575465073389516
+      Galaxy_SuicideBoom_1: 7279769456013169740
+      Galaxy_SuicideBoom_10: 5900707525029187537
+      Galaxy_SuicideBoom_11: 8038724067118979099
+      Galaxy_SuicideBoom_12: -6439816723827841230
+      Galaxy_SuicideBoom_13: -1391134576767628547
+      Galaxy_SuicideBoom_14: 2058207838046834347
+      Galaxy_SuicideBoom_15: -931976140167166297
+      Galaxy_SuicideBoom_2: 3970000653341230796
+      Galaxy_SuicideBoom_3: 7515639577795036316
+      Galaxy_SuicideBoom_4: -2481601163573076023
+      Galaxy_SuicideBoom_5: 3139920606831227254
+      Galaxy_SuicideBoom_6: -7631143696809637193
+      Galaxy_SuicideBoom_7: -1184493706025418272
+      Galaxy_SuicideBoom_8: 774078650888835025
+      Galaxy_SuicideBoom_9: -5918184259514327570
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

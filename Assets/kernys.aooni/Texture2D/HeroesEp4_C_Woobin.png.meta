@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 1ddae0d8069682c409eb9d08983ed14d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4794290197950122209
+    second: HeroesEp4_C_Woobin_0
+  - first:
+      213: -1790528532202156192
+    second: HeroesEp4_C_Woobin_1
+  - first:
+      213: -5925523178006733699
+    second: HeroesEp4_C_Woobin_2
+  - first:
+      213: -7607916135398536608
+    second: HeroesEp4_C_Woobin_3
+  - first:
+      213: 101090371838041903
+    second: HeroesEp4_C_Woobin_4
+  - first:
+      213: -5184598668551948698
+    second: HeroesEp4_C_Woobin_5
+  - first:
+      213: -76212315244189947
+    second: HeroesEp4_C_Woobin_6
+  - first:
+      213: 4109871673258629903
+    second: HeroesEp4_C_Woobin_7
+  - first:
+      213: -2070891276981093975
+    second: HeroesEp4_C_Woobin_8
+  - first:
+      213: 1909739675028514302
+    second: HeroesEp4_C_Woobin_9
+  - first:
+      213: -4255600907914914000
+    second: HeroesEp4_C_Woobin_10
+  - first:
+      213: -3275765415466934159
+    second: HeroesEp4_C_Woobin_11
+  - first:
+      213: 1220304608759237529
+    second: HeroesEp4_C_Woobin_12
+  - first:
+      213: -5395258220711924579
+    second: HeroesEp4_C_Woobin_13
+  - first:
+      213: 3902529262500344247
+    second: HeroesEp4_C_Woobin_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 121
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17bb095772477db0800000000000000
+      internalID: -4794290197950122209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 121
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f83ed59c3c627e0800000000000000
+      internalID: -1790528532202156192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 119
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c909a701054cda0800000000000000
+      internalID: -5925523178006733699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_3
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 121
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a8b9455904b6690800000000000000
+      internalID: -7607916135398536608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_4
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 119
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f5e975825276100800000000000000
+      internalID: 101090371838041903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 61
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6667ff9eafa9c08b0800000000000000
+      internalID: -5184598668551948698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 62
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5072c569d4d31fef0800000000000000
+      internalID: -76212315244189947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_7
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 62
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b55050382390930800000000000000
+      internalID: 4109871673258629903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 62
+        width: 19
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9361b0b57b243e0800000000000000
+      internalID: -2070891276981093975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 62
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef56b8fbd12c08a10800000000000000
+      internalID: 1909739675028514302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037d6e9758111f4c0800000000000000
+      internalID: -4255600907914914000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170659bd5b42a82d0800000000000000
+      internalID: -3275765415466934159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99bcdd283946fe010800000000000000
+      internalID: 1220304608759237529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_13
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ca5facb313025b0800000000000000
+      internalID: -5395258220711924579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Woobin_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 0
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b176e010b1982630800000000000000
+      internalID: 3902529262500344247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp4_C_Woobin_0: -4794290197950122209
+      HeroesEp4_C_Woobin_1: -1790528532202156192
+      HeroesEp4_C_Woobin_10: -4255600907914914000
+      HeroesEp4_C_Woobin_11: -3275765415466934159
+      HeroesEp4_C_Woobin_12: 1220304608759237529
+      HeroesEp4_C_Woobin_13: -5395258220711924579
+      HeroesEp4_C_Woobin_14: 3902529262500344247
+      HeroesEp4_C_Woobin_2: -5925523178006733699
+      HeroesEp4_C_Woobin_3: -7607916135398536608
+      HeroesEp4_C_Woobin_4: 101090371838041903
+      HeroesEp4_C_Woobin_5: -5184598668551948698
+      HeroesEp4_C_Woobin_6: -76212315244189947
+      HeroesEp4_C_Woobin_7: 4109871673258629903
+      HeroesEp4_C_Woobin_8: -2070891276981093975
+      HeroesEp4_C_Woobin_9: 1909739675028514302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

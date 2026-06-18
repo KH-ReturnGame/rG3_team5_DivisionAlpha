@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: f5ed3bb8cb9e5f344a38b7c01edbc2ea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 545723437204098348
+    second: Magic_Flywing_ScoringVfx_0
+  - first:
+      213: -8951384355566492341
+    second: Magic_Flywing_ScoringVfx_1
+  - first:
+      213: -500432870791262582
+    second: Magic_Flywing_ScoringVfx_2
+  - first:
+      213: 4712816540371140212
+    second: Magic_Flywing_ScoringVfx_3
+  - first:
+      213: 2527439997459818548
+    second: Magic_Flywing_ScoringVfx_4
+  - first:
+      213: 1073524589962652097
+    second: Magic_Flywing_ScoringVfx_5
+  - first:
+      213: -2996470070544921960
+    second: Magic_Flywing_ScoringVfx_6
+  - first:
+      213: -2117292769238404292
+    second: Magic_Flywing_ScoringVfx_7
+  - first:
+      213: -8839285559486045405
+    second: Magic_Flywing_ScoringVfx_8
+  - first:
+      213: -2704595226666255436
+    second: Magic_Flywing_ScoringVfx_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Flywing_ScoringVfx_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 162
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dc724239cc29700800000000000000
+      internalID: 545723437204098348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Flywing_ScoringVfx_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 155
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b456876ea5b46c380800000000000000
+      internalID: -8951384355566492341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Flywing_ScoringVfx_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 149
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ece8694fa1e09f0800000000000000
+      internalID: -500432870791262582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Flywing_ScoringVfx_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 74
+        width: 61
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e38648ca9476140800000000000000
+      internalID: 4712816540371140212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Flywing_ScoringVfx_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 31
+        width: 74
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438e4b76945431320800000000000000
+      internalID: 2527439997459818548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Flywing_ScoringVfx_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9ee524dece5ee00800000000000000
+      internalID: 1073524589962652097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Flywing_ScoringVfx_6
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a8419c8566a66d0800000000000000
+      internalID: -2996470070544921960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Flywing_ScoringVfx_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 103
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33ba0cb17ddd92e0800000000000000
+      internalID: -2117292769238404292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Flywing_ScoringVfx_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 79
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323289ebd9c845580800000000000000
+      internalID: -8839285559486045405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Flywing_ScoringVfx_9
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 28
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb375d88f8577ad0800000000000000
+      internalID: -2704595226666255436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Flywing_ScoringVfx_0: 545723437204098348
+      Magic_Flywing_ScoringVfx_1: -8951384355566492341
+      Magic_Flywing_ScoringVfx_2: -500432870791262582
+      Magic_Flywing_ScoringVfx_3: 4712816540371140212
+      Magic_Flywing_ScoringVfx_4: 2527439997459818548
+      Magic_Flywing_ScoringVfx_5: 1073524589962652097
+      Magic_Flywing_ScoringVfx_6: -2996470070544921960
+      Magic_Flywing_ScoringVfx_7: -2117292769238404292
+      Magic_Flywing_ScoringVfx_8: -8839285559486045405
+      Magic_Flywing_ScoringVfx_9: -2704595226666255436
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

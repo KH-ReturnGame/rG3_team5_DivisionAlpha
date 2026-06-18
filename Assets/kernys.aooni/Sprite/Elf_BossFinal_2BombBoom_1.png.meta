@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 067d403017bc8e74a907de3c4b1c6140
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6219408339837065683
+    second: Elf_BossFinal_2BombBoom_1_0
+  - first:
+      213: 1067212084356308624
+    second: Elf_BossFinal_2BombBoom_1_1
+  - first:
+      213: 2548034140732464352
+    second: Elf_BossFinal_2BombBoom_1_2
+  - first:
+      213: -2580326123874534849
+    second: Elf_BossFinal_2BombBoom_1_3
+  - first:
+      213: -1608923815472614848
+    second: Elf_BossFinal_2BombBoom_1_4
+  - first:
+      213: 4242167102237706119
+    second: Elf_BossFinal_2BombBoom_1_5
+  - first:
+      213: -7078915553599392158
+    second: Elf_BossFinal_2BombBoom_1_6
+  - first:
+      213: -5792702696921704668
+    second: Elf_BossFinal_2BombBoom_1_7
+  - first:
+      213: 2369777324043876694
+    second: Elf_BossFinal_2BombBoom_1_8
+  - first:
+      213: 8172865331202840928
+    second: Elf_BossFinal_2BombBoom_1_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elf_BossFinal_2BombBoom_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26e8e6111930b9a0800000000000000
+      internalID: -6219408339837065683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_BossFinal_2BombBoom_1_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 65
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09edf048cbf7fce00800000000000000
+      internalID: 1067212084356308624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_BossFinal_2BombBoom_1_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 54
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec1de90d8f6c5320800000000000000
+      internalID: 2548034140732464352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_BossFinal_2BombBoom_1_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 38
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a3ccdbf07d03cd0800000000000000
+      internalID: -2580326123874534849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_BossFinal_2BombBoom_1_4
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 44
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042b6147054fba9e0800000000000000
+      internalID: -1608923815472614848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_BossFinal_2BombBoom_1_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7870ab6e0843fda30800000000000000
+      internalID: 4242167102237706119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_BossFinal_2BombBoom_1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26678b84fc3a2cd90800000000000000
+      internalID: -7078915553599392158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_BossFinal_2BombBoom_1_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 0
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427d884969f2c9fa0800000000000000
+      internalID: -5792702696921704668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_BossFinal_2BombBoom_1_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 39
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659396cabe323e020800000000000000
+      internalID: 2369777324043876694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_BossFinal_2BombBoom_1_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069537f87b9db6170800000000000000
+      internalID: 8172865331202840928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elf_BossFinal_2BombBoom_1_0: -6219408339837065683
+      Elf_BossFinal_2BombBoom_1_1: 1067212084356308624
+      Elf_BossFinal_2BombBoom_1_2: 2548034140732464352
+      Elf_BossFinal_2BombBoom_1_3: -2580326123874534849
+      Elf_BossFinal_2BombBoom_1_4: -1608923815472614848
+      Elf_BossFinal_2BombBoom_1_5: 4242167102237706119
+      Elf_BossFinal_2BombBoom_1_6: -7078915553599392158
+      Elf_BossFinal_2BombBoom_1_7: -5792702696921704668
+      Elf_BossFinal_2BombBoom_1_8: 2369777324043876694
+      Elf_BossFinal_2BombBoom_1_9: 8172865331202840928
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

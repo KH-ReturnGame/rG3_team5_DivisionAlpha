@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 8e8edd16c177e3845bc4812ddc63977c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7941815384008098417
+    second: SS_Ep1_h_rotten_0
+  - first:
+      213: 8749664837931796489
+    second: SS_Ep1_h_rotten_1
+  - first:
+      213: 1844057865634693903
+    second: SS_Ep1_h_rotten_2
+  - first:
+      213: 5208068668125314765
+    second: SS_Ep1_h_rotten_3
+  - first:
+      213: 575777720831588978
+    second: SS_Ep1_h_rotten_4
+  - first:
+      213: -2626440203681871945
+    second: SS_Ep1_h_rotten_5
+  - first:
+      213: -2961512845774814517
+    second: SS_Ep1_h_rotten_6
+  - first:
+      213: 353507201507651263
+    second: SS_Ep1_h_rotten_7
+  - first:
+      213: -7015121710243019073
+    second: SS_Ep1_h_rotten_8
+  - first:
+      213: 7393810850555948716
+    second: SS_Ep1_h_rotten_9
+  - first:
+      213: -8086537291588016956
+    second: SS_Ep1_h_rotten_10
+  - first:
+      213: 3889547813121161780
+    second: SS_Ep1_h_rotten_11
+  - first:
+      213: -6689519767652795183
+    second: SS_Ep1_h_rotten_12
+  - first:
+      213: 4628721988860660785
+    second: SS_Ep1_h_rotten_13
+  - first:
+      213: 220833355861384302
+    second: SS_Ep1_h_rotten_14
+  - first:
+      213: -6603374459379622070
+    second: SS_Ep1_h_rotten_15
+  - first:
+      213: -1603185763727300922
+    second: SS_Ep1_h_rotten_16
+  - first:
+      213: 1551785191029279451
+    second: SS_Ep1_h_rotten_17
+  - first:
+      213: 6344196684504332830
+    second: SS_Ep1_h_rotten_18
+  - first:
+      213: -2440836770533591420
+    second: SS_Ep1_h_rotten_19
+  - first:
+      213: 3111859183996925776
+    second: SS_Ep1_h_rotten_20
+  - first:
+      213: 7206337987608448522
+    second: SS_Ep1_h_rotten_21
+  - first:
+      213: 7669351977847681491
+    second: SS_Ep1_h_rotten_22
+  - first:
+      213: 4014422996844689142
+    second: SS_Ep1_h_rotten_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 121
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8df67c5cf009c190800000000000000
+      internalID: -7941815384008098417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 121
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90886a8ffcd0d6970800000000000000
+      internalID: 8749664837931796489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 121
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03cb6acbd8679910800000000000000
+      internalID: 1844057865634693903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 121
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce73713cd6c64840800000000000000
+      internalID: 5208068668125314765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 121
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a30c759c29df700800000000000000
+      internalID: 575777720831588978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 119
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7ccbbdc820d8bd0800000000000000
+      internalID: -2626440203681871945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_6
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 121
+        width: 23
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc206dde1c796e6d0800000000000000
+      internalID: -2961512845774814517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_7
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 119
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbee7634de8e7e400800000000000000
+      internalID: 353507201507651263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_8
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 61
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb685d4e8f745ae90800000000000000
+      internalID: -7015121710243019073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_9
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 61
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caee0d36bc71c9660800000000000000
+      internalID: 7393810850555948716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_10
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 61
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c462f77d29d6cf80800000000000000
+      internalID: -8086537291588016956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 61
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43afbf9d0237af530800000000000000
+      internalID: 3889547813121161780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 61
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dcf913c63d0a23a0800000000000000
+      internalID: -6689519767652795183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_13
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 61
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c4416ff168c3040800000000000000
+      internalID: 4628721988860660785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_14
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 61
+        width: 20
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cdca264ce801300800000000000000
+      internalID: 220833355861384302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_15
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 61
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f5ac55ae91c54a0800000000000000
+      internalID: -6603374459379622070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_16
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6221cba0750c9e0800000000000000
+      internalID: -1603185763727300922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_17
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda0307d86c098510800000000000000
+      internalID: 1551785191029279451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a7715854d1b0850800000000000000
+      internalID: 6344196684504332830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_19
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1
+        width: 21
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48632a9a3e7602ed0800000000000000
+      internalID: -2440836770533591420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0577c25c07b8f2b20800000000000000
+      internalID: 3111859183996925776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_21
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 0
+        width: 19
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e0eca083e020460800000000000000
+      internalID: 7206337987608448522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_22
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1fc096df20f6a60800000000000000
+      internalID: 7669351977847681491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_rotten_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 20
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f63611427816b730800000000000000
+      internalID: 4014422996844689142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep1_h_rotten_0: -7941815384008098417
+      SS_Ep1_h_rotten_1: 8749664837931796489
+      SS_Ep1_h_rotten_10: -8086537291588016956
+      SS_Ep1_h_rotten_11: 3889547813121161780
+      SS_Ep1_h_rotten_12: -6689519767652795183
+      SS_Ep1_h_rotten_13: 4628721988860660785
+      SS_Ep1_h_rotten_14: 220833355861384302
+      SS_Ep1_h_rotten_15: -6603374459379622070
+      SS_Ep1_h_rotten_16: -1603185763727300922
+      SS_Ep1_h_rotten_17: 1551785191029279451
+      SS_Ep1_h_rotten_18: 6344196684504332830
+      SS_Ep1_h_rotten_19: -2440836770533591420
+      SS_Ep1_h_rotten_2: 1844057865634693903
+      SS_Ep1_h_rotten_20: 3111859183996925776
+      SS_Ep1_h_rotten_21: 7206337987608448522
+      SS_Ep1_h_rotten_22: 7669351977847681491
+      SS_Ep1_h_rotten_23: 4014422996844689142
+      SS_Ep1_h_rotten_3: 5208068668125314765
+      SS_Ep1_h_rotten_4: 575777720831588978
+      SS_Ep1_h_rotten_5: -2626440203681871945
+      SS_Ep1_h_rotten_6: -2961512845774814517
+      SS_Ep1_h_rotten_7: 353507201507651263
+      SS_Ep1_h_rotten_8: -7015121710243019073
+      SS_Ep1_h_rotten_9: 7393810850555948716
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

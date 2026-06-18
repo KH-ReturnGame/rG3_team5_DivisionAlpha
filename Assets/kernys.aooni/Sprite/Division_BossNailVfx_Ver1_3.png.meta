@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: ccadbfa842a620f4bad7da24d3585f79
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9148441533935021520
+    second: Division_BossNailVfx_Ver1_3_0
+  - first:
+      213: -6307415109125156148
+    second: Division_BossNailVfx_Ver1_3_1
+  - first:
+      213: 7037689306688760777
+    second: Division_BossNailVfx_Ver1_3_2
+  - first:
+      213: 8654251238076792888
+    second: Division_BossNailVfx_Ver1_3_3
+  - first:
+      213: -2480936957325162597
+    second: Division_BossNailVfx_Ver1_3_4
+  - first:
+      213: -2459989403427399951
+    second: Division_BossNailVfx_Ver1_3_5
+  - first:
+      213: -7599770244687009590
+    second: Division_BossNailVfx_Ver1_3_6
+  - first:
+      213: -6081740318268484405
+    second: Division_BossNailVfx_Ver1_3_7
+  - first:
+      213: -1954886166977358284
+    second: Division_BossNailVfx_Ver1_3_8
+  - first:
+      213: -9133130930223426206
+    second: Division_BossNailVfx_Ver1_3_9
+  - first:
+      213: -5922417797139819747
+    second: Division_BossNailVfx_Ver1_3_10
+  - first:
+      213: -6923472066119974735
+    second: Division_BossNailVfx_Ver1_3_11
+  - first:
+      213: -4557044732475113814
+    second: Division_BossNailVfx_Ver1_3_12
+  - first:
+      213: -6330606385655769033
+    second: Division_BossNailVfx_Ver1_3_13
+  - first:
+      213: 3291071831281903589
+    second: Division_BossNailVfx_Ver1_3_14
+  - first:
+      213: -7283283369176358550
+    second: Division_BossNailVfx_Ver1_3_15
+  - first:
+      213: 7421692228705335471
+    second: Division_BossNailVfx_Ver1_3_16
+  - first:
+      213: -1307473108131143107
+    second: Division_BossNailVfx_Ver1_3_17
+  - first:
+      213: 3656778593163425974
+    second: Division_BossNailVfx_Ver1_3_18
+  - first:
+      213: -6723588425209658999
+    second: Division_BossNailVfx_Ver1_3_19
+  - first:
+      213: -8692169791286575553
+    second: Division_BossNailVfx_Ver1_3_20
+  - first:
+      213: -2175816268995543731
+    second: Division_BossNailVfx_Ver1_3_21
+  - first:
+      213: 8870758444655980543
+    second: Division_BossNailVfx_Ver1_3_22
+  - first:
+      213: -2531589682732032305
+    second: Division_BossNailVfx_Ver1_3_23
+  - first:
+      213: -960499415447773475
+    second: Division_BossNailVfx_Ver1_3_24
+  - first:
+      213: -159933195667911737
+    second: Division_BossNailVfx_Ver1_3_25
+  - first:
+      213: -2022040438823506793
+    second: Division_BossNailVfx_Ver1_3_26
+  - first:
+      213: -7714745175958562830
+    second: Division_BossNailVfx_Ver1_3_27
+  - first:
+      213: 1886391958861359756
+    second: Division_BossNailVfx_Ver1_3_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 158
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd60a6ca1bc5fe70800000000000000
+      internalID: 9148441533935021520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 165
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2d9a9506f8778a0800000000000000
+      internalID: -6307415109125156148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 165
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbafbc1325eaa160800000000000000
+      internalID: 7037689306688760777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_3
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 158
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8304d8a16a31a1870800000000000000
+      internalID: 8654251238076792888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 144
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97ce7c5bf0f19dd0800000000000000
+      internalID: -2480936957325162597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 133
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f61c71dbac5cddd0800000000000000
+      internalID: -2459989403427399951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 150
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8e8de4a31388690800000000000000
+      internalID: -7599770244687009590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_7
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 138
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc49f692761599ba0800000000000000
+      internalID: -6081740318268484405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 150
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4365df87369ded4e0800000000000000
+      internalID: -1954886166977358284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 133
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26556e0fec9904180800000000000000
+      internalID: -9133130930223426206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_10
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 144
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13970e44685fcda0800000000000000
+      internalID: -5922417797139819747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0449686d2eaef90800000000000000
+      internalID: -6923472066119974735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_12
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 133
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae7147c5ff12c0c0800000000000000
+      internalID: -4557044732475113814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 92
+        width: 15
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7381b22880b2528a0800000000000000
+      internalID: -6330606385655769033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 133
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e72ad9c46c3cad20800000000000000
+      internalID: 3291071831281903589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_15
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 120
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61abbd3d549cea90800000000000000
+      internalID: -7283283369176358550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 101
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8324c92c52ff660800000000000000
+      internalID: 7421692228705335471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_17
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 117
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32a77ca22ceadde0800000000000000
+      internalID: -1307473108131143107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_18
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 101
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b832cb81cc7fb230800000000000000
+      internalID: 3656778593163425974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 120
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981437b43f301b2a0800000000000000
+      internalID: -6723588425209658999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 120
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e7bfeb0a53f5780800000000000000
+      internalID: -8692169791286575553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_21
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 92
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d310e91a2fdc1e0800000000000000
+      internalID: -2175816268995543731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 45
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff240e5ec34b1b70800000000000000
+      internalID: 8870758444655980543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 87
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce96b3b89cfddcd0800000000000000
+      internalID: -2531589682732032305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_24
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 92
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dded34fdede9ba2f0800000000000000
+      internalID: -960499415447773475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_25
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 27
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbcb6c1b9dc7cdf0800000000000000
+      internalID: -159933195667911737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 27
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c23722fe440f3e0800000000000000
+      internalID: -2022040438823506793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7d45e0328bfe490800000000000000
+      internalID: -7714745175958562830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_BossNailVfx_Ver1_3_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 9
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8aa517fd7fcd2a10800000000000000
+      internalID: 1886391958861359756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_BossNailVfx_Ver1_3_0: 9148441533935021520
+      Division_BossNailVfx_Ver1_3_1: -6307415109125156148
+      Division_BossNailVfx_Ver1_3_10: -5922417797139819747
+      Division_BossNailVfx_Ver1_3_11: -6923472066119974735
+      Division_BossNailVfx_Ver1_3_12: -4557044732475113814
+      Division_BossNailVfx_Ver1_3_13: -6330606385655769033
+      Division_BossNailVfx_Ver1_3_14: 3291071831281903589
+      Division_BossNailVfx_Ver1_3_15: -7283283369176358550
+      Division_BossNailVfx_Ver1_3_16: 7421692228705335471
+      Division_BossNailVfx_Ver1_3_17: -1307473108131143107
+      Division_BossNailVfx_Ver1_3_18: 3656778593163425974
+      Division_BossNailVfx_Ver1_3_19: -6723588425209658999
+      Division_BossNailVfx_Ver1_3_2: 7037689306688760777
+      Division_BossNailVfx_Ver1_3_20: -8692169791286575553
+      Division_BossNailVfx_Ver1_3_21: -2175816268995543731
+      Division_BossNailVfx_Ver1_3_22: 8870758444655980543
+      Division_BossNailVfx_Ver1_3_23: -2531589682732032305
+      Division_BossNailVfx_Ver1_3_24: -960499415447773475
+      Division_BossNailVfx_Ver1_3_25: -159933195667911737
+      Division_BossNailVfx_Ver1_3_26: -2022040438823506793
+      Division_BossNailVfx_Ver1_3_27: -7714745175958562830
+      Division_BossNailVfx_Ver1_3_28: 1886391958861359756
+      Division_BossNailVfx_Ver1_3_3: 8654251238076792888
+      Division_BossNailVfx_Ver1_3_4: -2480936957325162597
+      Division_BossNailVfx_Ver1_3_5: -2459989403427399951
+      Division_BossNailVfx_Ver1_3_6: -7599770244687009590
+      Division_BossNailVfx_Ver1_3_7: -6081740318268484405
+      Division_BossNailVfx_Ver1_3_8: -1954886166977358284
+      Division_BossNailVfx_Ver1_3_9: -9133130930223426206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

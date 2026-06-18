@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: db9227a92833a484982ec88bc6848069
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3163012453337985030
+    second: CircusS2_DieFloor_0
+  - first:
+      213: -9037405570759554888
+    second: CircusS2_DieFloor_1
+  - first:
+      213: -3969047368410164432
+    second: CircusS2_DieFloor_2
+  - first:
+      213: -4172937016219419437
+    second: CircusS2_DieFloor_3
+  - first:
+      213: 1136783764734833051
+    second: CircusS2_DieFloor_4
+  - first:
+      213: -7039345700939975438
+    second: CircusS2_DieFloor_5
+  - first:
+      213: 3398281213483713622
+    second: CircusS2_DieFloor_6
+  - first:
+      213: 4469780924993163017
+    second: CircusS2_DieFloor_7
+  - first:
+      213: 3673425410258926016
+    second: CircusS2_DieFloor_8
+  - first:
+      213: -1642719616995869865
+    second: CircusS2_DieFloor_9
+  - first:
+      213: -7114203892006695255
+    second: CircusS2_DieFloor_10
+  - first:
+      213: -7595982747972015883
+    second: CircusS2_DieFloor_11
+  - first:
+      213: 1481187242976097762
+    second: CircusS2_DieFloor_12
+  - first:
+      213: 6931543042359740223
+    second: CircusS2_DieFloor_13
+  - first:
+      213: 1725206817550600979
+    second: CircusS2_DieFloor_14
+  - first:
+      213: 7464307538391125324
+    second: CircusS2_DieFloor_15
+  - first:
+      213: 949885986652144657
+    second: CircusS2_DieFloor_16
+  - first:
+      213: 4586732244455789008
+    second: CircusS2_DieFloor_17
+  - first:
+      213: -1250967061518163180
+    second: CircusS2_DieFloor_18
+  - first:
+      213: 414440845488523280
+    second: CircusS2_DieFloor_19
+  - first:
+      213: 8966279750225978224
+    second: CircusS2_DieFloor_20
+  - first:
+      213: 7350659226647510038
+    second: CircusS2_DieFloor_21
+  - first:
+      213: -6385953749280275632
+    second: CircusS2_DieFloor_22
+  - first:
+      213: 6774637017282949773
+    second: CircusS2_DieFloor_23
+  - first:
+      213: 701898083728839496
+    second: CircusS2_DieFloor_24
+  - first:
+      213: 1409779612174976190
+    second: CircusS2_DieFloor_25
+  - first:
+      213: -7762185945371985421
+    second: CircusS2_DieFloor_26
+  - first:
+      213: -5849490242193585074
+    second: CircusS2_DieFloor_27
+  - first:
+      213: -7534785745379119080
+    second: CircusS2_DieFloor_28
+  - first:
+      213: 4277463838748463373
+    second: CircusS2_DieFloor_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff07aa9ee8ba14d0800000000000000
+      internalID: -3163012453337985030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 44
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b88dbff38fa49280800000000000000
+      internalID: -9037405570759554888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0339635827c1be8c0800000000000000
+      internalID: -3969047368410164432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcb92694efb616c0800000000000000
+      internalID: -4172937016219419437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 45
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b917373afcaa6cf00800000000000000
+      internalID: 1136783764734833051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 45
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f4bc4c81683f4e90800000000000000
+      internalID: -7039345700939975438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 36
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654849042ce192f20800000000000000
+      internalID: 3398281213483713622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 36
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90fc802c11ad70e30800000000000000
+      internalID: 4469780924993163017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 47
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9706fa2f0aaf230800000000000000
+      internalID: 3673425410258926016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 38
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b356b3633e339e0800000000000000
+      internalID: -1642719616995869865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 39
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae4d3db045454d90800000000000000
+      internalID: -7114203892006695255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8e12b9fe5a59690800000000000000
+      internalID: -7595982747972015883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e53e6723fb3e8410800000000000000
+      internalID: 1481187242976097762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37ce211ca9c13060800000000000000
+      internalID: 6931543042359740223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b8f24c57a21f710800000000000000
+      internalID: 1725206817550600979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4dc218982c869760800000000000000
+      internalID: 7464307538391125324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114c58ba54cae2d00800000000000000
+      internalID: 949885986652144657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 13
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d11e9ebca857af30800000000000000
+      internalID: 4586732244455789008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 13
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413ee70e51ca3aee0800000000000000
+      internalID: -1250967061518163180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 20
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01881cfc0c360c500800000000000000
+      internalID: 414440845488523280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0736ffc6def9e6c70800000000000000
+      internalID: 8966279750225978224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cb5450f99c20660800000000000000
+      internalID: 7350659226647510038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 13
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053431636e88067a0800000000000000
+      internalID: -6385953749280275632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82bc514978540e50800000000000000
+      internalID: 6774637017282949773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 13
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8435f2d9694adb900800000000000000
+      internalID: 701898083728839496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 21
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb40743861b809310800000000000000
+      internalID: 1409779612174976190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 10
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9b29d220d274490800000000000000
+      internalID: -7762185945371985421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 21
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c00fcdd9f62dea0800000000000000
+      internalID: -5849490242193585074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810300c19401f6790800000000000000
+      internalID: -7534785745379119080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CircusS2_DieFloor_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 12
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d015e28c2ba9c5b30800000000000000
+      internalID: 4277463838748463373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CircusS2_DieFloor_0: -3163012453337985030
+      CircusS2_DieFloor_1: -9037405570759554888
+      CircusS2_DieFloor_10: -7114203892006695255
+      CircusS2_DieFloor_11: -7595982747972015883
+      CircusS2_DieFloor_12: 1481187242976097762
+      CircusS2_DieFloor_13: 6931543042359740223
+      CircusS2_DieFloor_14: 1725206817550600979
+      CircusS2_DieFloor_15: 7464307538391125324
+      CircusS2_DieFloor_16: 949885986652144657
+      CircusS2_DieFloor_17: 4586732244455789008
+      CircusS2_DieFloor_18: -1250967061518163180
+      CircusS2_DieFloor_19: 414440845488523280
+      CircusS2_DieFloor_2: -3969047368410164432
+      CircusS2_DieFloor_20: 8966279750225978224
+      CircusS2_DieFloor_21: 7350659226647510038
+      CircusS2_DieFloor_22: -6385953749280275632
+      CircusS2_DieFloor_23: 6774637017282949773
+      CircusS2_DieFloor_24: 701898083728839496
+      CircusS2_DieFloor_25: 1409779612174976190
+      CircusS2_DieFloor_26: -7762185945371985421
+      CircusS2_DieFloor_27: -5849490242193585074
+      CircusS2_DieFloor_28: -7534785745379119080
+      CircusS2_DieFloor_29: 4277463838748463373
+      CircusS2_DieFloor_3: -4172937016219419437
+      CircusS2_DieFloor_4: 1136783764734833051
+      CircusS2_DieFloor_5: -7039345700939975438
+      CircusS2_DieFloor_6: 3398281213483713622
+      CircusS2_DieFloor_7: 4469780924993163017
+      CircusS2_DieFloor_8: 3673425410258926016
+      CircusS2_DieFloor_9: -1642719616995869865
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
