@@ -1,0 +1,1729 @@
+fileFormatVersion: 2
+guid: bdf36cb7bf63e4de6a6a1f3e9e737a3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1438056244315066043
+    second: 2021Pass_FxLv_0
+  - first:
+      213: 850073383487338407
+    second: 2021Pass_FxLv_1
+  - first:
+      213: 2827541247841166860
+    second: 2021Pass_FxLv_2
+  - first:
+      213: -552912508063488806
+    second: 2021Pass_FxLv_3
+  - first:
+      213: 7396940825100023655
+    second: 2021Pass_FxLv_4
+  - first:
+      213: -7500043748338628843
+    second: 2021Pass_FxLv_5
+  - first:
+      213: 6636659134282751263
+    second: 2021Pass_FxLv_6
+  - first:
+      213: -3557583094318476701
+    second: 2021Pass_FxLv_7
+  - first:
+      213: 4278757935016561438
+    second: 2021Pass_FxLv_8
+  - first:
+      213: 7879301675328487631
+    second: 2021Pass_FxLv_9
+  - first:
+      213: 4948267900321798730
+    second: 2021Pass_FxLv_10
+  - first:
+      213: 3380036134955481681
+    second: 2021Pass_FxLv_11
+  - first:
+      213: -4641858831192083826
+    second: 2021Pass_FxLv_12
+  - first:
+      213: 8471236791022399663
+    second: 2021Pass_FxLv_13
+  - first:
+      213: 8247716183131503260
+    second: 2021Pass_FxLv_14
+  - first:
+      213: -906746030591601991
+    second: 2021Pass_FxLv_15
+  - first:
+      213: 5292683841761215457
+    second: 2021Pass_FxLv_16
+  - first:
+      213: 1908561183781542664
+    second: 2021Pass_FxLv_17
+  - first:
+      213: -2114844335330134306
+    second: 2021Pass_FxLv_18
+  - first:
+      213: -3284188430631717956
+    second: 2021Pass_FxLv_19
+  - first:
+      213: 4202701449437288743
+    second: 2021Pass_FxLv_20
+  - first:
+      213: 445918088252836642
+    second: 2021Pass_FxLv_21
+  - first:
+      213: 1966601266138676680
+    second: 2021Pass_FxLv_22
+  - first:
+      213: -669530030900475880
+    second: 2021Pass_FxLv_23
+  - first:
+      213: -4045923995585684570
+    second: 2021Pass_FxLv_24
+  - first:
+      213: -8409843552169916691
+    second: 2021Pass_FxLv_25
+  - first:
+      213: 7527134085600131956
+    second: 2021Pass_FxLv_26
+  - first:
+      213: 4077760944800202717
+    second: 2021Pass_FxLv_27
+  - first:
+      213: -686964775843706672
+    second: 2021Pass_FxLv_28
+  - first:
+      213: 686435150736161580
+    second: 2021Pass_FxLv_29
+  - first:
+      213: -9078338441162105799
+    second: 2021Pass_FxLv_30
+  - first:
+      213: 3623984045459467749
+    second: 2021Pass_FxLv_31
+  - first:
+      213: -4615403782281386914
+    second: 2021Pass_FxLv_32
+  - first:
+      213: 432000682949120889
+    second: 2021Pass_FxLv_33
+  - first:
+      213: -5515756140570635371
+    second: 2021Pass_FxLv_34
+  - first:
+      213: -5840700175182244215
+    second: 2021Pass_FxLv_35
+  - first:
+      213: -8509335858145072459
+    second: 2021Pass_FxLv_36
+  - first:
+      213: 4796104575839697285
+    second: 2021Pass_FxLv_37
+  - first:
+      213: 3328087000953418105
+    second: 2021Pass_FxLv_38
+  - first:
+      213: 8745934075798271365
+    second: 2021Pass_FxLv_39
+  - first:
+      213: 4751068297459771100
+    second: 2021Pass_FxLv_40
+  - first:
+      213: 1543146550680040343
+    second: 2021Pass_FxLv_41
+  - first:
+      213: -694468966311662293
+    second: 2021Pass_FxLv_42
+  - first:
+      213: 4914095717981027250
+    second: 2021Pass_FxLv_43
+  - first:
+      213: 8594387513491816988
+    second: 2021Pass_FxLv_44
+  - first:
+      213: 7845964521969038304
+    second: 2021Pass_FxLv_45
+  - first:
+      213: -739911499429683428
+    second: 2021Pass_FxLv_46
+  - first:
+      213: 3096672204924271630
+    second: 2021Pass_FxLv_47
+  - first:
+      213: 7798361640855693534
+    second: 2021Pass_FxLv_48
+  - first:
+      213: -4229038940639241206
+    second: 2021Pass_FxLv_49
+  - first:
+      213: 7158641691818606025
+    second: 2021Pass_FxLv_50
+  - first:
+      213: 1834353826407705462
+    second: 2021Pass_FxLv_51
+  - first:
+      213: 8469413229657374709
+    second: 2021Pass_FxLv_52
+  - first:
+      213: -4764279972360135761
+    second: 2021Pass_FxLv_53
+  - first:
+      213: -4223714416403029439
+    second: 2021Pass_FxLv_54
+  - first:
+      213: -8329256683541655979
+    second: 2021Pass_FxLv_55
+  - first:
+      213: 6843087661491202269
+    second: 2021Pass_FxLv_56
+  - first:
+      213: 2342555091601993564
+    second: 2021Pass_FxLv_57
+  - first:
+      213: 3351087820927957819
+    second: 2021Pass_FxLv_58
+  - first:
+      213: -7583759660833878485
+    second: 2021Pass_FxLv_59
+  - first:
+      213: 4859607021342874373
+    second: 2021Pass_FxLv_60
+  - first:
+      213: 2388273660370415073
+    second: 2021Pass_FxLv_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 997
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5417196077ffa0ce0800000000000000
+      internalID: -1438056244315066043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 995
+        width: 62
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a7f6c70d311ccb00800000000000000
+      internalID: 850073383487338407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_2
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 995
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c066651b8c17d3720800000000000000
+      internalID: 2827541247841166860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_3
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 997
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4610dd009a358f0800000000000000
+      internalID: -552912508063488806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_4
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 995
+        width: 57
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767fba06d7637a660800000000000000
+      internalID: 7396940825100023655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_5
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 886
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5170364a2fd7ae790800000000000000
+      internalID: -7500043748338628843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 888
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d5642f1562a1c50800000000000000
+      internalID: 6636659134282751263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 886
+        width: 59
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362563c460de0aec0800000000000000
+      internalID: -3557583094318476701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_8
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 886
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1bcb8c0ca3316b30800000000000000
+      internalID: 4278757935016561438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_9
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 888
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0481c9027e85d60800000000000000
+      internalID: 7879301675328487631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_10
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 886
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a16243077cba440800000000000000
+      internalID: 4948267900321798730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 779
+        width: 46
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a7100e4fc48ee20800000000000000
+      internalID: 3380036134955481681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 779
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8239459cfdc49fb0800000000000000
+      internalID: -4641858831192083826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_13
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 779
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa03c199af0ef8570800000000000000
+      internalID: 8471236791022399663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_14
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 779
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a3bc79b26c57270800000000000000
+      internalID: 8247716183131503260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_15
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 779
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b297111a479a63f0800000000000000
+      internalID: -906746030591601991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_16
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 777
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e380a889e3637940800000000000000
+      internalID: 5292683841761215457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_17
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 779
+        width: 45
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80bd56fd8429c7a10800000000000000
+      internalID: 1908561183781542664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_18
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 779
+        width: 63
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6766d284096a2e0800000000000000
+      internalID: -2114844335330134306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_19
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 779
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb3bfb0d5083c62d0800000000000000
+      internalID: -3284188430631717956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_20
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 777
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7299abe83bef25a30800000000000000
+      internalID: 4202701449437288743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 670
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b4b318328303600800000000000000
+      internalID: 445918088252836642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 668
+        width: 57
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd770b9e65ca4b10800000000000000
+      internalID: 1966601266138676680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 670
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81888b5fbf955b6f0800000000000000
+      internalID: -669530030900475880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_24
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 670
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abd2eeef8df9d7c0800000000000000
+      internalID: -4045923995585684570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_25
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 670
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de68d48b8db3a4b80800000000000000
+      internalID: -8409843552169916691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_26
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 668
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b3ee40290c57860800000000000000
+      internalID: 7527134085600131956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_27
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 670
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddff6c179fd179830800000000000000
+      internalID: 4077760944800202717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_28
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 665
+        width: 60
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d841a21d296776f0800000000000000
+      internalID: -686964775843706672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_29
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 668
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b78f8f125b68900800000000000000
+      internalID: 686435150736161580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_30
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 561
+        width: 98
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c52cf6943430280800000000000000
+      internalID: -9078338441162105799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 557
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed6b45e94afa4230800000000000000
+      internalID: 3623984045459467749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_32
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 557
+        width: 110
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54af16a6bac2ffb0800000000000000
+      internalID: -4615403782281386914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_33
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 561
+        width: 114
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97398e11556cef500800000000000000
+      internalID: 432000682949120889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_34
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 557
+        width: 111
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5939b9d83091473b0800000000000000
+      internalID: -5515756140570635371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_35
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 449
+        width: 111
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98653b2d22aa1fea0800000000000000
+      internalID: -5840700175182244215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 452
+        width: 105
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bae4c41f14c8e980800000000000000
+      internalID: -8509335858145072459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_37
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 450
+        width: 116
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589fc8c63bf2f8240800000000000000
+      internalID: 4796104575839697285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_38
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 449
+        width: 110
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9717c619e7dbf2e20800000000000000
+      internalID: 3328087000953418105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_39
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 450
+        width: 111
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585b0f834bccf5970800000000000000
+      internalID: 8745934075798271365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_40
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 341
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6a5bdb17f2fe140800000000000000
+      internalID: 4751068297459771100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_41
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 341
+        width: 110
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79337a5ac9b5a6510800000000000000
+      internalID: 1543146550680040343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_42
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 341
+        width: 110
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2de5739720cc56f0800000000000000
+      internalID: -694468966311662293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_43
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 341
+        width: 114
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbf68ef400623440800000000000000
+      internalID: 4914095717981027250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_44
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 341
+        width: 111
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c128bb398e5654770800000000000000
+      internalID: 8594387513491816988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 232
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3384cb92772ec60800000000000000
+      internalID: 7845964521969038304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_46
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 232
+        width: 106
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f5447596e4bb5f0800000000000000
+      internalID: -739911499429683428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_47
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 232
+        width: 108
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c3658a6f699fa20800000000000000
+      internalID: 3096672204924271630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_48
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 232
+        width: 107
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed86c394898593c60800000000000000
+      internalID: 7798361640855693534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_49
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 232
+        width: 113
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c57e96d7f6f45c0800000000000000
+      internalID: -4229038940639241206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_50
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 125
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd362bc0ba985360800000000000000
+      internalID: 7158641691818606025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_51
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 125
+        width: 44
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67be867161fe47910800000000000000
+      internalID: 1834353826407705462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_52
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 125
+        width: 111
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffb8b1a576698570800000000000000
+      internalID: 8469413229657374709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_53
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 123
+        width: 111
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab57fc7b90e1edb0800000000000000
+      internalID: -4764279972360135761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_54
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 125
+        width: 117
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 142e991dd1a5265c0800000000000000
+      internalID: -4223714416403029439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_55
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 123
+        width: 112
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e83763d29886c80800000000000000
+      internalID: -8329256683541655979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_56
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 14
+        width: 113
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8aa0ec8f787fe50800000000000000
+      internalID: 6843087661491202269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_57
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 16
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f28b5c17d628020800000000000000
+      internalID: 2342555091601993564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_58
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 16
+        width: 57
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b7c894e94718e20800000000000000
+      internalID: 3351087820927957819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_59
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 14
+        width: 113
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e4f0ad4c211c690800000000000000
+      internalID: -7583759660833878485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_60
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 14
+        width: 113
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bd22fa6dac07340800000000000000
+      internalID: 4859607021342874373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2021Pass_FxLv_61
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 14
+        width: 108
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edecc09d3ad42120800000000000000
+      internalID: 2388273660370415073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2021Pass_FxLv_0: -1438056244315066043
+      2021Pass_FxLv_1: 850073383487338407
+      2021Pass_FxLv_10: 4948267900321798730
+      2021Pass_FxLv_11: 3380036134955481681
+      2021Pass_FxLv_12: -4641858831192083826
+      2021Pass_FxLv_13: 8471236791022399663
+      2021Pass_FxLv_14: 8247716183131503260
+      2021Pass_FxLv_15: -906746030591601991
+      2021Pass_FxLv_16: 5292683841761215457
+      2021Pass_FxLv_17: 1908561183781542664
+      2021Pass_FxLv_18: -2114844335330134306
+      2021Pass_FxLv_19: -3284188430631717956
+      2021Pass_FxLv_2: 2827541247841166860
+      2021Pass_FxLv_20: 4202701449437288743
+      2021Pass_FxLv_21: 445918088252836642
+      2021Pass_FxLv_22: 1966601266138676680
+      2021Pass_FxLv_23: -669530030900475880
+      2021Pass_FxLv_24: -4045923995585684570
+      2021Pass_FxLv_25: -8409843552169916691
+      2021Pass_FxLv_26: 7527134085600131956
+      2021Pass_FxLv_27: 4077760944800202717
+      2021Pass_FxLv_28: -686964775843706672
+      2021Pass_FxLv_29: 686435150736161580
+      2021Pass_FxLv_3: -552912508063488806
+      2021Pass_FxLv_30: -9078338441162105799
+      2021Pass_FxLv_31: 3623984045459467749
+      2021Pass_FxLv_32: -4615403782281386914
+      2021Pass_FxLv_33: 432000682949120889
+      2021Pass_FxLv_34: -5515756140570635371
+      2021Pass_FxLv_35: -5840700175182244215
+      2021Pass_FxLv_36: -8509335858145072459
+      2021Pass_FxLv_37: 4796104575839697285
+      2021Pass_FxLv_38: 3328087000953418105
+      2021Pass_FxLv_39: 8745934075798271365
+      2021Pass_FxLv_4: 7396940825100023655
+      2021Pass_FxLv_40: 4751068297459771100
+      2021Pass_FxLv_41: 1543146550680040343
+      2021Pass_FxLv_42: -694468966311662293
+      2021Pass_FxLv_43: 4914095717981027250
+      2021Pass_FxLv_44: 8594387513491816988
+      2021Pass_FxLv_45: 7845964521969038304
+      2021Pass_FxLv_46: -739911499429683428
+      2021Pass_FxLv_47: 3096672204924271630
+      2021Pass_FxLv_48: 7798361640855693534
+      2021Pass_FxLv_49: -4229038940639241206
+      2021Pass_FxLv_5: -7500043748338628843
+      2021Pass_FxLv_50: 7158641691818606025
+      2021Pass_FxLv_51: 1834353826407705462
+      2021Pass_FxLv_52: 8469413229657374709
+      2021Pass_FxLv_53: -4764279972360135761
+      2021Pass_FxLv_54: -4223714416403029439
+      2021Pass_FxLv_55: -8329256683541655979
+      2021Pass_FxLv_56: 6843087661491202269
+      2021Pass_FxLv_57: 2342555091601993564
+      2021Pass_FxLv_58: 3351087820927957819
+      2021Pass_FxLv_59: -7583759660833878485
+      2021Pass_FxLv_6: 6636659134282751263
+      2021Pass_FxLv_60: 4859607021342874373
+      2021Pass_FxLv_61: 2388273660370415073
+      2021Pass_FxLv_7: -3557583094318476701
+      2021Pass_FxLv_8: 4278757935016561438
+      2021Pass_FxLv_9: 7879301675328487631
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

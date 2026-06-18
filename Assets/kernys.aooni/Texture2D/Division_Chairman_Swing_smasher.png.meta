@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: cb83772a635c749c49e25cc274343ed0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 131201972731168292
+    second: Division_Chairman_Swing_smasher_0
+  - first:
+      213: 4616014045765402757
+    second: Division_Chairman_Swing_smasher_1
+  - first:
+      213: -3723165266690724674
+    second: Division_Chairman_Swing_smasher_2
+  - first:
+      213: -3015970768668292084
+    second: Division_Chairman_Swing_smasher_3
+  - first:
+      213: -5602619703033823295
+    second: Division_Chairman_Swing_smasher_4
+  - first:
+      213: 8579744531177369601
+    second: Division_Chairman_Swing_smasher_5
+  - first:
+      213: 8104094187854871118
+    second: Division_Chairman_Swing_smasher_6
+  - first:
+      213: 1480160886443460544
+    second: Division_Chairman_Swing_smasher_7
+  - first:
+      213: 4682454970658677039
+    second: Division_Chairman_Swing_smasher_8
+  - first:
+      213: -422822184597688924
+    second: Division_Chairman_Swing_smasher_9
+  - first:
+      213: -7295049551668233087
+    second: Division_Chairman_Swing_smasher_10
+  - first:
+      213: -1113068655624125161
+    second: Division_Chairman_Swing_smasher_11
+  - first:
+      213: 3887795547337438134
+    second: Division_Chairman_Swing_smasher_12
+  - first:
+      213: -8784379604710901641
+    second: Division_Chairman_Swing_smasher_13
+  - first:
+      213: -5496983560958732931
+    second: Division_Chairman_Swing_smasher_14
+  - first:
+      213: 7706083215008802782
+    second: Division_Chairman_Swing_smasher_15
+  - first:
+      213: -1047638682908107941
+    second: Division_Chairman_Swing_smasher_16
+  - first:
+      213: 7110226206970140770
+    second: Division_Chairman_Swing_smasher_17
+  - first:
+      213: -4233176868657693292
+    second: Division_Chairman_Swing_smasher_18
+  - first:
+      213: 233119142576412546
+    second: Division_Chairman_Swing_smasher_19
+  - first:
+      213: -7527368104250270224
+    second: Division_Chairman_Swing_smasher_20
+  - first:
+      213: -3512556407205561135
+    second: Division_Chairman_Swing_smasher_21
+  - first:
+      213: 7580361700331007610
+    second: Division_Chairman_Swing_smasher_22
+  - first:
+      213: -7567525727842852852
+    second: Division_Chairman_Swing_smasher_23
+  - first:
+      213: -1232335010699404926
+    second: Division_Chairman_Swing_smasher_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 149
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426c872cf7f12d100800000000000000
+      internalID: 131201972731168292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 150
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5808f0461506f0040800000000000000
+      internalID: 4616014045765402757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 104
+        width: 54
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebca3d68ae8a45cc0800000000000000
+      internalID: -3723165266690724674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_3
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 129
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c8090b09e1526d0800000000000000
+      internalID: -3015970768668292084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 170
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cf7015601f7f32b0800000000000000
+      internalID: -5602619703033823295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_5
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 124
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1007d649130611770800000000000000
+      internalID: 8579744531177369601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ab56df9b6877070800000000000000
+      internalID: 8104094187854871118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_7
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 124
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7c3e6eb769a8410800000000000000
+      internalID: 1480160886443460544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 60
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f216fd2bcfb6bf040800000000000000
+      internalID: 4682454970658677039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 47
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad66eb9675d12af0800000000000000
+      internalID: -422822184597688924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 47
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c31f56517c2ca90800000000000000
+      internalID: -7295049551668233087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 18
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71507ea74f59d80f0800000000000000
+      internalID: -1113068655624125161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 41
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3b46ea37934f530800000000000000
+      internalID: 3887795547337438134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 37
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77835098a4d971680800000000000000
+      internalID: -8784379604710901641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 29
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7594e8539ac6b3b0800000000000000
+      internalID: -5496983560958732931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 29
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed723300bd181fa60800000000000000
+      internalID: 7706083215008802782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bdd442b2a0671f0800000000000000
+      internalID: -1047638682908107941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268d02b40199ca260800000000000000
+      internalID: 7110226206970140770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_18
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49df148f01cb045c0800000000000000
+      internalID: -4233176868657693292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 17
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2875c9300a43c3300800000000000000
+      internalID: 233119142576412546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 17
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd9e84479a698790800000000000000
+      internalID: -7527368104250270224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 18
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc7df6de84e04fc0800000000000000
+      internalID: -3512556407205561135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ea431ddcad23960800000000000000
+      internalID: 7580361700331007610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 5
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c002c4be17fbaf690800000000000000
+      internalID: -7567525727842852852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Chairman_Swing_smasher_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2891cf246ddd5eee0800000000000000
+      internalID: -1232335010699404926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Chairman_Swing_smasher_0: 131201972731168292
+      Division_Chairman_Swing_smasher_1: 4616014045765402757
+      Division_Chairman_Swing_smasher_10: -7295049551668233087
+      Division_Chairman_Swing_smasher_11: -1113068655624125161
+      Division_Chairman_Swing_smasher_12: 3887795547337438134
+      Division_Chairman_Swing_smasher_13: -8784379604710901641
+      Division_Chairman_Swing_smasher_14: -5496983560958732931
+      Division_Chairman_Swing_smasher_15: 7706083215008802782
+      Division_Chairman_Swing_smasher_16: -1047638682908107941
+      Division_Chairman_Swing_smasher_17: 7110226206970140770
+      Division_Chairman_Swing_smasher_18: -4233176868657693292
+      Division_Chairman_Swing_smasher_19: 233119142576412546
+      Division_Chairman_Swing_smasher_2: -3723165266690724674
+      Division_Chairman_Swing_smasher_20: -7527368104250270224
+      Division_Chairman_Swing_smasher_21: -3512556407205561135
+      Division_Chairman_Swing_smasher_22: 7580361700331007610
+      Division_Chairman_Swing_smasher_23: -7567525727842852852
+      Division_Chairman_Swing_smasher_24: -1232335010699404926
+      Division_Chairman_Swing_smasher_3: -3015970768668292084
+      Division_Chairman_Swing_smasher_4: -5602619703033823295
+      Division_Chairman_Swing_smasher_5: 8579744531177369601
+      Division_Chairman_Swing_smasher_6: 8104094187854871118
+      Division_Chairman_Swing_smasher_7: 1480160886443460544
+      Division_Chairman_Swing_smasher_8: 4682454970658677039
+      Division_Chairman_Swing_smasher_9: -422822184597688924
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

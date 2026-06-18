@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: 0b078807fd31646709bb9a603ad2b4f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5740448340601772727
+    second: Aooni_Galaxy_Prufu_Jump_0
+  - first:
+      213: -4802543076401775943
+    second: Aooni_Galaxy_Prufu_Jump_1
+  - first:
+      213: 5913118223899853224
+    second: Aooni_Galaxy_Prufu_Jump_2
+  - first:
+      213: -6006285904299589031
+    second: Aooni_Galaxy_Prufu_Jump_3
+  - first:
+      213: -7434323909793523663
+    second: Aooni_Galaxy_Prufu_Jump_4
+  - first:
+      213: -4329936689500787979
+    second: Aooni_Galaxy_Prufu_Jump_5
+  - first:
+      213: 5962777416967178009
+    second: Aooni_Galaxy_Prufu_Jump_6
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Prufu_Jump_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 89
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba9c010a5b2aaf40800000000000000
+      internalID: 5740448340601772727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Prufu_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 89
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba7f885480f95db0800000000000000
+      internalID: -4802543076401775943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Prufu_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 87
+        width: 76
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1807212bd9f0250800000000000000
+      internalID: 5913118223899853224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Prufu_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 31
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95289ceeac265aca0800000000000000
+      internalID: -6006285904299589031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Prufu_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 11
+        width: 68
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1385093fac9f3d890800000000000000
+      internalID: -7434323909793523663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Prufu_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5faef5a9589f8e3c0800000000000000
+      internalID: -4329936689500787979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Prufu_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 9
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917cc05f77a00c250800000000000000
+      internalID: 5962777416967178009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aooni_Galaxy_Prufu_Jump_0: 5740448340601772727
+      Aooni_Galaxy_Prufu_Jump_1: -4802543076401775943
+      Aooni_Galaxy_Prufu_Jump_2: 5913118223899853224
+      Aooni_Galaxy_Prufu_Jump_3: -6006285904299589031
+      Aooni_Galaxy_Prufu_Jump_4: -7434323909793523663
+      Aooni_Galaxy_Prufu_Jump_5: -4329936689500787979
+      Aooni_Galaxy_Prufu_Jump_6: 5962777416967178009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

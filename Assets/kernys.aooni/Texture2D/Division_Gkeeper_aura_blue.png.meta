@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 3b2f7053f8ab245aca20fa08c0bcb459
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7703124246084752734
+    second: Division_Gkeeper_aura_blue_0
+  - first:
+      213: -1149360176102766622
+    second: Division_Gkeeper_aura_blue_1
+  - first:
+      213: -8194865903415200315
+    second: Division_Gkeeper_aura_blue_2
+  - first:
+      213: -6369837456194729884
+    second: Division_Gkeeper_aura_blue_3
+  - first:
+      213: 6618554357888230793
+    second: Division_Gkeeper_aura_blue_4
+  - first:
+      213: -105317350802661674
+    second: Division_Gkeeper_aura_blue_5
+  - first:
+      213: -8796821580848659159
+    second: Division_Gkeeper_aura_blue_6
+  - first:
+      213: -6709313601722271752
+    second: Division_Gkeeper_aura_blue_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Gkeeper_aura_blue_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 58
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55949c50bef6ea60800000000000000
+      internalID: 7703124246084752734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Gkeeper_aura_blue_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 58
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e70a686207ac00f0800000000000000
+      internalID: -1149360176102766622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Gkeeper_aura_blue_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 14
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5f9fc01ecf54e80800000000000000
+      internalID: -8194865903415200315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Gkeeper_aura_blue_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 58
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468098a159ac997a0800000000000000
+      internalID: -6369837456194729884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Gkeeper_aura_blue_4
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 14
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985aa843f14d9db50800000000000000
+      internalID: 6618554357888230793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Gkeeper_aura_blue_5
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 58
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ded8bc6d66d98ef0800000000000000
+      internalID: -105317350802661674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Gkeeper_aura_blue_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 14
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925860931696be580800000000000000
+      internalID: -8796821580848659159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Gkeeper_aura_blue_7
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 15
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7b5a2a3dab3e2a0800000000000000
+      internalID: -6709313601722271752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Gkeeper_aura_blue_0: 7703124246084752734
+      Division_Gkeeper_aura_blue_1: -1149360176102766622
+      Division_Gkeeper_aura_blue_2: -8194865903415200315
+      Division_Gkeeper_aura_blue_3: -6369837456194729884
+      Division_Gkeeper_aura_blue_4: 6618554357888230793
+      Division_Gkeeper_aura_blue_5: -105317350802661674
+      Division_Gkeeper_aura_blue_6: -8796821580848659159
+      Division_Gkeeper_aura_blue_7: -6709313601722271752
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

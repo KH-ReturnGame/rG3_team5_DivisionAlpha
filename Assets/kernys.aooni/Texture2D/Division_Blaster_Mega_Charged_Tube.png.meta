@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: c096b76e1bf3144759a176b240f94287
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2947607973370773676
+    second: Division_Blaster_Mega_Charged_Tube_0
+  - first:
+      213: -6692736194812181750
+    second: Division_Blaster_Mega_Charged_Tube_1
+  - first:
+      213: -8593716210381817795
+    second: Division_Blaster_Mega_Charged_Tube_2
+  - first:
+      213: 1120761851222390347
+    second: Division_Blaster_Mega_Charged_Tube_3
+  - first:
+      213: -5385720384051739826
+    second: Division_Blaster_Mega_Charged_Tube_4
+  - first:
+      213: 4174574921112312022
+    second: Division_Blaster_Mega_Charged_Tube_5
+  - first:
+      213: -2071208541286972232
+    second: Division_Blaster_Mega_Charged_Tube_6
+  - first:
+      213: 6218017719035288809
+    second: Division_Blaster_Mega_Charged_Tube_7
+  - first:
+      213: -6478962162961236710
+    second: Division_Blaster_Mega_Charged_Tube_8
+  - first:
+      213: -5187141894225499868
+    second: Division_Blaster_Mega_Charged_Tube_9
+  - first:
+      213: -5376677919880822369
+    second: Division_Blaster_Mega_Charged_Tube_10
+  - first:
+      213: -8891084450066691018
+    second: Division_Blaster_Mega_Charged_Tube_11
+  - first:
+      213: -5516843912434071267
+    second: Division_Blaster_Mega_Charged_Tube_12
+  - first:
+      213: -46322950677739395
+    second: Division_Blaster_Mega_Charged_Tube_13
+  - first:
+      213: 6285210869913049536
+    second: Division_Blaster_Mega_Charged_Tube_14
+  - first:
+      213: -6276825150994127871
+    second: Division_Blaster_Mega_Charged_Tube_15
+  - first:
+      213: 2307877705888769065
+    second: Division_Blaster_Mega_Charged_Tube_16
+  - first:
+      213: -9187590233407307343
+    second: Division_Blaster_Mega_Charged_Tube_17
+  - first:
+      213: 4466330754185466651
+    second: Division_Blaster_Mega_Charged_Tube_18
+  - first:
+      213: -513232990468212703
+    second: Division_Blaster_Mega_Charged_Tube_19
+  - first:
+      213: 6729101150365828657
+    second: Division_Blaster_Mega_Charged_Tube_20
+  - first:
+      213: 5349379303614761816
+    second: Division_Blaster_Mega_Charged_Tube_21
+  - first:
+      213: -6454237025323663180
+    second: Division_Blaster_Mega_Charged_Tube_22
+  - first:
+      213: -2904138267778479105
+    second: Division_Blaster_Mega_Charged_Tube_23
+  - first:
+      213: -4423025600930828718
+    second: Division_Blaster_Mega_Charged_Tube_24
+  - first:
+      213: -3361650711930517879
+    second: Division_Blaster_Mega_Charged_Tube_25
+  - first:
+      213: -8754670907532676740
+    second: Division_Blaster_Mega_Charged_Tube_26
+  - first:
+      213: 1948938793004560698
+    second: Division_Blaster_Mega_Charged_Tube_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f30225a2ef717d0800000000000000
+      internalID: -2947607973370773676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 43
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0302d4f3ef9e13a0800000000000000
+      internalID: -6692736194812181750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38fcab53acfcb880800000000000000
+      internalID: -8593716210381817795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_3
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 50
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b467be337febd8f00800000000000000
+      internalID: 1120761851222390347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_4
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 50
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43040178d31245b0800000000000000
+      internalID: -5385720384051739826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8572dd5c11fe930800000000000000
+      internalID: 4174574921112312022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_6
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 13
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4c5d03ec69143e0800000000000000
+      internalID: -2071208541286972232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_7
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 48
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ecde26cb26da4650800000000000000
+      internalID: 6218017719035288809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_8
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dbf736d3a1616a0800000000000000
+      internalID: -6478962162961236710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 49
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429642b0ee19308b0800000000000000
+      internalID: -5187141894225499868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_10
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9141d13be33265b0800000000000000
+      internalID: -5376677919880822369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_11
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c86c5bcc58c9480800000000000000
+      internalID: -8891084450066691018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 6
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19471ee0bb3073b0800000000000000
+      internalID: -5516843912434071267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 41
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78c7e3958d6b5ff0800000000000000
+      internalID: -46322950677739395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_14
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 16
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c957975cfd893750800000000000000
+      internalID: 6285210869913049536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 29
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104e1cdf7cc34e8a0800000000000000
+      internalID: -6276825150994127871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 53
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9242b8cbb8a370020800000000000000
+      internalID: 2307877705888769065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_17
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 44
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1c8e35c5f1f7080800000000000000
+      internalID: -9187590233407307343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1390a448289bfd30800000000000000
+      internalID: 4466330754185466651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 7
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128712c7051a0e8f0800000000000000
+      internalID: -513232990468212703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 43
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1364a3d08d1926d50800000000000000
+      internalID: 6729101150365828657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_21
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 14
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bc8c86220dc3a40800000000000000
+      internalID: 5349379303614761816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 49
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0c8691f91fd66a0800000000000000
+      internalID: -6454237025323663180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 6
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb027ad1ad62b7d0800000000000000
+      internalID: -2904138267778479105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 54
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e2f0076a14e92c0800000000000000
+      internalID: -4423025600930828718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98641700d740951d0800000000000000
+      internalID: -3361650711930517879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 46
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c71711f9139218680800000000000000
+      internalID: -8754670907532676740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Blaster_Mega_Charged_Tube_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 7
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31f30e91850c0b10800000000000000
+      internalID: 1948938793004560698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Blaster_Mega_Charged_Tube_0: -2947607973370773676
+      Division_Blaster_Mega_Charged_Tube_1: -6692736194812181750
+      Division_Blaster_Mega_Charged_Tube_10: -5376677919880822369
+      Division_Blaster_Mega_Charged_Tube_11: -8891084450066691018
+      Division_Blaster_Mega_Charged_Tube_12: -5516843912434071267
+      Division_Blaster_Mega_Charged_Tube_13: -46322950677739395
+      Division_Blaster_Mega_Charged_Tube_14: 6285210869913049536
+      Division_Blaster_Mega_Charged_Tube_15: -6276825150994127871
+      Division_Blaster_Mega_Charged_Tube_16: 2307877705888769065
+      Division_Blaster_Mega_Charged_Tube_17: -9187590233407307343
+      Division_Blaster_Mega_Charged_Tube_18: 4466330754185466651
+      Division_Blaster_Mega_Charged_Tube_19: -513232990468212703
+      Division_Blaster_Mega_Charged_Tube_2: -8593716210381817795
+      Division_Blaster_Mega_Charged_Tube_20: 6729101150365828657
+      Division_Blaster_Mega_Charged_Tube_21: 5349379303614761816
+      Division_Blaster_Mega_Charged_Tube_22: -6454237025323663180
+      Division_Blaster_Mega_Charged_Tube_23: -2904138267778479105
+      Division_Blaster_Mega_Charged_Tube_24: -4423025600930828718
+      Division_Blaster_Mega_Charged_Tube_25: -3361650711930517879
+      Division_Blaster_Mega_Charged_Tube_26: -8754670907532676740
+      Division_Blaster_Mega_Charged_Tube_27: 1948938793004560698
+      Division_Blaster_Mega_Charged_Tube_3: 1120761851222390347
+      Division_Blaster_Mega_Charged_Tube_4: -5385720384051739826
+      Division_Blaster_Mega_Charged_Tube_5: 4174574921112312022
+      Division_Blaster_Mega_Charged_Tube_6: -2071208541286972232
+      Division_Blaster_Mega_Charged_Tube_7: 6218017719035288809
+      Division_Blaster_Mega_Charged_Tube_8: -6478962162961236710
+      Division_Blaster_Mega_Charged_Tube_9: -5187141894225499868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

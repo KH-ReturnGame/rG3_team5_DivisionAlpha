@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: ce8d5aecfa2db4b30bf192e55d4d2a3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2695628110281012424
+    second: SS_Ep2_MysteryJK_0
+  - first:
+      213: -1885835578808150915
+    second: SS_Ep2_MysteryJK_1
+  - first:
+      213: -4046257574149856925
+    second: SS_Ep2_MysteryJK_2
+  - first:
+      213: 5221206579342296530
+    second: SS_Ep2_MysteryJK_3
+  - first:
+      213: 3377181622906887656
+    second: SS_Ep2_MysteryJK_4
+  - first:
+      213: 5463171917008229335
+    second: SS_Ep2_MysteryJK_5
+  - first:
+      213: 7337637025952418667
+    second: SS_Ep2_MysteryJK_6
+  - first:
+      213: -4181491628498553315
+    second: SS_Ep2_MysteryJK_7
+  - first:
+      213: 8109669526318306887
+    second: SS_Ep2_MysteryJK_8
+  - first:
+      213: 7264056271932633423
+    second: SS_Ep2_MysteryJK_9
+  - first:
+      213: 3746226369574313560
+    second: SS_Ep2_MysteryJK_10
+  - first:
+      213: 1715344475336171533
+    second: SS_Ep2_MysteryJK_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryJK_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 68
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c47bd7fb7bc86520800000000000000
+      internalID: 2695628110281012424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryJK_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 65
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74d85c588a24d5e0800000000000000
+      internalID: -1885835578808150915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryJK_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 67
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361601f9c2ec8d7c0800000000000000
+      internalID: -4046257574149856925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryJK_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 68
+        width: 28
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d541a488b3757840800000000000000
+      internalID: 5221206579342296530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryJK_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 65
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed975ffac82ede20800000000000000
+      internalID: 3377181622906887656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryJK_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 66
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d35a24d9e511db40800000000000000
+      internalID: 5463171917008229335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryJK_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bc5a6aff584d560800000000000000
+      internalID: 7337637025952418667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryJK_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16f214b48b58f5c0800000000000000
+      internalID: -4181491628498553315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryJK_8
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7465302a7755b8070800000000000000
+      internalID: 8109669526318306887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryJK_9
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f413ef451bc1fc460800000000000000
+      internalID: 7264056271932633423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryJK_10
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 24
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e9da6e8054df330800000000000000
+      internalID: 3746226369574313560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_MysteryJK_11
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0067d746b02ec710800000000000000
+      internalID: 1715344475336171533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep2_MysteryJK_0: 2695628110281012424
+      SS_Ep2_MysteryJK_1: -1885835578808150915
+      SS_Ep2_MysteryJK_10: 3746226369574313560
+      SS_Ep2_MysteryJK_11: 1715344475336171533
+      SS_Ep2_MysteryJK_2: -4046257574149856925
+      SS_Ep2_MysteryJK_3: 5221206579342296530
+      SS_Ep2_MysteryJK_4: 3377181622906887656
+      SS_Ep2_MysteryJK_5: 5463171917008229335
+      SS_Ep2_MysteryJK_6: 7337637025952418667
+      SS_Ep2_MysteryJK_7: -4181491628498553315
+      SS_Ep2_MysteryJK_8: 8109669526318306887
+      SS_Ep2_MysteryJK_9: 7264056271932633423
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

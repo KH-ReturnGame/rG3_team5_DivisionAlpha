@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: d865631cdeb1f49549f6f2b7fe8eaacc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -587841673303720009
+    second: Xmas2018_Item_Flower_0
+  - first:
+      213: -2316083949755340486
+    second: Xmas2018_Item_Flower_1
+  - first:
+      213: -5548437483784843723
+    second: Xmas2018_Item_Flower_2
+  - first:
+      213: 1281640668144997545
+    second: Xmas2018_Item_Flower_3
+  - first:
+      213: 5097416753436348550
+    second: Xmas2018_Item_Flower_4
+  - first:
+      213: 424938772549051862
+    second: Xmas2018_Item_Flower_5
+  - first:
+      213: -3334537011493232492
+    second: Xmas2018_Item_Flower_6
+  - first:
+      213: -7044882168876592456
+    second: Xmas2018_Item_Flower_7
+  - first:
+      213: -4726975191707229815
+    second: Xmas2018_Item_Flower_8
+  - first:
+      213: 6948800713250621719
+    second: Xmas2018_Item_Flower_9
+  - first:
+      213: 38701467683138486
+    second: Xmas2018_Item_Flower_10
+  - first:
+      213: -3493008689031082639
+    second: Xmas2018_Item_Flower_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xmas2018_Item_Flower_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf7f86dc1197d7f0800000000000000
+      internalID: -587841673303720009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Flower_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 67
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3969d83bed9bdfd0800000000000000
+      internalID: -2316083949755340486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Flower_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 67
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eca80618dfff2b0800000000000000
+      internalID: -5548437483784843723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Flower_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a41a72b56d49c110800000000000000
+      internalID: 1281640668144997545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Flower_4
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 45
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 680d2bca789adb640800000000000000
+      internalID: 5097416753436348550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Flower_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 46
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5a31def8fa5e500800000000000000
+      internalID: 424938772549051862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Flower_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 24
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490ad83514859b1d0800000000000000
+      internalID: -3334537011493232492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Flower_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b290a72efc8b3e90800000000000000
+      internalID: -7044882168876592456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Flower_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 23
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981e4349b19666eb0800000000000000
+      internalID: -4726975191707229815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Flower_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719c840be691f6060800000000000000
+      internalID: 6948800713250621719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Flower_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb2a81a7ce798000800000000000000
+      internalID: 38701467683138486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2018_Item_Flower_11
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d03f4aa17568fc0800000000000000
+      internalID: -3493008689031082639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xmas2018_Item_Flower_0: -587841673303720009
+      Xmas2018_Item_Flower_1: -2316083949755340486
+      Xmas2018_Item_Flower_10: 38701467683138486
+      Xmas2018_Item_Flower_11: -3493008689031082639
+      Xmas2018_Item_Flower_2: -5548437483784843723
+      Xmas2018_Item_Flower_3: 1281640668144997545
+      Xmas2018_Item_Flower_4: 5097416753436348550
+      Xmas2018_Item_Flower_5: 424938772549051862
+      Xmas2018_Item_Flower_6: -3334537011493232492
+      Xmas2018_Item_Flower_7: -7044882168876592456
+      Xmas2018_Item_Flower_8: -4726975191707229815
+      Xmas2018_Item_Flower_9: 6948800713250621719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

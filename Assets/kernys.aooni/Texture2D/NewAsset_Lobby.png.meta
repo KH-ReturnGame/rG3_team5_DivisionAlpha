@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: c157de8fcd2a04885a388b96529cb27a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -418818369386083485
+    second: NewAsset_Lobby_0
+  - first:
+      213: 5831360322507422168
+    second: NewAsset_Lobby_1
+  - first:
+      213: -1221129034314189608
+    second: NewAsset_Lobby_2
+  - first:
+      213: 557391482090591689
+    second: NewAsset_Lobby_3
+  - first:
+      213: 3750178009594614489
+    second: NewAsset_Lobby_4
+  - first:
+      213: 6729168176894258220
+    second: NewAsset_Lobby_5
+  - first:
+      213: -2960834064594430479
+    second: NewAsset_Lobby_6
+  - first:
+      213: 8577196327245446601
+    second: NewAsset_Lobby_7
+  - first:
+      213: 4952599978738691510
+    second: NewAsset_Lobby_8
+  - first:
+      213: -3207439461064802505
+    second: NewAsset_Lobby_9
+  - first:
+      213: 3244535190756900113
+    second: NewAsset_Lobby_10
+  - first:
+      213: -4479262012126539318
+    second: NewAsset_Lobby_11
+  - first:
+      213: -3998923112394002339
+    second: NewAsset_Lobby_12
+  - first:
+      213: -1869491873030372320
+    second: NewAsset_Lobby_13
+  - first:
+      213: 4254664205604819254
+    second: NewAsset_Lobby_14
+  - first:
+      213: 2475346133094036796
+    second: NewAsset_Lobby_15
+  - first:
+      213: 7184104464997130716
+    second: NewAsset_Lobby_16
+  - first:
+      213: -3824914308773279515
+    second: NewAsset_Lobby_17
+  - first:
+      213: 3644637998240637446
+    second: NewAsset_Lobby_18
+  - first:
+      213: -3200529609511919738
+    second: NewAsset_Lobby_19
+  - first:
+      213: -3242146050684630341
+    second: NewAsset_Lobby_20
+  - first:
+      213: 9197372114355172624
+    second: NewAsset_Lobby_21
+  - first:
+      213: -3460640337714080788
+    second: NewAsset_Lobby_22
+  - first:
+      213: -8565584416002710009
+    second: NewAsset_Lobby_23
+  - first:
+      213: -6946159373169493245
+    second: NewAsset_Lobby_24
+  - first:
+      213: 3301941698138114464
+    second: NewAsset_Lobby_25
+  - first:
+      213: -5839900571983019663
+    second: NewAsset_Lobby_26
+  - first:
+      213: -6070302216106319339
+    second: NewAsset_Lobby_27
+  - first:
+      213: 3802721952369697907
+    second: NewAsset_Lobby_28
+  - first:
+      213: 4438684427327165710
+    second: NewAsset_Lobby_29
+  - first:
+      213: -8228841819167991120
+    second: NewAsset_Lobby_30
+  - first:
+      213: 1361644941514252376
+    second: NewAsset_Lobby_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewAsset_Lobby_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 231
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b855b79ee003af0800000000000000
+      internalID: -418818369386083485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 229
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9bc5441572de050800000000000000
+      internalID: 5831360322507422168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_2
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 227
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d479c4fc9dad0fe0800000000000000
+      internalID: -1221129034314189608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 227
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c596da89904cb700800000000000000
+      internalID: 557391482090591689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_4
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 167
+        width: 138
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d25e5ac70f4b0430800000000000000
+      internalID: 3750178009594614489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 239
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c25a1edcec26d50800000000000000
+      internalID: 6729168176894258220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 233
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f519fcfa1109e6d0800000000000000
+      internalID: -2960834064594430479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdff3e9d92580770800000000000000
+      internalID: 8577196327245446601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 124
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bda35fc07b2bb440800000000000000
+      internalID: 4952599978738691510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 168
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f79accdc2ec73d0800000000000000
+      internalID: -3207439461064802505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 167
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11db152d097e60d20800000000000000
+      internalID: 3244535190756900113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_11
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 107
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1db4f9ee676d1c0800000000000000
+      internalID: -4479262012126539318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_12
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 95
+        width: 63
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50f7a1dd98f088c0800000000000000
+      internalID: -3998923112394002339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0248b85eb0b3e06e0800000000000000
+      internalID: -1869491873030372320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63115a58d8a9b0b30800000000000000
+      internalID: 4254664205604819254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 101
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35f43f61323a5220800000000000000
+      internalID: 2475346133094036796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_16
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 46
+        width: 125
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1a379a2f013b360800000000000000
+      internalID: 7184104464997130716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_17
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8824193bc2beac0800000000000000
+      internalID: -3824914308773279515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_18
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 46
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602260403fa549230800000000000000
+      internalID: 3644637998240637446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f1cebf64f6593d0800000000000000
+      internalID: -3200529609511919738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_20
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 28
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbac10338559103d0800000000000000
+      internalID: -3242146050684630341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_21
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 30
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015393f4531a3af70800000000000000
+      internalID: 9197372114355172624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 7
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce31a27b2f559ffc0800000000000000
+      internalID: -3460640337714080788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_23
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 28
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70669862b5ee02980800000000000000
+      internalID: -8565584416002710009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 29
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b7bf83ad84a9f90800000000000000
+      internalID: -6946159373169493245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a98292ea7ad2dd20800000000000000
+      internalID: 3301941698138114464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_26
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 28
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1710a53fe5184fea0800000000000000
+      internalID: -5839900571983019663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 30
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51267b9db44f1cba0800000000000000
+      internalID: -6070302216106319339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_28
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374639ec77bf5c430800000000000000
+      internalID: 3802721952369697907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_29
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 6
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e05d4e038ff599d30800000000000000
+      internalID: 4438684427327165710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_30
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 6
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0badc97b6f74dcd80800000000000000
+      internalID: -8228841819167991120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAsset_Lobby_31
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8502a292cd885e210800000000000000
+      internalID: 1361644941514252376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NewAsset_Lobby_0: -418818369386083485
+      NewAsset_Lobby_1: 5831360322507422168
+      NewAsset_Lobby_10: 3244535190756900113
+      NewAsset_Lobby_11: -4479262012126539318
+      NewAsset_Lobby_12: -3998923112394002339
+      NewAsset_Lobby_13: -1869491873030372320
+      NewAsset_Lobby_14: 4254664205604819254
+      NewAsset_Lobby_15: 2475346133094036796
+      NewAsset_Lobby_16: 7184104464997130716
+      NewAsset_Lobby_17: -3824914308773279515
+      NewAsset_Lobby_18: 3644637998240637446
+      NewAsset_Lobby_19: -3200529609511919738
+      NewAsset_Lobby_2: -1221129034314189608
+      NewAsset_Lobby_20: -3242146050684630341
+      NewAsset_Lobby_21: 9197372114355172624
+      NewAsset_Lobby_22: -3460640337714080788
+      NewAsset_Lobby_23: -8565584416002710009
+      NewAsset_Lobby_24: -6946159373169493245
+      NewAsset_Lobby_25: 3301941698138114464
+      NewAsset_Lobby_26: -5839900571983019663
+      NewAsset_Lobby_27: -6070302216106319339
+      NewAsset_Lobby_28: 3802721952369697907
+      NewAsset_Lobby_29: 4438684427327165710
+      NewAsset_Lobby_3: 557391482090591689
+      NewAsset_Lobby_30: -8228841819167991120
+      NewAsset_Lobby_31: 1361644941514252376
+      NewAsset_Lobby_4: 3750178009594614489
+      NewAsset_Lobby_5: 6729168176894258220
+      NewAsset_Lobby_6: -2960834064594430479
+      NewAsset_Lobby_7: 8577196327245446601
+      NewAsset_Lobby_8: 4952599978738691510
+      NewAsset_Lobby_9: -3207439461064802505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

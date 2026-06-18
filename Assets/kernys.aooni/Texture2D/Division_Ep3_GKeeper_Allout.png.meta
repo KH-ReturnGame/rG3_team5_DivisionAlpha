@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 63e02397154cb48c3aa57e7865fe483e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5411569913951799368
+    second: Division_Ep3_GKeeper_Allout_0
+  - first:
+      213: -1083121553728658788
+    second: Division_Ep3_GKeeper_Allout_1
+  - first:
+      213: -7312176298704032910
+    second: Division_Ep3_GKeeper_Allout_2
+  - first:
+      213: 1138499594855884213
+    second: Division_Ep3_GKeeper_Allout_3
+  - first:
+      213: -1601468852637084724
+    second: Division_Ep3_GKeeper_Allout_4
+  - first:
+      213: -5715317201932674235
+    second: Division_Ep3_GKeeper_Allout_5
+  - first:
+      213: 617709999232953747
+    second: Division_Ep3_GKeeper_Allout_6
+  - first:
+      213: -767193976510107062
+    second: Division_Ep3_GKeeper_Allout_7
+  - first:
+      213: 6731985437305250405
+    second: Division_Ep3_GKeeper_Allout_8
+  - first:
+      213: -7614289375021695955
+    second: Division_Ep3_GKeeper_Allout_9
+  - first:
+      213: -304883425870906595
+    second: Division_Ep3_GKeeper_Allout_10
+  - first:
+      213: 272585969282951401
+    second: Division_Ep3_GKeeper_Allout_11
+  - first:
+      213: 2957779978390632980
+    second: Division_Ep3_GKeeper_Allout_12
+  - first:
+      213: -5415244262546172461
+    second: Division_Ep3_GKeeper_Allout_13
+  - first:
+      213: 6125888777377959082
+    second: Division_Ep3_GKeeper_Allout_14
+  - first:
+      213: 1320151465536859146
+    second: Division_Ep3_GKeeper_Allout_15
+  - first:
+      213: 1872375888584661302
+    second: Division_Ep3_GKeeper_Allout_16
+  - first:
+      213: 1233630957069923942
+    second: Division_Ep3_GKeeper_Allout_17
+  - first:
+      213: 5951505638294496088
+    second: Division_Ep3_GKeeper_Allout_18
+  - first:
+      213: -5596836003870270897
+    second: Division_Ep3_GKeeper_Allout_19
+  - first:
+      213: 5968732558661787715
+    second: Division_Ep3_GKeeper_Allout_20
+  - first:
+      213: 4684938273257511187
+    second: Division_Ep3_GKeeper_Allout_21
+  - first:
+      213: -6678033251023619919
+    second: Division_Ep3_GKeeper_Allout_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 18
+        width: 121
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b736b1c5dd36e4b0800000000000000
+      internalID: -5411569913951799368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_1
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 245
+        width: 7
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c922f6d7faaf7f0f0800000000000000
+      internalID: -1083121553728658788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 216
+        width: 91
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b27bcd56ee58a90800000000000000
+      internalID: -7312176298704032910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 212
+        width: 123
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5af487953cccf00800000000000000
+      internalID: 1138499594855884213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 218
+        width: 119
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3d6bf309076c9e0800000000000000
+      internalID: -1601468852637084724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 18
+        width: 132
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b9f10394d1fa0b0800000000000000
+      internalID: -5715317201932674235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 154
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dac76b8fb829800800000000000000
+      internalID: 617709999232953747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 104
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42bb44a4216a55f0800000000000000
+      internalID: -767193976510107062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 153
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562aeaf6611dc6d50800000000000000
+      internalID: 6731985437305250405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 131
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2cfcc8d72c945690800000000000000
+      internalID: -7614289375021695955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_10
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 159
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b7f07b326d4cbf0800000000000000
+      internalID: -304883425870906595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 18
+        width: 119
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8adddae7b68c300800000000000000
+      internalID: 272585969282951401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_12
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 95
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a7cb728352c0920800000000000000
+      internalID: 2957779978390632980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_13
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 108
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d596fec80039d4b0800000000000000
+      internalID: -5415244262546172461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 114
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac4a2df267830550800000000000000
+      internalID: 6125888777377959082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_15
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 74
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c290173ce125210800000000000000
+      internalID: 1320151465536859146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_16
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 79
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639581d43f30cf910800000000000000
+      internalID: 1872375888584661302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 18
+        width: 113
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666f314c1dcbe1110800000000000000
+      internalID: 1233630957069923942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_18
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 89
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853274978def79250800000000000000
+      internalID: 5951505638294496088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_19
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 53
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a123bce4b0452b0800000000000000
+      internalID: -5596836003870270897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_20
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 56
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340285e63a235d250800000000000000
+      internalID: 5968732558661787715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_21
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 55
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3195524a98e340140800000000000000
+      internalID: 4684938273257511187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Ep3_GKeeper_Allout_22
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 55
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b87d72d32cd253a0800000000000000
+      internalID: -6678033251023619919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Ep3_GKeeper_Allout_0: -5411569913951799368
+      Division_Ep3_GKeeper_Allout_1: -1083121553728658788
+      Division_Ep3_GKeeper_Allout_10: -304883425870906595
+      Division_Ep3_GKeeper_Allout_11: 272585969282951401
+      Division_Ep3_GKeeper_Allout_12: 2957779978390632980
+      Division_Ep3_GKeeper_Allout_13: -5415244262546172461
+      Division_Ep3_GKeeper_Allout_14: 6125888777377959082
+      Division_Ep3_GKeeper_Allout_15: 1320151465536859146
+      Division_Ep3_GKeeper_Allout_16: 1872375888584661302
+      Division_Ep3_GKeeper_Allout_17: 1233630957069923942
+      Division_Ep3_GKeeper_Allout_18: 5951505638294496088
+      Division_Ep3_GKeeper_Allout_19: -5596836003870270897
+      Division_Ep3_GKeeper_Allout_2: -7312176298704032910
+      Division_Ep3_GKeeper_Allout_20: 5968732558661787715
+      Division_Ep3_GKeeper_Allout_21: 4684938273257511187
+      Division_Ep3_GKeeper_Allout_22: -6678033251023619919
+      Division_Ep3_GKeeper_Allout_3: 1138499594855884213
+      Division_Ep3_GKeeper_Allout_4: -1601468852637084724
+      Division_Ep3_GKeeper_Allout_5: -5715317201932674235
+      Division_Ep3_GKeeper_Allout_6: 617709999232953747
+      Division_Ep3_GKeeper_Allout_7: -767193976510107062
+      Division_Ep3_GKeeper_Allout_8: 6731985437305250405
+      Division_Ep3_GKeeper_Allout_9: -7614289375021695955
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

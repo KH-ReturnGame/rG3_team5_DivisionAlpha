@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 17e8d6d3759cd4dc9b3922017a292fe6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8676967758011523983
+    second: SkillVfx_EP0_PreFireman_SkillVfx_3_0
+  - first:
+      213: -7248928401922905248
+    second: SkillVfx_EP0_PreFireman_SkillVfx_3_1
+  - first:
+      213: 2617747459974348196
+    second: SkillVfx_EP0_PreFireman_SkillVfx_3_2
+  - first:
+      213: -1887749526753521041
+    second: SkillVfx_EP0_PreFireman_SkillVfx_3_3
+  - first:
+      213: -7504680513810359350
+    second: SkillVfx_EP0_PreFireman_SkillVfx_3_4
+  - first:
+      213: -7371765735631305139
+    second: SkillVfx_EP0_PreFireman_SkillVfx_3_5
+  - first:
+      213: -8262775221809810987
+    second: SkillVfx_EP0_PreFireman_SkillVfx_3_6
+  - first:
+      213: 2480142358059925522
+    second: SkillVfx_EP0_PreFireman_SkillVfx_3_7
+  - first:
+      213: -5458174613271600338
+    second: SkillVfx_EP0_PreFireman_SkillVfx_3_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_3_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f836bcf0438ca6870800000000000000
+      internalID: 8676967758011523983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_3_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 84
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b25216602a66b90800000000000000
+      internalID: -7248928401922905248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_3_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 54
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4adb377027b145420800000000000000
+      internalID: 2617747459974348196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_3_3
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 75
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62d1f0aecd5dc5e0800000000000000
+      internalID: -1887749526753521041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_3_4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 60
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb998d85d40ad790800000000000000
+      internalID: -7504680513810359350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_3_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 7
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46cc48ee1a32b990800000000000000
+      internalID: -7371765735631305139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_3_6
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1702db6b9b45d80800000000000000
+      internalID: -8262775221809810987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_3_7
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 30
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210cf84955c3b6220800000000000000
+      internalID: 2480142358059925522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkillVfx_EP0_PreFireman_SkillVfx_3_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2324ed9b1ba044b0800000000000000
+      internalID: -5458174613271600338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SkillVfx_EP0_PreFireman_SkillVfx_3_0: 8676967758011523983
+      SkillVfx_EP0_PreFireman_SkillVfx_3_1: -7248928401922905248
+      SkillVfx_EP0_PreFireman_SkillVfx_3_2: 2617747459974348196
+      SkillVfx_EP0_PreFireman_SkillVfx_3_3: -1887749526753521041
+      SkillVfx_EP0_PreFireman_SkillVfx_3_4: -7504680513810359350
+      SkillVfx_EP0_PreFireman_SkillVfx_3_5: -7371765735631305139
+      SkillVfx_EP0_PreFireman_SkillVfx_3_6: -8262775221809810987
+      SkillVfx_EP0_PreFireman_SkillVfx_3_7: 2480142358059925522
+      SkillVfx_EP0_PreFireman_SkillVfx_3_8: -5458174613271600338
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: c0f8843ab32ed45ef86b15d2c5f679d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 205993089457300860
+    second: 2023_Xmas_Event1_Snow_L_0
+  - first:
+      213: 8521464191236394610
+    second: 2023_Xmas_Event1_Snow_L_1
+  - first:
+      213: -8759617050912648032
+    second: 2023_Xmas_Event1_Snow_L_2
+  - first:
+      213: -4347915260784622210
+    second: 2023_Xmas_Event1_Snow_L_3
+  - first:
+      213: -7348913049560205329
+    second: 2023_Xmas_Event1_Snow_L_4
+  - first:
+      213: 460111025199781537
+    second: 2023_Xmas_Event1_Snow_L_5
+  - first:
+      213: -8761617540669531452
+    second: 2023_Xmas_Event1_Snow_L_6
+  - first:
+      213: -180094012879668868
+    second: 2023_Xmas_Event1_Snow_L_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2023_Xmas_Event1_Snow_L_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 221
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75a94b9f95dbd200800000000000000
+      internalID: 205993089457300860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_Event1_Snow_L_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 211
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e4bd48882524670800000000000000
+      internalID: 8521464191236394610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_Event1_Snow_L_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 202
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a495efd3b69f6680800000000000000
+      internalID: -8759617050912648032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_Event1_Snow_L_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 208
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75ce674b1a19a3c0800000000000000
+      internalID: -4347915260784622210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_Event1_Snow_L_4
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 139
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe73bb3848a630a90800000000000000
+      internalID: -7348913049560205329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_Event1_Snow_L_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 106
+        width: 33
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a616462a84a26600800000000000000
+      internalID: 460111025199781537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_Event1_Snow_L_6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 11
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca9f8e844b786680800000000000000
+      internalID: -8761617540669531452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2023_Xmas_Event1_Snow_L_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79f120137d208df0800000000000000
+      internalID: -180094012879668868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      2023_Xmas_Event1_Snow_L_0: 205993089457300860
+      2023_Xmas_Event1_Snow_L_1: 8521464191236394610
+      2023_Xmas_Event1_Snow_L_2: -8759617050912648032
+      2023_Xmas_Event1_Snow_L_3: -4347915260784622210
+      2023_Xmas_Event1_Snow_L_4: -7348913049560205329
+      2023_Xmas_Event1_Snow_L_5: 460111025199781537
+      2023_Xmas_Event1_Snow_L_6: -8761617540669531452
+      2023_Xmas_Event1_Snow_L_7: -180094012879668868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 0ac616d8737b64e109c68bea7573626b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8006301989848278571
+    second: aooni_Galaxy_Mag_Barrier2_0
+  - first:
+      213: -4620424803775118657
+    second: aooni_Galaxy_Mag_Barrier2_1
+  - first:
+      213: -4920907615507394701
+    second: aooni_Galaxy_Mag_Barrier2_2
+  - first:
+      213: 104264623367855715
+    second: aooni_Galaxy_Mag_Barrier2_3
+  - first:
+      213: -8907703109255949441
+    second: aooni_Galaxy_Mag_Barrier2_4
+  - first:
+      213: -7519631350250003236
+    second: aooni_Galaxy_Mag_Barrier2_5
+  - first:
+      213: -7621894909277956045
+    second: aooni_Galaxy_Mag_Barrier2_6
+  - first:
+      213: 2570420279434985648
+    second: aooni_Galaxy_Mag_Barrier2_7
+  - first:
+      213: 3545025957994614648
+    second: aooni_Galaxy_Mag_Barrier2_8
+  - first:
+      213: -953366844870424222
+    second: aooni_Galaxy_Mag_Barrier2_9
+  - first:
+      213: 1559824097390919569
+    second: aooni_Galaxy_Mag_Barrier2_10
+  - first:
+      213: -5563031829748124812
+    second: aooni_Galaxy_Mag_Barrier2_11
+  - first:
+      213: -164652437964453337
+    second: aooni_Galaxy_Mag_Barrier2_12
+  - first:
+      213: 6207291341208264922
+    second: aooni_Galaxy_Mag_Barrier2_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 182
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9179a62c6e3e090800000000000000
+      internalID: -8006301989848278571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 182
+        width: 27
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb2849bfe14f0efb0800000000000000
+      internalID: -4620424803775118657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 184
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fca25889c65bbb0800000000000000
+      internalID: -4920907615507394701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 184
+        width: 33
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e1b7e5f1c627100800000000000000
+      internalID: 104264623367855715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 123
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f731828973b716480800000000000000
+      internalID: -8907703109255949441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 123
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4257ea027e4a790800000000000000
+      internalID: -7519631350250003236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_6
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 121
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 338112966f6993690800000000000000
+      internalID: -7621894909277956045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_7
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 121
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0ce2f10a7fba320800000000000000
+      internalID: 2570420279434985648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fcec19356723130800000000000000
+      internalID: 3545025957994614648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 62
+        width: 34
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2690dded7e5f4c2f0800000000000000
+      internalID: -953366844870424222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 62
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f741590cb95a510800000000000000
+      internalID: 1559824097390919569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 62
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473fba966042cc2b0800000000000000
+      internalID: -5563031829748124812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a0ab3ea7907bdf0800000000000000
+      internalID: -164652437964453337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aooni_Galaxy_Mag_Barrier2_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0a312569ab42650800000000000000
+      internalID: 6207291341208264922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      aooni_Galaxy_Mag_Barrier2_0: -8006301989848278571
+      aooni_Galaxy_Mag_Barrier2_1: -4620424803775118657
+      aooni_Galaxy_Mag_Barrier2_10: 1559824097390919569
+      aooni_Galaxy_Mag_Barrier2_11: -5563031829748124812
+      aooni_Galaxy_Mag_Barrier2_12: -164652437964453337
+      aooni_Galaxy_Mag_Barrier2_13: 6207291341208264922
+      aooni_Galaxy_Mag_Barrier2_2: -4920907615507394701
+      aooni_Galaxy_Mag_Barrier2_3: 104264623367855715
+      aooni_Galaxy_Mag_Barrier2_4: -8907703109255949441
+      aooni_Galaxy_Mag_Barrier2_5: -7519631350250003236
+      aooni_Galaxy_Mag_Barrier2_6: -7621894909277956045
+      aooni_Galaxy_Mag_Barrier2_7: 2570420279434985648
+      aooni_Galaxy_Mag_Barrier2_8: 3545025957994614648
+      aooni_Galaxy_Mag_Barrier2_9: -953366844870424222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

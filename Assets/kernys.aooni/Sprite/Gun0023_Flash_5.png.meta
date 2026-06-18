@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 0a2a68987e6d24fe8b9e5b2657e95d6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4856889423083300382
+    second: Gun0023_Flash_5_0
+  - first:
+      213: -2202576103715382148
+    second: Gun0023_Flash_5_1
+  - first:
+      213: 5438257436223374391
+    second: Gun0023_Flash_5_2
+  - first:
+      213: -7931356947592617689
+    second: Gun0023_Flash_5_3
+  - first:
+      213: -1631410544188427006
+    second: Gun0023_Flash_5_4
+  - first:
+      213: 4649524695908937694
+    second: Gun0023_Flash_5_5
+  - first:
+      213: 8582682004551003693
+    second: Gun0023_Flash_5_6
+  - first:
+      213: 5867922612871583038
+    second: Gun0023_Flash_5_7
+  - first:
+      213: -4663422894356642716
+    second: Gun0023_Flash_5_8
+  - first:
+      213: -1109344812889190309
+    second: Gun0023_Flash_5_9
+  - first:
+      213: 6966077908145020815
+    second: Gun0023_Flash_5_10
+  - first:
+      213: 578952791819285736
+    second: Gun0023_Flash_5_11
+  - first:
+      213: 8199095104163898017
+    second: Gun0023_Flash_5_12
+  - first:
+      213: 7294487518546134882
+    second: Gun0023_Flash_5_13
+  - first:
+      213: -729216429171064731
+    second: Gun0023_Flash_5_14
+  - first:
+      213: 8826549601957554212
+    second: Gun0023_Flash_5_15
+  - first:
+      213: -7685653084298622081
+    second: Gun0023_Flash_5_16
+  - first:
+      213: -7180333523114707642
+    second: Gun0023_Flash_5_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 85
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e166b388233276340800000000000000
+      internalID: 4856889423083300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 101
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7cd74314b0ee61e0800000000000000
+      internalID: -2202576103715382148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 89
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734883b3352987b40800000000000000
+      internalID: 5438257436223374391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7216ae7d0e82ee190800000000000000
+      internalID: -7931356947592617689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_4
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 75
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20572dee0c01c59e0800000000000000
+      internalID: -1631410544188427006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 79
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfee02a31e668040800000000000000
+      internalID: 4649524695908937694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 81
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e66656fcfcb1770800000000000000
+      internalID: 8582682004551003693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 72
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3551bdd68c0f6150800000000000000
+      internalID: 5867922612871583038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 78
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464c270e591384fb0800000000000000
+      internalID: -4663422894356642716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 63
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50515e25c0da90f0800000000000000
+      internalID: -1109344812889190309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 43
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f1ea813fa7ca060800000000000000
+      internalID: 6966077908145020815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 63
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4fb1a2f7ad80800800000000000000
+      internalID: 578952791819285736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 33
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2655b7e8909c170800000000000000
+      internalID: 8199095104163898017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_13
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 39
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 267867110c93b3560800000000000000
+      internalID: 7294487518546134882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 32
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56041ee658d41e5f0800000000000000
+      internalID: -729216429171064731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 39
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428ab0119143e7a70800000000000000
+      internalID: 8826549601957554212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 53
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bce7b7d33175590800000000000000
+      internalID: -7685653084298622081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0023_Flash_5_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 11
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6453be924b45a5c90800000000000000
+      internalID: -7180333523114707642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gun0023_Flash_5_0: 4856889423083300382
+      Gun0023_Flash_5_1: -2202576103715382148
+      Gun0023_Flash_5_10: 6966077908145020815
+      Gun0023_Flash_5_11: 578952791819285736
+      Gun0023_Flash_5_12: 8199095104163898017
+      Gun0023_Flash_5_13: 7294487518546134882
+      Gun0023_Flash_5_14: -729216429171064731
+      Gun0023_Flash_5_15: 8826549601957554212
+      Gun0023_Flash_5_16: -7685653084298622081
+      Gun0023_Flash_5_17: -7180333523114707642
+      Gun0023_Flash_5_2: 5438257436223374391
+      Gun0023_Flash_5_3: -7931356947592617689
+      Gun0023_Flash_5_4: -1631410544188427006
+      Gun0023_Flash_5_5: 4649524695908937694
+      Gun0023_Flash_5_6: 8582682004551003693
+      Gun0023_Flash_5_7: 5867922612871583038
+      Gun0023_Flash_5_8: -4663422894356642716
+      Gun0023_Flash_5_9: -1109344812889190309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

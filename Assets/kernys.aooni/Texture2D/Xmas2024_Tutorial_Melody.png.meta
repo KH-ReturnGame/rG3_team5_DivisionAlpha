@@ -1,0 +1,325 @@
+fileFormatVersion: 2
+guid: 4a1b1f6b7b8ea4efa9316a2d331654f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4481306258424575537
+    second: Xmas2024_Tutorial_Melody_0
+  - first:
+      213: -4849372943552487559
+    second: Xmas2024_Tutorial_Melody_1
+  - first:
+      213: -6356942437565438782
+    second: Xmas2024_Tutorial_Melody_2
+  - first:
+      213: 7728620442534461289
+    second: Xmas2024_Tutorial_Melody_3
+  - first:
+      213: 7277926138369896097
+    second: Xmas2024_Tutorial_Melody_4
+  - first:
+      213: 3311041054739154609
+    second: Xmas2024_Tutorial_Melody_5
+  - first:
+      213: -8213572046203546680
+    second: Xmas2024_Tutorial_Melody_6
+  - first:
+      213: 4131646663299060838
+    second: Xmas2024_Tutorial_Melody_7
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xmas2024_Tutorial_Melody_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc94ed073b33fc1c0800000000000000
+      internalID: -4481306258424575537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2024_Tutorial_Melody_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 22
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fd92c300193bcb0800000000000000
+      internalID: -4849372943552487559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2024_Tutorial_Melody_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 22
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c46e47988a97c7a0800000000000000
+      internalID: -6356942437565438782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2024_Tutorial_Melody_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 22
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96fb6113853914b60800000000000000
+      internalID: 7728620442534461289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2024_Tutorial_Melody_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae61134343600560800000000000000
+      internalID: 7277926138369896097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2024_Tutorial_Melody_5
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b64670fb4e23fd20800000000000000
+      internalID: 3311041054739154609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2024_Tutorial_Melody_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c395f8cdb7830e80800000000000000
+      internalID: -8213572046203546680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2024_Tutorial_Melody_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6645e57ffbe865930800000000000000
+      internalID: 4131646663299060838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xmas2024_Tutorial_Melody_0: -4481306258424575537
+      Xmas2024_Tutorial_Melody_1: -4849372943552487559
+      Xmas2024_Tutorial_Melody_2: -6356942437565438782
+      Xmas2024_Tutorial_Melody_3: 7728620442534461289
+      Xmas2024_Tutorial_Melody_4: 7277926138369896097
+      Xmas2024_Tutorial_Melody_5: 3311041054739154609
+      Xmas2024_Tutorial_Melody_6: -8213572046203546680
+      Xmas2024_Tutorial_Melody_7: 4131646663299060838
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

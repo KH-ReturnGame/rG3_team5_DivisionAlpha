@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 5a3cb367c52f64268bd1062647d7cddb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2849584722560696258
+    second: YANAH2_Skill_FrogJumpImpact_0
+  - first:
+      213: 8195768063714533930
+    second: YANAH2_Skill_FrogJumpImpact_1
+  - first:
+      213: 6471620836900963993
+    second: YANAH2_Skill_FrogJumpImpact_2
+  - first:
+      213: -8550178951009665132
+    second: YANAH2_Skill_FrogJumpImpact_3
+  - first:
+      213: -1935690672028210205
+    second: YANAH2_Skill_FrogJumpImpact_4
+  - first:
+      213: 5507713479890989698
+    second: YANAH2_Skill_FrogJumpImpact_5
+  - first:
+      213: 6345680666498258606
+    second: YANAH2_Skill_FrogJumpImpact_6
+  - first:
+      213: 3775366875263783888
+    second: YANAH2_Skill_FrogJumpImpact_7
+  - first:
+      213: 5811147398915827793
+    second: YANAH2_Skill_FrogJumpImpact_8
+  - first:
+      213: 1976777089599239709
+    second: YANAH2_Skill_FrogJumpImpact_9
+  - first:
+      213: -9031859158143373944
+    second: YANAH2_Skill_FrogJumpImpact_10
+  - first:
+      213: 2323508504237376087
+    second: YANAH2_Skill_FrogJumpImpact_11
+  - first:
+      213: 5343711751806765950
+    second: YANAH2_Skill_FrogJumpImpact_12
+  - first:
+      213: 9009525674276936369
+    second: YANAH2_Skill_FrogJumpImpact_13
+  - first:
+      213: -7517886864272965501
+    second: YANAH2_Skill_FrogJumpImpact_14
+  - first:
+      213: -8624435092481784879
+    second: YANAH2_Skill_FrogJumpImpact_15
+  - first:
+      213: 3522742375292805988
+    second: YANAH2_Skill_FrogJumpImpact_16
+  - first:
+      213: 5800015093248252418
+    second: YANAH2_Skill_FrogJumpImpact_17
+  - first:
+      213: -879715416230467912
+    second: YANAH2_Skill_FrogJumpImpact_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_0
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 71
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30c366eacd3478d0800000000000000
+      internalID: -2849584722560696258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 85
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22223381a73db170800000000000000
+      internalID: 8195768063714533930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 47
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9968f70fcd0dfc950800000000000000
+      internalID: 6471620836900963993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 68
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ffb0b7b89a75980800000000000000
+      internalID: -8550178951009665132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_4
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 75
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eba8bae69b0325e0800000000000000
+      internalID: -1935690672028210205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_5
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 64
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28278859a345f6c40800000000000000
+      internalID: 5507713479890989698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 39
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea651b002f2601850800000000000000
+      internalID: 6345680666498258606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 58
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3dfd89b2cc46430800000000000000
+      internalID: 3775366875263783888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 36
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15820d145c755a050800000000000000
+      internalID: 5811147398915827793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 30
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1671b12a4cee6b10800000000000000
+      internalID: 1976777089599239709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 15
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d6181d2f368a280800000000000000
+      internalID: -9031859158143373944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 24
+        width: 8
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7520ba39ca2ce3020800000000000000
+      internalID: 2323508504237376087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bc58ca68da82a40800000000000000
+      internalID: 5343711751806765950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_13
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 17
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bad902cdd3480d70800000000000000
+      internalID: 9009525674276936369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 14
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3804f697ab91ba790800000000000000
+      internalID: -7517886864272965501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_15
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 5
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3c5344af9df4880800000000000000
+      internalID: -8624435092481784879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_16
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4632b8aa68b43e030800000000000000
+      internalID: 3522742375292805988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a57fc5ffacd7050800000000000000
+      internalID: 5800015093248252418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH2_Skill_FrogJumpImpact_18
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 0
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6e5286d7f9ac3f0800000000000000
+      internalID: -879715416230467912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YANAH2_Skill_FrogJumpImpact_0: -2849584722560696258
+      YANAH2_Skill_FrogJumpImpact_1: 8195768063714533930
+      YANAH2_Skill_FrogJumpImpact_10: -9031859158143373944
+      YANAH2_Skill_FrogJumpImpact_11: 2323508504237376087
+      YANAH2_Skill_FrogJumpImpact_12: 5343711751806765950
+      YANAH2_Skill_FrogJumpImpact_13: 9009525674276936369
+      YANAH2_Skill_FrogJumpImpact_14: -7517886864272965501
+      YANAH2_Skill_FrogJumpImpact_15: -8624435092481784879
+      YANAH2_Skill_FrogJumpImpact_16: 3522742375292805988
+      YANAH2_Skill_FrogJumpImpact_17: 5800015093248252418
+      YANAH2_Skill_FrogJumpImpact_18: -879715416230467912
+      YANAH2_Skill_FrogJumpImpact_2: 6471620836900963993
+      YANAH2_Skill_FrogJumpImpact_3: -8550178951009665132
+      YANAH2_Skill_FrogJumpImpact_4: -1935690672028210205
+      YANAH2_Skill_FrogJumpImpact_5: 5507713479890989698
+      YANAH2_Skill_FrogJumpImpact_6: 6345680666498258606
+      YANAH2_Skill_FrogJumpImpact_7: 3775366875263783888
+      YANAH2_Skill_FrogJumpImpact_8: 5811147398915827793
+      YANAH2_Skill_FrogJumpImpact_9: 1976777089599239709
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

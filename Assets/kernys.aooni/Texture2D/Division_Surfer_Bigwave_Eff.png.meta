@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: a48467b6019b94e52811a99f27aeba1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6739380716243351572
+    second: Division_Surfer_Bigwave_Eff_0
+  - first:
+      213: -2343813461413639358
+    second: Division_Surfer_Bigwave_Eff_1
+  - first:
+      213: 635080469866658136
+    second: Division_Surfer_Bigwave_Eff_2
+  - first:
+      213: -2808116530322092722
+    second: Division_Surfer_Bigwave_Eff_3
+  - first:
+      213: -2541066550822496647
+    second: Division_Surfer_Bigwave_Eff_4
+  - first:
+      213: -7825961906321492526
+    second: Division_Surfer_Bigwave_Eff_5
+  - first:
+      213: 4237298403083859817
+    second: Division_Surfer_Bigwave_Eff_6
+  - first:
+      213: -2654752073890472399
+    second: Division_Surfer_Bigwave_Eff_7
+  - first:
+      213: -7015938363703431792
+    second: Division_Surfer_Bigwave_Eff_8
+  - first:
+      213: -7451420093554836546
+    second: Division_Surfer_Bigwave_Eff_9
+  - first:
+      213: 4278768341557675992
+    second: Division_Surfer_Bigwave_Eff_10
+  - first:
+      213: -2699812472121807812
+    second: Division_Surfer_Bigwave_Eff_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Surfer_Bigwave_Eff_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 98
+        width: 48
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4187dcdfd07178d50800000000000000
+      internalID: 6739380716243351572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Surfer_Bigwave_Eff_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 81
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b49ac231a197fd0800000000000000
+      internalID: -2343813461413639358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Surfer_Bigwave_Eff_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 98
+        width: 50
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 859b032925240d800800000000000000
+      internalID: 635080469866658136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Surfer_Bigwave_Eff_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 111
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dcf3ac4e09709d0800000000000000
+      internalID: -2808116530322092722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Surfer_Bigwave_Eff_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 50
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97619976f615cbcd0800000000000000
+      internalID: -2541066550822496647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Surfer_Bigwave_Eff_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 83
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f7f32c19946390800000000000000
+      internalID: -7825961906321492526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Surfer_Bigwave_Eff_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967b42b8278edca30800000000000000
+      internalID: 4237298403083859817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Surfer_Bigwave_Eff_7
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ed605ed0d682bd0800000000000000
+      internalID: -2654752073890472399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Surfer_Bigwave_Eff_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09deb61fa3162ae90800000000000000
+      internalID: -7015938363703431792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Surfer_Bigwave_Eff_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 16
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebbb47b77ec379890800000000000000
+      internalID: -7451420093554836546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Surfer_Bigwave_Eff_10
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 39
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d78bb2032d316b30800000000000000
+      internalID: 4278768341557675992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Surfer_Bigwave_Eff_11
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ca20f5cd6588ad0800000000000000
+      internalID: -2699812472121807812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Surfer_Bigwave_Eff_0: 6739380716243351572
+      Division_Surfer_Bigwave_Eff_1: -2343813461413639358
+      Division_Surfer_Bigwave_Eff_10: 4278768341557675992
+      Division_Surfer_Bigwave_Eff_11: -2699812472121807812
+      Division_Surfer_Bigwave_Eff_2: 635080469866658136
+      Division_Surfer_Bigwave_Eff_3: -2808116530322092722
+      Division_Surfer_Bigwave_Eff_4: -2541066550822496647
+      Division_Surfer_Bigwave_Eff_5: -7825961906321492526
+      Division_Surfer_Bigwave_Eff_6: 4237298403083859817
+      Division_Surfer_Bigwave_Eff_7: -2654752073890472399
+      Division_Surfer_Bigwave_Eff_8: -7015938363703431792
+      Division_Surfer_Bigwave_Eff_9: -7451420093554836546
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

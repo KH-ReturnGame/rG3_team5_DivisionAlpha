@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: ae04f0a797f274bebace22973d4c8bcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5151877353092610678
+    second: Gun0014_Bullet_0
+  - first:
+      213: -6496256282125029068
+    second: Gun0014_Bullet_1
+  - first:
+      213: 97380805045386940
+    second: Gun0014_Bullet_2
+  - first:
+      213: 5704767669891687102
+    second: Gun0014_Bullet_3
+  - first:
+      213: -7258965055066451236
+    second: Gun0014_Bullet_4
+  - first:
+      213: 3452233520210702901
+    second: Gun0014_Bullet_5
+  - first:
+      213: -852407083248353972
+    second: Gun0014_Bullet_6
+  - first:
+      213: -1898992736100133751
+    second: Gun0014_Bullet_7
+  - first:
+      213: 2244017696582284506
+    second: Gun0014_Bullet_8
+  - first:
+      213: -5818184657207598193
+    second: Gun0014_Bullet_9
+  - first:
+      213: -7351005390540563540
+    second: Gun0014_Bullet_10
+  - first:
+      213: 2352491230622634520
+    second: Gun0014_Bullet_11
+  - first:
+      213: -8382757968949927140
+    second: Gun0014_Bullet_12
+  - first:
+      213: 8956187761573730607
+    second: Gun0014_Bullet_13
+  - first:
+      213: -4570931580349500211
+    second: Gun0014_Bullet_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gun0014_Bullet_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 90
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67af67528252f7740800000000000000
+      internalID: 5151877353092610678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 88
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431b90e7459a8d5a0800000000000000
+      internalID: -6496256282125029068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 88
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbefba48357f95100800000000000000
+      internalID: 97380805045386940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb2e60a78f76b2f40800000000000000
+      internalID: 5704767669891687102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_4
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd25ac7fdb9f24b90800000000000000
+      internalID: -7258965055066451236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 58
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532fadd881cc8ef20800000000000000
+      internalID: 3452233520210702901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 48
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d74f62644ab24f0800000000000000
+      internalID: -852407083248353972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98454b5fa2c65a5e0800000000000000
+      internalID: -1898992736100133751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 62
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad43a7aa43a542f10800000000000000
+      internalID: 2244017696582284506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_9
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 60
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83638d51e7a14fa0800000000000000
+      internalID: -5818184657207598193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_10
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 68
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab19da6b8bfbf990800000000000000
+      internalID: -7351005390540563540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812db7a6f4ab5a020800000000000000
+      internalID: 2352491230622634520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c132aae7a067aab80800000000000000
+      internalID: -8382757968949927140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 25
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f299d463155ca4c70800000000000000
+      internalID: 8956187761573730607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gun0014_Bullet_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc437ac02f9c090c0800000000000000
+      internalID: -4570931580349500211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Gun0014_Bullet_0: 5151877353092610678
+      Gun0014_Bullet_1: -6496256282125029068
+      Gun0014_Bullet_10: -7351005390540563540
+      Gun0014_Bullet_11: 2352491230622634520
+      Gun0014_Bullet_12: -8382757968949927140
+      Gun0014_Bullet_13: 8956187761573730607
+      Gun0014_Bullet_14: -4570931580349500211
+      Gun0014_Bullet_2: 97380805045386940
+      Gun0014_Bullet_3: 5704767669891687102
+      Gun0014_Bullet_4: -7258965055066451236
+      Gun0014_Bullet_5: 3452233520210702901
+      Gun0014_Bullet_6: -852407083248353972
+      Gun0014_Bullet_7: -1898992736100133751
+      Gun0014_Bullet_8: 2244017696582284506
+      Gun0014_Bullet_9: -5818184657207598193
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: cc63737c51ede42a780da2652d2bb90c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4294766242748777309
+    second: Circus_ThornDead_0
+  - first:
+      213: -1276733859911480368
+    second: Circus_ThornDead_1
+  - first:
+      213: 1267874018373225487
+    second: Circus_ThornDead_2
+  - first:
+      213: -8019108315828630668
+    second: Circus_ThornDead_3
+  - first:
+      213: 5067775531314209411
+    second: Circus_ThornDead_4
+  - first:
+      213: -1457844234775689486
+    second: Circus_ThornDead_5
+  - first:
+      213: -8459733176217489507
+    second: Circus_ThornDead_6
+  - first:
+      213: 5291695772122910091
+    second: Circus_ThornDead_7
+  - first:
+      213: -390004567915404815
+    second: Circus_ThornDead_8
+  - first:
+      213: -5596442327283475612
+    second: Circus_ThornDead_9
+  - first:
+      213: -6978255914331444191
+    second: Circus_ThornDead_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Circus_ThornDead_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 75
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d534164a4231a9b30800000000000000
+      internalID: 4294766242748777309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_ThornDead_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 72
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db434f9151284ee0800000000000000
+      internalID: -1276733859911480368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_ThornDead_2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 57
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c4515c3b4689110800000000000000
+      internalID: 1267874018373225487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_ThornDead_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 54
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b47ab497766b090800000000000000
+      internalID: -8019108315828630668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_ThornDead_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3826669defa545640800000000000000
+      internalID: 5067775531314209411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_ThornDead_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 41
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f608587462b4cbe0800000000000000
+      internalID: -1457844234775689486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_ThornDead_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f28f07f7df89a80800000000000000
+      internalID: -8459733176217489507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_ThornDead_7
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 9
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d82d4a441ef6940800000000000000
+      internalID: 5291695772122910091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_ThornDead_8
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 17
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f16f9c69ec669af0800000000000000
+      internalID: -390004567915404815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_ThornDead_9
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 7
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bde44ca517552b0800000000000000
+      internalID: -5596442327283475612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Circus_ThornDead_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 3
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c6182e731482f90800000000000000
+      internalID: -6978255914331444191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Circus_ThornDead_0: 4294766242748777309
+      Circus_ThornDead_1: -1276733859911480368
+      Circus_ThornDead_10: -6978255914331444191
+      Circus_ThornDead_2: 1267874018373225487
+      Circus_ThornDead_3: -8019108315828630668
+      Circus_ThornDead_4: 5067775531314209411
+      Circus_ThornDead_5: -1457844234775689486
+      Circus_ThornDead_6: -8459733176217489507
+      Circus_ThornDead_7: 5291695772122910091
+      Circus_ThornDead_8: -390004567915404815
+      Circus_ThornDead_9: -5596442327283475612
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

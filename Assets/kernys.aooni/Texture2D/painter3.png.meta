@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 04ba5fb4a7e7c4e719925c7ea4eda616
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2751760809395364629
+    second: painter3_0
+  - first:
+      213: -5013530939877749383
+    second: painter3_1
+  - first:
+      213: 8613125120399541914
+    second: painter3_2
+  - first:
+      213: 968550514665958180
+    second: painter3_3
+  - first:
+      213: -7271525680570589775
+    second: painter3_4
+  - first:
+      213: 8637540329238842225
+    second: painter3_5
+  - first:
+      213: -4630445886894483490
+    second: painter3_6
+  - first:
+      213: -5474571733637524886
+    second: painter3_7
+  - first:
+      213: 4666453719798685999
+    second: painter3_8
+  - first:
+      213: 4689423307252319023
+    second: painter3_9
+  - first:
+      213: -4929589337878860069
+    second: painter3_10
+  - first:
+      213: -5871520387919379714
+    second: painter3_11
+  - first:
+      213: -4164695936193443302
+    second: painter3_12
+  - first:
+      213: 7360710939147938986
+    second: painter3_13
+  - first:
+      213: -7145206073804627439
+    second: painter3_14
+  - first:
+      213: -6575632388084757693
+    second: painter3_15
+  - first:
+      213: -423018640730257909
+    second: painter3_16
+  - first:
+      213: -5759326257393973307
+    second: painter3_17
+  - first:
+      213: -5044478182310461011
+    second: painter3_18
+  - first:
+      213: 5845981710559710078
+    second: painter3_19
+  - first:
+      213: -1482900219707747831
+    second: painter3_20
+  - first:
+      213: 2050565904782554145
+    second: painter3_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: painter3_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 116
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becd5219f18cfc9d0800000000000000
+      internalID: -2751760809395364629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 99
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d082a4c2c5c6ab0800000000000000
+      internalID: -5013530939877749383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 8
+        width: 87
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a968867a9a7f78770800000000000000
+      internalID: 8613125120399541914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 76
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bafadbf8bf07d00800000000000000
+      internalID: 968550514665958180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 69
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd95727be9561b90800000000000000
+      internalID: -7271525680570589775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 56
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17b44617a25bed770800000000000000
+      internalID: 8637540329238842225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 60
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed75cffbff95dbfb0800000000000000
+      internalID: -4630445886894483490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_7
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 49
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a621427830a6604b0800000000000000
+      internalID: -5474571733637524886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21a6692fe292c040800000000000000
+      internalID: 4666453719798685999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 40
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23463ef6ad241140800000000000000
+      internalID: 4689423307252319023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 47
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde6d238d94969bb0800000000000000
+      internalID: -4929589337878860069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_11
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 44
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef20a9ad05b248ea0800000000000000
+      internalID: -5871520387919379714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 37
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a4dad8c170436c0800000000000000
+      internalID: -4164695936193443302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 39
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aacae36b99f762660800000000000000
+      internalID: 7360710939147938986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 44
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11269ebcee027dc90800000000000000
+      internalID: -7145206073804627439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_15
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 28
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b87a6ae29aeb4a0800000000000000
+      internalID: -6575632388084757693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 11
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0687e999c2212af0800000000000000
+      internalID: -423018640730257909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_17
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 35
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7c37a7843c210b0800000000000000
+      internalID: -5759326257393973307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 8
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da14d2ae1d96ef9b0800000000000000
+      internalID: -5044478182310461011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_19
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 14
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b87557469112150800000000000000
+      internalID: 5845981710559710078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_20
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90298fe5b1eab6be0800000000000000
+      internalID: -1482900219707747831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: painter3_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124771773d2157c10800000000000000
+      internalID: 2050565904782554145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      painter3_0: -2751760809395364629
+      painter3_1: -5013530939877749383
+      painter3_10: -4929589337878860069
+      painter3_11: -5871520387919379714
+      painter3_12: -4164695936193443302
+      painter3_13: 7360710939147938986
+      painter3_14: -7145206073804627439
+      painter3_15: -6575632388084757693
+      painter3_16: -423018640730257909
+      painter3_17: -5759326257393973307
+      painter3_18: -5044478182310461011
+      painter3_19: 5845981710559710078
+      painter3_2: 8613125120399541914
+      painter3_20: -1482900219707747831
+      painter3_21: 2050565904782554145
+      painter3_3: 968550514665958180
+      painter3_4: -7271525680570589775
+      painter3_5: 8637540329238842225
+      painter3_6: -4630445886894483490
+      painter3_7: -5474571733637524886
+      painter3_8: 4666453719798685999
+      painter3_9: 4689423307252319023
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

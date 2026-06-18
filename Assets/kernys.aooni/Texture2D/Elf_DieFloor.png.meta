@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 2e14fd74710b649ffb3ee07d70ad16b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8415618574345509603
+    second: Elf_DieFloor_0
+  - first:
+      213: 3359529619565972210
+    second: Elf_DieFloor_1
+  - first:
+      213: -2962687505087129125
+    second: Elf_DieFloor_2
+  - first:
+      213: 1208934277564337675
+    second: Elf_DieFloor_3
+  - first:
+      213: 6233940944227175811
+    second: Elf_DieFloor_4
+  - first:
+      213: -7850206815316167494
+    second: Elf_DieFloor_5
+  - first:
+      213: -5466418211225321483
+    second: Elf_DieFloor_6
+  - first:
+      213: 7777192597599184004
+    second: Elf_DieFloor_7
+  - first:
+      213: -5788929832506869100
+    second: Elf_DieFloor_8
+  - first:
+      213: -7500678626796347206
+    second: Elf_DieFloor_9
+  - first:
+      213: -303072454032637363
+    second: Elf_DieFloor_10
+  - first:
+      213: -4755653525169111961
+    second: Elf_DieFloor_11
+  - first:
+      213: 188379108444554604
+    second: Elf_DieFloor_12
+  - first:
+      213: -3818956190535124490
+    second: Elf_DieFloor_13
+  - first:
+      213: -3833292181194584285
+    second: Elf_DieFloor_14
+  - first:
+      213: 2007977777117163860
+    second: Elf_DieFloor_15
+  - first:
+      213: -6482231995094132246
+    second: Elf_DieFloor_16
+  - first:
+      213: -1924286108349747869
+    second: Elf_DieFloor_17
+  - first:
+      213: 5626666507662486043
+    second: Elf_DieFloor_18
+  - first:
+      213: 72214647191817740
+    second: Elf_DieFloor_19
+  - first:
+      213: -4594698904766799871
+    second: Elf_DieFloor_20
+  - first:
+      213: -5970253410320083699
+    second: Elf_DieFloor_21
+  - first:
+      213: 4324876405928966700
+    second: Elf_DieFloor_22
+  - first:
+      213: -5669643539392508401
+    second: Elf_DieFloor_23
+  - first:
+      213: -5070611737853969871
+    second: Elf_DieFloor_24
+  - first:
+      213: 2362305157602741254
+    second: Elf_DieFloor_25
+  - first:
+      213: 5525823293448299853
+    second: Elf_DieFloor_26
+  - first:
+      213: 1455411460802171226
+    second: Elf_DieFloor_27
+  - first:
+      213: -5582299213877073570
+    second: Elf_DieFloor_28
+  - first:
+      213: -2109010077869882887
+    second: Elf_DieFloor_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elf_DieFloor_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea1b0961884ac470800000000000000
+      internalID: 8415618574345509603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 44
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa02a2b3627f9e20800000000000000
+      internalID: 3359529619565972210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_2
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 35
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd91bce396b62e6d0800000000000000
+      internalID: -2962687505087129125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_3
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 36
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e040bf15ff6c010800000000000000
+      internalID: 1208934277564337675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_4
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 45
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d8c6b8248638650800000000000000
+      internalID: 6233940944227175811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 45
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4babf5e767e0390800000000000000
+      internalID: -7850206815316167494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 36
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff303669916324b0800000000000000
+      internalID: -5466418211225321483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_7
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 36
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48462b156732eeb60800000000000000
+      internalID: 7777192597599184004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 47
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a34c70df699afa0800000000000000
+      internalID: -5788929832506869100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 38
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0607b778c38e790800000000000000
+      internalID: -7500678626796347206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 39
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42cd2475354bcbf0800000000000000
+      internalID: -303072454032637363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 39
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76cf57db056800eb0800000000000000
+      internalID: -4755653525169111961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6541f11dc14d9200800000000000000
+      internalID: 188379108444554604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 29
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9ff521497500bc0800000000000000
+      internalID: -3818956190535124490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 14
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f4d9322196dcac0800000000000000
+      internalID: -3833292181194584285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 17
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45172f94625cddb10800000000000000
+      internalID: 2007977777117163860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 20
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae91eb4485c7a06a0800000000000000
+      internalID: -6482231995094132246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 13
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d2891daff8b45e0800000000000000
+      internalID: -1924286108349747869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 13
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1a6fca906fe51e40800000000000000
+      internalID: 5626666507662486043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_19
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 20
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ec279c6de800100800000000000000
+      internalID: 72214647191817740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100af7b90b95c30c0800000000000000
+      internalID: -4594698904766799871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_21
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d059ec2b726652da0800000000000000
+      internalID: -5970253410320083699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 13
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a3dd05d2c050c30800000000000000
+      internalID: 4324876405928966700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_23
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 18
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ecb6f6d316151b0800000000000000
+      internalID: -5669643539392508401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 13
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ab94b5d7191a9b0800000000000000
+      internalID: -5070611737853969871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_25
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 21
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c0cf9560898c020800000000000000
+      internalID: 2362305157602741254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 10
+        width: 45
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45a091220bafac40800000000000000
+      internalID: 5525823293448299853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_27
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 21
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5155233309a23410800000000000000
+      internalID: 1455411460802171226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_28
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e592ae6f070b782b0800000000000000
+      internalID: -5582299213877073570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_DieFloor_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 12
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1c8d8128a4bb2e0800000000000000
+      internalID: -2109010077869882887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elf_DieFloor_0: 8415618574345509603
+      Elf_DieFloor_1: 3359529619565972210
+      Elf_DieFloor_10: -303072454032637363
+      Elf_DieFloor_11: -4755653525169111961
+      Elf_DieFloor_12: 188379108444554604
+      Elf_DieFloor_13: -3818956190535124490
+      Elf_DieFloor_14: -3833292181194584285
+      Elf_DieFloor_15: 2007977777117163860
+      Elf_DieFloor_16: -6482231995094132246
+      Elf_DieFloor_17: -1924286108349747869
+      Elf_DieFloor_18: 5626666507662486043
+      Elf_DieFloor_19: 72214647191817740
+      Elf_DieFloor_2: -2962687505087129125
+      Elf_DieFloor_20: -4594698904766799871
+      Elf_DieFloor_21: -5970253410320083699
+      Elf_DieFloor_22: 4324876405928966700
+      Elf_DieFloor_23: -5669643539392508401
+      Elf_DieFloor_24: -5070611737853969871
+      Elf_DieFloor_25: 2362305157602741254
+      Elf_DieFloor_26: 5525823293448299853
+      Elf_DieFloor_27: 1455411460802171226
+      Elf_DieFloor_28: -5582299213877073570
+      Elf_DieFloor_29: -2109010077869882887
+      Elf_DieFloor_3: 1208934277564337675
+      Elf_DieFloor_4: 6233940944227175811
+      Elf_DieFloor_5: -7850206815316167494
+      Elf_DieFloor_6: -5466418211225321483
+      Elf_DieFloor_7: 7777192597599184004
+      Elf_DieFloor_8: -5788929832506869100
+      Elf_DieFloor_9: -7500678626796347206
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

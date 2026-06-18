@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: c2397bef6b9e14df5bf221ac6ececba8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5837313145992683679
+    second: SS_Ep1_h_studenteatfront_0
+  - first:
+      213: -8615251866858747626
+    second: SS_Ep1_h_studenteatfront_1
+  - first:
+      213: 6144414030434443895
+    second: SS_Ep1_h_studenteatfront_2
+  - first:
+      213: 1621959017821825660
+    second: SS_Ep1_h_studenteatfront_3
+  - first:
+      213: -5059770621346548560
+    second: SS_Ep1_h_studenteatfront_4
+  - first:
+      213: 4394425595189747094
+    second: SS_Ep1_h_studenteatfront_5
+  - first:
+      213: -1567480706132310341
+    second: SS_Ep1_h_studenteatfront_6
+  - first:
+      213: 3329996033027586233
+    second: SS_Ep1_h_studenteatfront_7
+  - first:
+      213: -8684740081344528691
+    second: SS_Ep1_h_studenteatfront_8
+  - first:
+      213: 7554505429264343753
+    second: SS_Ep1_h_studenteatfront_9
+  - first:
+      213: -1698853830817237061
+    second: SS_Ep1_h_studenteatfront_10
+  - first:
+      213: -5314751058111623856
+    second: SS_Ep1_h_studenteatfront_11
+  - first:
+      213: -5387813664053526346
+    second: SS_Ep1_h_studenteatfront_12
+  - first:
+      213: 8928293863303007326
+    second: SS_Ep1_h_studenteatfront_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f53620f92bdfea0800000000000000
+      internalID: -5837313145992683679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 48
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6190d59921a707880800000000000000
+      internalID: -8615251866858747626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 48
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772a8f49108554550800000000000000
+      internalID: 6144414030434443895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 48
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ae289122b528610800000000000000
+      internalID: 1621959017821825660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_4
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b47ead7d6518c9b0800000000000000
+      internalID: -5059770621346548560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_5
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 48
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d5b21dbc22cfc30800000000000000
+      internalID: 4394425595189747094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 48
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb684b64a903f3ae0800000000000000
+      internalID: -1567480706132310341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_7
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 48
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8b11cbfb5863e20800000000000000
+      internalID: 3329996033027586233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcebcd4e8ea997780800000000000000
+      internalID: -8684740081344528691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_9
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2af0599aef6d860800000000000000
+      internalID: 7554505429264343753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7b3d811757c68e0800000000000000
+      internalID: -1698853830817237061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 0
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d00a742163e36b0800000000000000
+      internalID: -5314751058111623856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b00816b404aa35b0800000000000000
+      internalID: -5387813664053526346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_studenteatfront_13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cc97ce6fba7eb70800000000000000
+      internalID: 8928293863303007326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep1_h_studenteatfront_0: -5837313145992683679
+      SS_Ep1_h_studenteatfront_1: -8615251866858747626
+      SS_Ep1_h_studenteatfront_10: -1698853830817237061
+      SS_Ep1_h_studenteatfront_11: -5314751058111623856
+      SS_Ep1_h_studenteatfront_12: -5387813664053526346
+      SS_Ep1_h_studenteatfront_13: 8928293863303007326
+      SS_Ep1_h_studenteatfront_2: 6144414030434443895
+      SS_Ep1_h_studenteatfront_3: 1621959017821825660
+      SS_Ep1_h_studenteatfront_4: -5059770621346548560
+      SS_Ep1_h_studenteatfront_5: 4394425595189747094
+      SS_Ep1_h_studenteatfront_6: -1567480706132310341
+      SS_Ep1_h_studenteatfront_7: 3329996033027586233
+      SS_Ep1_h_studenteatfront_8: -8684740081344528691
+      SS_Ep1_h_studenteatfront_9: 7554505429264343753
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

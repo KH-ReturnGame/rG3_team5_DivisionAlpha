@@ -1,0 +1,3003 @@
+fileFormatVersion: 2
+guid: cf83110bc6a0b447492a187188d826eb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6102262537971864553
+    second: InfEvo_Minigame_General_Connecting_0
+  - first:
+      213: 2147888769758218286
+    second: InfEvo_Minigame_General_Connecting_1
+  - first:
+      213: 2536081153081259033
+    second: InfEvo_Minigame_General_Connecting_2
+  - first:
+      213: 5257284202594489565
+    second: InfEvo_Minigame_General_Connecting_3
+  - first:
+      213: -2998914205584629558
+    second: InfEvo_Minigame_General_Connecting_4
+  - first:
+      213: -69782816946362470
+    second: InfEvo_Minigame_General_Connecting_5
+  - first:
+      213: -8806662856053004141
+    second: InfEvo_Minigame_General_Connecting_6
+  - first:
+      213: 3699767512869649692
+    second: InfEvo_Minigame_General_Connecting_7
+  - first:
+      213: 3654298620926458255
+    second: InfEvo_Minigame_General_Connecting_8
+  - first:
+      213: 5309118235976623177
+    second: InfEvo_Minigame_General_Connecting_9
+  - first:
+      213: 8141554979876929432
+    second: InfEvo_Minigame_General_Connecting_10
+  - first:
+      213: 2400253979593913877
+    second: InfEvo_Minigame_General_Connecting_11
+  - first:
+      213: 5619368404096949119
+    second: InfEvo_Minigame_General_Connecting_12
+  - first:
+      213: 1450977728233385627
+    second: InfEvo_Minigame_General_Connecting_13
+  - first:
+      213: -5052596225411051412
+    second: InfEvo_Minigame_General_Connecting_14
+  - first:
+      213: 3786983261184420118
+    second: InfEvo_Minigame_General_Connecting_15
+  - first:
+      213: -2501924736059126954
+    second: InfEvo_Minigame_General_Connecting_16
+  - first:
+      213: 2062593085302873469
+    second: InfEvo_Minigame_General_Connecting_17
+  - first:
+      213: 7315238197470361771
+    second: InfEvo_Minigame_General_Connecting_18
+  - first:
+      213: 4509354154723243581
+    second: InfEvo_Minigame_General_Connecting_19
+  - first:
+      213: -8876357853089190471
+    second: InfEvo_Minigame_General_Connecting_20
+  - first:
+      213: 4720512775172096142
+    second: InfEvo_Minigame_General_Connecting_21
+  - first:
+      213: 8590078473081312180
+    second: InfEvo_Minigame_General_Connecting_22
+  - first:
+      213: 6810310201398681478
+    second: InfEvo_Minigame_General_Connecting_23
+  - first:
+      213: -3714262249888040797
+    second: InfEvo_Minigame_General_Connecting_24
+  - first:
+      213: -4293132375690001856
+    second: InfEvo_Minigame_General_Connecting_25
+  - first:
+      213: 4948001103377755619
+    second: InfEvo_Minigame_General_Connecting_26
+  - first:
+      213: -6648306999410322287
+    second: InfEvo_Minigame_General_Connecting_27
+  - first:
+      213: 6580207535706460261
+    second: InfEvo_Minigame_General_Connecting_28
+  - first:
+      213: 3253601223788788911
+    second: InfEvo_Minigame_General_Connecting_29
+  - first:
+      213: 4910453141544207129
+    second: InfEvo_Minigame_General_Connecting_30
+  - first:
+      213: -1723801439473897033
+    second: InfEvo_Minigame_General_Connecting_31
+  - first:
+      213: -1478476622856166804
+    second: InfEvo_Minigame_General_Connecting_32
+  - first:
+      213: 218765988697711613
+    second: InfEvo_Minigame_General_Connecting_33
+  - first:
+      213: 4130463777077034741
+    second: InfEvo_Minigame_General_Connecting_34
+  - first:
+      213: 2792962363545910261
+    second: InfEvo_Minigame_General_Connecting_35
+  - first:
+      213: 4808308485100743963
+    second: InfEvo_Minigame_General_Connecting_36
+  - first:
+      213: -6150446719565611354
+    second: InfEvo_Minigame_General_Connecting_37
+  - first:
+      213: -7356356391030583884
+    second: InfEvo_Minigame_General_Connecting_38
+  - first:
+      213: 5839453818439309278
+    second: InfEvo_Minigame_General_Connecting_39
+  - first:
+      213: 7344232901405852861
+    second: InfEvo_Minigame_General_Connecting_40
+  - first:
+      213: -5329934352579212746
+    second: InfEvo_Minigame_General_Connecting_41
+  - first:
+      213: 435136160593157647
+    second: InfEvo_Minigame_General_Connecting_42
+  - first:
+      213: -4399281722209542428
+    second: InfEvo_Minigame_General_Connecting_43
+  - first:
+      213: 8532569714058580593
+    second: InfEvo_Minigame_General_Connecting_44
+  - first:
+      213: -8397865671332782249
+    second: InfEvo_Minigame_General_Connecting_45
+  - first:
+      213: -6038946755772729053
+    second: InfEvo_Minigame_General_Connecting_46
+  - first:
+      213: -1103023240014070991
+    second: InfEvo_Minigame_General_Connecting_47
+  - first:
+      213: 4265097410934251149
+    second: InfEvo_Minigame_General_Connecting_48
+  - first:
+      213: -6103853917032023967
+    second: InfEvo_Minigame_General_Connecting_49
+  - first:
+      213: -6615311528198430613
+    second: InfEvo_Minigame_General_Connecting_50
+  - first:
+      213: -2475749599502274102
+    second: InfEvo_Minigame_General_Connecting_51
+  - first:
+      213: 5377799005912685525
+    second: InfEvo_Minigame_General_Connecting_52
+  - first:
+      213: -8406409739051269434
+    second: InfEvo_Minigame_General_Connecting_53
+  - first:
+      213: -1496000751674628134
+    second: InfEvo_Minigame_General_Connecting_54
+  - first:
+      213: -3216050383958080006
+    second: InfEvo_Minigame_General_Connecting_55
+  - first:
+      213: -3769679915353862615
+    second: InfEvo_Minigame_General_Connecting_56
+  - first:
+      213: 7621764084601457267
+    second: InfEvo_Minigame_General_Connecting_57
+  - first:
+      213: 6143909410003897567
+    second: InfEvo_Minigame_General_Connecting_58
+  - first:
+      213: -2272088526300878419
+    second: InfEvo_Minigame_General_Connecting_59
+  - first:
+      213: -7616078572293900047
+    second: InfEvo_Minigame_General_Connecting_60
+  - first:
+      213: -2837307397635447494
+    second: InfEvo_Minigame_General_Connecting_61
+  - first:
+      213: -9019313071692811202
+    second: InfEvo_Minigame_General_Connecting_62
+  - first:
+      213: 1454382714227414429
+    second: InfEvo_Minigame_General_Connecting_63
+  - first:
+      213: 4590405740897962100
+    second: InfEvo_Minigame_General_Connecting_64
+  - first:
+      213: 7997258848201837766
+    second: InfEvo_Minigame_General_Connecting_65
+  - first:
+      213: 3074385267122316090
+    second: InfEvo_Minigame_General_Connecting_66
+  - first:
+      213: -8765567450983762085
+    second: InfEvo_Minigame_General_Connecting_67
+  - first:
+      213: -2801140575927374454
+    second: InfEvo_Minigame_General_Connecting_68
+  - first:
+      213: -8205962880684729644
+    second: InfEvo_Minigame_General_Connecting_69
+  - first:
+      213: -1964141162923637744
+    second: InfEvo_Minigame_General_Connecting_70
+  - first:
+      213: 4543344459245162583
+    second: InfEvo_Minigame_General_Connecting_71
+  - first:
+      213: -214697596572174184
+    second: InfEvo_Minigame_General_Connecting_72
+  - first:
+      213: 495204629278733519
+    second: InfEvo_Minigame_General_Connecting_73
+  - first:
+      213: -2566938980564605002
+    second: InfEvo_Minigame_General_Connecting_74
+  - first:
+      213: 7483998176096248552
+    second: InfEvo_Minigame_General_Connecting_75
+  - first:
+      213: -9140550099107139
+    second: InfEvo_Minigame_General_Connecting_76
+  - first:
+      213: 3277353847071743618
+    second: InfEvo_Minigame_General_Connecting_77
+  - first:
+      213: 8452082108608957852
+    second: InfEvo_Minigame_General_Connecting_78
+  - first:
+      213: 1486425930365620505
+    second: InfEvo_Minigame_General_Connecting_79
+  - first:
+      213: -4297548228353558129
+    second: InfEvo_Minigame_General_Connecting_80
+  - first:
+      213: 580215278047577748
+    second: InfEvo_Minigame_General_Connecting_81
+  - first:
+      213: 7888586586138824322
+    second: InfEvo_Minigame_General_Connecting_82
+  - first:
+      213: -8422787896460876043
+    second: InfEvo_Minigame_General_Connecting_83
+  - first:
+      213: 4785816589740302429
+    second: InfEvo_Minigame_General_Connecting_84
+  - first:
+      213: -4777747845353367492
+    second: InfEvo_Minigame_General_Connecting_85
+  - first:
+      213: 7288945779584453470
+    second: InfEvo_Minigame_General_Connecting_86
+  - first:
+      213: -1353023262857505361
+    second: InfEvo_Minigame_General_Connecting_87
+  - first:
+      213: 7470170859406321075
+    second: InfEvo_Minigame_General_Connecting_88
+  - first:
+      213: -2320361820595962783
+    second: InfEvo_Minigame_General_Connecting_89
+  - first:
+      213: -4653664995626285331
+    second: InfEvo_Minigame_General_Connecting_90
+  - first:
+      213: -2560092494120615215
+    second: InfEvo_Minigame_General_Connecting_91
+  - first:
+      213: -7048456743641969075
+    second: InfEvo_Minigame_General_Connecting_92
+  - first:
+      213: 8988046737780575090
+    second: InfEvo_Minigame_General_Connecting_93
+  - first:
+      213: -6165796015387032467
+    second: InfEvo_Minigame_General_Connecting_94
+  - first:
+      213: -2631449502719193775
+    second: InfEvo_Minigame_General_Connecting_95
+  - first:
+      213: 1821024240460165607
+    second: InfEvo_Minigame_General_Connecting_96
+  - first:
+      213: -1482258869188397831
+    second: InfEvo_Minigame_General_Connecting_97
+  - first:
+      213: 8286333355606939113
+    second: InfEvo_Minigame_General_Connecting_98
+  - first:
+      213: 2353625737262889910
+    second: InfEvo_Minigame_General_Connecting_99
+  - first:
+      213: 2646744628219476110
+    second: InfEvo_Minigame_General_Connecting_100
+  - first:
+      213: 3096815877369495319
+    second: InfEvo_Minigame_General_Connecting_101
+  - first:
+      213: 9156174050268464778
+    second: InfEvo_Minigame_General_Connecting_102
+  - first:
+      213: -1343837686807621992
+    second: InfEvo_Minigame_General_Connecting_103
+  - first:
+      213: 1720640943962020475
+    second: InfEvo_Minigame_General_Connecting_104
+  - first:
+      213: -3442737032628046624
+    second: InfEvo_Minigame_General_Connecting_105
+  - first:
+      213: 1469423779263827414
+    second: InfEvo_Minigame_General_Connecting_106
+  - first:
+      213: 304352862374440915
+    second: InfEvo_Minigame_General_Connecting_107
+  - first:
+      213: -7487968889584833485
+    second: InfEvo_Minigame_General_Connecting_108
+  - first:
+      213: 8290333292795103323
+    second: InfEvo_Minigame_General_Connecting_109
+  - first:
+      213: 4760226282989551774
+    second: InfEvo_Minigame_General_Connecting_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_0
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 194
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e39cf572779fa450800000000000000
+      internalID: 6102262537971864553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 215
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e284d72c475decd10800000000000000
+      internalID: 2147888769758218286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 169
+        width: 110
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 914b8fa3f58f13320800000000000000
+      internalID: 2536081153081259033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 183
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4dae2c020a5f840800000000000000
+      internalID: 5257284202594489565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 183
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac061404b67b166d0800000000000000
+      internalID: -2998914205584629558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 169
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a976c70d5e4180ff0800000000000000
+      internalID: -69782816946362470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 161
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3986558cac278c580800000000000000
+      internalID: -8806662856053004141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_7
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d302463f6385330800000000000000
+      internalID: 3699767512869649692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_8
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 161
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8975830c3da6b230800000000000000
+      internalID: 3654298620926458255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9446fed18e6cda940800000000000000
+      internalID: 5309118235976623177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 145
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f70ee4e1d9cf070800000000000000
+      internalID: 8141554979876929432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_11
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 145
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516b960074a6f4120800000000000000
+      internalID: 2400253979593913877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 145
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b90447ac10cfd40800000000000000
+      internalID: 5619368404096949119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 145
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eaa546e88e22410800000000000000
+      internalID: 1450977728233385627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 161
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6015e6b08291e9b0800000000000000
+      internalID: -5052596225411051412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_15
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6196f3536311e8430800000000000000
+      internalID: 3786983261184420118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_16
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 161
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65bce6455b0674dd0800000000000000
+      internalID: -2501924736059126954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_17
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d97a5ab7dcf9c10800000000000000
+      internalID: 2062593085302873469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_18
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 145
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8f69ff162f48560800000000000000
+      internalID: 7315238197470361771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_19
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 161
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d36f5be46b1749e30800000000000000
+      internalID: 4509354154723243581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_20
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 145
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bdae53cf87d0d480800000000000000
+      internalID: -8876357853089190471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 145
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8083d1db51a28140800000000000000
+      internalID: 4720512775172096142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_22
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 145
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3ddbcebd6163770800000000000000
+      internalID: 8590078473081312180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_23
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 161
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f569cab05138e50800000000000000
+      internalID: 6810310201398681478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 145
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8b7c8a92a447cc0800000000000000
+      internalID: -3714262249888040797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 126
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042c44da9dabb64c0800000000000000
+      internalID: -4293132375690001856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 126
+        width: 63
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed6213b9c4daa440800000000000000
+      internalID: 4948001103377755619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 129
+        width: 51
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194976e12087cb3a0800000000000000
+      internalID: -6648306999410322287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 123
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560d12ae3e7915b50800000000000000
+      internalID: 6580207535706460261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 126
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facf4b0231d172d20800000000000000
+      internalID: 3253601223788788911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91381f39d1f652440800000000000000
+      internalID: 4910453141544207129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_31
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b1f9d059b3d318e0800000000000000
+      internalID: -1723801439473897033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 111
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6260f548556b7be0800000000000000
+      internalID: -1478476622856166804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_33
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3a345f186390300800000000000000
+      internalID: 218765988697711613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 111
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe7b4ecbea525930800000000000000
+      internalID: 4130463777077034741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_35
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb703ec87892c620800000000000000
+      internalID: 2792962363545910261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_36
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d2de8771b8ab240800000000000000
+      internalID: 4808308485100743963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_37
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae33568b4935aaa0800000000000000
+      internalID: -6150446719565611354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_38
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 111
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd827786d8f8e990800000000000000
+      internalID: -7356356391030583884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed79f522f48e90150800000000000000
+      internalID: 5839453818439309278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_40
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 111
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4480499e4fbe560800000000000000
+      internalID: 7344232901405852861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_41
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a4d5e02f44806b0800000000000000
+      internalID: -5329934352579212746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 111
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e1519580ae90600800000000000000
+      internalID: 435136160593157647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_43
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 104
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eed4d0059c92f2c0800000000000000
+      internalID: -4399281722209542428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 111
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172d7bb82f6c96670800000000000000
+      internalID: 8532569714058580593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_45
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f13cc6aa9c47b80800000000000000
+      internalID: -8397865671332782249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 111
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3293bacdbe9513ca0800000000000000
+      internalID: -6038946755772729053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 111
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13bf5ff053641b0f0800000000000000
+      internalID: -1103023240014070991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_48
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e9c2f6f7ba03b30800000000000000
+      internalID: 4265097410934251149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168fd6ab331ca4ba0800000000000000
+      internalID: -6103853917032023967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_50
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60af2be631b134a0800000000000000
+      internalID: -6615311528198430613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_51
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1f9d83bde54add0800000000000000
+      internalID: -2475749599502274102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_52
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 111
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbdfdcf3b7c1aa40800000000000000
+      internalID: 5377799005912685525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_53
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c20773a1ee665b80800000000000000
+      internalID: -8406409739051269434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 111
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad767b41e332d3be0800000000000000
+      internalID: -1496000751674628134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_55
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 111
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af58b64173b4e53d0800000000000000
+      internalID: -3216050383958080006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 90
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e8860f6186fabc0800000000000000
+      internalID: -3769679915353862615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_57
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 83
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a00889d02f5c960800000000000000
+      internalID: 7621764084601457267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_58
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 58
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc467b7e0d834550800000000000000
+      internalID: 6143909410003897567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_59
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 71
+        width: 108
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9689bf58be770e0800000000000000
+      internalID: -2272088526300878419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_60
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 72
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f835f4e3e04e4690800000000000000
+      internalID: -7616078572293900047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_61
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 72
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35e95d54fbdf98d0800000000000000
+      internalID: -2837307397635447494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_62
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 67
+        width: 68
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3476b33c86f4d280800000000000000
+      internalID: -9019313071692811202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_63
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 44
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d955ef87f510f2410800000000000000
+      internalID: 1454382714227414429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_64
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 50
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478032943b564bf30800000000000000
+      internalID: 4590405740897962100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_65
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 50
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc8be71d88fbfe60800000000000000
+      internalID: 7997258848201837766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_66
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 49
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3325859c196aaa20800000000000000
+      internalID: 3074385267122316090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_67
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 34
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57f26568d27a5680800000000000000
+      internalID: -8765567450983762085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 49
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d6aedbc795029d0800000000000000
+      internalID: -2801140575927374454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_69
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 49
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dadeb0bc309e1e80800000000000000
+      internalID: -8205962880684729644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_70
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 50
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014c63fc408fdb4e0800000000000000
+      internalID: -1964141162923637744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_71
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7501c89c6b33d0f30800000000000000
+      internalID: 4543344459245162583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_72
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 57
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8987f266cad350df0800000000000000
+      internalID: -214697596572174184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_73
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 34
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4b9439cf15fd600800000000000000
+      internalID: 495204629278733519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_74
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 49
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7e75fe896606cd0800000000000000
+      internalID: -2566938980564605002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_75
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 49
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e263e170b08cd760800000000000000
+      internalID: 7483998176096248552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_76
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 58
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db28a46d7b68fdff0800000000000000
+      internalID: -9140550099107139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_77
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e98f1b5ff7b7d20800000000000000
+      internalID: 3277353847071743618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_78
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 34
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d421095e3db4570800000000000000
+      internalID: 8452082108608957852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_79
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 34
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9115f5c1288d0a410800000000000000
+      internalID: 1486425930365620505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_80
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8970ebd7aa0c54c0800000000000000
+      internalID: -4297548228353558129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_81
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 34
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496c745a8b65d0800800000000000000
+      internalID: 580215278047577748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_82
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e47be54b3e97d60800000000000000
+      internalID: 7888586586138824322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_83
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 34
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f66df4b80f3c1b80800000000000000
+      internalID: -8422787896460876043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_84
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 34
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5064aff4d2aa6240800000000000000
+      internalID: 4785816589740302429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_85
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 34
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c381353f5a702bdb0800000000000000
+      internalID: -4777747845353367492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_86
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 34
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5bc63b6199872560800000000000000
+      internalID: 7288945779584453470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_87
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 44
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5d984d288193de0800000000000000
+      internalID: -1353023262857505361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_88
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5636661d06ba760800000000000000
+      internalID: 7470170859406321075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 23
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16cbffcc73b6ccfd0800000000000000
+      internalID: -2320361820595962783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_90
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 23
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de68608b75cda6fb0800000000000000
+      internalID: -4653664995626285331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_91
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 15
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d20cc7c079b87cd0800000000000000
+      internalID: -2560092494120615215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_92
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 15
+        width: 65
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e838c9fe9de2e90800000000000000
+      internalID: -7048456743641969075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_93
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 12
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b050623e4fbbc70800000000000000
+      internalID: 8988046737780575090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_94
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 15
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6446591131be6aa0800000000000000
+      internalID: -6165796015387032467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_95
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d4b0a8e963b7bd0800000000000000
+      internalID: -2631449502719193775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_96
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1f00406e3954910800000000000000
+      internalID: 1821024240460165607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_97
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f47adc6965fd6be0800000000000000
+      internalID: -1482258869188397831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_98
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e51c67b848fef270800000000000000
+      internalID: 8286333355606939113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_99
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb75c35322c9a020800000000000000
+      internalID: 2353625737262889910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_100
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88f13067302bb420800000000000000
+      internalID: 2646744628219476110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_101
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ff56102a91afa20800000000000000
+      internalID: 3096815877369495319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_102
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86c6e789c3411f70800000000000000
+      internalID: 9156174050268464778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_103
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 0
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e8c0a6ebab95de0800000000000000
+      internalID: -1343837686807621992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_104
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a59da72d1f0e710800000000000000
+      internalID: 1720640943962020475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_105
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 0
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e47f13c8e0f830d0800000000000000
+      internalID: -3442737032628046624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_106
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd48835421746410800000000000000
+      internalID: 1469423779263827414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_107
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 0
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfa338d057493400800000000000000
+      internalID: 304352862374440915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_108
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cae17c7f3651890800000000000000
+      internalID: -7487968889584833485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_109
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5885aaa43e2d0370800000000000000
+      internalID: 8290333292795103323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Minigame_General_Connecting_110
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9002186598bf0240800000000000000
+      internalID: 4760226282989551774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InfEvo_Minigame_General_Connecting_0: 6102262537971864553
+      InfEvo_Minigame_General_Connecting_1: 2147888769758218286
+      InfEvo_Minigame_General_Connecting_10: 8141554979876929432
+      InfEvo_Minigame_General_Connecting_100: 2646744628219476110
+      InfEvo_Minigame_General_Connecting_101: 3096815877369495319
+      InfEvo_Minigame_General_Connecting_102: 9156174050268464778
+      InfEvo_Minigame_General_Connecting_103: -1343837686807621992
+      InfEvo_Minigame_General_Connecting_104: 1720640943962020475
+      InfEvo_Minigame_General_Connecting_105: -3442737032628046624
+      InfEvo_Minigame_General_Connecting_106: 1469423779263827414
+      InfEvo_Minigame_General_Connecting_107: 304352862374440915
+      InfEvo_Minigame_General_Connecting_108: -7487968889584833485
+      InfEvo_Minigame_General_Connecting_109: 8290333292795103323
+      InfEvo_Minigame_General_Connecting_11: 2400253979593913877
+      InfEvo_Minigame_General_Connecting_110: 4760226282989551774
+      InfEvo_Minigame_General_Connecting_12: 5619368404096949119
+      InfEvo_Minigame_General_Connecting_13: 1450977728233385627
+      InfEvo_Minigame_General_Connecting_14: -5052596225411051412
+      InfEvo_Minigame_General_Connecting_15: 3786983261184420118
+      InfEvo_Minigame_General_Connecting_16: -2501924736059126954
+      InfEvo_Minigame_General_Connecting_17: 2062593085302873469
+      InfEvo_Minigame_General_Connecting_18: 7315238197470361771
+      InfEvo_Minigame_General_Connecting_19: 4509354154723243581
+      InfEvo_Minigame_General_Connecting_2: 2536081153081259033
+      InfEvo_Minigame_General_Connecting_20: -8876357853089190471
+      InfEvo_Minigame_General_Connecting_21: 4720512775172096142
+      InfEvo_Minigame_General_Connecting_22: 8590078473081312180
+      InfEvo_Minigame_General_Connecting_23: 6810310201398681478
+      InfEvo_Minigame_General_Connecting_24: -3714262249888040797
+      InfEvo_Minigame_General_Connecting_25: -4293132375690001856
+      InfEvo_Minigame_General_Connecting_26: 4948001103377755619
+      InfEvo_Minigame_General_Connecting_27: -6648306999410322287
+      InfEvo_Minigame_General_Connecting_28: 6580207535706460261
+      InfEvo_Minigame_General_Connecting_29: 3253601223788788911
+      InfEvo_Minigame_General_Connecting_3: 5257284202594489565
+      InfEvo_Minigame_General_Connecting_30: 4910453141544207129
+      InfEvo_Minigame_General_Connecting_31: -1723801439473897033
+      InfEvo_Minigame_General_Connecting_32: -1478476622856166804
+      InfEvo_Minigame_General_Connecting_33: 218765988697711613
+      InfEvo_Minigame_General_Connecting_34: 4130463777077034741
+      InfEvo_Minigame_General_Connecting_35: 2792962363545910261
+      InfEvo_Minigame_General_Connecting_36: 4808308485100743963
+      InfEvo_Minigame_General_Connecting_37: -6150446719565611354
+      InfEvo_Minigame_General_Connecting_38: -7356356391030583884
+      InfEvo_Minigame_General_Connecting_39: 5839453818439309278
+      InfEvo_Minigame_General_Connecting_4: -2998914205584629558
+      InfEvo_Minigame_General_Connecting_40: 7344232901405852861
+      InfEvo_Minigame_General_Connecting_41: -5329934352579212746
+      InfEvo_Minigame_General_Connecting_42: 435136160593157647
+      InfEvo_Minigame_General_Connecting_43: -4399281722209542428
+      InfEvo_Minigame_General_Connecting_44: 8532569714058580593
+      InfEvo_Minigame_General_Connecting_45: -8397865671332782249
+      InfEvo_Minigame_General_Connecting_46: -6038946755772729053
+      InfEvo_Minigame_General_Connecting_47: -1103023240014070991
+      InfEvo_Minigame_General_Connecting_48: 4265097410934251149
+      InfEvo_Minigame_General_Connecting_49: -6103853917032023967
+      InfEvo_Minigame_General_Connecting_5: -69782816946362470
+      InfEvo_Minigame_General_Connecting_50: -6615311528198430613
+      InfEvo_Minigame_General_Connecting_51: -2475749599502274102
+      InfEvo_Minigame_General_Connecting_52: 5377799005912685525
+      InfEvo_Minigame_General_Connecting_53: -8406409739051269434
+      InfEvo_Minigame_General_Connecting_54: -1496000751674628134
+      InfEvo_Minigame_General_Connecting_55: -3216050383958080006
+      InfEvo_Minigame_General_Connecting_56: -3769679915353862615
+      InfEvo_Minigame_General_Connecting_57: 7621764084601457267
+      InfEvo_Minigame_General_Connecting_58: 6143909410003897567
+      InfEvo_Minigame_General_Connecting_59: -2272088526300878419
+      InfEvo_Minigame_General_Connecting_6: -8806662856053004141
+      InfEvo_Minigame_General_Connecting_60: -7616078572293900047
+      InfEvo_Minigame_General_Connecting_61: -2837307397635447494
+      InfEvo_Minigame_General_Connecting_62: -9019313071692811202
+      InfEvo_Minigame_General_Connecting_63: 1454382714227414429
+      InfEvo_Minigame_General_Connecting_64: 4590405740897962100
+      InfEvo_Minigame_General_Connecting_65: 7997258848201837766
+      InfEvo_Minigame_General_Connecting_66: 3074385267122316090
+      InfEvo_Minigame_General_Connecting_67: -8765567450983762085
+      InfEvo_Minigame_General_Connecting_68: -2801140575927374454
+      InfEvo_Minigame_General_Connecting_69: -8205962880684729644
+      InfEvo_Minigame_General_Connecting_7: 3699767512869649692
+      InfEvo_Minigame_General_Connecting_70: -1964141162923637744
+      InfEvo_Minigame_General_Connecting_71: 4543344459245162583
+      InfEvo_Minigame_General_Connecting_72: -214697596572174184
+      InfEvo_Minigame_General_Connecting_73: 495204629278733519
+      InfEvo_Minigame_General_Connecting_74: -2566938980564605002
+      InfEvo_Minigame_General_Connecting_75: 7483998176096248552
+      InfEvo_Minigame_General_Connecting_76: -9140550099107139
+      InfEvo_Minigame_General_Connecting_77: 3277353847071743618
+      InfEvo_Minigame_General_Connecting_78: 8452082108608957852
+      InfEvo_Minigame_General_Connecting_79: 1486425930365620505
+      InfEvo_Minigame_General_Connecting_8: 3654298620926458255
+      InfEvo_Minigame_General_Connecting_80: -4297548228353558129
+      InfEvo_Minigame_General_Connecting_81: 580215278047577748
+      InfEvo_Minigame_General_Connecting_82: 7888586586138824322
+      InfEvo_Minigame_General_Connecting_83: -8422787896460876043
+      InfEvo_Minigame_General_Connecting_84: 4785816589740302429
+      InfEvo_Minigame_General_Connecting_85: -4777747845353367492
+      InfEvo_Minigame_General_Connecting_86: 7288945779584453470
+      InfEvo_Minigame_General_Connecting_87: -1353023262857505361
+      InfEvo_Minigame_General_Connecting_88: 7470170859406321075
+      InfEvo_Minigame_General_Connecting_89: -2320361820595962783
+      InfEvo_Minigame_General_Connecting_9: 5309118235976623177
+      InfEvo_Minigame_General_Connecting_90: -4653664995626285331
+      InfEvo_Minigame_General_Connecting_91: -2560092494120615215
+      InfEvo_Minigame_General_Connecting_92: -7048456743641969075
+      InfEvo_Minigame_General_Connecting_93: 8988046737780575090
+      InfEvo_Minigame_General_Connecting_94: -6165796015387032467
+      InfEvo_Minigame_General_Connecting_95: -2631449502719193775
+      InfEvo_Minigame_General_Connecting_96: 1821024240460165607
+      InfEvo_Minigame_General_Connecting_97: -1482258869188397831
+      InfEvo_Minigame_General_Connecting_98: 8286333355606939113
+      InfEvo_Minigame_General_Connecting_99: 2353625737262889910
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

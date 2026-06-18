@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 6bf1e7cb756214ee5b113810d7082c05
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8658996238218125122
+    second: InfEvo_Claw3_Vfx_0
+  - first:
+      213: -8257065438790490508
+    second: InfEvo_Claw3_Vfx_1
+  - first:
+      213: 6637260857020081777
+    second: InfEvo_Claw3_Vfx_2
+  - first:
+      213: 2184140821932595642
+    second: InfEvo_Claw3_Vfx_3
+  - first:
+      213: -3620071532862831799
+    second: InfEvo_Claw3_Vfx_4
+  - first:
+      213: -2626668292141762685
+    second: InfEvo_Claw3_Vfx_5
+  - first:
+      213: 6428981966084295771
+    second: InfEvo_Claw3_Vfx_6
+  - first:
+      213: 7419543466389450542
+    second: InfEvo_Claw3_Vfx_7
+  - first:
+      213: 378037750329827402
+    second: InfEvo_Claw3_Vfx_8
+  - first:
+      213: 341624106921214112
+    second: InfEvo_Claw3_Vfx_9
+  - first:
+      213: 7552289516316149082
+    second: InfEvo_Claw3_Vfx_10
+  - first:
+      213: 5486741652309865509
+    second: InfEvo_Claw3_Vfx_11
+  - first:
+      213: 11930937267348874
+    second: InfEvo_Claw3_Vfx_12
+  - first:
+      213: -5224252564917955027
+    second: InfEvo_Claw3_Vfx_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 218
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0a0957cc015d780800000000000000
+      internalID: -8658996238218125122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 183
+        width: 81
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476ecb13bb2096d80800000000000000
+      internalID: -8257065438790490508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 94
+        width: 71
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176694075994c1c50800000000000000
+      internalID: 6637260857020081777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 171
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9d8b66180af4e10800000000000000
+      internalID: 2184140821932595642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_4
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 133
+        width: 7
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943053eee1ce2cdc0800000000000000
+      internalID: -3620071532862831799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 104
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387bb10ea133c8bd0800000000000000
+      internalID: -2626668292141762685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 95
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5cc8d33905583950800000000000000
+      internalID: 6428981966084295771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 100
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2fa6b5e87387f660800000000000000
+      internalID: 7419543466389450542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_8
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 113
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40e81cb45f0f3500800000000000000
+      internalID: 378037750329827402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_9
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 94
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0cfb3b051bdb400800000000000000
+      internalID: 341624106921214112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a554ee42d4f1fc860800000000000000
+      internalID: 7552289516316149082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 36
+        width: 20
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 524f4487672d42c40800000000000000
+      internalID: 5486741652309865509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 52
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8568adcf136a2000800000000000000
+      internalID: 11930937267348874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Claw3_Vfx_13
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d265423b8f9bf77b0800000000000000
+      internalID: -5224252564917955027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InfEvo_Claw3_Vfx_0: -8658996238218125122
+      InfEvo_Claw3_Vfx_1: -8257065438790490508
+      InfEvo_Claw3_Vfx_10: 7552289516316149082
+      InfEvo_Claw3_Vfx_11: 5486741652309865509
+      InfEvo_Claw3_Vfx_12: 11930937267348874
+      InfEvo_Claw3_Vfx_13: -5224252564917955027
+      InfEvo_Claw3_Vfx_2: 6637260857020081777
+      InfEvo_Claw3_Vfx_3: 2184140821932595642
+      InfEvo_Claw3_Vfx_4: -3620071532862831799
+      InfEvo_Claw3_Vfx_5: -2626668292141762685
+      InfEvo_Claw3_Vfx_6: 6428981966084295771
+      InfEvo_Claw3_Vfx_7: 7419543466389450542
+      InfEvo_Claw3_Vfx_8: 378037750329827402
+      InfEvo_Claw3_Vfx_9: 341624106921214112
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

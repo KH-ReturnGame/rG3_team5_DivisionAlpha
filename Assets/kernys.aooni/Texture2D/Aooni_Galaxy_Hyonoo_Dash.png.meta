@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: ee3143a4f2f0240938014fec9aa710d2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6875154095940552241
+    second: Aooni_Galaxy_Hyonoo_Dash_0
+  - first:
+      213: -625190003725120528
+    second: Aooni_Galaxy_Hyonoo_Dash_1
+  - first:
+      213: 131914538576977689
+    second: Aooni_Galaxy_Hyonoo_Dash_2
+  - first:
+      213: 6293503967631538077
+    second: Aooni_Galaxy_Hyonoo_Dash_3
+  - first:
+      213: 440677883084142745
+    second: Aooni_Galaxy_Hyonoo_Dash_4
+  - first:
+      213: 7016919849382888589
+    second: Aooni_Galaxy_Hyonoo_Dash_5
+  - first:
+      213: 914639390232059479
+    second: Aooni_Galaxy_Hyonoo_Dash_6
+  - first:
+      213: 910960679023792420
+    second: Aooni_Galaxy_Hyonoo_Dash_7
+  - first:
+      213: 2575628019325427894
+    second: Aooni_Galaxy_Hyonoo_Dash_8
+  - first:
+      213: -4781903122770251446
+    second: Aooni_Galaxy_Hyonoo_Dash_9
+  - first:
+      213: -3588619870938314259
+    second: Aooni_Galaxy_Hyonoo_Dash_10
+  - first:
+      213: -2623377100093000975
+    second: Aooni_Galaxy_Hyonoo_Dash_11
+  - first:
+      213: -3686275353824543092
+    second: Aooni_Galaxy_Hyonoo_Dash_12
+  - first:
+      213: 3356622498080415230
+    second: Aooni_Galaxy_Hyonoo_Dash_13
+  - first:
+      213: 6185041349936846503
+    second: Aooni_Galaxy_Hyonoo_Dash_14
+  - first:
+      213: 5655866303529703258
+    second: Aooni_Galaxy_Hyonoo_Dash_15
+  - first:
+      213: 692675672321971489
+    second: Aooni_Galaxy_Hyonoo_Dash_16
+  - first:
+      213: 2455589505065939286
+    second: Aooni_Galaxy_Hyonoo_Dash_17
+  - first:
+      213: -1756394716165566305
+    second: Aooni_Galaxy_Hyonoo_Dash_18
+  - first:
+      213: 898475574057589245
+    second: Aooni_Galaxy_Hyonoo_Dash_19
+  - first:
+      213: -3431883908002524424
+    second: Aooni_Galaxy_Hyonoo_Dash_20
+  - first:
+      213: -287997187106290307
+    second: Aooni_Galaxy_Hyonoo_Dash_21
+  - first:
+      213: -8973288522176668524
+    second: Aooni_Galaxy_Hyonoo_Dash_22
+  - first:
+      213: -3950093546933419126
+    second: Aooni_Galaxy_Hyonoo_Dash_23
+  - first:
+      213: 7264205006369757453
+    second: Aooni_Galaxy_Hyonoo_Dash_24
+  - first:
+      213: 1723161616894304074
+    second: Aooni_Galaxy_Hyonoo_Dash_25
+  - first:
+      213: 2165209981878044257
+    second: Aooni_Galaxy_Hyonoo_Dash_26
+  - first:
+      213: -223549225026839088
+    second: Aooni_Galaxy_Hyonoo_Dash_27
+  - first:
+      213: -4291046999953582870
+    second: Aooni_Galaxy_Hyonoo_Dash_28
+  - first:
+      213: 6086042599581839635
+    second: Aooni_Galaxy_Hyonoo_Dash_29
+  - first:
+      213: 3466882211788936512
+    second: Aooni_Galaxy_Hyonoo_Dash_30
+  - first:
+      213: 6066463581014995721
+    second: Aooni_Galaxy_Hyonoo_Dash_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 205
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9346f96cb8690a0800000000000000
+      internalID: -6875154095940552241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 225
+        width: 56
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbc6d60101e257f0800000000000000
+      internalID: -625190003725120528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 221
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f179ce297a4d100800000000000000
+      internalID: 131914538576977689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 219
+        width: 35
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97703f9384075750800000000000000
+      internalID: 6293503967631538077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_4
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 194
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998f999233a9d1600800000000000000
+      internalID: 440677883084142745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 195
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84cadffc6b116160800000000000000
+      internalID: 7016919849382888589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 209
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e9c50fda371bc00800000000000000
+      internalID: 914639390232059479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_7
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 207
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421df8d39e164ac00800000000000000
+      internalID: 910960679023792420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_8
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 209
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b06f6d89087eb320800000000000000
+      internalID: 2575628019325427894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 215
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41b2f8027443adb0800000000000000
+      internalID: -4781903122770251446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_10
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 183
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de940de9d39a23ec0800000000000000
+      internalID: -3588619870938314259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_11
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 202
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2ff0d3d64e79bd0800000000000000
+      internalID: -2623377100093000975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 176
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8eb20fa818b7dcc0800000000000000
+      internalID: -3686275353824543092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_13
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 140
+        width: 52
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdda2bb06e159e20800000000000000
+      internalID: 3356622498080415230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_14
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 129
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a69618865ea5d550800000000000000
+      internalID: 6185041349936846503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 159
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a575dfedf6cad7e40800000000000000
+      internalID: 5655866303529703258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_16
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 151
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1255e41aad0ec9900800000000000000
+      internalID: 692675672321971489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_17
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 130
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651f1a305a1041220800000000000000
+      internalID: 2455589505065939286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 78
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f901499bf4800a7e0800000000000000
+      internalID: -1756394716165566305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 90
+        width: 67
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9511736c6087c00800000000000000
+      internalID: 898475574057589245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 89
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f25121c4cf7f50d0800000000000000
+      internalID: -3431883908002524424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_21
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 85
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75c73e8514d00cf0800000000000000
+      internalID: -287997187106290307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_22
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 79
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49cd190b1a9787380800000000000000
+      internalID: -8973288522176668524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_23
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 79
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a838879f8d27e29c0800000000000000
+      internalID: -3950093546933419126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_24
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 76
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09984447f3afc460800000000000000
+      internalID: 7264205006369757453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f92916c56e9e710800000000000000
+      internalID: 1723161616894304074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 42
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16688f9b10f5c0e10800000000000000
+      internalID: 2165209981878044257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_27
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 44
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd167c0a2bc5ecf0800000000000000
+      internalID: -223549225026839088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 23
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4d24d0d732374c0800000000000000
+      internalID: -4291046999953582870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 11
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31178f3cf77f57450800000000000000
+      internalID: 6086042599581839635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 10
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045dcc7d007dc1030800000000000000
+      internalID: 3466882211788936512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Aooni_Galaxy_Hyonoo_Dash_31
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 29
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9033e354c78603450800000000000000
+      internalID: 6066463581014995721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Aooni_Galaxy_Hyonoo_Dash_0: -6875154095940552241
+      Aooni_Galaxy_Hyonoo_Dash_1: -625190003725120528
+      Aooni_Galaxy_Hyonoo_Dash_10: -3588619870938314259
+      Aooni_Galaxy_Hyonoo_Dash_11: -2623377100093000975
+      Aooni_Galaxy_Hyonoo_Dash_12: -3686275353824543092
+      Aooni_Galaxy_Hyonoo_Dash_13: 3356622498080415230
+      Aooni_Galaxy_Hyonoo_Dash_14: 6185041349936846503
+      Aooni_Galaxy_Hyonoo_Dash_15: 5655866303529703258
+      Aooni_Galaxy_Hyonoo_Dash_16: 692675672321971489
+      Aooni_Galaxy_Hyonoo_Dash_17: 2455589505065939286
+      Aooni_Galaxy_Hyonoo_Dash_18: -1756394716165566305
+      Aooni_Galaxy_Hyonoo_Dash_19: 898475574057589245
+      Aooni_Galaxy_Hyonoo_Dash_2: 131914538576977689
+      Aooni_Galaxy_Hyonoo_Dash_20: -3431883908002524424
+      Aooni_Galaxy_Hyonoo_Dash_21: -287997187106290307
+      Aooni_Galaxy_Hyonoo_Dash_22: -8973288522176668524
+      Aooni_Galaxy_Hyonoo_Dash_23: -3950093546933419126
+      Aooni_Galaxy_Hyonoo_Dash_24: 7264205006369757453
+      Aooni_Galaxy_Hyonoo_Dash_25: 1723161616894304074
+      Aooni_Galaxy_Hyonoo_Dash_26: 2165209981878044257
+      Aooni_Galaxy_Hyonoo_Dash_27: -223549225026839088
+      Aooni_Galaxy_Hyonoo_Dash_28: -4291046999953582870
+      Aooni_Galaxy_Hyonoo_Dash_29: 6086042599581839635
+      Aooni_Galaxy_Hyonoo_Dash_3: 6293503967631538077
+      Aooni_Galaxy_Hyonoo_Dash_30: 3466882211788936512
+      Aooni_Galaxy_Hyonoo_Dash_31: 6066463581014995721
+      Aooni_Galaxy_Hyonoo_Dash_4: 440677883084142745
+      Aooni_Galaxy_Hyonoo_Dash_5: 7016919849382888589
+      Aooni_Galaxy_Hyonoo_Dash_6: 914639390232059479
+      Aooni_Galaxy_Hyonoo_Dash_7: 910960679023792420
+      Aooni_Galaxy_Hyonoo_Dash_8: 2575628019325427894
+      Aooni_Galaxy_Hyonoo_Dash_9: -4781903122770251446
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 8f4d9904918424b5babc400686c74540
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1486144007600156085
+    second: Galaxy_TurtleGas_0
+  - first:
+      213: -102590647752087102
+    second: Galaxy_TurtleGas_1
+  - first:
+      213: 5009515247603837618
+    second: Galaxy_TurtleGas_2
+  - first:
+      213: 3882000617121923777
+    second: Galaxy_TurtleGas_3
+  - first:
+      213: -4517177363590597413
+    second: Galaxy_TurtleGas_4
+  - first:
+      213: 5699149688133255030
+    second: Galaxy_TurtleGas_5
+  - first:
+      213: 2325985401288299415
+    second: Galaxy_TurtleGas_6
+  - first:
+      213: 2596780609119992301
+    second: Galaxy_TurtleGas_7
+  - first:
+      213: 593393341104475836
+    second: Galaxy_TurtleGas_8
+  - first:
+      213: 2644828891138578000
+    second: Galaxy_TurtleGas_9
+  - first:
+      213: 9069730975694618464
+    second: Galaxy_TurtleGas_10
+  - first:
+      213: 6615067894028409718
+    second: Galaxy_TurtleGas_11
+  - first:
+      213: -1967820215384066859
+    second: Galaxy_TurtleGas_12
+  - first:
+      213: -2744911433310096091
+    second: Galaxy_TurtleGas_13
+  - first:
+      213: -8221965056874899934
+    second: Galaxy_TurtleGas_14
+  - first:
+      213: 4628183843114913919
+    second: Galaxy_TurtleGas_15
+  - first:
+      213: 4283378145652335764
+    second: Galaxy_TurtleGas_16
+  - first:
+      213: 3232619496395845238
+    second: Galaxy_TurtleGas_17
+  - first:
+      213: -1451348190386661881
+    second: Galaxy_TurtleGas_18
+  - first:
+      213: 2001729756046061845
+    second: Galaxy_TurtleGas_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 261
+        width: 99
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd251ad918df9410800000000000000
+      internalID: 1486144007600156085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 209
+        width: 122
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9a5737956839ef0800000000000000
+      internalID: -102590647752087102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 157
+        width: 126
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba645e739f558540800000000000000
+      internalID: 5009515247603837618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 105
+        width: 118
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c246695ef2afd530800000000000000
+      internalID: 3882000617121923777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd43fbfee13cf41c0800000000000000
+      internalID: -4517177363590597413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_5
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 86
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ff5fa2272771f40800000000000000
+      internalID: 5699149688133255030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 90
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793988c166f874020800000000000000
+      internalID: 2325985401288299415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 73
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de93836a43e990420800000000000000
+      internalID: 2596780609119992301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 8
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe4d9c89182c3800800000000000000
+      internalID: 593393341104475836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 66
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05651041dd154b420800000000000000
+      internalID: 2644828891138578000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f72a6d4482edd70800000000000000
+      internalID: 9069730975694618464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 79
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b97a493317dcb50800000000000000
+      internalID: 6615067894028409718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_12
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 68
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d43338a0f5e0b4e0800000000000000
+      internalID: -1967820215384066859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_13
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 64
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525b4a5389d18e9d0800000000000000
+      internalID: -2744911433310096091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 54
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2261c45b756b5ed80800000000000000
+      internalID: -8221965056874899934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_15
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 55
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7011142fac9a3040800000000000000
+      internalID: 4628183843114913919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494674aaabd917b30800000000000000
+      internalID: 4283378145652335764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 40
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e2da80e429cdc20800000000000000
+      internalID: 3232619496395845238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_18
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 19
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706d89aa286cbdbe0800000000000000
+      internalID: -1451348190386661881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_TurtleGas_19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51174758b9297cb10800000000000000
+      internalID: 2001729756046061845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galaxy_TurtleGas_0: 1486144007600156085
+      Galaxy_TurtleGas_1: -102590647752087102
+      Galaxy_TurtleGas_10: 9069730975694618464
+      Galaxy_TurtleGas_11: 6615067894028409718
+      Galaxy_TurtleGas_12: -1967820215384066859
+      Galaxy_TurtleGas_13: -2744911433310096091
+      Galaxy_TurtleGas_14: -8221965056874899934
+      Galaxy_TurtleGas_15: 4628183843114913919
+      Galaxy_TurtleGas_16: 4283378145652335764
+      Galaxy_TurtleGas_17: 3232619496395845238
+      Galaxy_TurtleGas_18: -1451348190386661881
+      Galaxy_TurtleGas_19: 2001729756046061845
+      Galaxy_TurtleGas_2: 5009515247603837618
+      Galaxy_TurtleGas_3: 3882000617121923777
+      Galaxy_TurtleGas_4: -4517177363590597413
+      Galaxy_TurtleGas_5: 5699149688133255030
+      Galaxy_TurtleGas_6: 2325985401288299415
+      Galaxy_TurtleGas_7: 2596780609119992301
+      Galaxy_TurtleGas_8: 593393341104475836
+      Galaxy_TurtleGas_9: 2644828891138578000
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

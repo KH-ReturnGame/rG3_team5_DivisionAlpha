@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 13f242d3225704df4b9dbea5b7cc8d82
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4329497875560629397
+    second: Division_Boss_Goal_0
+  - first:
+      213: -3003049321758341216
+    second: Division_Boss_Goal_1
+  - first:
+      213: 7025262514235137188
+    second: Division_Boss_Goal_2
+  - first:
+      213: 2174777140140344076
+    second: Division_Boss_Goal_3
+  - first:
+      213: -2762208656313487967
+    second: Division_Boss_Goal_4
+  - first:
+      213: 5229034840777568376
+    second: Division_Boss_Goal_5
+  - first:
+      213: 7326138856983748969
+    second: Division_Boss_Goal_6
+  - first:
+      213: -6956502247922899549
+    second: Division_Boss_Goal_7
+  - first:
+      213: 4535999409980296195
+    second: Division_Boss_Goal_8
+  - first:
+      213: -6394586249358008891
+    second: Division_Boss_Goal_9
+  - first:
+      213: -3551100394572357987
+    second: Division_Boss_Goal_10
+  - first:
+      213: -7562482254483207894
+    second: Division_Boss_Goal_11
+  - first:
+      213: 4808037712159643389
+    second: Division_Boss_Goal_12
+  - first:
+      213: -4331209670645437629
+    second: Division_Boss_Goal_13
+  - first:
+      213: 7733917943406937913
+    second: Division_Boss_Goal_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Boss_Goal_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 0
+        width: 82
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59489901167751c30800000000000000
+      internalID: 4329497875560629397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 210
+        width: 72
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7cd9d7d860356d0800000000000000
+      internalID: -3003049321758341216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 210
+        width: 114
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac5ad6090fbe7160800000000000000
+      internalID: 7025262514235137188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 83
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0384b7594c5e2e10800000000000000
+      internalID: 2174777140140344076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 210
+        width: 112
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adece4acd9aaa9d0800000000000000
+      internalID: -2762208656313487967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_5
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 68
+        width: 66
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87030baab73419840800000000000000
+      internalID: 5229034840777568376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 170
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961e3b1997caba560800000000000000
+      internalID: 7326138856983748969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 67
+        width: 64
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a56959001a857f90800000000000000
+      internalID: -6956502247922899549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_8
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 210
+        width: 76
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cc14d3e6b13fe30800000000000000
+      internalID: 4535999409980296195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_9
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 184
+        width: 8
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd1b69afadd147a0800000000000000
+      internalID: -6394586249358008891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 113
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ed3c37105f7bec0800000000000000
+      internalID: -3551100394572357987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_11
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 5
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a294551157aac0790800000000000000
+      internalID: -7562482254483207894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_12
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df615fb33d499b240800000000000000
+      internalID: 4808037712159643389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_13
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 7
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b217590c374e3c0800000000000000
+      internalID: -4331209670645437629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Goal_14
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 0
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9374acab465645b60800000000000000
+      internalID: 7733917943406937913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Boss_Goal_0: 4329497875560629397
+      Division_Boss_Goal_1: -3003049321758341216
+      Division_Boss_Goal_10: -3551100394572357987
+      Division_Boss_Goal_11: -7562482254483207894
+      Division_Boss_Goal_12: 4808037712159643389
+      Division_Boss_Goal_13: -4331209670645437629
+      Division_Boss_Goal_14: 7733917943406937913
+      Division_Boss_Goal_2: 7025262514235137188
+      Division_Boss_Goal_3: 2174777140140344076
+      Division_Boss_Goal_4: -2762208656313487967
+      Division_Boss_Goal_5: 5229034840777568376
+      Division_Boss_Goal_6: 7326138856983748969
+      Division_Boss_Goal_7: -6956502247922899549
+      Division_Boss_Goal_8: 4535999409980296195
+      Division_Boss_Goal_9: -6394586249358008891
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

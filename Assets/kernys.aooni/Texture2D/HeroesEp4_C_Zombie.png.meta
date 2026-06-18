@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 8e72f37765c2b4cfbba81b51dfb06eba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8096207481020523770
+    second: HeroesEp4_C_Zombie_0
+  - first:
+      213: 5024453475943628354
+    second: HeroesEp4_C_Zombie_1
+  - first:
+      213: 815299299043635544
+    second: HeroesEp4_C_Zombie_2
+  - first:
+      213: -4304611527826027063
+    second: HeroesEp4_C_Zombie_3
+  - first:
+      213: 5897938300202144716
+    second: HeroesEp4_C_Zombie_4
+  - first:
+      213: -1578223038960953736
+    second: HeroesEp4_C_Zombie_5
+  - first:
+      213: -3035275622782041344
+    second: HeroesEp4_C_Zombie_6
+  - first:
+      213: -4054209312704793879
+    second: HeroesEp4_C_Zombie_7
+  - first:
+      213: -1889495514835555647
+    second: HeroesEp4_C_Zombie_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp4_C_Zombie_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 128
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b59e9013e74af80800000000000000
+      internalID: -8096207481020523770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Zombie_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 218
+        width: 66
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24eb810d0d17ab540800000000000000
+      internalID: 5024453475943628354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Zombie_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 216
+        width: 64
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851fe119466805b00800000000000000
+      internalID: 815299299043635544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Zombie_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 107
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdc0eb4f92f244c0800000000000000
+      internalID: -4304611527826027063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Zombie_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 108
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc358baa2afa9d150800000000000000
+      internalID: 5897938300202144716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Zombie_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 107
+        width: 44
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87615620286091ae0800000000000000
+      internalID: -1578223038960953736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Zombie_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 108
+        width: 44
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0038ca417e880e5d0800000000000000
+      internalID: -3035275622782041344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Zombie_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 65
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e276273c1e8cb7c0800000000000000
+      internalID: -4054209312704793879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_C_Zombie_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 190
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca688917d927c5e0800000000000000
+      internalID: -1889495514835555647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp4_C_Zombie_0: -8096207481020523770
+      HeroesEp4_C_Zombie_1: 5024453475943628354
+      HeroesEp4_C_Zombie_2: 815299299043635544
+      HeroesEp4_C_Zombie_3: -4304611527826027063
+      HeroesEp4_C_Zombie_4: 5897938300202144716
+      HeroesEp4_C_Zombie_5: -1578223038960953736
+      HeroesEp4_C_Zombie_6: -3035275622782041344
+      HeroesEp4_C_Zombie_7: -4054209312704793879
+      HeroesEp4_C_Zombie_8: -1889495514835555647
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

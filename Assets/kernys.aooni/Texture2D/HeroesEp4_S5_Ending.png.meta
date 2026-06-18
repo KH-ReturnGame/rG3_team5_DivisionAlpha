@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 828f7003799d649c89a260c94075acb8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -251675496895070772
+    second: HeroesEp4_S5_Ending_0
+  - first:
+      213: -2601704048779579097
+    second: HeroesEp4_S5_Ending_1
+  - first:
+      213: -2952672480170744839
+    second: HeroesEp4_S5_Ending_2
+  - first:
+      213: -78937253376589768
+    second: HeroesEp4_S5_Ending_3
+  - first:
+      213: 8606175504412636004
+    second: HeroesEp4_S5_Ending_4
+  - first:
+      213: 7883942639517910723
+    second: HeroesEp4_S5_Ending_5
+  - first:
+      213: 3273208637715720406
+    second: HeroesEp4_S5_Ending_6
+  - first:
+      213: -7407814743592249121
+    second: HeroesEp4_S5_Ending_7
+  - first:
+      213: 8553376634705026781
+    second: HeroesEp4_S5_Ending_8
+  - first:
+      213: 482841905044086869
+    second: HeroesEp4_S5_Ending_9
+  - first:
+      213: 3244259452248036280
+    second: HeroesEp4_S5_Ending_10
+  - first:
+      213: 2314040689561498010
+    second: HeroesEp4_S5_Ending_11
+  - first:
+      213: 572970582809375293
+    second: HeroesEp4_S5_Ending_12
+  - first:
+      213: 7656056065094394432
+    second: HeroesEp4_S5_Ending_13
+  - first:
+      213: -7172403342563131246
+    second: HeroesEp4_S5_Ending_14
+  - first:
+      213: -8708827686156831076
+    second: HeroesEp4_S5_Ending_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 181
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd36e0187ed18cf0800000000000000
+      internalID: -251675496895070772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 181
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7213cc9b3f3e4ebd0800000000000000
+      internalID: -2601704048779579097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 181
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3e951f5000607d0800000000000000
+      internalID: -2952672480170744839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 181
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83081fc7cfe87eef0800000000000000
+      internalID: -78937253376589768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 122
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463fe2716074f6770800000000000000
+      internalID: 8606175504412636004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 122
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6450a4f04696d60800000000000000
+      internalID: 7883942639517910723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 122
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d829cee9e5cc6d20800000000000000
+      internalID: 3273208637715720406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 122
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8584e2db7223990800000000000000
+      internalID: -7407814743592249121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 61
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde18b54bb2b3b670800000000000000
+      internalID: 8553376634705026781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_9
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 61
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55063d8872663b600800000000000000
+      internalID: 482841905044086869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 61
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b3927278cce50d20800000000000000
+      internalID: 3244259452248036280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 61
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91fc113fbf1d1020800000000000000
+      internalID: 2314040689561498010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32f91795b993f700800000000000000
+      internalID: 572970582809375293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0422d6c7d66cf3a60800000000000000
+      internalID: 7656056065094394432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29043b43921867c90800000000000000
+      internalID: -7172403342563131246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S5_Ending_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96f88c5c57042780800000000000000
+      internalID: -8708827686156831076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp4_S5_Ending_0: -251675496895070772
+      HeroesEp4_S5_Ending_1: -2601704048779579097
+      HeroesEp4_S5_Ending_10: 3244259452248036280
+      HeroesEp4_S5_Ending_11: 2314040689561498010
+      HeroesEp4_S5_Ending_12: 572970582809375293
+      HeroesEp4_S5_Ending_13: 7656056065094394432
+      HeroesEp4_S5_Ending_14: -7172403342563131246
+      HeroesEp4_S5_Ending_15: -8708827686156831076
+      HeroesEp4_S5_Ending_2: -2952672480170744839
+      HeroesEp4_S5_Ending_3: -78937253376589768
+      HeroesEp4_S5_Ending_4: 8606175504412636004
+      HeroesEp4_S5_Ending_5: 7883942639517910723
+      HeroesEp4_S5_Ending_6: 3273208637715720406
+      HeroesEp4_S5_Ending_7: -7407814743592249121
+      HeroesEp4_S5_Ending_8: 8553376634705026781
+      HeroesEp4_S5_Ending_9: 482841905044086869
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

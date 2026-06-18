@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: f4b5a6bfc46ab4583862b2f38bc3231c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5331689986388269878
+    second: Galaxy_DieDust 1_0
+  - first:
+      213: 9015558715172215728
+    second: Galaxy_DieDust 1_1
+  - first:
+      213: 6031617256008798828
+    second: Galaxy_DieDust 1_2
+  - first:
+      213: 3667645542961250030
+    second: Galaxy_DieDust 1_3
+  - first:
+      213: 2492802777052635888
+    second: Galaxy_DieDust 1_4
+  - first:
+      213: 5810489692688446868
+    second: Galaxy_DieDust 1_5
+  - first:
+      213: 6942567394324815636
+    second: Galaxy_DieDust 1_6
+  - first:
+      213: -8510161495232845068
+    second: Galaxy_DieDust 1_7
+  - first:
+      213: -144424856359074266
+    second: Galaxy_DieDust 1_8
+  - first:
+      213: 1435398747833925567
+    second: Galaxy_DieDust 1_9
+  - first:
+      213: 8389325474280004589
+    second: Galaxy_DieDust 1_10
+  - first:
+      213: 1834546454763987471
+    second: Galaxy_DieDust 1_11
+  - first:
+      213: -846392802413337300
+    second: Galaxy_DieDust 1_12
+  - first:
+      213: 2849649905014307326
+    second: Galaxy_DieDust 1_13
+  - first:
+      213: -6746042413804864876
+    second: Galaxy_DieDust 1_14
+  - first:
+      213: -3280161579123244072
+    second: Galaxy_DieDust 1_15
+  - first:
+      213: -8809975115016473090
+    second: Galaxy_DieDust 1_16
+  - first:
+      213: -5450727537822632429
+    second: Galaxy_DieDust 1_17
+  - first:
+      213: -6426534286210002408
+    second: Galaxy_DieDust 1_18
+  - first:
+      213: -37066284925567345
+    second: Galaxy_DieDust 1_19
+  - first:
+      213: -6605867751852374744
+    second: Galaxy_DieDust 1_20
+  - first:
+      213: 1897464135438029969
+    second: Galaxy_DieDust 1_21
+  - first:
+      213: -5863003149414646953
+    second: Galaxy_DieDust 1_22
+  - first:
+      213: -3438515000035673775
+    second: Galaxy_DieDust 1_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 66
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4e1d4b4380206b0800000000000000
+      internalID: -5331689986388269878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 74
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb548d82e2bd1d70800000000000000
+      internalID: 9015558715172215728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_2
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 81
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62558dffeb94b350800000000000000
+      internalID: 6031617256008798828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 98
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeeff36703816e230800000000000000
+      internalID: 3667645542961250030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_4
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 105
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f264551be6389220800000000000000
+      internalID: 2492802777052635888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 81
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49573c7179103a050800000000000000
+      internalID: 5810489692688446868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 86
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f90f70344f85060800000000000000
+      internalID: 6942567394324815636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_7
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 46
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa60777535d5e980800000000000000
+      internalID: -8510161495232845068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_8
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 92
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6260bfbbb56eefdf0800000000000000
+      internalID: -144424856359074266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf7eab5e8f8be310800000000000000
+      internalID: 1435398747833925567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 55
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb589ff11fdc6470800000000000000
+      internalID: 8389325474280004589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_11
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 43
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02e820e74e957910800000000000000
+      internalID: 1834546454763987471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_12
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 50
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25a4b70b320144f0800000000000000
+      internalID: -846392802413337300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 59
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef97a929d7dfb8720800000000000000
+      internalID: 2849649905014307326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 42
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a317daa2e3162a0800000000000000
+      internalID: -6746042413804864876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3897e3c668a72d0800000000000000
+      internalID: -3280161579123244072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_16
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 43
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef579656f4eacb580800000000000000
+      internalID: -8809975115016473090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_17
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 51
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31674acfe202b54b0800000000000000
+      internalID: -5450727537822632429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 33
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812959dad1d50d6a0800000000000000
+      internalID: -6426534286210002408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_19
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 37
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e3ed509605c7ff0800000000000000
+      internalID: -37066284925567345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 41
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82581a1774e3354a0800000000000000
+      internalID: -6605867751852374744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194d3d6f395255a10800000000000000
+      internalID: 1897464135438029969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_22
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 30
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75bb42af2bd62aea0800000000000000
+      internalID: -5863003149414646953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_DieDust 1_23
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 21
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159750453d0f740d0800000000000000
+      internalID: -3438515000035673775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galaxy_DieDust 1_0: -5331689986388269878
+      Galaxy_DieDust 1_1: 9015558715172215728
+      Galaxy_DieDust 1_10: 8389325474280004589
+      Galaxy_DieDust 1_11: 1834546454763987471
+      Galaxy_DieDust 1_12: -846392802413337300
+      Galaxy_DieDust 1_13: 2849649905014307326
+      Galaxy_DieDust 1_14: -6746042413804864876
+      Galaxy_DieDust 1_15: -3280161579123244072
+      Galaxy_DieDust 1_16: -8809975115016473090
+      Galaxy_DieDust 1_17: -5450727537822632429
+      Galaxy_DieDust 1_18: -6426534286210002408
+      Galaxy_DieDust 1_19: -37066284925567345
+      Galaxy_DieDust 1_2: 6031617256008798828
+      Galaxy_DieDust 1_20: -6605867751852374744
+      Galaxy_DieDust 1_21: 1897464135438029969
+      Galaxy_DieDust 1_22: -5863003149414646953
+      Galaxy_DieDust 1_23: -3438515000035673775
+      Galaxy_DieDust 1_3: 3667645542961250030
+      Galaxy_DieDust 1_4: 2492802777052635888
+      Galaxy_DieDust 1_5: 5810489692688446868
+      Galaxy_DieDust 1_6: 6942567394324815636
+      Galaxy_DieDust 1_7: -8510161495232845068
+      Galaxy_DieDust 1_8: -144424856359074266
+      Galaxy_DieDust 1_9: 1435398747833925567
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

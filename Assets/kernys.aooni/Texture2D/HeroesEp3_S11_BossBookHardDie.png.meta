@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: dc83474c4947e4fb8a808e4101a37c49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2065870379639831540
+    second: HeroesEp3_S11_BossBookHardDie_0
+  - first:
+      213: -6374208465607572306
+    second: HeroesEp3_S11_BossBookHardDie_1
+  - first:
+      213: 4494963649215429860
+    second: HeroesEp3_S11_BossBookHardDie_2
+  - first:
+      213: 1159668573982914496
+    second: HeroesEp3_S11_BossBookHardDie_3
+  - first:
+      213: -2967953065465194075
+    second: HeroesEp3_S11_BossBookHardDie_4
+  - first:
+      213: 4803359085935046144
+    second: HeroesEp3_S11_BossBookHardDie_5
+  - first:
+      213: -2017209215351919206
+    second: HeroesEp3_S11_BossBookHardDie_6
+  - first:
+      213: 3748313366059805315
+    second: HeroesEp3_S11_BossBookHardDie_7
+  - first:
+      213: -8918747028136463217
+    second: HeroesEp3_S11_BossBookHardDie_8
+  - first:
+      213: 5919480382492452378
+    second: HeroesEp3_S11_BossBookHardDie_9
+  - first:
+      213: -1994870348774115694
+    second: HeroesEp3_S11_BossBookHardDie_10
+  - first:
+      213: 6882924286369407927
+    second: HeroesEp3_S11_BossBookHardDie_11
+  - first:
+      213: -6683059363565233772
+    second: HeroesEp3_S11_BossBookHardDie_12
+  - first:
+      213: 6724656806129490622
+    second: HeroesEp3_S11_BossBookHardDie_13
+  - first:
+      213: -5627081311069004238
+    second: HeroesEp3_S11_BossBookHardDie_14
+  - first:
+      213: -8002628905428046059
+    second: HeroesEp3_S11_BossBookHardDie_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 60
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04019dc5dd8453e0800000000000000
+      internalID: -2065870379639831540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 58
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea44c2b2c234a87a0800000000000000
+      internalID: -6374208465607572306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_2
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 58
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec77c5af91516e30800000000000000
+      internalID: 4494963649215429860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 56
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c77f618c68f71010800000000000000
+      internalID: 1159668573982914496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a95aee6966bfc6d0800000000000000
+      internalID: -2967953065465194075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 32
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00eadcda3a5f8a240800000000000000
+      internalID: 4803359085935046144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 43
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ded4108ee6104e0800000000000000
+      internalID: -2017209215351919206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 37
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ae7d2a52fa40430800000000000000
+      internalID: 3748313366059805315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 27
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84fa5ad4de3a3480800000000000000
+      internalID: -8918747028136463217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 7
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a162b5d8b08362250800000000000000
+      internalID: 5919480382492452378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_10
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 10
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296fb50bcfbc054e0800000000000000
+      internalID: -1994870348774115694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_11
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b325f0db2f058f50800000000000000
+      internalID: 6882924286369407927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 6
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49998ddcae00143a0800000000000000
+      internalID: -6683059363565233772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_13
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebad2c58cb7c25d50800000000000000
+      internalID: 6724656806129490622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 2
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e1e737c5798e1b0800000000000000
+      internalID: -5627081311069004238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S11_BossBookHardDie_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f20b60963f0f090800000000000000
+      internalID: -8002628905428046059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp3_S11_BossBookHardDie_0: -2065870379639831540
+      HeroesEp3_S11_BossBookHardDie_1: -6374208465607572306
+      HeroesEp3_S11_BossBookHardDie_10: -1994870348774115694
+      HeroesEp3_S11_BossBookHardDie_11: 6882924286369407927
+      HeroesEp3_S11_BossBookHardDie_12: -6683059363565233772
+      HeroesEp3_S11_BossBookHardDie_13: 6724656806129490622
+      HeroesEp3_S11_BossBookHardDie_14: -5627081311069004238
+      HeroesEp3_S11_BossBookHardDie_15: -8002628905428046059
+      HeroesEp3_S11_BossBookHardDie_2: 4494963649215429860
+      HeroesEp3_S11_BossBookHardDie_3: 1159668573982914496
+      HeroesEp3_S11_BossBookHardDie_4: -2967953065465194075
+      HeroesEp3_S11_BossBookHardDie_5: 4803359085935046144
+      HeroesEp3_S11_BossBookHardDie_6: -2017209215351919206
+      HeroesEp3_S11_BossBookHardDie_7: 3748313366059805315
+      HeroesEp3_S11_BossBookHardDie_8: -8918747028136463217
+      HeroesEp3_S11_BossBookHardDie_9: 5919480382492452378
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

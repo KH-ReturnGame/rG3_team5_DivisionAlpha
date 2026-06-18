@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 7b07fbee5e5ec4a21b31282c50a1a801
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2358233386414487223
+    second: Xmas2025_Obj_Basket_0
+  - first:
+      213: 9066174675185558899
+    second: Xmas2025_Obj_Basket_1
+  - first:
+      213: -9122667183134193174
+    second: Xmas2025_Obj_Basket_2
+  - first:
+      213: 6988103584956170044
+    second: Xmas2025_Obj_Basket_3
+  - first:
+      213: 7919372737023853816
+    second: Xmas2025_Obj_Basket_4
+  - first:
+      213: -2466282584349852626
+    second: Xmas2025_Obj_Basket_5
+  - first:
+      213: 2283543186718823808
+    second: Xmas2025_Obj_Basket_6
+  - first:
+      213: -8011689156083686771
+    second: Xmas2025_Obj_Basket_7
+  - first:
+      213: 5189593964467645676
+    second: Xmas2025_Obj_Basket_8
+  - first:
+      213: -3791414811536062646
+    second: Xmas2025_Obj_Basket_9
+  - first:
+      213: 1473494010262267594
+    second: Xmas2025_Obj_Basket_10
+  - first:
+      213: -2078427153133976833
+    second: Xmas2025_Obj_Basket_11
+  - first:
+      213: -6727235563405660585
+    second: Xmas2025_Obj_Basket_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Xmas2025_Obj_Basket_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6b3be35c02ab020800000000000000
+      internalID: 2358233386414487223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2025_Obj_Basket_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 77
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375e31a15d581dd70800000000000000
+      internalID: 9066174675185558899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2025_Obj_Basket_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 74
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae94c29e786c56180800000000000000
+      internalID: -9122667183134193174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2025_Obj_Basket_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 75
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f32fa9f2bbaf060800000000000000
+      internalID: 6988103584956170044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2025_Obj_Basket_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f44832bb8347ed60800000000000000
+      internalID: 7919372737023853816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2025_Obj_Basket_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c38147e0106cdd0800000000000000
+      internalID: -2466282584349852626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2025_Obj_Basket_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08593a9fd66c0bf10800000000000000
+      internalID: 2283543186718823808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2025_Obj_Basket_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 39
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8268c80923c0d090800000000000000
+      internalID: -8011689156083686771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2025_Obj_Basket_8
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 39
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cecea9c0734250840800000000000000
+      internalID: 5189593964467645676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2025_Obj_Basket_9
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a470d321150326bc0800000000000000
+      internalID: -3791414811536062646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2025_Obj_Basket_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac62954def6e27410800000000000000
+      internalID: 1473494010262267594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2025_Obj_Basket_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 6
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff24ce52481f723e0800000000000000
+      internalID: -2078427153133976833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Xmas2025_Obj_Basket_12
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 6
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ea4d2c5ee04a2a0800000000000000
+      internalID: -6727235563405660585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Xmas2025_Obj_Basket_0: 2358233386414487223
+      Xmas2025_Obj_Basket_1: 9066174675185558899
+      Xmas2025_Obj_Basket_10: 1473494010262267594
+      Xmas2025_Obj_Basket_11: -2078427153133976833
+      Xmas2025_Obj_Basket_12: -6727235563405660585
+      Xmas2025_Obj_Basket_2: -9122667183134193174
+      Xmas2025_Obj_Basket_3: 6988103584956170044
+      Xmas2025_Obj_Basket_4: 7919372737023853816
+      Xmas2025_Obj_Basket_5: -2466282584349852626
+      Xmas2025_Obj_Basket_6: 2283543186718823808
+      Xmas2025_Obj_Basket_7: -8011689156083686771
+      Xmas2025_Obj_Basket_8: 5189593964467645676
+      Xmas2025_Obj_Basket_9: -3791414811536062646
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

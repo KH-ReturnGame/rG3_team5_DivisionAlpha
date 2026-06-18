@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 4e5521b5d7c6646f9ade268ce877e4c1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4315386976106807207
+    second: Elf_EnergyBoom_0
+  - first:
+      213: -5052978699702335921
+    second: Elf_EnergyBoom_1
+  - first:
+      213: -7391905170748968033
+    second: Elf_EnergyBoom_2
+  - first:
+      213: -9014443773095364489
+    second: Elf_EnergyBoom_3
+  - first:
+      213: -4032777118275481342
+    second: Elf_EnergyBoom_4
+  - first:
+      213: -1792840406582299223
+    second: Elf_EnergyBoom_5
+  - first:
+      213: -5633439516309363359
+    second: Elf_EnergyBoom_6
+  - first:
+      213: 5266639902313314645
+    second: Elf_EnergyBoom_7
+  - first:
+      213: -6098697225901146123
+    second: Elf_EnergyBoom_8
+  - first:
+      213: -2464732250330784226
+    second: Elf_EnergyBoom_9
+  - first:
+      213: 8526582946289627099
+    second: Elf_EnergyBoom_10
+  - first:
+      213: 5282452627295788986
+    second: Elf_EnergyBoom_11
+  - first:
+      213: -3824928077074723048
+    second: Elf_EnergyBoom_12
+  - first:
+      213: -6430206419269957672
+    second: Elf_EnergyBoom_13
+  - first:
+      213: 4195524324013311229
+    second: Elf_EnergyBoom_14
+  - first:
+      213: 6614114225714312687
+    second: Elf_EnergyBoom_15
+  - first:
+      213: 4207121668946175409
+    second: Elf_EnergyBoom_16
+  - first:
+      213: 5056095382229198115
+    second: Elf_EnergyBoom_17
+  - first:
+      213: -6455333444518271419
+    second: Elf_EnergyBoom_18
+  - first:
+      213: 2329862911875179244
+    second: Elf_EnergyBoom_19
+  - first:
+      213: 994309425788933235
+    second: Elf_EnergyBoom_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9508eccb86aac14c0800000000000000
+      internalID: -4315386976106807207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4680aaf4a630e9b0800000000000000
+      internalID: -5052978699702335921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f937224496daa6990800000000000000
+      internalID: -7391905170748968033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 44
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7783be0262346e280800000000000000
+      internalID: -9014443773095364489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 44
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201ddd6d392b808c0800000000000000
+      internalID: -4032777118275481342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_5
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5f1ba262d8e17e0800000000000000
+      internalID: -1792840406582299223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_6
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 35
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1656bbe6b9002d1b0800000000000000
+      internalID: -5633439516309363359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 49
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5597849561dd61940800000000000000
+      internalID: 5266639902313314645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 51
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff70817f231d5ba0800000000000000
+      internalID: -6098697225901146123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e9598b3138bcdd0800000000000000
+      internalID: -2464732250330784226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf2f7d8302845670800000000000000
+      internalID: 8526582946289627099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf5bc84daa0f4940800000000000000
+      internalID: 5282452627295788986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 17
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f0b82ed202beac0800000000000000
+      internalID: -3824928077074723048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_13
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 33
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d74af2945153c6a0800000000000000
+      internalID: -6430206419269957672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 25
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df40353d42f793a30800000000000000
+      internalID: 4195524324013311229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe53f8f58dd0acb50800000000000000
+      internalID: 6614114225714312687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_16
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5a26c1ed2b26a30800000000000000
+      internalID: 4207121668946175409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_17
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 19
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325a34836fbda2640800000000000000
+      internalID: 5056095382229198115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5462acc1f6c0a66a0800000000000000
+      internalID: -6455333444518271419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce26da569f5555020800000000000000
+      internalID: 2329862911875179244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_EnergyBoom_20
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374d8f8972f7ccd00800000000000000
+      internalID: 994309425788933235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elf_EnergyBoom_0: -4315386976106807207
+      Elf_EnergyBoom_1: -5052978699702335921
+      Elf_EnergyBoom_10: 8526582946289627099
+      Elf_EnergyBoom_11: 5282452627295788986
+      Elf_EnergyBoom_12: -3824928077074723048
+      Elf_EnergyBoom_13: -6430206419269957672
+      Elf_EnergyBoom_14: 4195524324013311229
+      Elf_EnergyBoom_15: 6614114225714312687
+      Elf_EnergyBoom_16: 4207121668946175409
+      Elf_EnergyBoom_17: 5056095382229198115
+      Elf_EnergyBoom_18: -6455333444518271419
+      Elf_EnergyBoom_19: 2329862911875179244
+      Elf_EnergyBoom_2: -7391905170748968033
+      Elf_EnergyBoom_20: 994309425788933235
+      Elf_EnergyBoom_3: -9014443773095364489
+      Elf_EnergyBoom_4: -4032777118275481342
+      Elf_EnergyBoom_5: -1792840406582299223
+      Elf_EnergyBoom_6: -5633439516309363359
+      Elf_EnergyBoom_7: 5266639902313314645
+      Elf_EnergyBoom_8: -6098697225901146123
+      Elf_EnergyBoom_9: -2464732250330784226
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

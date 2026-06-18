@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 9b4e3e1c028824403bf2c50c8e67a65c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6844648366195133533
+    second: YANAH_Fx_Dust_0
+  - first:
+      213: 2775172009581730479
+    second: YANAH_Fx_Dust_1
+  - first:
+      213: -4037371114110559843
+    second: YANAH_Fx_Dust_2
+  - first:
+      213: -523057980019077574
+    second: YANAH_Fx_Dust_3
+  - first:
+      213: -5712097048676735836
+    second: YANAH_Fx_Dust_4
+  - first:
+      213: -8147272206915679316
+    second: YANAH_Fx_Dust_5
+  - first:
+      213: -7881363123971488825
+    second: YANAH_Fx_Dust_6
+  - first:
+      213: 3582527986397992328
+    second: YANAH_Fx_Dust_7
+  - first:
+      213: -1974546763956327644
+    second: YANAH_Fx_Dust_8
+  - first:
+      213: 740208527602527409
+    second: YANAH_Fx_Dust_9
+  - first:
+      213: -3181572779017688013
+    second: YANAH_Fx_Dust_10
+  - first:
+      213: -3201106380830187429
+    second: YANAH_Fx_Dust_11
+  - first:
+      213: -3726619855640234474
+    second: YANAH_Fx_Dust_12
+  - first:
+      213: -1837244727872872974
+    second: YANAH_Fx_Dust_13
+  - first:
+      213: 7601527329771594733
+    second: YANAH_Fx_Dust_14
+  - first:
+      213: -5056074160805289271
+    second: YANAH_Fx_Dust_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cc48fac631dfe50800000000000000
+      internalID: 6844648366195133533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faad9bd3d34638620800000000000000
+      internalID: 2775172009581730479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_2
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 34
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d995405dc5068f7c0800000000000000
+      internalID: -4037371114110559843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_3
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 52
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e8708d989bdb8f0800000000000000
+      internalID: -523057980019077574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_4
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 57
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4e01b8ffd8ab0b0800000000000000
+      internalID: -5712097048676735836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cabc06a08131fee80800000000000000
+      internalID: -8147272206915679316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_6
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 43
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c301d9fef5cf9290800000000000000
+      internalID: -7881363123971488825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 48
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885d52bf832b7b130800000000000000
+      internalID: 3582527986397992328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42b6cf50e200994e0800000000000000
+      internalID: -1974546763956327644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_9
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 25
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bca67bebbfb54a00800000000000000
+      internalID: 740208527602527409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_10
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c29970a68c8d3d0800000000000000
+      internalID: -3181572779017688013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 8
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b506162f4b26393d0800000000000000
+      internalID: -3201106380830187429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 38
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61675ab5cf2684cc0800000000000000
+      internalID: -3726619855640234474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd9da577abc086e0800000000000000
+      internalID: -1837244727872872974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3a571f4dc0e7960800000000000000
+      internalID: 7601527329771594733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH_Fx_Dust_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c26b27c65735d9b0800000000000000
+      internalID: -5056074160805289271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YANAH_Fx_Dust_0: 6844648366195133533
+      YANAH_Fx_Dust_1: 2775172009581730479
+      YANAH_Fx_Dust_10: -3181572779017688013
+      YANAH_Fx_Dust_11: -3201106380830187429
+      YANAH_Fx_Dust_12: -3726619855640234474
+      YANAH_Fx_Dust_13: -1837244727872872974
+      YANAH_Fx_Dust_14: 7601527329771594733
+      YANAH_Fx_Dust_15: -5056074160805289271
+      YANAH_Fx_Dust_2: -4037371114110559843
+      YANAH_Fx_Dust_3: -523057980019077574
+      YANAH_Fx_Dust_4: -5712097048676735836
+      YANAH_Fx_Dust_5: -8147272206915679316
+      YANAH_Fx_Dust_6: -7881363123971488825
+      YANAH_Fx_Dust_7: 3582527986397992328
+      YANAH_Fx_Dust_8: -1974546763956327644
+      YANAH_Fx_Dust_9: 740208527602527409
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

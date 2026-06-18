@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: b404ae79515e048bda9a0dbdb46662c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1013056061885840133
+    second: HeroesEp3_C_Sanha_0
+  - first:
+      213: -2919180339734119506
+    second: HeroesEp3_C_Sanha_1
+  - first:
+      213: -2382751791771676261
+    second: HeroesEp3_C_Sanha_2
+  - first:
+      213: 550885474380599251
+    second: HeroesEp3_C_Sanha_3
+  - first:
+      213: -2154915314933096758
+    second: HeroesEp3_C_Sanha_4
+  - first:
+      213: -8152672055132997944
+    second: HeroesEp3_C_Sanha_5
+  - first:
+      213: -5247444570814187344
+    second: HeroesEp3_C_Sanha_6
+  - first:
+      213: 8438515091098751658
+    second: HeroesEp3_C_Sanha_7
+  - first:
+      213: -2725221407197886764
+    second: HeroesEp3_C_Sanha_8
+  - first:
+      213: 1250284758928514209
+    second: HeroesEp3_C_Sanha_9
+  - first:
+      213: -4773364234050696206
+    second: HeroesEp3_C_Sanha_10
+  - first:
+      213: 4924259647526294449
+    second: HeroesEp3_C_Sanha_11
+  - first:
+      213: 2985584438937947275
+    second: HeroesEp3_C_Sanha_12
+  - first:
+      213: 9136433609853419467
+    second: HeroesEp3_C_Sanha_13
+  - first:
+      213: -5772798663439088970
+    second: HeroesEp3_C_Sanha_14
+  - first:
+      213: 500918225493859640
+    second: HeroesEp3_C_Sanha_15
+  - first:
+      213: -98175162383801146
+    second: HeroesEp3_C_Sanha_16
+  - first:
+      213: 2816361951504781980
+    second: HeroesEp3_C_Sanha_17
+  - first:
+      213: -150245671578339961
+    second: HeroesEp3_C_Sanha_18
+  - first:
+      213: -7327125308919212518
+    second: HeroesEp3_C_Sanha_19
+  - first:
+      213: 5353424622000812670
+    second: HeroesEp3_C_Sanha_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 117
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bf242fe191f0e00800000000000000
+      internalID: 1013056061885840133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 117
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eabf7de82fcfc77d0800000000000000
+      internalID: -2919180339734119506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 115
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b911687aed3ceeed0800000000000000
+      internalID: -2382751791771676261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 115
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfc0649b6325a700800000000000000
+      internalID: 550885474380599251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 117
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace1d5430f33812e0800000000000000
+      internalID: -2154915314933096758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_5
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 115
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c63b87e5f3ebde80800000000000000
+      internalID: -8152672055132997944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 116
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8711a07f45d27b0800000000000000
+      internalID: -5247444570814187344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 44
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2d6b424c0ab1570800000000000000
+      internalID: 8438515091098751658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 59
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d60ea9a1911e2ad0800000000000000
+      internalID: -2725221407197886764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 58
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1acd40c2d57e95110800000000000000
+      internalID: 1250284758928514209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_10
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 59
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb8addf48a91cdb0800000000000000
+      internalID: -4773364234050696206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_11
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 60
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b358904f0c765440800000000000000
+      internalID: 4924259647526294449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_12
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 58
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c84d99a3dee6920800000000000000
+      internalID: 2985584438937947275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_13
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 58
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb04516f12bce70800000000000000
+      internalID: 9136433609853419467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_14
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b20dd18336e2efa0800000000000000
+      internalID: -5772798663439088970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d941cd87e93f600800000000000000
+      internalID: 500918225493859640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_16
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4e850c53633aef0800000000000000
+      internalID: -98175162383801146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_17
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 2
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c925e5ee54ab51720800000000000000
+      internalID: 2816361951504781980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_18
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78578849b583aedf0800000000000000
+      internalID: -150245671578339961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_19
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1698113a52d05a90800000000000000
+      internalID: -7327125308919212518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_C_Sanha_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72303e745f2b4a40800000000000000
+      internalID: 5353424622000812670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp3_C_Sanha_0: 1013056061885840133
+      HeroesEp3_C_Sanha_1: -2919180339734119506
+      HeroesEp3_C_Sanha_10: -4773364234050696206
+      HeroesEp3_C_Sanha_11: 4924259647526294449
+      HeroesEp3_C_Sanha_12: 2985584438937947275
+      HeroesEp3_C_Sanha_13: 9136433609853419467
+      HeroesEp3_C_Sanha_14: -5772798663439088970
+      HeroesEp3_C_Sanha_15: 500918225493859640
+      HeroesEp3_C_Sanha_16: -98175162383801146
+      HeroesEp3_C_Sanha_17: 2816361951504781980
+      HeroesEp3_C_Sanha_18: -150245671578339961
+      HeroesEp3_C_Sanha_19: -7327125308919212518
+      HeroesEp3_C_Sanha_2: -2382751791771676261
+      HeroesEp3_C_Sanha_20: 5353424622000812670
+      HeroesEp3_C_Sanha_3: 550885474380599251
+      HeroesEp3_C_Sanha_4: -2154915314933096758
+      HeroesEp3_C_Sanha_5: -8152672055132997944
+      HeroesEp3_C_Sanha_6: -5247444570814187344
+      HeroesEp3_C_Sanha_7: 8438515091098751658
+      HeroesEp3_C_Sanha_8: -2725221407197886764
+      HeroesEp3_C_Sanha_9: 1250284758928514209
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

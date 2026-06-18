@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: dc87cde01fe464d698e94d12b283b3a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2252782547286575428
+    second: Magic_Potion_Revive_0
+  - first:
+      213: 7270412817587073605
+    second: Magic_Potion_Revive_1
+  - first:
+      213: 2781596333087595513
+    second: Magic_Potion_Revive_2
+  - first:
+      213: 2491737343423459093
+    second: Magic_Potion_Revive_3
+  - first:
+      213: 1204045341797013648
+    second: Magic_Potion_Revive_4
+  - first:
+      213: -5818055472357592677
+    second: Magic_Potion_Revive_5
+  - first:
+      213: -245862058137233524
+    second: Magic_Potion_Revive_6
+  - first:
+      213: 7799971836710837622
+    second: Magic_Potion_Revive_7
+  - first:
+      213: -463789124890144373
+    second: Magic_Potion_Revive_8
+  - first:
+      213: 6189961960346386719
+    second: Magic_Potion_Revive_9
+  - first:
+      213: -8199713954070407523
+    second: Magic_Potion_Revive_10
+  - first:
+      213: -6378621833427295232
+    second: Magic_Potion_Revive_11
+  - first:
+      213: -1324960211537771028
+    second: Magic_Potion_Revive_12
+  - first:
+      213: 757491601500078805
+    second: Magic_Potion_Revive_13
+  - first:
+      213: -1299384711268757285
+    second: Magic_Potion_Revive_14
+  - first:
+      213: 9008784394692969716
+    second: Magic_Potion_Revive_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 152
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb6b8c085328cb0e0800000000000000
+      internalID: -2252782547286575428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 167
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54279b2ffe1b5e460800000000000000
+      internalID: 7270412817587073605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 152
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb173e90273a9620800000000000000
+      internalID: 2781596333087595513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 84
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51fa45c79ed649220800000000000000
+      internalID: 2491737343423459093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 83
+        width: 64
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098564bebd0a5b010800000000000000
+      internalID: 1204045341797013648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_5
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 80
+        width: 66
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91bb9e8f5d124fa0800000000000000
+      internalID: -5818055472357592677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 64
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87dbf0c2c5869cf0800000000000000
+      internalID: -245862058137233524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_7
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 43
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67d53393f011f3c60800000000000000
+      internalID: 7799971836710837622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_8
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 44
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81db388f3a4099f0800000000000000
+      internalID: -463789124890144373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 44
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1180ab6b9927e550800000000000000
+      internalID: 6189961960346386719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_10
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 45
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96d1db4a93c43e80800000000000000
+      internalID: -8199713954070407523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_11
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 25
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 004e306ec359a77a0800000000000000
+      internalID: -6378621833427295232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_12
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5c3c125bbcc9de0800000000000000
+      internalID: -1324960211537771028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 9
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d201c32996238a00800000000000000
+      internalID: 757491601500078805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 11
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd090425d78a7fde0800000000000000
+      internalID: -1299384711268757285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Magic_Potion_Revive_15
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 10
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4c1c72da1a50d70800000000000000
+      internalID: 9008784394692969716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Magic_Potion_Revive_0: -2252782547286575428
+      Magic_Potion_Revive_1: 7270412817587073605
+      Magic_Potion_Revive_10: -8199713954070407523
+      Magic_Potion_Revive_11: -6378621833427295232
+      Magic_Potion_Revive_12: -1324960211537771028
+      Magic_Potion_Revive_13: 757491601500078805
+      Magic_Potion_Revive_14: -1299384711268757285
+      Magic_Potion_Revive_15: 9008784394692969716
+      Magic_Potion_Revive_2: 2781596333087595513
+      Magic_Potion_Revive_3: 2491737343423459093
+      Magic_Potion_Revive_4: 1204045341797013648
+      Magic_Potion_Revive_5: -5818055472357592677
+      Magic_Potion_Revive_6: -245862058137233524
+      Magic_Potion_Revive_7: 7799971836710837622
+      Magic_Potion_Revive_8: -463789124890144373
+      Magic_Potion_Revive_9: 6189961960346386719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

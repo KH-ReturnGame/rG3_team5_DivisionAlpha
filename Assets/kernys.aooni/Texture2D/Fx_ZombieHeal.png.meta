@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: e123c18ddbe4f4529ac4b3dbb425e9f9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1383897457393428040
+    second: Fx_ZombieHeal_0
+  - first:
+      213: -27663103405874063
+    second: Fx_ZombieHeal_1
+  - first:
+      213: 8024061595863102843
+    second: Fx_ZombieHeal_2
+  - first:
+      213: -4955184079045294954
+    second: Fx_ZombieHeal_3
+  - first:
+      213: 8703056366015781730
+    second: Fx_ZombieHeal_4
+  - first:
+      213: 8470115589533259536
+    second: Fx_ZombieHeal_5
+  - first:
+      213: -5725323602474520426
+    second: Fx_ZombieHeal_6
+  - first:
+      213: 1545600267531717257
+    second: Fx_ZombieHeal_7
+  - first:
+      213: 210868200691118641
+    second: Fx_ZombieHeal_8
+  - first:
+      213: -5844907276365367295
+    second: Fx_ZombieHeal_9
+  - first:
+      213: -2132665889707670730
+    second: Fx_ZombieHeal_10
+  - first:
+      213: -7578834611181136135
+    second: Fx_ZombieHeal_11
+  - first:
+      213: -2634063459650142247
+    second: Fx_ZombieHeal_12
+  - first:
+      213: 2726968950986926510
+    second: Fx_ZombieHeal_13
+  - first:
+      213: -2397591126923367278
+    second: Fx_ZombieHeal_14
+  - first:
+      213: -3943641586274034714
+    second: Fx_ZombieHeal_15
+  - first:
+      213: -2376833977201528559
+    second: Fx_ZombieHeal_16
+  - first:
+      213: -6572889350473649142
+    second: Fx_ZombieHeal_17
+  - first:
+      213: -7463783792896328
+    second: Fx_ZombieHeal_18
+  - first:
+      213: 1111297690911411418
+    second: Fx_ZombieHeal_19
+  - first:
+      213: 7333974293427550429
+    second: Fx_ZombieHeal_20
+  - first:
+      213: 3983980405165608826
+    second: Fx_ZombieHeal_21
+  - first:
+      213: -3415730207666234429
+    second: Fx_ZombieHeal_22
+  - first:
+      213: 1297922163928843658
+    second: Fx_ZombieHeal_23
+  - first:
+      213: 322014712148262813
+    second: Fx_ZombieHeal_24
+  - first:
+      213: 3069508471543694269
+    second: Fx_ZombieHeal_25
+  - first:
+      213: 6000826544864782325
+    second: Fx_ZombieHeal_26
+  - first:
+      213: -3652978652236557561
+    second: Fx_ZombieHeal_27
+  - first:
+      213: 5445200596224920454
+    second: Fx_ZombieHeal_28
+  - first:
+      213: -3702035222129692841
+    second: Fx_ZombieHeal_29
+  - first:
+      213: -7684213757942907631
+    second: Fx_ZombieHeal_30
+  - first:
+      213: 2328642188993665711
+    second: Fx_ZombieHeal_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 116
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b99f7e38986bcce0800000000000000
+      internalID: -1383897457393428040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_1
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 132
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 174ab14dd88bd9ff0800000000000000
+      internalID: -27663103405874063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 114
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75364512813b5f60800000000000000
+      internalID: 8024061595863102843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 120
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69485d37556ab3bb0800000000000000
+      internalID: -4955184079045294954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_4
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 117
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b929477a777c870800000000000000
+      internalID: 8703056366015781730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 121
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017d0a88045eb8570800000000000000
+      internalID: 8470115589533259536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_6
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 91
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690b85284809b80b0800000000000000
+      internalID: -5725323602474520426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_7
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 98
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a0afe1143137510800000000000000
+      internalID: 1545600267531717257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_8
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 138
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132be94e2872de200800000000000000
+      internalID: 210868200691118641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 108
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108752fbcc7b2eea0800000000000000
+      internalID: -5844907276365367295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 91
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633c1633caf3762e0800000000000000
+      internalID: -2132665889707670730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 93
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f6dc15531292d690800000000000000
+      internalID: -7578834611181136135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_12
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 84
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df77b34d3de17bd0800000000000000
+      internalID: -2634063459650142247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 82
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9681510d328d520800000000000000
+      internalID: 2726968950986926510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_14
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 82
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29caa13b29b0abed0800000000000000
+      internalID: -2397591126923367278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_15
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 85
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb9da02fde5549c0800000000000000
+      internalID: -3943641586274034714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_16
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 60
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 111f2da371ac30fd0800000000000000
+      internalID: -2376833977201528559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_17
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 61
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04f11dd5f768c4a0800000000000000
+      internalID: -6572889350473649142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 38
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6185a6abb75eff0800000000000000
+      internalID: -7463783792896328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 37
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc8c7aac5f1c6f00800000000000000
+      internalID: 1111297690911411418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 39
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd8789743c287c560800000000000000
+      internalID: 7333974293427550429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f430a0211f94730800000000000000
+      internalID: 3983980405165608826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb9b733973e890d0800000000000000
+      internalID: -3415730207666234429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_23
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 28
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85c517d455230210800000000000000
+      internalID: 1297922163928843658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 34
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ffb02bca6087400800000000000000
+      internalID: 322014712148262813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_25
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 32
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db30a6121b5199a20800000000000000
+      internalID: 3069508471543694269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_26
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 36
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f76665e2f7374350800000000000000
+      internalID: 6000826544864782325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_27
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 35
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 703da5525430e4dc0800000000000000
+      internalID: -3652978652236557561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_28
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b4bb4a71d319b40800000000000000
+      internalID: 5445200596224920454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_29
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 9
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75fa9f6649abf9cc0800000000000000
+      internalID: -3702035222129692841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_30
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11db4a3cc403c5590800000000000000
+      internalID: -7684213757942907631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fx_ZombieHeal_31
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 13
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa94f3bbbff05020800000000000000
+      internalID: 2328642188993665711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fx_ZombieHeal_0: -1383897457393428040
+      Fx_ZombieHeal_1: -27663103405874063
+      Fx_ZombieHeal_10: -2132665889707670730
+      Fx_ZombieHeal_11: -7578834611181136135
+      Fx_ZombieHeal_12: -2634063459650142247
+      Fx_ZombieHeal_13: 2726968950986926510
+      Fx_ZombieHeal_14: -2397591126923367278
+      Fx_ZombieHeal_15: -3943641586274034714
+      Fx_ZombieHeal_16: -2376833977201528559
+      Fx_ZombieHeal_17: -6572889350473649142
+      Fx_ZombieHeal_18: -7463783792896328
+      Fx_ZombieHeal_19: 1111297690911411418
+      Fx_ZombieHeal_2: 8024061595863102843
+      Fx_ZombieHeal_20: 7333974293427550429
+      Fx_ZombieHeal_21: 3983980405165608826
+      Fx_ZombieHeal_22: -3415730207666234429
+      Fx_ZombieHeal_23: 1297922163928843658
+      Fx_ZombieHeal_24: 322014712148262813
+      Fx_ZombieHeal_25: 3069508471543694269
+      Fx_ZombieHeal_26: 6000826544864782325
+      Fx_ZombieHeal_27: -3652978652236557561
+      Fx_ZombieHeal_28: 5445200596224920454
+      Fx_ZombieHeal_29: -3702035222129692841
+      Fx_ZombieHeal_3: -4955184079045294954
+      Fx_ZombieHeal_30: -7684213757942907631
+      Fx_ZombieHeal_31: 2328642188993665711
+      Fx_ZombieHeal_4: 8703056366015781730
+      Fx_ZombieHeal_5: 8470115589533259536
+      Fx_ZombieHeal_6: -5725323602474520426
+      Fx_ZombieHeal_7: 1545600267531717257
+      Fx_ZombieHeal_8: 210868200691118641
+      Fx_ZombieHeal_9: -5844907276365367295
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

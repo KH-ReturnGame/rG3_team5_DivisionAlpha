@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 72b606584205d46f29e454c70958d89c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2426739560391231581
+    second: Galaxy_Yeti_IcebergDestroy_1_0
+  - first:
+      213: -2723870610724702707
+    second: Galaxy_Yeti_IcebergDestroy_1_1
+  - first:
+      213: 1746972941006773977
+    second: Galaxy_Yeti_IcebergDestroy_1_2
+  - first:
+      213: -6538435318814848355
+    second: Galaxy_Yeti_IcebergDestroy_1_3
+  - first:
+      213: -8454656832445600204
+    second: Galaxy_Yeti_IcebergDestroy_1_4
+  - first:
+      213: 2831798790550816697
+    second: Galaxy_Yeti_IcebergDestroy_1_5
+  - first:
+      213: -2212869657786051897
+    second: Galaxy_Yeti_IcebergDestroy_1_6
+  - first:
+      213: -1567148294658287591
+    second: Galaxy_Yeti_IcebergDestroy_1_7
+  - first:
+      213: 6812534043967041055
+    second: Galaxy_Yeti_IcebergDestroy_1_8
+  - first:
+      213: -2436985897929079106
+    second: Galaxy_Yeti_IcebergDestroy_1_9
+  - first:
+      213: 1558468782109967532
+    second: Galaxy_Yeti_IcebergDestroy_1_10
+  - first:
+      213: -6746732403508075513
+    second: Galaxy_Yeti_IcebergDestroy_1_11
+  - first:
+      213: -4894613500131122569
+    second: Galaxy_Yeti_IcebergDestroy_1_12
+  - first:
+      213: -5167687396499085759
+    second: Galaxy_Yeti_IcebergDestroy_1_13
+  - first:
+      213: 5503627148521677574
+    second: Galaxy_Yeti_IcebergDestroy_1_14
+  - first:
+      213: 5349706290518556059
+    second: Galaxy_Yeti_IcebergDestroy_1_15
+  - first:
+      213: -8714314338105087851
+    second: Galaxy_Yeti_IcebergDestroy_1_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 118
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58c183d5c28da120800000000000000
+      internalID: 2426739560391231581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 113
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06b0a97c1ed23ad0800000000000000
+      internalID: -2723870610724702707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 93
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de9dec42ae7e3810800000000000000
+      internalID: 1746972941006773977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_3
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 69
+        width: 25
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a4c2b38bfc245a0800000000000000
+      internalID: -6538435318814848355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 96
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e2044d7660baa80800000000000000
+      internalID: -8454656832445600204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 68
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7892a1ff19c4720800000000000000
+      internalID: 2831798790550816697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 58
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c21c6145ce4a41e0800000000000000
+      internalID: -2212869657786051897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 55
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918988addee504ae0800000000000000
+      internalID: -1567148294658287591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 67
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e29ee5e9bfa8e50800000000000000
+      internalID: 6812534043967041055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_9
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 40
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb60d4fcc361e2ed0800000000000000
+      internalID: -2436985897929079106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 42
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca44337a91bc0a510800000000000000
+      internalID: 1558468782109967532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_11
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 45
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 704a84eef9ace52a0800000000000000
+      internalID: -6746732403508075513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_12
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 32
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7726ad354f6d21cb0800000000000000
+      internalID: -4894613500131122569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 10
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146a86541bfa848b0800000000000000
+      internalID: -5167687396499085759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_14
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 22
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603a4db6bbfc06c40800000000000000
+      internalID: 5503627148521677574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 5
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9df70bf689fd3a40800000000000000
+      internalID: 5349706290518556059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Galaxy_Yeti_IcebergDestroy_1_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5982728a749801780800000000000000
+      internalID: -8714314338105087851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Galaxy_Yeti_IcebergDestroy_1_0: 2426739560391231581
+      Galaxy_Yeti_IcebergDestroy_1_1: -2723870610724702707
+      Galaxy_Yeti_IcebergDestroy_1_10: 1558468782109967532
+      Galaxy_Yeti_IcebergDestroy_1_11: -6746732403508075513
+      Galaxy_Yeti_IcebergDestroy_1_12: -4894613500131122569
+      Galaxy_Yeti_IcebergDestroy_1_13: -5167687396499085759
+      Galaxy_Yeti_IcebergDestroy_1_14: 5503627148521677574
+      Galaxy_Yeti_IcebergDestroy_1_15: 5349706290518556059
+      Galaxy_Yeti_IcebergDestroy_1_16: -8714314338105087851
+      Galaxy_Yeti_IcebergDestroy_1_2: 1746972941006773977
+      Galaxy_Yeti_IcebergDestroy_1_3: -6538435318814848355
+      Galaxy_Yeti_IcebergDestroy_1_4: -8454656832445600204
+      Galaxy_Yeti_IcebergDestroy_1_5: 2831798790550816697
+      Galaxy_Yeti_IcebergDestroy_1_6: -2212869657786051897
+      Galaxy_Yeti_IcebergDestroy_1_7: -1567148294658287591
+      Galaxy_Yeti_IcebergDestroy_1_8: 6812534043967041055
+      Galaxy_Yeti_IcebergDestroy_1_9: -2436985897929079106
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

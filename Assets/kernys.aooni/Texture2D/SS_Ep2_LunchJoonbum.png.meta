@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: db0e1ee2360394bc29756ef8fc460a66
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6053921456497855920
+    second: SS_Ep2_LunchJoonbum_0
+  - first:
+      213: -2512020721394187876
+    second: SS_Ep2_LunchJoonbum_1
+  - first:
+      213: -7235782771369845318
+    second: SS_Ep2_LunchJoonbum_2
+  - first:
+      213: 4793797746816848512
+    second: SS_Ep2_LunchJoonbum_3
+  - first:
+      213: -8245702627764611093
+    second: SS_Ep2_LunchJoonbum_4
+  - first:
+      213: -8187358586372747146
+    second: SS_Ep2_LunchJoonbum_5
+  - first:
+      213: -7306350751037795501
+    second: SS_Ep2_LunchJoonbum_6
+  - first:
+      213: -5772734708768645280
+    second: SS_Ep2_LunchJoonbum_7
+  - first:
+      213: 6278787770513052006
+    second: SS_Ep2_LunchJoonbum_8
+  - first:
+      213: -726908767972834220
+    second: SS_Ep2_LunchJoonbum_9
+  - first:
+      213: -5435903028011347387
+    second: SS_Ep2_LunchJoonbum_10
+  - first:
+      213: -261349431157709314
+    second: SS_Ep2_LunchJoonbum_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep2_LunchJoonbum_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 121
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd8ba85d79d30450800000000000000
+      internalID: 6053921456497855920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_LunchJoonbum_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 119
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9101e09672832dd0800000000000000
+      internalID: -2512020721394187876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_LunchJoonbum_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 121
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abddb9008e5559b90800000000000000
+      internalID: -7235782771369845318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_LunchJoonbum_3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 119
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0821610f6adf68240800000000000000
+      internalID: 4793797746816848512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_LunchJoonbum_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 61
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7d59cc521619d80800000000000000
+      internalID: -8245702627764611093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_LunchJoonbum_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 61
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67012828eb8a06e80800000000000000
+      internalID: -8187358586372747146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_LunchJoonbum_6
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 61
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353dbffd3b0aa9a90800000000000000
+      internalID: -7306350751037795501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_LunchJoonbum_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 61
+        width: 29
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fd64d1e5023efa0800000000000000
+      internalID: -5772734708768645280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_LunchJoonbum_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6615f79f53cb22750800000000000000
+      internalID: 6278787770513052006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_LunchJoonbum_9
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454ccdca35089e5f0800000000000000
+      internalID: -726908767972834220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_LunchJoonbum_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542d9e52ffacf84b0800000000000000
+      internalID: -5435903028011347387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep2_LunchJoonbum_11
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 25
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef52899b3108f5cf0800000000000000
+      internalID: -261349431157709314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep2_LunchJoonbum_0: 6053921456497855920
+      SS_Ep2_LunchJoonbum_1: -2512020721394187876
+      SS_Ep2_LunchJoonbum_10: -5435903028011347387
+      SS_Ep2_LunchJoonbum_11: -261349431157709314
+      SS_Ep2_LunchJoonbum_2: -7235782771369845318
+      SS_Ep2_LunchJoonbum_3: 4793797746816848512
+      SS_Ep2_LunchJoonbum_4: -8245702627764611093
+      SS_Ep2_LunchJoonbum_5: -8187358586372747146
+      SS_Ep2_LunchJoonbum_6: -7306350751037795501
+      SS_Ep2_LunchJoonbum_7: -5772734708768645280
+      SS_Ep2_LunchJoonbum_8: 6278787770513052006
+      SS_Ep2_LunchJoonbum_9: -726908767972834220
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

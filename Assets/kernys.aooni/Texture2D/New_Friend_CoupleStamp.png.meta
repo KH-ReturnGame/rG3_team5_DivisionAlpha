@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: eb122827564314896b9d3b18d28cea0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5970650860115832634
+    second: New_Friend_CoupleStamp_0
+  - first:
+      213: -3258691320625847711
+    second: New_Friend_CoupleStamp_1
+  - first:
+      213: 4509973698044889577
+    second: New_Friend_CoupleStamp_2
+  - first:
+      213: -3770585266299370750
+    second: New_Friend_CoupleStamp_3
+  - first:
+      213: -1591718781038009503
+    second: New_Friend_CoupleStamp_4
+  - first:
+      213: 677971281335987398
+    second: New_Friend_CoupleStamp_5
+  - first:
+      213: -818641065845549337
+    second: New_Friend_CoupleStamp_6
+  - first:
+      213: 6735646234364526142
+    second: New_Friend_CoupleStamp_7
+  - first:
+      213: -2721648934861848335
+    second: New_Friend_CoupleStamp_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: New_Friend_CoupleStamp_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 48
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c05ae43dacf32da0800000000000000
+      internalID: -5970650860115832634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Friend_CoupleStamp_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 23
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162a279528dc6c2d0800000000000000
+      internalID: -3258691320625847711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Friend_CoupleStamp_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 51
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9025afe25a69e30800000000000000
+      internalID: 4509973698044889577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Friend_CoupleStamp_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 9
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20387ee7da03cabc0800000000000000
+      internalID: -3770585266299370750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Friend_CoupleStamp_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16369e1b33419e9e0800000000000000
+      internalID: -1591718781038009503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Friend_CoupleStamp_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 39
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cca2ffc943a86900800000000000000
+      internalID: 677971281335987398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Friend_CoupleStamp_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 19
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e69ab7b94a93a4f0800000000000000
+      internalID: -818641065845549337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Friend_CoupleStamp_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 31
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ebefb2092d97d50800000000000000
+      internalID: 6735646234364526142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: New_Friend_CoupleStamp_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f04d32b6b2ca3ad0800000000000000
+      internalID: -2721648934861848335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      New_Friend_CoupleStamp_0: -5970650860115832634
+      New_Friend_CoupleStamp_1: -3258691320625847711
+      New_Friend_CoupleStamp_2: 4509973698044889577
+      New_Friend_CoupleStamp_3: -3770585266299370750
+      New_Friend_CoupleStamp_4: -1591718781038009503
+      New_Friend_CoupleStamp_5: 677971281335987398
+      New_Friend_CoupleStamp_6: -818641065845549337
+      New_Friend_CoupleStamp_7: 6735646234364526142
+      New_Friend_CoupleStamp_8: -2721648934861848335
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: 6df9c909c8a2b44c98de1370bdd6a7f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8210823601879465556
+    second: HeroesEp3_S31_Ronda_0
+  - first:
+      213: -7153426242670596051
+    second: HeroesEp3_S31_Ronda_1
+  - first:
+      213: -1110793644777517112
+    second: HeroesEp3_S31_Ronda_2
+  - first:
+      213: 4712833262514535720
+    second: HeroesEp3_S31_Ronda_3
+  - first:
+      213: -7158098832290860313
+    second: HeroesEp3_S31_Ronda_4
+  - first:
+      213: -6090539564437960567
+    second: HeroesEp3_S31_Ronda_5
+  - first:
+      213: -94669567868197925
+    second: HeroesEp3_S31_Ronda_6
+  - first:
+      213: -8306593978840301027
+    second: HeroesEp3_S31_Ronda_7
+  - first:
+      213: 5527784428350641327
+    second: HeroesEp3_S31_Ronda_8
+  - first:
+      213: 925386202301701195
+    second: HeroesEp3_S31_Ronda_9
+  - first:
+      213: -8333698356431714888
+    second: HeroesEp3_S31_Ronda_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp3_S31_Ronda_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 94
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1c498df6b4d0e80800000000000000
+      internalID: -8210823601879465556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_Ronda_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 94
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2079a69bbce9bc90800000000000000
+      internalID: -7153426242670596051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_Ronda_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 92
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf4648b01ba590f0800000000000000
+      internalID: -1110793644777517112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_Ronda_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 94
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82df2d1f1e8576140800000000000000
+      internalID: 4712833262514535720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_Ronda_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 48
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e23a2a890359ac90800000000000000
+      internalID: -7158098832290860313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_Ronda_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 48
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9888633098e0a7ba0800000000000000
+      internalID: -6090539564437960567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_Ronda_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 48
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd32d24978aafaef0800000000000000
+      internalID: -94669567868197925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_Ronda_7
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 48
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1243d559cc09bc80800000000000000
+      internalID: -8306593978840301027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_Ronda_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa496ce66a2a6bc40800000000000000
+      internalID: 5527784428350641327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_Ronda_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c9d3c19d1a7dc00800000000000000
+      internalID: 925386202301701195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp3_S31_Ronda_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b581a7af71c85c80800000000000000
+      internalID: -8333698356431714888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp3_S31_Ronda_0: -8210823601879465556
+      HeroesEp3_S31_Ronda_1: -7153426242670596051
+      HeroesEp3_S31_Ronda_10: -8333698356431714888
+      HeroesEp3_S31_Ronda_2: -1110793644777517112
+      HeroesEp3_S31_Ronda_3: 4712833262514535720
+      HeroesEp3_S31_Ronda_4: -7158098832290860313
+      HeroesEp3_S31_Ronda_5: -6090539564437960567
+      HeroesEp3_S31_Ronda_6: -94669567868197925
+      HeroesEp3_S31_Ronda_7: -8306593978840301027
+      HeroesEp3_S31_Ronda_8: 5527784428350641327
+      HeroesEp3_S31_Ronda_9: 925386202301701195
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

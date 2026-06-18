@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 04e288589912d429fa4b9beb726e7725
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5893036968269100774
+    second: Division_Boss_Spawn_0
+  - first:
+      213: 3398762429480621830
+    second: Division_Boss_Spawn_1
+  - first:
+      213: 2372927572509812174
+    second: Division_Boss_Spawn_2
+  - first:
+      213: 1808022250727644879
+    second: Division_Boss_Spawn_3
+  - first:
+      213: 5463850168075096375
+    second: Division_Boss_Spawn_4
+  - first:
+      213: 8269067253629726573
+    second: Division_Boss_Spawn_5
+  - first:
+      213: 1779816200860715175
+    second: Division_Boss_Spawn_6
+  - first:
+      213: 7868942216916119682
+    second: Division_Boss_Spawn_7
+  - first:
+      213: -6414459540530400105
+    second: Division_Boss_Spawn_8
+  - first:
+      213: -3234206493283981562
+    second: Division_Boss_Spawn_9
+  - first:
+      213: -9101595713220835209
+    second: Division_Boss_Spawn_10
+  - first:
+      213: 8648451609932978542
+    second: Division_Boss_Spawn_11
+  - first:
+      213: 8802701048946256736
+    second: Division_Boss_Spawn_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Boss_Spawn_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 102
+        width: 21
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19431a991ab73ea0800000000000000
+      internalID: -5893036968269100774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Spawn_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 106
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607d2251c64da2f20800000000000000
+      internalID: 3398762429480621830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Spawn_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 106
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec56d2d0e055ee020800000000000000
+      internalID: 2372927572509812174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Spawn_3
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 102
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce9f9068a2671910800000000000000
+      internalID: 1808022250727644879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Spawn_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 78
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731131677ce73db40800000000000000
+      internalID: 5463850168075096375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Spawn_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 78
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f2a641bd0a1c270800000000000000
+      internalID: 8269067253629726573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Spawn_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 7
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c9c1a76d23b810800000000000000
+      internalID: 1779816200860715175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Spawn_7
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 44
+        width: 76
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2803c5d3149143d60800000000000000
+      internalID: 7868942216916119682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Spawn_8
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 12
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794f19c78034bf6a0800000000000000
+      internalID: -6414459540530400105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Spawn_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 9
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607eb85745acd13d0800000000000000
+      internalID: -3234206493283981562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Spawn_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 8
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7780140dbe2a0b180800000000000000
+      internalID: -9101595713220835209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Spawn_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 9
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69d533fae8750870800000000000000
+      internalID: 8648451609932978542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Boss_Spawn_12
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 12
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b666e17f9792a70800000000000000
+      internalID: 8802701048946256736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Boss_Spawn_0: -5893036968269100774
+      Division_Boss_Spawn_1: 3398762429480621830
+      Division_Boss_Spawn_10: -9101595713220835209
+      Division_Boss_Spawn_11: 8648451609932978542
+      Division_Boss_Spawn_12: 8802701048946256736
+      Division_Boss_Spawn_2: 2372927572509812174
+      Division_Boss_Spawn_3: 1808022250727644879
+      Division_Boss_Spawn_4: 5463850168075096375
+      Division_Boss_Spawn_5: 8269067253629726573
+      Division_Boss_Spawn_6: 1779816200860715175
+      Division_Boss_Spawn_7: 7868942216916119682
+      Division_Boss_Spawn_8: -6414459540530400105
+      Division_Boss_Spawn_9: -3234206493283981562
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

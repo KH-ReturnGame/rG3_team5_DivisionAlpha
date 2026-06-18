@@ -1,0 +1,403 @@
+fileFormatVersion: 2
+guid: a3002e7bb863b4d0cbc212bb3a87a833
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3415465805124873435
+    second: SS_Ep1_h_wakeup_0
+  - first:
+      213: -3137020964352767789
+    second: SS_Ep1_h_wakeup_1
+  - first:
+      213: 7493743533292019760
+    second: SS_Ep1_h_wakeup_2
+  - first:
+      213: -1982621596062068697
+    second: SS_Ep1_h_wakeup_3
+  - first:
+      213: -767941621905565000
+    second: SS_Ep1_h_wakeup_4
+  - first:
+      213: 3711378313369958149
+    second: SS_Ep1_h_wakeup_5
+  - first:
+      213: -8748286582824503316
+    second: SS_Ep1_h_wakeup_6
+  - first:
+      213: 391457901663846968
+    second: SS_Ep1_h_wakeup_7
+  - first:
+      213: -4910900958727723090
+    second: SS_Ep1_h_wakeup_8
+  - first:
+      213: -8320809093415854275
+    second: SS_Ep1_h_wakeup_9
+  - first:
+      213: -9063879592511377957
+    second: SS_Ep1_h_wakeup_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ep1_h_wakeup_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 120
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523d90732f3d990d0800000000000000
+      internalID: -3415465805124873435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_wakeup_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 120
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8ccc6bd001774d0800000000000000
+      internalID: -3137020964352767789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_wakeup_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 119
+        width: 55
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03060cb3a002ff760800000000000000
+      internalID: 7493743533292019760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_wakeup_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 122
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720d3baa9205c74e0800000000000000
+      internalID: -1982621596062068697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_wakeup_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 62
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bad412e929b755f0800000000000000
+      internalID: -767941621905565000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_wakeup_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 62
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507318b89e6718330800000000000000
+      internalID: 3711378313369958149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_wakeup_6
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 62
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7fd6d04b7d79680800000000000000
+      internalID: -8748286582824503316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_wakeup_7
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 62
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832813533ecbe6500800000000000000
+      internalID: 391457901663846968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_wakeup_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea7a8ebd899f8dbb0800000000000000
+      internalID: -4910900958727723090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_wakeup_9
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f9b1f073c868c80800000000000000
+      internalID: -8320809093415854275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ep1_h_wakeup_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd62797881a63280800000000000000
+      internalID: -9063879592511377957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ep1_h_wakeup_0: -3415465805124873435
+      SS_Ep1_h_wakeup_1: -3137020964352767789
+      SS_Ep1_h_wakeup_10: -9063879592511377957
+      SS_Ep1_h_wakeup_2: 7493743533292019760
+      SS_Ep1_h_wakeup_3: -1982621596062068697
+      SS_Ep1_h_wakeup_4: -767941621905565000
+      SS_Ep1_h_wakeup_5: 3711378313369958149
+      SS_Ep1_h_wakeup_6: -8748286582824503316
+      SS_Ep1_h_wakeup_7: 391457901663846968
+      SS_Ep1_h_wakeup_8: -4910900958727723090
+      SS_Ep1_h_wakeup_9: -8320809093415854275
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

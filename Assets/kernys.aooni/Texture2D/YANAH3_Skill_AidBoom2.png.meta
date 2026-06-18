@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: ada33b8d6c9494319b2d152f4b76de52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9019242624958200154
+    second: YANAH3_Skill_AidBoom2_0
+  - first:
+      213: 1798177250317016331
+    second: YANAH3_Skill_AidBoom2_1
+  - first:
+      213: 7566742526624104076
+    second: YANAH3_Skill_AidBoom2_2
+  - first:
+      213: 8457030035800802512
+    second: YANAH3_Skill_AidBoom2_3
+  - first:
+      213: -1376061181562208103
+    second: YANAH3_Skill_AidBoom2_4
+  - first:
+      213: -5628570757609336997
+    second: YANAH3_Skill_AidBoom2_5
+  - first:
+      213: 8790933319093315995
+    second: YANAH3_Skill_AidBoom2_6
+  - first:
+      213: -5702513037112740426
+    second: YANAH3_Skill_AidBoom2_7
+  - first:
+      213: 8980413097728060286
+    second: YANAH3_Skill_AidBoom2_8
+  - first:
+      213: -9103120148688606135
+    second: YANAH3_Skill_AidBoom2_9
+  - first:
+      213: 7823545806301172196
+    second: YANAH3_Skill_AidBoom2_10
+  - first:
+      213: -6740200656983701363
+    second: YANAH3_Skill_AidBoom2_11
+  - first:
+      213: 4488777328666011629
+    second: YANAH3_Skill_AidBoom2_12
+  - first:
+      213: -8389649738017119172
+    second: YANAH3_Skill_AidBoom2_13
+  - first:
+      213: -7506764889646226183
+    second: YANAH3_Skill_AidBoom2_14
+  - first:
+      213: 1564090451528407672
+    second: YANAH3_Skill_AidBoom2_15
+  - first:
+      213: 6538879092511672573
+    second: YANAH3_Skill_AidBoom2_16
+  - first:
+      213: -3520543479943370509
+    second: YANAH3_Skill_AidBoom2_17
+  - first:
+      213: -4881285934419130477
+    second: YANAH3_Skill_AidBoom2_18
+  - first:
+      213: 212634826005933721
+    second: YANAH3_Skill_AidBoom2_19
+  - first:
+      213: -7207463184526821911
+    second: YANAH3_Skill_AidBoom2_20
+  - first:
+      213: -6170136697359234153
+    second: YANAH3_Skill_AidBoom2_21
+  - first:
+      213: -3100912019193035690
+    second: YANAH3_Skill_AidBoom2_22
+  - first:
+      213: 1819811351280361439
+    second: YANAH3_Skill_AidBoom2_23
+  - first:
+      213: -6135898001256161392
+    second: YANAH3_Skill_AidBoom2_24
+  - first:
+      213: -4940741978392443946
+    second: YANAH3_Skill_AidBoom2_25
+  - first:
+      213: 3252828671294455078
+    second: YANAH3_Skill_AidBoom2_26
+  - first:
+      213: -9168815728236837918
+    second: YANAH3_Skill_AidBoom2_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 86
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59f1b3a169ca2d70800000000000000
+      internalID: 9019242624958200154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 78
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0d95589ea864f810800000000000000
+      internalID: 1798177250317016331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 49
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e7546dc38720960800000000000000
+      internalID: 7566742526624104076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_3
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 65
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d447b2a2086d5570800000000000000
+      internalID: 8457030035800802512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_4
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 64
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990c7c365af37ece0800000000000000
+      internalID: -1376061181562208103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 58
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f4b87a7bc43e1b0800000000000000
+      internalID: -5628570757609336997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 57
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99e3b0074baff970800000000000000
+      internalID: 8790933319093315995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_7
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 67
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b57cdf1b9a9cd0b0800000000000000
+      internalID: -5702513037112740426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_8
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ba852d126d0ac70800000000000000
+      internalID: 8980413097728060286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_9
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ce6b584783ba180800000000000000
+      internalID: -9103120148688606135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_10
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1149cb571d29c60800000000000000
+      internalID: 7823545806301172196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 57
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88c1ada63ff572a0800000000000000
+      internalID: -6740200656983701363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_12
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 36
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7e6f6a2375b4e30800000000000000
+      internalID: 4488777328666011629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_13
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 20
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c346a87730af19b80800000000000000
+      internalID: -8389649738017119172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_14
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 18
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f4234cfa1d92d790800000000000000
+      internalID: -7506764889646226183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 26
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a5eef8af3c4b510800000000000000
+      internalID: 1564090451528407672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_16
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 47
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df80362e3e3ceba50800000000000000
+      internalID: 6538879092511672573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 15
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f868ad8b54842fc0800000000000000
+      internalID: -3520543479943370509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_18
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 23
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39746d70e40324cb0800000000000000
+      internalID: -4881285934419130477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_19
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 25
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ee5f66f3e63f200800000000000000
+      internalID: 212634826005933721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_20
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5b292ab62f9fb90800000000000000
+      internalID: -7207463184526821911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_21
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 12
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b0d425d554f5aa0800000000000000
+      internalID: -6170136697359234153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_22
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6548248a2f857f4d0800000000000000
+      internalID: -3100912019193035690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_23
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 0
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf1a4f38c4414910800000000000000
+      internalID: 1819811351280361439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fd819f649e8daa0800000000000000
+      internalID: -6135898001256161392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_25
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3ce0b0955fe6bb0800000000000000
+      internalID: -4940741978392443946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_26
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d36bb317e542d20800000000000000
+      internalID: 3252828671294455078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: YANAH3_Skill_AidBoom2_27
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 5
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3cd637ca2d1c080800000000000000
+      internalID: -9168815728236837918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      YANAH3_Skill_AidBoom2_0: 9019242624958200154
+      YANAH3_Skill_AidBoom2_1: 1798177250317016331
+      YANAH3_Skill_AidBoom2_10: 7823545806301172196
+      YANAH3_Skill_AidBoom2_11: -6740200656983701363
+      YANAH3_Skill_AidBoom2_12: 4488777328666011629
+      YANAH3_Skill_AidBoom2_13: -8389649738017119172
+      YANAH3_Skill_AidBoom2_14: -7506764889646226183
+      YANAH3_Skill_AidBoom2_15: 1564090451528407672
+      YANAH3_Skill_AidBoom2_16: 6538879092511672573
+      YANAH3_Skill_AidBoom2_17: -3520543479943370509
+      YANAH3_Skill_AidBoom2_18: -4881285934419130477
+      YANAH3_Skill_AidBoom2_19: 212634826005933721
+      YANAH3_Skill_AidBoom2_2: 7566742526624104076
+      YANAH3_Skill_AidBoom2_20: -7207463184526821911
+      YANAH3_Skill_AidBoom2_21: -6170136697359234153
+      YANAH3_Skill_AidBoom2_22: -3100912019193035690
+      YANAH3_Skill_AidBoom2_23: 1819811351280361439
+      YANAH3_Skill_AidBoom2_24: -6135898001256161392
+      YANAH3_Skill_AidBoom2_25: -4940741978392443946
+      YANAH3_Skill_AidBoom2_26: 3252828671294455078
+      YANAH3_Skill_AidBoom2_27: -9168815728236837918
+      YANAH3_Skill_AidBoom2_3: 8457030035800802512
+      YANAH3_Skill_AidBoom2_4: -1376061181562208103
+      YANAH3_Skill_AidBoom2_5: -5628570757609336997
+      YANAH3_Skill_AidBoom2_6: 8790933319093315995
+      YANAH3_Skill_AidBoom2_7: -5702513037112740426
+      YANAH3_Skill_AidBoom2_8: 8980413097728060286
+      YANAH3_Skill_AidBoom2_9: -9103120148688606135
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
