@@ -1,6 +1,3 @@
-/////////////화살이 시발 발사되는게 아니라 그냥 화살로 찌르는데 이거 수정
-
-
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -20,7 +17,7 @@ public class PlayerController : MonoBehaviour
     private Vector3 _lookDirection = Vector3.down; 
     private SpriteRenderer _spriteRenderer; 
     private Coroutine _attackEffectCoroutine;
-    private Coroutine _arrowEffectCoroutine;    // 👈 에러 해결을 위해 누락된 코루틴 변수 추가 완료!
+    private Coroutine _arrowEffectCoroutine;    
     private Coroutine _backstepEffectCoroutine;
 
     [Header("인간 방향별 스프라이트 등록")]
@@ -54,29 +51,29 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private GameObject arrowEffectObject; 
     [SerializeField] private Image arrowBorderImage;   
     [SerializeField] private Image arrowCoolDownImage;   
-    [SerializeField] private float arrowDuration = 0.2f; 
     [SerializeField] private float arrowCooldown = 1.0f; 
     private float _arrowCooldownTimer = 0f;
     [SerializeField] private int arrowRange = 5;          
+    [SerializeField] private float arrowSpeed = 15f; 
 
+    [Header("--- 아처 백스텝(후방 돌진) 설정 ---")]
     [SerializeField] private GameObject backstepEffectObject; 
     [SerializeField] private Image backstepBorderImage;  
     [SerializeField] private Image backstepCoolDownImage; 
-    [SerializeField] private float backstepDuration = 0.3f; 
+    [SerializeField] private float backstepDuration = 0.12f; 
     [SerializeField] private float backstepCooldown = 5.0f; 
     private float _backstepCooldownTimer = 0f;
+    [SerializeField] private float backstepDistance = 3.0f; 
 
     void Awake()
     {
         _spriteRenderer = GetComponent<SpriteRenderer>();
         
-        // 모든 이펙트 오브젝트 초기 비활성화
         if (swingEffectObject != null) swingEffectObject.SetActive(false);
         if (counterEffectObject != null) counterEffectObject.SetActive(false);
         if (arrowEffectObject != null) arrowEffectObject.SetActive(false);
         if (backstepEffectObject != null) backstepEffectObject.SetActive(false);
 
-        // UI 초기화
         ResetUIState(swingBorderImage, swingCoolDownImage);
         ResetUIState(counterBorderImage, counterCoolDownImage);
         ResetUIState(arrowBorderImage, arrowCoolDownImage);
@@ -87,26 +84,20 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        // 1. 모든 쿨타임 타이머 상시 업데이트 (모드가 바뀌어도 배경에서 쿨타임은 흐르도록 처리)
         if (_swingCooldownTimer > 0) UpdateCooldownUI(ref _swingCooldownTimer, swingCooldown, swingBorderImage, swingCoolDownImage);
         if (_counterCooldownTimer > 0) UpdateCooldownUI(ref _counterCooldownTimer, counterCooldown, counterBorderImage, counterCoolDownImage);
         if (_arrowCooldownTimer > 0) UpdateCooldownUI(ref _arrowCooldownTimer, arrowCooldown, arrowBorderImage, arrowCoolDownImage);
         if (_backstepCooldownTimer > 0) UpdateCooldownUI(ref _backstepCooldownTimer, backstepCooldown, backstepBorderImage, backstepCoolDownImage);
 
-        // 테스트용 모드 전환 키 (예: Tab 키를 누르면 직업이 바뀜)
         if (Keyboard.current.tabKey.wasPressedThisFrame)
         {
             SwitchMode(currentMode == PlayerMode.Chairman ? PlayerMode.Archer : PlayerMode.Chairman);
         }
 
-        // 2. 공통 이동 처리
         HandleMovementInput();
-
-        // 3. 모드별 스킬 처리
         HandleSkillInput();
     }
 
-    // 모드 변경 함수 (외부 매니저나 이벤트에서 호출 가능)
     public void SwitchMode(PlayerMode newMode)
     {
         currentMode = newMode;
@@ -134,13 +125,11 @@ public class PlayerController : MonoBehaviour
     {
         if (currentMode == PlayerMode.Chairman)
         {
-            // 체어맨 스킬 입력
             if (Keyboard.current.jKey.wasPressedThisFrame && _swingCooldownTimer <= 0) TrySwingAttack();
             if (Keyboard.current.kKey.wasPressedThisFrame && _counterCooldownTimer <= 0) TryCounterAttack();
         }
         else if (currentMode == PlayerMode.Archer)
         {
-            // 아처 스킬 입력
             if (Keyboard.current.jKey.wasPressedThisFrame && _arrowCooldownTimer <= 0) TryArrowAttack();
             if (Keyboard.current.kKey.wasPressedThisFrame && _backstepCooldownTimer <= 0) TryBackstep();
         }
@@ -233,6 +222,8 @@ public class PlayerController : MonoBehaviour
     // ==========================================
     // [체어맨 스킬 로직]
     // ==========================================
+    
+    // 🔥 수정: 1스킬 일반 휘두르기는 일반 피격 처리 (카운터 로그 제거)
     private void TrySwingAttack()
     {
         Debug.Log("인간 1스킬 일반 휘두르기 공격 (J키)!");
@@ -255,7 +246,10 @@ public class PlayerController : MonoBehaviour
             {
                 if (zombieX == tile.x && zombieY == tile.y)
                 {
-                    Debug.Log($"좀비가 1스킬(휘두르기)에 맞아 데미지를 입음!");
+                    Debug.Log($"좀비가 1스킬(휘두르기)에 맞아 일반 데미지를 입음! 위치: ({zombieX}, {zombieY})");
+                    // 만약 좀비 내부에서 OnGetHitByPlayer가 카운터 전용 함수라면 
+                    // 일반 데미지용 함수를 새로 호출해야 할 수 있습니다.
+                    zombie.OnGetHitByPlayer(); 
                     break; 
                 }
             }
@@ -289,6 +283,7 @@ public class PlayerController : MonoBehaviour
         swingEffectObject.transform.localRotation = Quaternion.Euler(0f, 0f, angle);
     }
 
+    // 🔥 원복: K스킬은 카운터(반격) 판정 기능 유지
     private void TryCounterAttack()
     {
         Debug.Log("인간 2스킬 카운터 스킬 발동 (K키)!");
@@ -310,7 +305,7 @@ public class PlayerController : MonoBehaviour
             int zombieY = Mathf.RoundToInt(zombie.transform.position.y);
             if ((zombieX == t1X && zombieY == t1Y) || (zombieX == t2X && zombieY == t2Y))
             {
-                zombie.OnGetHitByPlayer();
+                zombie.OnGetHitByPlayer(); // 카운터 판정 처리 함수 호출
                 break; 
             }
         }
@@ -357,12 +352,14 @@ public class PlayerController : MonoBehaviour
     // ==========================================
     private void TryArrowAttack()
     {
-        Debug.Log("인간 1스킬 즉시 관통 화살 발사 (J키)!");
+        Debug.Log("인간 1스킬 관통 화살 발사 (J키)!");
         _arrowCooldownTimer = arrowCooldown;
         if (arrowBorderImage != null) arrowBorderImage.fillAmount = 0f;
 
-        if (_arrowEffectCoroutine != null) StopCoroutine(_arrowEffectCoroutine);
-        _arrowEffectCoroutine = StartCoroutine(ShowArrowEffectRoutine());
+        if (arrowEffectObject != null)
+        {
+            StartCoroutine(LaunchArrowProjectileRoutine());
+        }
 
         int myX = Mathf.RoundToInt(transform.position.x);
         int myY = Mathf.RoundToInt(transform.position.y);
@@ -377,7 +374,7 @@ public class PlayerController : MonoBehaviour
             {
                 if (zombieX == tile.x && zombieY == tile.y)
                 {
-                    Debug.Log($"좀비가 즉시 발사된 관통 화살에 맞아 데미지를 입음! 위치: {tile}");
+                    Debug.Log($"좀비가 관통 화살 영역에 포함되어 데미지를 입음! 위치: {tile}");
                     zombie.OnGetHitByPlayer();
                     break; 
                 }
@@ -385,24 +382,50 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-    private IEnumerator ShowArrowEffectRoutine()
+    private IEnumerator LaunchArrowProjectileRoutine()
     {
-        if (arrowEffectObject == null) yield break;
-        arrowEffectObject.transform.localPosition = _lookDirection * 0.5f;
-        if (_lookDirection == Vector3.right) arrowEffectObject.transform.localRotation = Quaternion.Euler(0f, 0f, 0f);
-        else if (_lookDirection == Vector3.left) arrowEffectObject.transform.localRotation = Quaternion.Euler(0f, 0f, 180f);
-        else if (_lookDirection == Vector3.up) arrowEffectObject.transform.localRotation = Quaternion.Euler(0f, 0f, 90f);
-        else if (_lookDirection == Vector3.down) arrowEffectObject.transform.localRotation = Quaternion.Euler(0f, 0f, -90f);
+        GameObject arrowInstance = Instantiate(arrowEffectObject, transform.position, Quaternion.identity);
+        arrowInstance.SetActive(true);
 
-        arrowEffectObject.SetActive(true);
-        yield return new WaitForSeconds(arrowDuration);
-        arrowEffectObject.SetActive(false);
+        if (_lookDirection == Vector3.right) arrowInstance.transform.localRotation = Quaternion.Euler(0f, 0f, 0f);
+        else if (_lookDirection == Vector3.left) arrowInstance.transform.localRotation = Quaternion.Euler(0f, 0f, 180f);
+        else if (_lookDirection == Vector3.up) arrowInstance.transform.localRotation = Quaternion.Euler(0f, 0f, 90f);
+        else if (_lookDirection == Vector3.down) arrowInstance.transform.localRotation = Quaternion.Euler(0f, 0f, -90f);
+
+        SpriteRenderer arrowSr = arrowInstance.GetComponent<SpriteRenderer>();
+        if (arrowSr != null && _spriteRenderer != null)
+        {
+            arrowSr.sortingOrder = _spriteRenderer.sortingOrder + 2;
+        }
+
+        Vector3 startPos = transform.position;
+        Vector3 targetPos = startPos + (_lookDirection * arrowRange);
+        
+        float distance = Vector3.Distance(startPos, targetPos);
+        float duration = distance / arrowSpeed;
+        float elapsedTime = 0f;
+
+        while (elapsedTime < duration)
+        {
+            if (arrowInstance == null) yield break;
+
+            elapsedTime += Time.deltaTime;
+            arrowInstance.transform.position = Vector3.Lerp(startPos, targetPos, elapsedTime / duration);
+            yield return null;
+        }
+
+        if (arrowInstance != null)
+        {
+            arrowInstance.transform.position = targetPos;
+            Destroy(arrowInstance);
+        }
     }
 
     private void TryBackstep()
     {
         if (_isMoving) return;
-        Debug.Log("인간 2스킬 백스텝 (K키)!");
+
+        Debug.Log("인간 2스킬 후방 대시 발동 (K키)!");
         _backstepCooldownTimer = backstepCooldown;
         if (backstepBorderImage != null) backstepBorderImage.fillAmount = 0f;
 
@@ -410,10 +433,9 @@ public class PlayerController : MonoBehaviour
         _backstepEffectCoroutine = StartCoroutine(ShowBackstepEffectRoutine());
 
         Vector3 backstepDirection = -_lookDirection;
-        Vector3 targetPos = transform.position + backstepDirection;
+        Vector3 finalTargetPos = FindValidBackstepPosition(transform.position, backstepDirection, Mathf.RoundToInt(backstepDistance));
 
-        if (IsValidMoveTarget(targetPos)) StartCoroutine(MovePlayerBackstep(targetPos));
-        else Debug.Log("뒤가 막혀있어 백스텝 이동이 불발되었습니다.");
+        StartCoroutine(ExecuteBackstepDash(finalTargetPos));
     }
 
     private IEnumerator ShowBackstepEffectRoutine()
@@ -425,21 +447,44 @@ public class PlayerController : MonoBehaviour
         backstepEffectObject.SetActive(false);
     }
 
-    private IEnumerator MovePlayerBackstep(Vector3 targetPos)
+    private IEnumerator ExecuteBackstepDash(Vector3 destination)
     {
         _isMoving = true;
-        float elapsedTime = 0;
-        _origPos = transform.position;
-        _targetPos = targetPos;
+        float elapsedTime = 0f;
+        Vector3 startPos = transform.position;
+
         while (elapsedTime < backstepDuration)
         {
             elapsedTime += Time.deltaTime;
-            transform.position = Vector3.Lerp(_origPos, _targetPos, elapsedTime / backstepDuration);
+            
+            float t = elapsedTime / backstepDuration;
+            t = Mathf.Sin(t * Mathf.PI * 0.5f); 
+
+            transform.position = Vector3.Lerp(startPos, destination, t);
             yield return null;
         }
-        transform.position = _targetPos;
+
+        transform.position = new Vector3(Mathf.Round(destination.x), Mathf.Round(destination.y), destination.z);
         UpdateGridSortingOrder();
         _isMoving = false;
+    }
+
+    private Vector3 FindValidBackstepPosition(Vector3 startPos, Vector3 direction, int maxDistance)
+    {
+        Vector3 lastValidPos = startPos;
+        for (int i = 1; i <= maxDistance; i++)
+        {
+            Vector3 testPos = startPos + (direction * i);
+            if (IsValidMoveTarget(testPos))
+            {
+                lastValidPos = testPos;
+            }
+            else
+            {
+                break; 
+            }
+        }
+        return lastValidPos;
     }
 
     private bool IsValidMoveTarget(Vector3 targetPos)
