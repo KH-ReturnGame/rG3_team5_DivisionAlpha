@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: d8695e1bf1ddb4690b6ee8f4bc03f7ef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -584116840908261836
+    second: InfEvo_Flashlight2_angry_4_0
+  - first:
+      213: -1484468941632855046
+    second: InfEvo_Flashlight2_angry_4_1
+  - first:
+      213: 2337863172292993296
+    second: InfEvo_Flashlight2_angry_4_2
+  - first:
+      213: 219158365847935700
+    second: InfEvo_Flashlight2_angry_4_3
+  - first:
+      213: -7014325149499526867
+    second: InfEvo_Flashlight2_angry_4_4
+  - first:
+      213: 441121466977179275
+    second: InfEvo_Flashlight2_angry_4_5
+  - first:
+      213: -3603382019659439264
+    second: InfEvo_Flashlight2_angry_4_6
+  - first:
+      213: 3683465442645794960
+    second: InfEvo_Flashlight2_angry_4_7
+  - first:
+      213: -3322516226028837230
+    second: InfEvo_Flashlight2_angry_4_8
+  - first:
+      213: -8210538327461849681
+    second: InfEvo_Flashlight2_angry_4_9
+  - first:
+      213: 8930997716344274926
+    second: InfEvo_Flashlight2_angry_4_10
+  - first:
+      213: -3392878699406103932
+    second: InfEvo_Flashlight2_angry_4_11
+  - first:
+      213: -2921110748732967745
+    second: InfEvo_Flashlight2_angry_4_12
+  - first:
+      213: -1826293532121402419
+    second: InfEvo_Flashlight2_angry_4_13
+  - first:
+      213: -1433633246908155457
+    second: InfEvo_Flashlight2_angry_4_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 243
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436f656f3dcc4e7f0800000000000000
+      internalID: -584116840908261836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 260
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3afd5dc5b166be0800000000000000
+      internalID: -1484468941632855046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 194
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011edfd2b22c17020800000000000000
+      internalID: 2337863172292993296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 261
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dadbe16f5b9a0300800000000000000
+      internalID: 219158365847935700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 200
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d21fdf4a07c18ae90800000000000000
+      internalID: -7014325149499526867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 179
+        width: 10
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8659f513ad2f1600800000000000000
+      internalID: 441121466977179275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 132
+        width: 22
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0636b2805273efdc0800000000000000
+      internalID: -3603382019659439264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_7
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 175
+        width: 8
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0906453ed4c4e1330800000000000000
+      internalID: 3683465442645794960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 135
+        width: 43
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296641b881d04e1d0800000000000000
+      internalID: -3322516226028837230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 27
+        width: 39
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa518e874ee4e0e80800000000000000
+      internalID: -8210538327461849681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 160
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef7684ca1741fb70800000000000000
+      internalID: 8930997716344274926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ae8e39cc21ae0d0800000000000000
+      internalID: -3392878699406103932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_12
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 42
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4323030412677d0800000000000000
+      internalID: -2921110748732967745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 108
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc37f4a65b3b7a6e0800000000000000
+      internalID: -1826293532121402419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Flashlight2_angry_4_14
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 103
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb979db5826ba1ce0800000000000000
+      internalID: -1433633246908155457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InfEvo_Flashlight2_angry_4_0: -584116840908261836
+      InfEvo_Flashlight2_angry_4_1: -1484468941632855046
+      InfEvo_Flashlight2_angry_4_10: 8930997716344274926
+      InfEvo_Flashlight2_angry_4_11: -3392878699406103932
+      InfEvo_Flashlight2_angry_4_12: -2921110748732967745
+      InfEvo_Flashlight2_angry_4_13: -1826293532121402419
+      InfEvo_Flashlight2_angry_4_14: -1433633246908155457
+      InfEvo_Flashlight2_angry_4_2: 2337863172292993296
+      InfEvo_Flashlight2_angry_4_3: 219158365847935700
+      InfEvo_Flashlight2_angry_4_4: -7014325149499526867
+      InfEvo_Flashlight2_angry_4_5: 441121466977179275
+      InfEvo_Flashlight2_angry_4_6: -3603382019659439264
+      InfEvo_Flashlight2_angry_4_7: 3683465442645794960
+      InfEvo_Flashlight2_angry_4_8: -3322516226028837230
+      InfEvo_Flashlight2_angry_4_9: -8210538327461849681
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

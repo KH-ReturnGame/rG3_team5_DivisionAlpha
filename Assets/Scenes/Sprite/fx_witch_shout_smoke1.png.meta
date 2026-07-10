@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: cd13c0957d7884ff8b434b6fb75f93b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1047593784009568373
+    second: fx_witch_shout_smoke1_0
+  - first:
+      213: 8693399177197891694
+    second: fx_witch_shout_smoke1_1
+  - first:
+      213: 3939160525579543534
+    second: fx_witch_shout_smoke1_2
+  - first:
+      213: -2328195861103840799
+    second: fx_witch_shout_smoke1_3
+  - first:
+      213: 3878211688489229063
+    second: fx_witch_shout_smoke1_4
+  - first:
+      213: -4659293621161397782
+    second: fx_witch_shout_smoke1_5
+  - first:
+      213: 2913757589673938523
+    second: fx_witch_shout_smoke1_6
+  - first:
+      213: 6340349620801741656
+    second: fx_witch_shout_smoke1_7
+  - first:
+      213: 7983987755448605092
+    second: fx_witch_shout_smoke1_8
+  - first:
+      213: 2617781568094650519
+    second: fx_witch_shout_smoke1_9
+  - first:
+      213: 4427063262415256275
+    second: fx_witch_shout_smoke1_10
+  - first:
+      213: -7025708512470414137
+    second: fx_witch_shout_smoke1_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fx_witch_shout_smoke1_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 134
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fc33bf0033671f0800000000000000
+      internalID: -1047593784009568373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_witch_shout_smoke1_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 168
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60bd87fd7825a870800000000000000
+      internalID: 8693399177197891694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_witch_shout_smoke1_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 156
+        width: 51
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3e860a0a5baa630800000000000000
+      internalID: 3939160525579543534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_witch_shout_smoke1_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 113
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1fe5b133690bfd0800000000000000
+      internalID: -2328195861103840799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_witch_shout_smoke1_4
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 120
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b1b28abfc22d530800000000000000
+      internalID: 3878211688489229063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_witch_shout_smoke1_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 68
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae17e66332dd65fb0800000000000000
+      internalID: -4659293621161397782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_witch_shout_smoke1_6
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 49
+        width: 16
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e0d1e071fbf6820800000000000000
+      internalID: 2913757589673938523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_witch_shout_smoke1_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 51
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853aba333627df750800000000000000
+      internalID: 6340349620801741656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_witch_shout_smoke1_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a915960092dcce60800000000000000
+      internalID: 7983987755448605092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_witch_shout_smoke1_9
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 37
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790c8d1777a345420800000000000000
+      internalID: 2617781568094650519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_witch_shout_smoke1_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da7172e496107d30800000000000000
+      internalID: 4427063262415256275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fx_witch_shout_smoke1_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 61
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc43cae45baf7e90800000000000000
+      internalID: -7025708512470414137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fx_witch_shout_smoke1_0: -1047593784009568373
+      fx_witch_shout_smoke1_1: 8693399177197891694
+      fx_witch_shout_smoke1_10: 4427063262415256275
+      fx_witch_shout_smoke1_11: -7025708512470414137
+      fx_witch_shout_smoke1_2: 3939160525579543534
+      fx_witch_shout_smoke1_3: -2328195861103840799
+      fx_witch_shout_smoke1_4: 3878211688489229063
+      fx_witch_shout_smoke1_5: -4659293621161397782
+      fx_witch_shout_smoke1_6: 2913757589673938523
+      fx_witch_shout_smoke1_7: 6340349620801741656
+      fx_witch_shout_smoke1_8: 7983987755448605092
+      fx_witch_shout_smoke1_9: 2617781568094650519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
