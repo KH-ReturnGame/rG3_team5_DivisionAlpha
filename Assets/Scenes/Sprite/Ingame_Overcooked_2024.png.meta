@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: d5f8dbb4fbcba410180174a32bbde7e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2099260323732769886
+    second: Ingame_Overcooked_2024_0
+  - first:
+      213: -7228847318478482615
+    second: Ingame_Overcooked_2024_1
+  - first:
+      213: -5178877378567031326
+    second: Ingame_Overcooked_2024_2
+  - first:
+      213: -155451469092732713
+    second: Ingame_Overcooked_2024_3
+  - first:
+      213: 7578213940536313130
+    second: Ingame_Overcooked_2024_4
+  - first:
+      213: 4869784352126203055
+    second: Ingame_Overcooked_2024_5
+  - first:
+      213: 6692491763043054121
+    second: Ingame_Overcooked_2024_6
+  - first:
+      213: -8966166193342814255
+    second: Ingame_Overcooked_2024_7
+  - first:
+      213: 2659041091845469290
+    second: Ingame_Overcooked_2024_8
+  - first:
+      213: -9078147933097854228
+    second: Ingame_Overcooked_2024_9
+  - first:
+      213: 1322778787208408483
+    second: Ingame_Overcooked_2024_10
+  - first:
+      213: -5415621529385730176
+    second: Ingame_Overcooked_2024_11
+  - first:
+      213: -6036384318591587748
+    second: Ingame_Overcooked_2024_12
+  - first:
+      213: -3367825889589974193
+    second: Ingame_Overcooked_2024_13
+  - first:
+      213: -2251740714277497271
+    second: Ingame_Overcooked_2024_14
+  - first:
+      213: -3146203962721589944
+    second: Ingame_Overcooked_2024_15
+  - first:
+      213: -2177082577001248037
+    second: Ingame_Overcooked_2024_16
+  - first:
+      213: 5061606215535484440
+    second: Ingame_Overcooked_2024_17
+  - first:
+      213: 6669650245851502305
+    second: Ingame_Overcooked_2024_18
+  - first:
+      213: 4356491996354794942
+    second: Ingame_Overcooked_2024_19
+  - first:
+      213: 4563087530974153060
+    second: Ingame_Overcooked_2024_20
+  - first:
+      213: -5296844633509192613
+    second: Ingame_Overcooked_2024_21
+  - first:
+      213: 2460354910376558497
+    second: Ingame_Overcooked_2024_22
+  - first:
+      213: -4517142758489092849
+    second: Ingame_Overcooked_2024_23
+  - first:
+      213: 8539617843142818179
+    second: Ingame_Overcooked_2024_24
+  - first:
+      213: -4892115580546599846
+    second: Ingame_Overcooked_2024_25
+  - first:
+      213: 3018650354389724254
+    second: Ingame_Overcooked_2024_26
+  - first:
+      213: 9073296211087227339
+    second: Ingame_Overcooked_2024_27
+  - first:
+      213: 3362747082324115477
+    second: Ingame_Overcooked_2024_28
+  - first:
+      213: 2806502852784238242
+    second: Ingame_Overcooked_2024_29
+  - first:
+      213: 1544972935261705306
+    second: Ingame_Overcooked_2024_30
+  - first:
+      213: 2583495809375406978
+    second: Ingame_Overcooked_2024_31
+  - first:
+      213: -4174712619035312211
+    second: Ingame_Overcooked_2024_32
+  - first:
+      213: -5880269936021566301
+    second: Ingame_Overcooked_2024_33
+  - first:
+      213: 4185579597464255750
+    second: Ingame_Overcooked_2024_34
+  - first:
+      213: 115050600923370760
+    second: Ingame_Overcooked_2024_35
+  - first:
+      213: 4352833759111265703
+    second: Ingame_Overcooked_2024_36
+  - first:
+      213: -8796706539765128003
+    second: Ingame_Overcooked_2024_37
+  - first:
+      213: -4942793135995130110
+    second: Ingame_Overcooked_2024_38
+  - first:
+      213: 1546181781562896639
+    second: Ingame_Overcooked_2024_39
+  - first:
+      213: -1158860973078324491
+    second: Ingame_Overcooked_2024_40
+  - first:
+      213: 5571755401865898846
+    second: Ingame_Overcooked_2024_41
+  - first:
+      213: -744438445364904504
+    second: Ingame_Overcooked_2024_42
+  - first:
+      213: 8665719351363374317
+    second: Ingame_Overcooked_2024_43
+  - first:
+      213: -8615446325934745677
+    second: Ingame_Overcooked_2024_44
+  - first:
+      213: -4323267178818216847
+    second: Ingame_Overcooked_2024_45
+  - first:
+      213: 596057562869128414
+    second: Ingame_Overcooked_2024_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 209
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cc92f5422122d10800000000000000
+      internalID: 2099260323732769886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 206
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9431e86f9a9fdab90800000000000000
+      internalID: -7228847318478482615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_2
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 236
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5b43b867ee028b0800000000000000
+      internalID: -5178877378567031326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 197
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d04ae466b9b7ddf0800000000000000
+      internalID: -155451469092732713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 223
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2584958d693b2960800000000000000
+      internalID: 7578213940536313130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_5
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 224
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4fc392113f49340800000000000000
+      internalID: 4869784352126203055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 212
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922b866dcc180ec50800000000000000
+      internalID: 6692491763043054121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 201
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d76fa81a57c19380800000000000000
+      internalID: -8966166193342814255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_8
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 203
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64bd9ae8cfc6e420800000000000000
+      internalID: 2659041091845469290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 167
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea714d8d80f30280800000000000000
+      internalID: -9078147933097854228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 167
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adaaff6c447b5210800000000000000
+      internalID: 1322778787208408483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_11
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 158
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f710789e8d7d4b0800000000000000
+      internalID: -5415621529385730176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_12
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 176
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a2c92c1747a3ca0800000000000000
+      internalID: -6036384318591587748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 182
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b20a962341341d0800000000000000
+      internalID: -3367825889589974193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_14
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 161
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946943720c530c0e0800000000000000
+      internalID: -2251740714277497271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845ad0b4a207654d0800000000000000
+      internalID: -3146203962721589944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 125
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda062f4ee279c1e0800000000000000
+      internalID: -2177082577001248037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_17
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 119
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ed6e519007e3640800000000000000
+      internalID: 5061606215535484440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_18
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 148
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e65310bf8b5f8c50800000000000000
+      internalID: 6669650245851502305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_19
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 119
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb55f85936e557c30800000000000000
+      internalID: 4356491996354794942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_20
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 140
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4698ab2eee7535f30800000000000000
+      internalID: 4563087530974153060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c1045aed3dd76b0800000000000000
+      internalID: -5296844633509192613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 83
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aff16661cfe42220800000000000000
+      internalID: 2460354910376558497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_23
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 80
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d87801892ef41c0800000000000000
+      internalID: -4517142758489092849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_24
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 80
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3897d1afe21d28670800000000000000
+      internalID: 8539617843142818179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_25
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 119
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54bd5d8cc6bb1cb0800000000000000
+      internalID: -4892115580546599846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_26
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 80
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ca18af08664e920800000000000000
+      internalID: 3018650354389724254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 119
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc970c3e4d2daed70800000000000000
+      internalID: 9073296211087227339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_28
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 80
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510096f97a0eaae20800000000000000
+      internalID: 3362747082324115477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_29
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 80
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae2351a973b2f620800000000000000
+      internalID: 2806502852784238242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 41
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54ddd1f2b8d07510800000000000000
+      internalID: 1544972935261705306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 41
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b088c20cb6ad320800000000000000
+      internalID: 2583495809375406978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_32
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 41
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf3f07ddf07016c0800000000000000
+      internalID: -4174712619035312211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_33
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 41
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac8600f5a5156ea0800000000000000
+      internalID: -5880269936021566301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_34
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 41
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dbafdb77a261a30800000000000000
+      internalID: 4185579597464255750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_35
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 41
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8059b3779edb89100800000000000000
+      internalID: 115050600923370760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_36
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 41
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adb72add3f586c30800000000000000
+      internalID: 4352833759111265703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 80
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4a1ff4202dbe580800000000000000
+      internalID: -8796706539765128003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_38
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 41
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f65c2b4dba76bb0800000000000000
+      internalID: -4942793135995130110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0bc386324257510800000000000000
+      internalID: 1546181781562896639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_40
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa5a9bb516eaefe0800000000000000
+      internalID: -1158860973078324491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ba49f740ad25d40800000000000000
+      internalID: 5571755401865898846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_42
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd71ea9d293ba5f0800000000000000
+      internalID: -744438445364904504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec0e3d46d1d24870800000000000000
+      internalID: 8665719351363374317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_44
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 0
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b717319639cf6880800000000000000
+      internalID: -8615446325934745677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_45
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c5f61186ba004c0800000000000000
+      internalID: -4323267178818216847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ingame_Overcooked_2024_46
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcdf74023f954800800000000000000
+      internalID: 596057562869128414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Ingame_Overcooked_2024_0: 2099260323732769886
+      Ingame_Overcooked_2024_1: -7228847318478482615
+      Ingame_Overcooked_2024_10: 1322778787208408483
+      Ingame_Overcooked_2024_11: -5415621529385730176
+      Ingame_Overcooked_2024_12: -6036384318591587748
+      Ingame_Overcooked_2024_13: -3367825889589974193
+      Ingame_Overcooked_2024_14: -2251740714277497271
+      Ingame_Overcooked_2024_15: -3146203962721589944
+      Ingame_Overcooked_2024_16: -2177082577001248037
+      Ingame_Overcooked_2024_17: 5061606215535484440
+      Ingame_Overcooked_2024_18: 6669650245851502305
+      Ingame_Overcooked_2024_19: 4356491996354794942
+      Ingame_Overcooked_2024_2: -5178877378567031326
+      Ingame_Overcooked_2024_20: 4563087530974153060
+      Ingame_Overcooked_2024_21: -5296844633509192613
+      Ingame_Overcooked_2024_22: 2460354910376558497
+      Ingame_Overcooked_2024_23: -4517142758489092849
+      Ingame_Overcooked_2024_24: 8539617843142818179
+      Ingame_Overcooked_2024_25: -4892115580546599846
+      Ingame_Overcooked_2024_26: 3018650354389724254
+      Ingame_Overcooked_2024_27: 9073296211087227339
+      Ingame_Overcooked_2024_28: 3362747082324115477
+      Ingame_Overcooked_2024_29: 2806502852784238242
+      Ingame_Overcooked_2024_3: -155451469092732713
+      Ingame_Overcooked_2024_30: 1544972935261705306
+      Ingame_Overcooked_2024_31: 2583495809375406978
+      Ingame_Overcooked_2024_32: -4174712619035312211
+      Ingame_Overcooked_2024_33: -5880269936021566301
+      Ingame_Overcooked_2024_34: 4185579597464255750
+      Ingame_Overcooked_2024_35: 115050600923370760
+      Ingame_Overcooked_2024_36: 4352833759111265703
+      Ingame_Overcooked_2024_37: -8796706539765128003
+      Ingame_Overcooked_2024_38: -4942793135995130110
+      Ingame_Overcooked_2024_39: 1546181781562896639
+      Ingame_Overcooked_2024_4: 7578213940536313130
+      Ingame_Overcooked_2024_40: -1158860973078324491
+      Ingame_Overcooked_2024_41: 5571755401865898846
+      Ingame_Overcooked_2024_42: -744438445364904504
+      Ingame_Overcooked_2024_43: 8665719351363374317
+      Ingame_Overcooked_2024_44: -8615446325934745677
+      Ingame_Overcooked_2024_45: -4323267178818216847
+      Ingame_Overcooked_2024_46: 596057562869128414
+      Ingame_Overcooked_2024_5: 4869784352126203055
+      Ingame_Overcooked_2024_6: 6692491763043054121
+      Ingame_Overcooked_2024_7: -8966166193342814255
+      Ingame_Overcooked_2024_8: 2659041091845469290
+      Ingame_Overcooked_2024_9: -9078147933097854228
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
