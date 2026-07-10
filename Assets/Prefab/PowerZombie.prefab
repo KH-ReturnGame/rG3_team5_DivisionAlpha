@@ -249,10 +249,10 @@ GameObject:
   m_Component:
   - component: {fileID: 5942738293028034702}
   - component: {fileID: 8077559904310342258}
-  - component: {fileID: 4066935407173767132}
-  - component: {fileID: 4008539754954775951}
   - component: {fileID: 9191966617947795249}
   - component: {fileID: 2599889473382938779}
+  - component: {fileID: 7117247065359254121}
+  - component: {fileID: 3494289122214583726}
   m_Layer: 6
   m_Name: PowerZombie
   m_TagString: PowerZombie
@@ -335,61 +335,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 1
---- !u!114 &4066935407173767132
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7992036884639714173}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 69555f647cf87324489ff92bfce76a19, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::ZombieAI
-  playerTransform: {fileID: 0}
-  showGizmosConstantly: 1
-  defeatScore: 250
-  timeToMove: 0.26
-  attackDamage: 25
-  explosionDamage: 30
-  detectionRangeX: 4
-  detectionRangeY: 4
-  n_triggerFrontSteps: 2
-  m_attackWidth: 1
-  k_attackHeight: 5
-  transparentWallTilemap: {fileID: 0}
-  spriteDefault: {fileID: 4508788842524621967, guid: 865fcfa49c6ff419d9b326f74273a1af, type: 3}
-  spriteUp: {fileID: -4054209312704793879, guid: 8e72f37765c2b4cfbba81b51dfb06eba, type: 3}
-  spriteDown: {fileID: 4508788842524621967, guid: 865fcfa49c6ff419d9b326f74273a1af, type: 3}
-  spriteLeft: {fileID: -4304611527826027063, guid: 8e72f37765c2b4cfbba81b51dfb06eba, type: 3}
-  warningSquarePrefab: {fileID: 5089703878870456251, guid: cddf8146ce45ec2469334c09b08a310c, type: 3}
-  attackCooldown: 5
-  runningSteps: 5
-  runningTimeToMove: 0.15
-  labGlassSprite: {fileID: 0}
-  kendoDashDistance: 3
-  kendoDashCooldown: 5
-  kendoDashTimeToMove: 0.15
-  angryDashTimeToMove: 0.09
---- !u!114 &4008539754954775951
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7992036884639714173}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d073fd5f871ca9740bceb374e1b19d88, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::HealthBar
-  isZombie: 1
-  maxHealth: 70
-  hpSlider: {fileID: 428373155644752314}
-  backgroundImage: {fileID: 5544807593301007884}
-  fillImage: {fileID: 621440973531071812}
-  hpText: {fileID: 0}
 --- !u!58 &9191966617947795249
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -453,6 +398,61 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &7117247065359254121
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992036884639714173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d6845046ad4c840b58dc565d92a292, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ZombieAI2_0
+  playerTransform: {fileID: 0}
+  showGizmosConstantly: 1
+  defeatScore: 500
+  timeToMove: 0.25
+  attackDamage: 20
+  explosionDamage: 30
+  detectionRangeX: 4
+  detectionRangeY: 4
+  n_triggerFrontSteps: 3
+  m_attackWidth: 1
+  k_attackHeight: 5
+  transparentWallTilemap: {fileID: 0}
+  spriteDefault: {fileID: 4508788842524621967, guid: 865fcfa49c6ff419d9b326f74273a1af, type: 3}
+  spriteUp: {fileID: -4054209312704793879, guid: 8e72f37765c2b4cfbba81b51dfb06eba, type: 3}
+  spriteDown: {fileID: 4508788842524621967, guid: 865fcfa49c6ff419d9b326f74273a1af, type: 3}
+  spriteLeft: {fileID: -4304611527826027063, guid: 8e72f37765c2b4cfbba81b51dfb06eba, type: 3}
+  warningSquarePrefab: {fileID: 5970259201331312636, guid: ba4e0aa86f298cc4fa5c4ad4ae8a9edc, type: 3}
+  attackCooldown: 5
+  runningSteps: 5
+  runningTimeToMove: 0.15
+  labGlassSprite: {fileID: 0}
+  kendoDashDistance: 3
+  kendoDashCooldown: 5
+  kendoDashTimeToMove: 0.15
+  angryDashTimeToMove: 0.09
+--- !u!114 &3494289122214583726
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7992036884639714173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ab1aad5602bdf4ba932e8dfe1bed67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HealthBar
+  isZombie: 1
+  maxHealth: 200
+  hpSlider: {fileID: 428373155644752314}
+  backgroundImage: {fileID: 5544807593301007884}
+  fillImage: {fileID: 621440973531071812}
+  hpText: {fileID: 0}
 --- !u!1 &8095656420237256607
 GameObject:
   m_ObjectHideFlags: 0
