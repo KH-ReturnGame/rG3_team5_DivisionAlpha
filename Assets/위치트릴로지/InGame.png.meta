@@ -1,0 +1,2821 @@
+fileFormatVersion: 2
+guid: 1940f2f48618f4d34b47972639b10ff8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7389731769154398059
+    second: InGame_0
+  - first:
+      213: -8110604192274495242
+    second: InGame_1
+  - first:
+      213: 7019390443833437035
+    second: InGame_2
+  - first:
+      213: 6474765948616435434
+    second: InGame_3
+  - first:
+      213: -5452760758335965110
+    second: InGame_4
+  - first:
+      213: -2146657262215478960
+    second: InGame_5
+  - first:
+      213: 4628592062417212368
+    second: InGame_6
+  - first:
+      213: -2727471280152434079
+    second: InGame_7
+  - first:
+      213: -7268409382264587644
+    second: InGame_8
+  - first:
+      213: 8440046017175149855
+    second: InGame_9
+  - first:
+      213: -1453591893072441824
+    second: InGame_10
+  - first:
+      213: 495431411744214706
+    second: InGame_11
+  - first:
+      213: 6501748240679202930
+    second: InGame_12
+  - first:
+      213: -5793108078985503090
+    second: InGame_13
+  - first:
+      213: -899893866627607031
+    second: InGame_14
+  - first:
+      213: 2483860711515577326
+    second: InGame_15
+  - first:
+      213: 6749029372849291055
+    second: InGame_16
+  - first:
+      213: -3711304789066408062
+    second: InGame_17
+  - first:
+      213: 6270570563878371990
+    second: InGame_18
+  - first:
+      213: 7072540980917428193
+    second: InGame_19
+  - first:
+      213: 6161703938289709039
+    second: InGame_20
+  - first:
+      213: 8933144983733907381
+    second: InGame_21
+  - first:
+      213: -5303530742262015688
+    second: InGame_22
+  - first:
+      213: -6635715455001179592
+    second: InGame_23
+  - first:
+      213: -7240357558087693580
+    second: InGame_24
+  - first:
+      213: -9020900638433346195
+    second: InGame_25
+  - first:
+      213: 4932337348225899495
+    second: InGame_26
+  - first:
+      213: 7612242541472100931
+    second: InGame_27
+  - first:
+      213: -5685977464927535226
+    second: InGame_28
+  - first:
+      213: 9087037455740120125
+    second: InGame_29
+  - first:
+      213: -7478773974236243412
+    second: InGame_30
+  - first:
+      213: -7531808561786897296
+    second: InGame_31
+  - first:
+      213: -1592384069792769203
+    second: InGame_32
+  - first:
+      213: 8023490537958986824
+    second: InGame_33
+  - first:
+      213: 5171957813564431826
+    second: InGame_34
+  - first:
+      213: -6929382610849106885
+    second: InGame_35
+  - first:
+      213: -4246977126963609111
+    second: InGame_36
+  - first:
+      213: 3730518753005238049
+    second: InGame_37
+  - first:
+      213: -6140824230732031208
+    second: InGame_38
+  - first:
+      213: 7200004923576280255
+    second: InGame_39
+  - first:
+      213: -1432415947965233263
+    second: InGame_40
+  - first:
+      213: 9017100418933805532
+    second: InGame_41
+  - first:
+      213: 8504225083735174980
+    second: InGame_42
+  - first:
+      213: 843222758863941651
+    second: InGame_43
+  - first:
+      213: 5089853753739771902
+    second: InGame_44
+  - first:
+      213: -4881956998740043772
+    second: InGame_45
+  - first:
+      213: 5131966963723261333
+    second: InGame_46
+  - first:
+      213: -4408349023304790395
+    second: InGame_47
+  - first:
+      213: 7023973519658580912
+    second: InGame_48
+  - first:
+      213: -3987457202923363124
+    second: InGame_49
+  - first:
+      213: -235193416951849701
+    second: InGame_50
+  - first:
+      213: 1741251174246407783
+    second: InGame_51
+  - first:
+      213: 1571782444369435064
+    second: InGame_52
+  - first:
+      213: -5083619846822682920
+    second: InGame_53
+  - first:
+      213: 7191381173732617659
+    second: InGame_54
+  - first:
+      213: -8956273142697783412
+    second: InGame_55
+  - first:
+      213: -4326575733433993102
+    second: InGame_56
+  - first:
+      213: 4844707238518809166
+    second: InGame_57
+  - first:
+      213: 4055859560065190567
+    second: InGame_58
+  - first:
+      213: 2007810603678275857
+    second: InGame_59
+  - first:
+      213: 4738469648395757971
+    second: InGame_60
+  - first:
+      213: 4243223820265843496
+    second: InGame_61
+  - first:
+      213: 4805813584300968628
+    second: InGame_62
+  - first:
+      213: 7602248015112613317
+    second: InGame_63
+  - first:
+      213: -8422980872621848892
+    second: InGame_64
+  - first:
+      213: -5980593295859095602
+    second: InGame_65
+  - first:
+      213: -6975337847224536663
+    second: InGame_66
+  - first:
+      213: 3795195048127492360
+    second: InGame_67
+  - first:
+      213: -1415831321421855955
+    second: InGame_68
+  - first:
+      213: 5402721311445494396
+    second: InGame_69
+  - first:
+      213: 9074318743981450509
+    second: InGame_70
+  - first:
+      213: 5610173273313202957
+    second: InGame_71
+  - first:
+      213: 7718682744004775195
+    second: InGame_72
+  - first:
+      213: 3084951373725690147
+    second: InGame_73
+  - first:
+      213: -7220732620456806728
+    second: InGame_74
+  - first:
+      213: 5004851329547944918
+    second: InGame_75
+  - first:
+      213: 2461536879866904381
+    second: InGame_76
+  - first:
+      213: 6498980823862044196
+    second: InGame_77
+  - first:
+      213: -6167591268568754160
+    second: InGame_78
+  - first:
+      213: -3355263449406718449
+    second: InGame_79
+  - first:
+      213: -8747145783982561064
+    second: InGame_80
+  - first:
+      213: -4044290079234931140
+    second: InGame_81
+  - first:
+      213: 7509773538471555075
+    second: InGame_82
+  - first:
+      213: -8111439103811600159
+    second: InGame_83
+  - first:
+      213: 4732545401489892082
+    second: InGame_84
+  - first:
+      213: 4216326868155027865
+    second: InGame_85
+  - first:
+      213: -7358100005130096137
+    second: InGame_86
+  - first:
+      213: -7990213721687285515
+    second: InGame_87
+  - first:
+      213: -9121345271773334069
+    second: InGame_88
+  - first:
+      213: -2568220666483154956
+    second: InGame_89
+  - first:
+      213: 28749320822976919
+    second: InGame_90
+  - first:
+      213: -4813481519291996876
+    second: InGame_91
+  - first:
+      213: 1778735934260351008
+    second: InGame_92
+  - first:
+      213: 1976730319223342454
+    second: InGame_93
+  - first:
+      213: -5518715604355231226
+    second: InGame_94
+  - first:
+      213: 4790726702032766708
+    second: InGame_95
+  - first:
+      213: 4066320605772714945
+    second: InGame_96
+  - first:
+      213: 515547254553060838
+    second: InGame_97
+  - first:
+      213: -4998312992708475622
+    second: InGame_98
+  - first:
+      213: 3330094710444849288
+    second: InGame_99
+  - first:
+      213: -688760005027449649
+    second: InGame_100
+  - first:
+      213: 5462019454718767341
+    second: InGame_101
+  - first:
+      213: 2929629152678921782
+    second: InGame_102
+  - first:
+      213: -2918509345240777025
+    second: InGame_103
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InGame_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 389
+        width: 201
+        height: 635
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5981222cb16627990800000000000000
+      internalID: -7389731769154398059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 948
+        width: 171
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f84fad7578517f80800000000000000
+      internalID: -8110604192274495242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1007
+        width: 58
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ba6781b62e96160800000000000000
+      internalID: 7019390443833437035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_3
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1007
+        width: 59
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6e313535dfad950800000000000000
+      internalID: 6474765948616435434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_4
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1008
+        width: 37
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48f132faf6e354b0800000000000000
+      internalID: -5452760758335965110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_5
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 929
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051422fe79a8532e0800000000000000
+      internalID: -2146657262215478960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 935
+        width: 43
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3129a15ff0c3040800000000000000
+      internalID: 4628592062417212368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_7
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1001
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a2f6b4253162ad0800000000000000
+      internalID: -2727471280152434079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_8
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1006
+        width: 56
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ab0003d2c612b90800000000000000
+      internalID: -7268409382264587644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_9
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 762
+        width: 130
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ddca5a221112570800000000000000
+      internalID: 8440046017175149855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_10
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 939
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e870defddc3dbe0800000000000000
+      internalID: -1453591893072441824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_11
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 978
+        width: 71
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be859b7e3020e600800000000000000
+      internalID: 495431411744214706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_12
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1017
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27074b0c399da3a50800000000000000
+      internalID: 6501748240679202930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_13
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1014
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e9f9635eeba9fa0800000000000000
+      internalID: -5793108078985503090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_14
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 980
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906db10db4fe283f0800000000000000
+      internalID: -899893866627607031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 931
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb5f653822787220800000000000000
+      internalID: 2483860711515577326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_16
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 979
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ffb5be47e59ad50800000000000000
+      internalID: 6749029372849291055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_17
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 934
+        width: 122
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f9d7a25fbce7cc0800000000000000
+      internalID: -3711304789066408062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_18
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 924
+        width: 97
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692cdf674ba850750800000000000000
+      internalID: 6270570563878371990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_19
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 978
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efd9fadc86b62260800000000000000
+      internalID: 7072540980917428193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_20
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 933
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef22e4f515c28550800000000000000
+      internalID: 6161703938289709039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_21
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 955
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfa58a6808e8fb70800000000000000
+      internalID: 8933144983733907381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_22
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 933
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839db14a3e21666b0800000000000000
+      internalID: -5303530742262015688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_23
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 821
+        width: 192
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ac51283f339e3a0800000000000000
+      internalID: -6635715455001179592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 801
+        width: 255
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa4e577925158b90800000000000000
+      internalID: -7240357558087693580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_25
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 917
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6df5140aa25fc280800000000000000
+      internalID: -9020900638433346195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_26
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 819
+        width: 109
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb95618fae237440800000000000000
+      internalID: 4932337348225899495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_27
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 892
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 342bf84924e14a960800000000000000
+      internalID: 7612242541472100931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_28
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 882
+        width: 76
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f3e1a0f995711b0800000000000000
+      internalID: -5685977464927535226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_29
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 904
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c2f0abb64ab1e70800000000000000
+      internalID: 9087037455740120125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 503
+        width: 426
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a5636d1be063890800000000000000
+      internalID: -7478773974236243412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_31
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 845
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c327ea404a97790800000000000000
+      internalID: -7531808561786897296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_32
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 837
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4bd2061027b6e9e0800000000000000
+      internalID: -1592384069792769203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_33
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 488
+        width: 202
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844d0cd422a295f60800000000000000
+      internalID: 8023490537958986824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_34
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 839
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd50deaa3c76c740800000000000000
+      internalID: 5171957813564431826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 696
+        width: 142
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b34f1979a33e5df90800000000000000
+      internalID: -6929382610849106885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_36
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 696
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e10022fdc4bf05c0800000000000000
+      internalID: -4246977126963609111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_37
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 712
+        width: 130
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1277fcc6a0775c330800000000000000
+      internalID: 3730518753005238049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_38
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 692
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b1b1bc5e867caa0800000000000000
+      internalID: -6140824230732031208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_39
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 743
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4e3daa45e8be360800000000000000
+      internalID: 7200004923576280255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_40
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 725
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1978dead8490f1ce0800000000000000
+      internalID: -1432415947965233263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_41
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 608
+        width: 121
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1539e6e0d232d70800000000000000
+      internalID: 9017100418933805532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_42
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 710
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f600608a3150670800000000000000
+      internalID: 8504225083735174980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_43
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 692
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3103c90b1aab3bb00800000000000000
+      internalID: 843222758863941651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_44
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 563
+        width: 140
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efff856950bc2a640800000000000000
+      internalID: 5089853753739771902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_45
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 678
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4081e51b9fdcf3cb0800000000000000
+      internalID: -4881956998740043772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_46
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 560
+        width: 56
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595d3cf53c8683740800000000000000
+      internalID: 5131966963723261333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_47
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 630
+        width: 84
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e4af37be562d2c0800000000000000
+      internalID: -4408349023304790395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_48
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 551
+        width: 96
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bbfff693ba2a7160800000000000000
+      internalID: 7023973519658580912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_49
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 625
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc42ea6ecc4b9a8c0800000000000000
+      internalID: -3987457202923363124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_50
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 611
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d131955dc6cbcf0800000000000000
+      internalID: -235193416951849701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_51
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 611
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e50b9a7ba2a2810800000000000000
+      internalID: 1741251174246407783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_52
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 389
+        width: 175
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9d5d43ec710d510800000000000000
+      internalID: 1571782444369435064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_53
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 557
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de1209feaa5379b0800000000000000
+      internalID: -5083619846822682920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_54
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 477
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbda3c0731becc360800000000000000
+      internalID: 7191381173732617659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_55
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 447
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f8022770de4b380800000000000000
+      internalID: -8956273142697783412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_56
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 418
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27877da2b4ae4f3c0800000000000000
+      internalID: -4326575733433993102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_57
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 443
+        width: 260
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e426da8a09bdb3340800000000000000
+      internalID: 4844707238518809166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_58
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 338
+        width: 380
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aace80f7ce494830800000000000000
+      internalID: 4055859560065190567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_59
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 79
+        width: 480
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11991803b1d2ddb10800000000000000
+      internalID: 2007810603678275857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_60
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2
+        width: 438
+        height: 491
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399699b2a0d62c140800000000000000
+      internalID: 4738469648395757971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_61
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 399
+        width: 75
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82beb6d3595f2ea30800000000000000
+      internalID: 4243223820265843496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_62
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 382
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba810d1efda1b240800000000000000
+      internalID: 4805813584300968628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_63
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 323
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cda4339a4c908960800000000000000
+      internalID: 7602248015112613317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_64
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 475
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c60771f58f8b1b80800000000000000
+      internalID: -8422980872621848892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_65
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 383
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec76c3e751aa00da0800000000000000
+      internalID: -5980593295859095602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_66
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 367
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1f7d35f2f923f90800000000000000
+      internalID: -6975337847224536663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_67
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 322
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 801f5f8d9cd3ba430800000000000000
+      internalID: 3795195048127492360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_68
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 328
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2347c02ae4f95ce0800000000000000
+      internalID: -1415831321421855955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_69
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 301
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a242d68625afa40800000000000000
+      internalID: 5402721311445494396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_70
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 287
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05eea1e1d47eed70800000000000000
+      internalID: 9074318743981450509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_71
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 293
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d03593c3ed65bdd40800000000000000
+      internalID: 5610173273313202957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 169
+        width: 223
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d87527f054e1b60800000000000000
+      internalID: 7718682744004775195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 281
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329e54cfde2ffca20800000000000000
+      internalID: 3084951373725690147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_74
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 111
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6b89350fdcacb90800000000000000
+      internalID: -7220732620456806728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_75
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 130
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3c85374cdc47540800000000000000
+      internalID: 5004851329547944918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_76
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 126
+        width: 70
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f7dfd10c2292220800000000000000
+      internalID: 2461536879866904381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_77
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 89
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4266f5050a4013a50800000000000000
+      internalID: 6498980823862044196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_78
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 93
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01898252b60586aa0800000000000000
+      internalID: -6167591268568754160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_79
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 98
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eb2427ba5bf61d0800000000000000
+      internalID: -3355263449406718449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 202
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8e92bf045eb9680800000000000000
+      internalID: -8747145783982561064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_81
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 65
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c36c09ab99bcfd7c0800000000000000
+      internalID: -4044290079234931140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_82
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 61
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300b938ae33183860800000000000000
+      internalID: 7509773538471555075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 53
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0c8108c116e6f80800000000000000
+      internalID: -8111439103811600159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_84
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 0
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2a633f7f06da140800000000000000
+      internalID: 4732545401489892082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_85
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 0
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991d05192f6638a30800000000000000
+      internalID: 4216326868155027865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_86
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 0
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1bb6cb707c2e990800000000000000
+      internalID: -7358100005130096137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_87
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 73
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0a06f34fe0d1190800000000000000
+      internalID: -7990213721687285515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_88
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 1
+        width: 80
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5f2426dc87a6180800000000000000
+      internalID: -9121345271773334069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_89
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 0
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff547d29e8db5cd0800000000000000
+      internalID: -2568220666483154956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_90
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 0
+        width: 95
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791ff2fda53266000800000000000000
+      internalID: 28749320822976919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_91
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 0
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43561b5af04133db0800000000000000
+      internalID: -4813481519291996876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_92
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 0
+        width: 137
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0209fc678e65fa810800000000000000
+      internalID: 1778735934260351008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_93
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 0
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6754d0e80c1ce6b10800000000000000
+      internalID: 1976730319223342454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_94
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6025002b5659963b0800000000000000
+      internalID: -5518715604355231226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_95
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f644aa9d841c7240800000000000000
+      internalID: 4790726702032766708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_96
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c31fe1fb097e6830800000000000000
+      internalID: 4066320605772714945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_97
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5209c1f77972700800000000000000
+      internalID: 515547254553060838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_98
+      rect:
+        serializedVersion: 2
+        x: 1769
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a154469b0dc62aab0800000000000000
+      internalID: -4998312992708475622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_99
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888f87cde7fd63e20800000000000000
+      internalID: 3330094710444849288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_100
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 0
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4b7d4bc680176f0800000000000000
+      internalID: -688760005027449649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_101
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 0
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0f8ca41cdfccb40800000000000000
+      internalID: 5462019454718767341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_102
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 0
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6364e09413228a820800000000000000
+      internalID: 2929629152678921782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGame_103
+      rect:
+        serializedVersion: 2
+        x: 1979
+        y: 0
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbef343a63f5f77d0800000000000000
+      internalID: -2918509345240777025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InGame_0: -7389731769154398059
+      InGame_1: -8110604192274495242
+      InGame_10: -1453591893072441824
+      InGame_100: -688760005027449649
+      InGame_101: 5462019454718767341
+      InGame_102: 2929629152678921782
+      InGame_103: -2918509345240777025
+      InGame_11: 495431411744214706
+      InGame_12: 6501748240679202930
+      InGame_13: -5793108078985503090
+      InGame_14: -899893866627607031
+      InGame_15: 2483860711515577326
+      InGame_16: 6749029372849291055
+      InGame_17: -3711304789066408062
+      InGame_18: 6270570563878371990
+      InGame_19: 7072540980917428193
+      InGame_2: 7019390443833437035
+      InGame_20: 6161703938289709039
+      InGame_21: 8933144983733907381
+      InGame_22: -5303530742262015688
+      InGame_23: -6635715455001179592
+      InGame_24: -7240357558087693580
+      InGame_25: -9020900638433346195
+      InGame_26: 4932337348225899495
+      InGame_27: 7612242541472100931
+      InGame_28: -5685977464927535226
+      InGame_29: 9087037455740120125
+      InGame_3: 6474765948616435434
+      InGame_30: -7478773974236243412
+      InGame_31: -7531808561786897296
+      InGame_32: -1592384069792769203
+      InGame_33: 8023490537958986824
+      InGame_34: 5171957813564431826
+      InGame_35: -6929382610849106885
+      InGame_36: -4246977126963609111
+      InGame_37: 3730518753005238049
+      InGame_38: -6140824230732031208
+      InGame_39: 7200004923576280255
+      InGame_4: -5452760758335965110
+      InGame_40: -1432415947965233263
+      InGame_41: 9017100418933805532
+      InGame_42: 8504225083735174980
+      InGame_43: 843222758863941651
+      InGame_44: 5089853753739771902
+      InGame_45: -4881956998740043772
+      InGame_46: 5131966963723261333
+      InGame_47: -4408349023304790395
+      InGame_48: 7023973519658580912
+      InGame_49: -3987457202923363124
+      InGame_5: -2146657262215478960
+      InGame_50: -235193416951849701
+      InGame_51: 1741251174246407783
+      InGame_52: 1571782444369435064
+      InGame_53: -5083619846822682920
+      InGame_54: 7191381173732617659
+      InGame_55: -8956273142697783412
+      InGame_56: -4326575733433993102
+      InGame_57: 4844707238518809166
+      InGame_58: 4055859560065190567
+      InGame_59: 2007810603678275857
+      InGame_6: 4628592062417212368
+      InGame_60: 4738469648395757971
+      InGame_61: 4243223820265843496
+      InGame_62: 4805813584300968628
+      InGame_63: 7602248015112613317
+      InGame_64: -8422980872621848892
+      InGame_65: -5980593295859095602
+      InGame_66: -6975337847224536663
+      InGame_67: 3795195048127492360
+      InGame_68: -1415831321421855955
+      InGame_69: 5402721311445494396
+      InGame_7: -2727471280152434079
+      InGame_70: 9074318743981450509
+      InGame_71: 5610173273313202957
+      InGame_72: 7718682744004775195
+      InGame_73: 3084951373725690147
+      InGame_74: -7220732620456806728
+      InGame_75: 5004851329547944918
+      InGame_76: 2461536879866904381
+      InGame_77: 6498980823862044196
+      InGame_78: -6167591268568754160
+      InGame_79: -3355263449406718449
+      InGame_8: -7268409382264587644
+      InGame_80: -8747145783982561064
+      InGame_81: -4044290079234931140
+      InGame_82: 7509773538471555075
+      InGame_83: -8111439103811600159
+      InGame_84: 4732545401489892082
+      InGame_85: 4216326868155027865
+      InGame_86: -7358100005130096137
+      InGame_87: -7990213721687285515
+      InGame_88: -9121345271773334069
+      InGame_89: -2568220666483154956
+      InGame_9: 8440046017175149855
+      InGame_90: 28749320822976919
+      InGame_91: -4813481519291996876
+      InGame_92: 1778735934260351008
+      InGame_93: 1976730319223342454
+      InGame_94: -5518715604355231226
+      InGame_95: 4790726702032766708
+      InGame_96: 4066320605772714945
+      InGame_97: 515547254553060838
+      InGame_98: -4998312992708475622
+      InGame_99: 3330094710444849288
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
