@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: ba6b99bf6693468489d6ed8261817c5d
+=======
+guid: 4ef3b0607962e0341bcb16e763afd48b
+>>>>>>> origin/Archer
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -96,6 +100,22 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
+=======
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+>>>>>>> origin/Archer
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -107,8 +127,13 @@ TextureImporter:
         y: 1
         width: 55
         height: 87
+<<<<<<< HEAD
       alignment: 9
       pivot: {x: 0.5, y: 0.2}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -125,7 +150,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: fc2b517288f0b9a4ab8fb16ca4f54d18
+=======
+    spriteID: 
+>>>>>>> origin/Archer
     internalID: 0
     vertices: []
     indices: 

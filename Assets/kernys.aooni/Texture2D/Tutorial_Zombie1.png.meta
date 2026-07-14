@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 608cf86ce446942dd9867db7f6c95f85
+=======
+guid: 748a9d36d94190949ae40ae55c40a14e
+>>>>>>> origin/Archer
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -153,6 +157,22 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
+=======
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+>>>>>>> origin/Archer
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -178,6 +198,427 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+<<<<<<< HEAD
+=======
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 385
+        width: 63
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e72f9c4c7dac26f0800000000000000
+      internalID: -708000292030961694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 385
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb71ac81c3546df0800000000000000
+      internalID: -187933193689531402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_3
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 385
+        width: 51
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06c4329ada2c2480800000000000000
+      internalID: -8922709643483625973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 289
+        width: 57
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2715ac75fb3e250800000000000000
+      internalID: 5972827914600805053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 289
+        width: 59
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b9739521a1ef670800000000000000
+      internalID: 8574319406668552973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 289
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50b68db62d4ad100800000000000000
+      internalID: 133503967744667740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 289
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d94998e1a6de130800000000000000
+      internalID: 3597648356728675626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 202
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f21b110e4279620800000000000000
+      internalID: 2780731839712669492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 191
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c83d78517bf84f0800000000000000
+      internalID: -824238903684527011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_10
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 202
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d7247bd55fc8780800000000000000
+      internalID: -8679292598994436824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_11
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 191
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aaf42d2d9c3a5b10800000000000000
+      internalID: 1970954432692943520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 97
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a99283a5cc3a1b0800000000000000
+      internalID: -5646444819931096553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 97
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c44584cf73e61f60800000000000000
+      internalID: 8004835525595055305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 97
+        width: 58
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac3d47d898d46760800000000000000
+      internalID: 7450317834536434856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_15
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 97
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e63503a23df7b90800000000000000
+      internalID: -7241837497635606982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 61
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b0c4a8a7caa3e00800000000000000
+      internalID: 1025321507486436230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 2
+        width: 62
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6af92a8c7b4e880800000000000000
+      internalID: -8582532917511608652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_18
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2
+        width: 58
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b5104e6b2413510800000000000000
+      internalID: 1527075101932083991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tutorial_Zombie1_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 155ab6bfc7f297090800000000000000
+      internalID: -8036339846225353391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+>>>>>>> origin/Archer
     outline: []
     customData: 
     physicsShape: []
@@ -193,6 +634,28 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Tutorial_Zombie1_0: 3088343872388184383
+<<<<<<< HEAD
+=======
+      Tutorial_Zombie1_1: -708000292030961694
+      Tutorial_Zombie1_10: -8679292598994436824
+      Tutorial_Zombie1_11: 1970954432692943520
+      Tutorial_Zombie1_12: -5646444819931096553
+      Tutorial_Zombie1_13: 8004835525595055305
+      Tutorial_Zombie1_14: 7450317834536434856
+      Tutorial_Zombie1_15: -7241837497635606982
+      Tutorial_Zombie1_16: 1025321507486436230
+      Tutorial_Zombie1_17: -8582532917511608652
+      Tutorial_Zombie1_18: 1527075101932083991
+      Tutorial_Zombie1_19: -8036339846225353391
+      Tutorial_Zombie1_2: -187933193689531402
+      Tutorial_Zombie1_3: -8922709643483625973
+      Tutorial_Zombie1_4: 5972827914600805053
+      Tutorial_Zombie1_5: 8574319406668552973
+      Tutorial_Zombie1_6: 133503967744667740
+      Tutorial_Zombie1_7: 3597648356728675626
+      Tutorial_Zombie1_8: 2780731839712669492
+      Tutorial_Zombie1_9: -824238903684527011
+>>>>>>> origin/Archer
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 8e72f37765c2b4cfbba81b51dfb06eba
+=======
+guid: 361eaa1f53d37e04d94b029ad05eb792
+>>>>>>> origin/Archer
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -120,6 +124,22 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
+=======
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+>>>>>>> origin/Archer
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -131,8 +151,13 @@ TextureImporter:
         y: 216
         width: 128
         height: 105
+<<<<<<< HEAD
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -154,7 +179,11 @@ TextureImporter:
         width: 66
         height: 103
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -176,7 +205,11 @@ TextureImporter:
         width: 64
         height: 104
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -197,8 +230,13 @@ TextureImporter:
         y: 107
         width: 44
         height: 105
+<<<<<<< HEAD
       alignment: 9
       pivot: {x: 0.5, y: 0.2}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -220,7 +258,11 @@ TextureImporter:
         width: 58
         height: 103
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -241,8 +283,13 @@ TextureImporter:
         y: 107
         width: 44
         height: 105
+<<<<<<< HEAD
       alignment: 9
       pivot: {x: 0.5, y: 0.2}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -264,7 +311,11 @@ TextureImporter:
         width: 44
         height: 103
       alignment: 0
+<<<<<<< HEAD
       pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -285,8 +336,13 @@ TextureImporter:
         y: 2
         width: 65
         height: 103
+<<<<<<< HEAD
       alignment: 9
       pivot: {x: 0.5, y: 0.2}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -303,12 +359,21 @@ TextureImporter:
       name: HeroesEp4_C_Zombie_8
       rect:
         serializedVersion: 2
+<<<<<<< HEAD
         x: 64
         y: 0
         width: 190
         height: 105
       alignment: 7
       pivot: {x: 0.5, y: 0}
+=======
+        x: 65
+        y: 0
+        width: 190
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -325,7 +390,11 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
+<<<<<<< HEAD
     spriteID: 9853445cfec726d4d87ebd7257feaa38
+=======
+    spriteID: 
+>>>>>>> origin/Archer
     internalID: 0
     vertices: []
     indices: 
