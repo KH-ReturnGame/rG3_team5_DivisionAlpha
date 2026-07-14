@@ -14,5 +14,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MGL.unity
     guid: 80ec1673838cd734ebfe604d7c53476a
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: f4b9611e71fe6344f8237110b59e660b
+  - enabled: 1
+    path: Assets/Scenes/end_scene.unity
+    guid: 059c68d207ee3814bb57f9a5a147a01e
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
