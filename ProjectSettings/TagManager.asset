@@ -3,22 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags:
-  - WarningEffect
-<<<<<<< Updated upstream
-=======
-  - Obstacle
-  - SmallZombie
-  - PowerZombie
-  - BigZombie
-  - CrazyZombie
-  - AngryZombie
-  - MouseZombie
-  - RunningZombie
-  - KendoZombie
-  - GhostZombie
-  - BombZombie
->>>>>>> Stashed changes
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -26,8 +11,8 @@ TagManager:
   - 
   - Water
   - UI
-  - zombie
-  - player
+  - 
+  - 
   - 
   - 
   - 
@@ -58,5 +43,4 @@ TagManager:
     locked: 0
   m_RenderingLayers:
   - Default
-  - "\uD0C0\uC77C\uB9F5"
   m_MigratedRenderPipelines: []
