@@ -317,6 +317,7 @@ GameObject:
   - component: {fileID: 6128365006285745466}
   - component: {fileID: 7890391922785862271}
   - component: {fileID: 3652687684117225827}
+  - component: {fileID: 6584193243000754210}
   m_Layer: 6
   m_Name: KendoZombie
   m_TagString: KendoZombie
@@ -517,6 +518,18 @@ MonoBehaviour:
   backgroundImage: {fileID: 4943889782016916140}
   fillImage: {fileID: 1397160215947709006}
   hpText: {fileID: 0}
+--- !u!114 &6584193243000754210
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5618126917331636458}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 270bddf19189de341971c178b49d38fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IndicatorTarget
 --- !u!1 &8852878500556069459
 GameObject:
   m_ObjectHideFlags: 0

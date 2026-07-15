@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b2b064e3b2c60c84a84e3b08728918fa
+guid: f04251d4fc42cd544a0b37798e321a47
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4158703361670827638
-    second: "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-16_021428-removebg-preview_0"
+      213: -2883266849092724346
+    second: "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-16_031248-removebg-preview_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-16_021428-removebg-preview_0"
+      name: "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-16_031248-removebg-preview_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 133
-        height: 137
+        x: 6
+        y: 9
+        width: 60
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a81336983515946c0800000000000000
-      internalID: -4158703361670827638
+      spriteID: 6891b23b3149cf7d0800000000000000
+      internalID: -2883266849092724346
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-16_021428-removebg-preview_0": -4158703361670827638
+      "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-16_031248-removebg-preview_0": -2883266849092724346
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

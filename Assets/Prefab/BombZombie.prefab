@@ -178,6 +178,7 @@ GameObject:
   - component: {fileID: 4853266589611588604}
   - component: {fileID: 692262372214187150}
   - component: {fileID: 3740005893813820523}
+  - component: {fileID: 2480914723614088226}
   m_Layer: 0
   m_Name: BombZombie
   m_TagString: BombZombie
@@ -378,6 +379,18 @@ MonoBehaviour:
   kendoDashCooldown: 5
   kendoDashTimeToMove: 0.15
   angryDashTimeToMove: 0.09
+--- !u!114 &2480914723614088226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5067617713555572303}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 270bddf19189de341971c178b49d38fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IndicatorTarget
 --- !u!1 &6501749458174868825
 GameObject:
   m_ObjectHideFlags: 0

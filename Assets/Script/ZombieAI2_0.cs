@@ -104,6 +104,12 @@ public class ZombieAI2_0 : MonoBehaviour
 
     void Start()
     {
+
+        if (SpawnIndicatorManager.instance != null)
+        {
+            SpawnIndicatorManager.instance.RegisterTarget(gameObject);
+        }
+
         _zombieTag = gameObject.tag;
 
         if (_spriteRenderer != null && spriteDefault != null)
@@ -1046,6 +1052,11 @@ public class ZombieAI2_0 : MonoBehaviour
 
     private void OnDestroy()
     {
+        if (SpawnIndicatorManager.instance != null)
+        {
+            SpawnIndicatorManager.instance.UnregisterTarget(gameObject);
+        }
+        
         if (_currentWarningEffect != null)
         {
             Destroy(_currentWarningEffect);
@@ -1053,4 +1064,6 @@ public class ZombieAI2_0 : MonoBehaviour
     }
 
     public void ForceStartChasing() { _isChasing = true; }
+
+
 }
