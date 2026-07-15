@@ -12,6 +12,7 @@ public class dead_detecter : MonoBehaviour
 
     void Update()
     {
+        
         if(playermovement.currentHealth <= 0)
         {
             SceneManager.LoadScene("end_scene");

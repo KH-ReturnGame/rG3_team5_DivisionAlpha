@@ -4007,11 +4007,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fdf451a22619840b21be8aef3425c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarchTrigger
-  width: 3
-  height: 1
-  tileSize: 1
-  spawnPosition: {x: 0, y: 0}
-  zombieList: []
 --- !u!1 &389224077
 GameObject:
   m_ObjectHideFlags: 0
@@ -6799,11 +6794,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fdf451a22619840b21be8aef3425c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarchTrigger
-  width: 3
-  height: 1
-  tileSize: 1
-  spawnPosition: {x: 0, y: 0}
-  zombieList: []
 --- !u!1001 &690895637
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -18608,11 +18598,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fdf451a22619840b21be8aef3425c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarchTrigger
-  width: 3
-  height: 1
-  tileSize: 1
-  spawnPosition: {x: 0, y: 0}
-  zombieList: []
 --- !u!1 &828183172
 GameObject:
   m_ObjectHideFlags: 0
@@ -19067,11 +19052,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fdf451a22619840b21be8aef3425c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarchTrigger
-  width: 3
-  height: 1
-  tileSize: 1
-  spawnPosition: {x: 0, y: 0}
-  zombieList: []
 --- !u!1 &878984647
 GameObject:
   m_ObjectHideFlags: 0
@@ -35339,11 +35319,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fdf451a22619840b21be8aef3425c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarchTrigger
-  width: 3
-  height: 1
-  tileSize: 1
-  spawnPosition: {x: 0, y: 0}
-  zombieList: []
 --- !u!4 &928443359
 Transform:
   m_ObjectHideFlags: 0
@@ -35869,11 +35844,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fdf451a22619840b21be8aef3425c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarchTrigger
-  width: 3
-  height: 1
-  tileSize: 1
-  spawnPosition: {x: 0, y: 0}
-  zombieList: []
 --- !u!1001 &973109565
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39366,11 +39336,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fdf451a22619840b21be8aef3425c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarchTrigger
-  width: 3
-  height: 1
-  tileSize: 1
-  spawnPosition: {x: 0, y: 0}
-  zombieList: []
 --- !u!1 &1413031530
 GameObject:
   m_ObjectHideFlags: 0
@@ -40237,11 +40202,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fdf451a22619840b21be8aef3425c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarchTrigger
-  width: 3
-  height: 1
-  tileSize: 1
-  spawnPosition: {x: 0, y: 0}
-  zombieList: []
 --- !u!4 &1541566553
 Transform:
   m_ObjectHideFlags: 0
@@ -40543,11 +40503,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fdf451a22619840b21be8aef3425c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarchTrigger
-  width: 3
-  height: 1
-  tileSize: 1
-  spawnPosition: {x: 0, y: 0}
-  zombieList: []
 --- !u!4 &1565324944
 Transform:
   m_ObjectHideFlags: 0
@@ -40667,11 +40622,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fdf451a22619840b21be8aef3425c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarchTrigger
-  width: 3
-  height: 1
-  tileSize: 1
-  spawnPosition: {x: 0, y: 0}
-  zombieList: []
 --- !u!4 &1576684689
 Transform:
   m_ObjectHideFlags: 0
@@ -40925,11 +40875,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fdf451a22619840b21be8aef3425c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarchTrigger
-  width: 3
-  height: 1
-  tileSize: 1
-  spawnPosition: {x: 0, y: 0}
-  zombieList: []
 --- !u!4 &1615815291
 Transform:
   m_ObjectHideFlags: 0
@@ -41573,51 +41518,6 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
---- !u!1 &1667942920
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1667942922}
-  - component: {fileID: 1667942921}
-  m_Layer: 0
-  m_Name: dead_manager
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1667942921
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1667942920}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7e32d9ad011b7454290afbd0cdeb43ed, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::dead_detecter
-  playermovement: {fileID: 0}
---- !u!4 &1667942922
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1667942920}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 132.20001, y: 15.2, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1670404955
 GameObject:
   m_ObjectHideFlags: 0
@@ -43768,12 +43668,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d073fd5f871ca9740bceb374e1b19d88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HealthBar
-  isZombie: 0
-  maxHealth: 50
-  hpSlider: {fileID: 1896600984}
-  backgroundImage: {fileID: 1230967397}
-  fillImage: {fileID: 1568293797}
-  hpText: {fileID: 0}
 --- !u!114 &1896600984
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -44875,11 +44769,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fdf451a22619840b21be8aef3425c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarchTrigger
-  width: 3
-  height: 1
-  tileSize: 1
-  spawnPosition: {x: 0, y: 0}
-  zombieList: []
 --- !u!4 &1981655722
 Transform:
   m_ObjectHideFlags: 0
@@ -46220,11 +46109,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92fdf451a22619840b21be8aef3425c7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MarchTrigger
-  width: 3
-  height: 1
-  tileSize: 1
-  spawnPosition: {x: 0, y: 0}
-  zombieList: []
 --- !u!4 &2126449070
 Transform:
   m_ObjectHideFlags: 0
@@ -46525,12 +46409,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d073fd5f871ca9740bceb374e1b19d88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HealthBar
-  isZombie: 0
-  maxHealth: 50
-  hpSlider: {fileID: 2140890193}
-  backgroundImage: {fileID: 1249233347}
-  fillImage: {fileID: 1034034815}
-  hpText: {fileID: 2123411795}
 --- !u!114 &2140890193
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -46596,4 +46474,3 @@ SceneRoots:
   - {fileID: 413286367}
   - {fileID: 38049367}
   - {fileID: 1815091421}
-  - {fileID: 1667942922}
