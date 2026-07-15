@@ -145,6 +145,11 @@ public class ZombieAI2_0 : MonoBehaviour
     {
         if (_isExploding) return; 
 
+        if (_spriteRenderer != null)
+        {
+        _spriteRenderer.sortingOrder = -(Mathf.RoundToInt(transform.position.y));
+        }
+
         if (_attackCooldownTimer > 0) _attackCooldownTimer -= Time.deltaTime;
         if (_kendoDashTimer > 0) _kendoDashTimer -= Time.deltaTime;
 
