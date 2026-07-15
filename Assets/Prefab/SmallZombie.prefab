@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6523445473627056182}
   - component: {fileID: 8748408833863194101}
   - component: {fileID: 5262096390966993681}
+  - component: {fileID: 7808807614291093161}
   m_Layer: 6
   m_Name: SmallZombie
   m_TagString: SmallZombie
@@ -174,7 +175,7 @@ MonoBehaviour:
   playerTransform: {fileID: 0}
   showGizmosConstantly: 1
   defeatScore: 100
-  timeToMove: 0.3
+  timeToMove: 0.25
   attackDamage: 10
   explosionDamage: 10
   detectionRangeX: 999
@@ -214,6 +215,18 @@ MonoBehaviour:
   backgroundImage: {fileID: 9157876539613505692}
   fillImage: {fileID: 6505644355516684302}
   hpText: {fileID: 0}
+--- !u!114 &7808807614291093161
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2767952307155322601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 270bddf19189de341971c178b49d38fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IndicatorTarget
 --- !u!1 &3000631855771837283
 GameObject:
   m_ObjectHideFlags: 0

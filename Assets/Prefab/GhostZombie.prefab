@@ -317,6 +317,7 @@ GameObject:
   - component: {fileID: 4152110338061686039}
   - component: {fileID: 2821176802514791407}
   - component: {fileID: 2041540146783640717}
+  - component: {fileID: 2226257399507292462}
   m_Layer: 6
   m_Name: GhostZombie
   m_TagString: GhostZombie
@@ -517,6 +518,18 @@ MonoBehaviour:
   backgroundImage: {fileID: 1915489281106875074}
   fillImage: {fileID: 1763081322761278687}
   hpText: {fileID: 0}
+--- !u!114 &2226257399507292462
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5795482606078614912}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 270bddf19189de341971c178b49d38fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IndicatorTarget
 --- !u!1 &7640823213533923043
 GameObject:
   m_ObjectHideFlags: 0

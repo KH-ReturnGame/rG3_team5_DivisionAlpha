@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-<<<<<<<< HEAD:Assets/Image/start_scene_image/start_botton_image.png.meta
-guid: d056c67d975ae7443a0ffdb4e6a6949b
+guid: f04251d4fc42cd544a0b37798e321a47
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2120461313161989142
-    second: "\uC2A4\uD06C\uB9B0\uC0F7 2026-07-10 150153_0"
-========
-guid: 71fa797fedd3268438128fe395379fe2
-TextureImporter:
-  internalIDToNameTable:
-  - first:
-      213: 7855728934518242254
-    second: "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-16_021525-removebg-preview_0"
->>>>>>>> main:Assets/Image/스크린샷_2026-07-16_021525-removebg-preview.png.meta
+      213: -2883266849092724346
+    second: "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-16_031248-removebg-preview_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -60,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 128
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -109,23 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-<<<<<<<< HEAD:Assets/Image/start_scene_image/start_botton_image.png.meta
-      name: "\uC2A4\uD06C\uB9B0\uC0F7 2026-07-10 150153_0"
+      name: "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-16_031248-removebg-preview_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 392
-        height: 155
-========
-      name: "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-16_021525-removebg-preview_0"
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 4
-        width: 148
-        height: 96
->>>>>>>> main:Assets/Image/스크린샷_2026-07-16_021525-removebg-preview.png.meta
+        x: 6
+        y: 9
+        width: 60
+        height: 72
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,13 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-<<<<<<<< HEAD:Assets/Image/start_scene_image/start_botton_image.png.meta
-      spriteID: ae3750d9bab9292e0800000000000000
-      internalID: -2120461313161989142
-========
-      spriteID: ecbb7b138d7250d60800000000000000
-      internalID: 7855728934518242254
->>>>>>>> main:Assets/Image/스크린샷_2026-07-16_021525-removebg-preview.png.meta
+      spriteID: 6891b23b3149cf7d0800000000000000
+      internalID: -2883266849092724346
       vertices: []
       indices: 
       edges: []
@@ -159,11 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-<<<<<<<< HEAD:Assets/Image/start_scene_image/start_botton_image.png.meta
-      "\uC2A4\uD06C\uB9B0\uC0F7 2026-07-10 150153_0": -2120461313161989142
-========
-      "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-16_021525-removebg-preview_0": 7855728934518242254
->>>>>>>> main:Assets/Image/스크린샷_2026-07-16_021525-removebg-preview.png.meta
+      "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-16_031248-removebg-preview_0": -2883266849092724346
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

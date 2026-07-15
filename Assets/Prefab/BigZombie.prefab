@@ -117,6 +117,7 @@ GameObject:
   - component: {fileID: 5696686422575975589}
   - component: {fileID: 7795118668999805299}
   - component: {fileID: 4146798398447938298}
+  - component: {fileID: 8369714380385105039}
   m_Layer: 0
   m_Name: BigZombie
   m_TagString: BigZombie
@@ -295,7 +296,7 @@ MonoBehaviour:
   playerTransform: {fileID: 0}
   showGizmosConstantly: 1
   defeatScore: 350
-  timeToMove: 0.3
+  timeToMove: 0.27
   attackDamage: 25
   explosionDamage: 30
   detectionRangeX: 999
@@ -317,6 +318,18 @@ MonoBehaviour:
   kendoDashCooldown: 5
   kendoDashTimeToMove: 0.15
   angryDashTimeToMove: 0.09
+--- !u!114 &8369714380385105039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3543481963791854561}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 270bddf19189de341971c178b49d38fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IndicatorTarget
 --- !u!1 &3720226882798502367
 GameObject:
   m_ObjectHideFlags: 0

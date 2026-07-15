@@ -178,6 +178,7 @@ GameObject:
   - component: {fileID: 2838506948566805937}
   - component: {fileID: 5410834284817166300}
   - component: {fileID: -1664694377750199833}
+  - component: {fileID: 5903367331969986622}
   m_Layer: 6
   m_Name: MouseZombie
   m_TagString: MouseZombie
@@ -338,7 +339,7 @@ MonoBehaviour:
   playerTransform: {fileID: 0}
   showGizmosConstantly: 1
   defeatScore: 10
-  timeToMove: 0.25
+  timeToMove: 0.23
   attackDamage: 5
   explosionDamage: 30
   detectionRangeX: 999
@@ -378,6 +379,18 @@ MonoBehaviour:
   backgroundImage: {fileID: 2667596960724843926}
   fillImage: {fileID: 6241580010363442963}
   hpText: {fileID: 0}
+--- !u!114 &5903367331969986622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3273209926744850370}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 270bddf19189de341971c178b49d38fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IndicatorTarget
 --- !u!1 &6942326318426800276
 GameObject:
   m_ObjectHideFlags: 0
