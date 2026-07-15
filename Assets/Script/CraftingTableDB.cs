@@ -11,6 +11,7 @@ public class CraftingTableStat
     public float[] values;
     public string[] displayValues;
     public int type;
+    public string iconName;
 }
 
 public class CraftingTableDB : MonoBehaviour
@@ -28,7 +29,8 @@ public class CraftingTableDB : MonoBehaviour
                 lore = "오브젝트에 가하는 공격력이 {0} 증가합니다.",
                 Default = 0,
                 values = new float[] { 2f, 3f, 6f, 11f },
-                displayValues = new string[] {"100%", "200%", "500%", "1000%"}
+                displayValues = new string[] {"100%", "200%", "500%", "1000%"},
+                iconName = ""
             }
         },
         {
