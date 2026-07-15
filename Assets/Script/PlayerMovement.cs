@@ -13,10 +13,7 @@ public class PlayerMovement : MonoBehaviour
     [Header("이동 설정")]
     [Tooltip("한 칸 이동하는 데 걸리는 시간입니다. 값이 작아질수록 이동 속도가 빨라집니다.")]
     public float timeToMove = 0.16f;
-<<<<<<< HEAD
-=======
     [SerializeField] private Tilemap transparentWallTilemap; 
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
 
     [Header("인간 방향별 스프라이트 등록")]
     [SerializeField] private Sprite spriteUp;    
@@ -26,111 +23,82 @@ public class PlayerMovement : MonoBehaviour
 
     private SpriteRenderer _spriteRenderer; 
     private Vector3 _lookDirection = Vector3.down; 
-    private byte _readyAlpha = 153; 
+    private byte _readyAlpha = 153; // 60% 투명도
     private bool _isInvincible = false;
+    private bool _isStunned = false; // 백스텝 후딜레이 등 임시 행동불가 상태 체크
 
-<<<<<<< HEAD
-    [Header("1스킬: 휘두르기 (J키 - 방향별 3x2 / 2x3 유동 범위)")]
-    [SerializeField] private Image swingBorderImage;
-=======
-    [Header("체어 스킬 설정")]
-    [SerializeField] private Image swingBorderImage;    
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
+    [Header("플레이어 실시간 체력 설정")]
+    public float maxHealth = 50f; // 인간 맥스 체력 50
+    public float currentHealth = 50f;
+
+    [Header("데미지 설정 (실시간 조정 가능)")]
+    public float chairSkill1Dmg = 20f;   // 체어 1스킬 (J키) 데미지
+    public float chairSkill2Dmg = 40f;   // 체어 2스킬 (K키) 데미지
+    public float archerSkill1Dmg = 10f;  // 아처 1스킬 (L키) 데미지
+    public float archerSkill2Dmg = 40f;  // 아처 2스킬 (;키) 카운터 데미지 (체어 카운터와 동일하게 40 적용)
+
+    [Header("체어 1스킬: 스윙 (J키)")]
+    [SerializeField] private Image swingBorderImage;     
     [SerializeField] private Image swingCooldownImage;   
     [SerializeField] private Sprite swingWeaponEffectSprite;   
-    public float swingDamage = 20f; 
     public float swingCooldown = 0.75f; 
-<<<<<<< HEAD
     
-    [HideInInspector] private float swingDuration = 0.25f; // 애니메이션 0.25초
-    private float _swingCooldownTimer = 0f;
-    private bool _isSwingReady = true;
-    private byte _readyAlpha = 153; // 0.6f -> 255 * 0.6 = 153 (60%)
-
-    [Header("2스킬: 카운터 (K키)")]
-    [SerializeField] private GameObject counterEffectObject; 
-    [SerializeField] private Image counterBorderImage;  // 2스킬 빨간 테두리 Image
-    [SerializeField] private Image counterCoolDownImage; // 2스킬 안쪽 흰색 원형 게이지 Image
-    [SerializeField] private Sprite counterWeaponEffectSprite;
-    public float counterDamage = 40f;
-=======
     private float swingDuration = 0.25f; 
     private float _swingCooldownTimer = 0f;
     private bool _isSwingReady = true;
     private GameObject _runtimeSwingWeaponObj;
     private Coroutine _swingEffectCoroutine;
 
-    [Header("체어 2스킬: 카운터 (J키)")]
-    [SerializeField] private Image counterBorderImage;   
-    [SerializeField] private Image counterCoolDownImage; 
+    [Header("체어 2스킬: 카운터 (K키)")]
+    [SerializeField] private GameObject counterEffectObject; 
+    [SerializeField] private Image counterBorderImage;    
+    [SerializeField] private Image counterCoolDownImage;  
     [SerializeField] private Sprite counterWeaponEffectSprite;
-    public float counterDamage = 40f; 
     public float counterCooldown = 7.0f; 
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
     [SerializeField] private float counterDuration = 0.3f;
     private float _counterCooldownTimer = 0f;
     private bool _isCounterReady = true;
-<<<<<<< HEAD
-    private bool _isInvincible = false; // 좀비 AI들이 체크하는 무적 상태 플래그
-
-    private Vector3 _lookDirection = Vector3.down; 
-    private Coroutine _swingEffectCoroutine;
-    private Coroutine _counterEffectCoroutine;
-    private GameObject _runtimeSwingWeaponObj;
-    private GameObject _runtimeCounterWeaponObj;
-
-    [Header("맵 설정")]
-    [SerializeField] private UnityEngine.Tilemaps.Tilemap transparentWallTilemap;
-
-    /// <summary>
-    /// 외부 좀비 AI 스크립트에서 플레이어의 무적 여부를 확인할 수 있도록 공개하는 프로퍼티
-    /// </summary>
-=======
     private GameObject _runtimeCounterWeaponObj;
     private Coroutine _counterEffectCoroutine;
 
-    [Header("아처 1스킬: 즉시 관통 화살 (K키)")]
-    [SerializeField] private GameObject arrowEffectObject; 
-    [SerializeField] private Image arrowBorderImage;   
-    [SerializeField] private Image arrowCoolDownImage;   
+    [Header("아처 1스킬: 즉시 관통 화살 (L키)")]
+    [SerializeField] private Sprite arrowEffectSprite; 
+    [SerializeField] private Image arrowBorderImage;      
+    [SerializeField] private Image arrowCoolDownImage;    
     public float arrowCooldown = 1.0f; 
-    public float arrowDuration = 0.2f; 
+    public float arrowDuration = 0.3f; // 화살이 날아가는 총 시간
     public int arrowRange = 5;         
     private float _arrowCooldownTimer = 0f;
     private Coroutine _arrowEffectCoroutine;
+    private GameObject _runtimeArrowObj; // 코드가 내부에서 실시간으로 생성해서 쓸 화살 오브젝트
 
-    [Header("아처 2스킬: 백스텝 (L키)")]
+    [Header("아처 2스킬: 백스텝 & 활 활성화 (;키)")]
     [SerializeField] private GameObject backstepEffectObject; 
-    [SerializeField] private Image backstepBorderImage;  
-    [SerializeField] private Image backstepCoolDownImage; 
+    [SerializeField] private Image backstepBorderImage;    
+    [SerializeField] private Image backstepCoolDownImage;  
+    
+    // 활 스프라이트를 받을 인스펙터 전용 퍼블릭 칸
+    public Sprite backstepBowSprite; 
+    
     public float backstepCooldown = 5.0f; 
-    public float backstepDuration = 0.3f; 
+    public float backstepDuration = 0.15f; // 최대 거리(3칸) 대쉬 기준 시간
+    public float backstepEndDelay = 0.2f;  // 백스텝 완료 후 제자리 정지 시간 (0.2초)
     private float _backstepCooldownTimer = 0f;
     private Coroutine _backstepEffectCoroutine;
+    private GameObject _runtimeBowObj; // 백스텝 시 나타날 활 오브젝트
 
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
     public bool IsInvincible
     {
         get { return _isInvincible; }
         set { _isInvincible = value; }
     }
-<<<<<<< HEAD
-=======
 
-    public float maxHealth = 100f;
-    public float currentHealth = 100f;
-
-    public float chairSkill1Dmg = 20f;
-    public float chairSkill2Dmg = 40f;
-    public float archerSkill1Dmg = 10f; 
-    public float archerSkill2Dmg = 0f;
     [Header("업그레이드 시스템 연동")]
     public float lifestealAmount = 0f;
     public float critChance = 0f;
     public float evasionChance = 0f;
     public bool canRevive = false;
     private bool _hasRevived = false;
-    public bool isInvincible = false;
     public float counterDamageMultiplier = 3f;
 
     public UpgradeManager upgradeManager; 
@@ -143,6 +111,7 @@ public class PlayerMovement : MonoBehaviour
     public void TakeDamage(float damage)
     {
         if (upgradeManager != null && upgradeManager.isUnlocked[16]) return; 
+        
         if (upgradeManager != null && upgradeManager.isUnlocked[15] && Random.value < evasionChance) 
         {
             Debug.Log("공격 회피!");
@@ -150,6 +119,8 @@ public class PlayerMovement : MonoBehaviour
         }
 
         currentHealth -= damage;
+        currentHealth = Mathf.Max(currentHealth, 0f); // 음수 방지
+        Debug.Log($"[TakeDamage] 플레이어 체력 차감 성공. 현재 체력: {currentHealth}");
 
         if (currentHealth <= 0 && upgradeManager != null && upgradeManager.isUnlocked[14] && !_hasRevived)
         {
@@ -158,55 +129,18 @@ public class PlayerMovement : MonoBehaviour
             Debug.Log("부활!");
         }
     }
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
+
+    void Start()
+    {
+        // 체력바 관련 수동 UI 갱신 코드는 이제 체력바 스크립트에서 알아서 처리하므로 삭제했습니다.
+    }
 
     void Awake()
     {
         _spriteRenderer = GetComponent<SpriteRenderer>();
-<<<<<<< HEAD
+        if (backstepEffectObject != null) backstepEffectObject.SetActive(false);
         
         CreateRuntimeWeaponEffects();
-        SetupUIProperties();
-=======
-        if (arrowEffectObject != null) arrowEffectObject.SetActive(false);
-        if (backstepEffectObject != null) backstepEffectObject.SetActive(false);
-
-        CreateRuntimeWeaponEffects();
-        SetupUIProperties();
-
-        ResetUIState(swingBorderImage, swingCooldownImage);
-        ResetUIState(counterBorderImage, counterCoolDownImage);
-        ResetUIState(arrowBorderImage, arrowCoolDownImage);
-        ResetUIState(backstepBorderImage, backstepCoolDownImage);
-
-        UpdateGridSortingOrder();
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
-    }
-
-    private void SetupUIProperties()
-    {
-        InitImageFilledProperty(swingBorderImage);
-        InitImageFilledProperty(counterBorderImage);
-        InitImageFilledProperty(arrowBorderImage);
-        InitImageFilledProperty(backstepBorderImage);
-
-        if (swingCooldownImage != null) SetImageAlpha32(swingCooldownImage, _readyAlpha);
-        if (counterCoolDownImage != null) SetImageAlpha32(counterCoolDownImage, _readyAlpha);
-<<<<<<< HEAD
-=======
-        if (arrowCoolDownImage != null) SetImageAlpha32(arrowCoolDownImage, _readyAlpha);
-        if (backstepCoolDownImage != null) SetImageAlpha32(backstepCoolDownImage, _readyAlpha);
-    }
-
-    private void InitImageFilledProperty(Image img)
-    {
-        if (img == null) return;
-        img.type = Image.Type.Filled;
-        img.fillMethod = Image.FillMethod.Radial360;
-        img.fillOrigin = (int)Image.Origin360.Top;
-        img.fillClockwise = false; 
-        img.fillAmount = 1f; 
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
     }
 
     private bool IsTileBlocked(Vector3 targetPos)
@@ -218,24 +152,13 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-<<<<<<< HEAD
-        // 실시간 적용된 swingCooldown 수치로 UI 바 연산 진행
-        if (_swingCooldownTimer > 0)
-        {
-            UpdateCooldownUI(ref _swingCooldownTimer, swingCooldown, swingBorderImage, swingCooldownImage);
-        }
-        else if (!_isSwingReady && Keyboard.current != null && !Keyboard.current.jKey.isPressed)
-=======
-        // 1. 일시정지 상태 확인
         if (UpgradeManager.isGamePaused) return;
 
-        // 2. 쿨타임 처리
         HandleCooldownTimers();
 
         if (Keyboard.current == null) return;
 
-        // 3. 이동 처리
-        if (!_isMoving)
+        if (!_isMoving && !_isStunned)
         {
             if (Keyboard.current.wKey.isPressed) TryMove(Vector3.up);
             else if (Keyboard.current.aKey.isPressed) TryMove(Vector3.left);
@@ -243,11 +166,13 @@ public class PlayerMovement : MonoBehaviour
             else if (Keyboard.current.dKey.isPressed) TryMove(Vector3.right);
         }
 
-        // 4. 스킬 입력
-        if (Keyboard.current.spaceKey.wasPressedThisFrame && _swingCooldownTimer <= 0 && _isSwingReady) TriggerSwingAttack();
-        if (Keyboard.current.jKey.wasPressedThisFrame && _counterCooldownTimer <= 0 && _isCounterReady) TriggerCounterAttack();
-        if (Keyboard.current.kKey.wasPressedThisFrame && _arrowCooldownTimer <= 0) TryArrowAttack();
-        if (Keyboard.current.lKey.wasPressedThisFrame && _backstepCooldownTimer <= 0) TryBackstep();
+        if (!_isStunned)
+        {
+            if (Keyboard.current.jKey.wasPressedThisFrame && _swingCooldownTimer <= 0 && _isSwingReady) TriggerSwingAttack();
+            if (Keyboard.current.kKey.wasPressedThisFrame && _counterCooldownTimer <= 0 && _isCounterReady) TriggerCounterAttack();
+            if (Keyboard.current.lKey.wasPressedThisFrame && _arrowCooldownTimer <= 0) TryArrowAttack();
+            if (Keyboard.current.semicolonKey.wasPressedThisFrame && _backstepCooldownTimer <= 0) TryBackstep();
+        }
     }
 
     private void TryMove(Vector3 direction)
@@ -263,69 +188,23 @@ public class PlayerMovement : MonoBehaviour
     private void HandleCooldownTimers()
     {
         if (_swingCooldownTimer > 0) UpdateCooldownUI(ref _swingCooldownTimer, swingCooldown, swingBorderImage, swingCooldownImage);
-        else if (!_isSwingReady && Keyboard.current != null && !Keyboard.current.spaceKey.isPressed)
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
+        else if (!_isSwingReady && Keyboard.current != null && !Keyboard.current.jKey.isPressed)
         {
             _isSwingReady = true;
             if (swingBorderImage != null) swingBorderImage.fillAmount = 1f; 
             if (swingCooldownImage != null) SetImageAlpha32(swingCooldownImage, _readyAlpha); 
         }
 
-<<<<<<< HEAD
-        // 실시간 적용된 counterCooldown 수치로 UI 바 연산 진행
-        if (_counterCooldownTimer > 0)
-=======
         if (_counterCooldownTimer > 0) UpdateCooldownUI(ref _counterCooldownTimer, counterCooldown, counterBorderImage, counterCoolDownImage);
-        else if (!_isCounterReady && Keyboard.current != null && !Keyboard.current.jKey.isPressed)
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
+        else if (!_isCounterReady && Keyboard.current != null && !Keyboard.current.kKey.isPressed)
         {
             _isCounterReady = true;
             if (counterBorderImage != null) counterBorderImage.fillAmount = 1f; 
             if (counterCoolDownImage != null) SetImageAlpha32(counterCoolDownImage, _readyAlpha); 
         }
 
-<<<<<<< HEAD
-        // 1. 이동 처리
-        if (Keyboard.current.wKey.isPressed && !_isMoving) 
-        {
-            _lookDirection = Vector3.up;
-            ChangePlayerSprite(Vector3.up);
-            if (!IsTileBlocked(transform.position + Vector3.up)) StartCoroutine(MovePlayer(Vector3.up));
-        }
-        else if (Keyboard.current.aKey.isPressed && !_isMoving) 
-        {
-            _lookDirection = Vector3.left;
-            ChangePlayerSprite(Vector3.left);
-            if (!IsTileBlocked(transform.position + Vector3.left)) StartCoroutine(MovePlayer(Vector3.left));
-        }
-        else if (Keyboard.current.sKey.isPressed && !_isMoving) 
-        {
-            _lookDirection = Vector3.down;
-            ChangePlayerSprite(Vector3.down);
-            if (!IsTileBlocked(transform.position + Vector3.down)) StartCoroutine(MovePlayer(Vector3.down));
-        }
-        else if (Keyboard.current.dKey.isPressed && !_isMoving) 
-        {
-            _lookDirection = Vector3.right;
-            ChangePlayerSprite(Vector3.right);
-            if (!IsTileBlocked(transform.position + Vector3.right)) StartCoroutine(MovePlayer(Vector3.right));
-        }
-
-        // 2. 1스킬 휘두르기 (J키)
-        if (Keyboard.current.jKey.wasPressedThisFrame && _swingCooldownTimer <= 0)
-        {
-            TriggerSwingAttack();
-        }
-
-        // 3. 2스킬 카운터 (K키)
-        if (Keyboard.current.kKey.wasPressedThisFrame && _counterCooldownTimer <= 0)
-        {
-            TriggerCounterAttack();
-        }
-=======
         if (_arrowCooldownTimer > 0) UpdateCooldownUI(ref _arrowCooldownTimer, arrowCooldown, arrowBorderImage, arrowCoolDownImage);
         if (_backstepCooldownTimer > 0) UpdateCooldownUI(ref _backstepCooldownTimer, backstepCooldown, backstepBorderImage, backstepCoolDownImage);
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
     }
 
     private void UpdateCooldownUI(ref float timer, float maxCooldown, Image borderImg, Image coolDownImg)
@@ -334,49 +213,36 @@ public class PlayerMovement : MonoBehaviour
         if (timer > 0)
         {
             float fillRatio = (maxCooldown - timer) / maxCooldown;
-            if (borderImg != null && borderImg.type == Image.Type.Filled) borderImg.fillAmount = fillRatio;
+            if (borderImg != null) borderImg.fillAmount = fillRatio;
             if (coolDownImg != null)
             {
                 Color cColor = coolDownImg.color;
                 cColor.a = 0.25f; 
                 coolDownImg.color = cColor;
-                coolDownImg.fillAmount = 1f; 
+                coolDownImg.fillAmount = 1f - fillRatio; 
             }
         }
         else
         {
             timer = 0f;
-            ResetUIState(borderImg, coolDownImg);
+            if (borderImg != null) borderImg.fillAmount = 1f;
+            if (coolDownImg != null)
+            {
+                Color cColor = coolDownImg.color;
+                cColor.a = 0.6f; 
+                coolDownImg.color = cColor;
+                coolDownImg.fillAmount = 1f;
+            }
         }
-    }
-
-    private void ResetUIState(Image borderImg, Image coolDownImg)
-    {
-        if (borderImg != null) borderImg.fillAmount = 1f;
-        if (coolDownImg != null)
-        {
-            Color cColor = coolDownImg.color;
-            cColor.a = 0.6f; 
-            coolDownImg.color = cColor;
-            coolDownImg.fillAmount = 1f;
-        }
-<<<<<<< HEAD
-        _isInvincible = false;
-    }
-
-    // 바라보는 방향에 맞춰 가로세로 범위가 정확히 정렬되어 들어가는 1스킬 연산
-=======
     }
 
     public void ApplyLifesteal(int zombieCount)
     {
         Heal(zombieCount * lifestealAmount);
     }
-    // [체어 1스킬] 휘두르기 연산
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
+
     private void TriggerSwingAttack()
     {
-        Debug.Log("체어 1스킬 휘두르기 공격 (Space키)!");
         _isSwingReady = false;
         _swingCooldownTimer = swingCooldown; 
 
@@ -391,10 +257,6 @@ public class PlayerMovement : MonoBehaviour
         float minX = myPos.x, maxX = myPos.x;
         float minY = myPos.y, maxY = myPos.y;
 
-<<<<<<< HEAD
-        // 위나 아래를 바라보고 있으면 가로 3, 세로 2 판정 크기 세팅
-=======
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
         if (_lookDirection == Vector3.up || _lookDirection == Vector3.down)
         {
             float attackLength = 2.0f; 
@@ -411,10 +273,6 @@ public class PlayerMovement : MonoBehaviour
                 minY = myPos.y - attackLength; maxY = myPos.y;
             }
         }
-<<<<<<< HEAD
-        // 좌우를 바라보고 있으면 가로 2, 세로 3 판정 크기 세팅
-=======
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
         else if (_lookDirection == Vector3.right || _lookDirection == Vector3.left)
         {
             float attackLength = 2.0f; 
@@ -432,7 +290,6 @@ public class PlayerMovement : MonoBehaviour
             }
         }
 
-        // 좀비 컴포넌트들을 탐색하여 범위 안에 있으면 피격 처리
         ZombieAI2_0[] zombies = Object.FindObjectsByType<ZombieAI2_0>(FindObjectsSortMode.None);
         foreach (ZombieAI2_0 zombie in zombies)
         {
@@ -440,15 +297,13 @@ public class PlayerMovement : MonoBehaviour
             Vector3 zombiePos = zombie.transform.position;
             if (zombiePos.x >= minX && zombiePos.x <= maxX && zombiePos.y >= minY && zombiePos.y <= maxY)
             {
-                zombie.OnGetHitByPlayer(swingDamage, false);
+                zombie.OnGetHitByPlayer(chairSkill1Dmg, false); 
             }
         }
     }
 
-    // [체어 2스킬] 카운터 연산
     private void TriggerCounterAttack()
     {
-        Debug.Log("체어 2스킬 카운터 발동 (J키)!");
         _isCounterReady = false;
         _counterCooldownTimer = counterCooldown; 
 
@@ -463,8 +318,8 @@ public class PlayerMovement : MonoBehaviour
         float minX = myPos.x, maxX = myPos.x;
         float minY = myPos.y, maxY = myPos.y;
         
-        float counterLength = 2.0f; 
-        float counterWidth = 0.4f;  
+        float counterLength = 2.2f; 
+        float counterWidth = 0.5f;  
 
         if (_lookDirection == Vector3.right)
         {
@@ -484,7 +339,7 @@ public class PlayerMovement : MonoBehaviour
         else if (_lookDirection == Vector3.down)
         {
             minX = myPos.x - counterWidth; maxX = myPos.x + counterWidth;
-            minY = myPos.y - counterWidth; maxY = myPos.y;
+            minY = myPos.y - counterLength; maxY = myPos.y;
         }
 
         ZombieAI2_0[] zombies = Object.FindObjectsByType<ZombieAI2_0>(FindObjectsSortMode.None);
@@ -495,23 +350,18 @@ public class PlayerMovement : MonoBehaviour
             if (zombiePos.x >= minX && zombiePos.x <= maxX && zombiePos.y >= minY && zombiePos.y <= maxY)
             {
                 Vector3 zombieDir = zombie.GetCurrentDirection(); 
-<<<<<<< HEAD
 
-                // 서로 마주보고 있는 경우 카운터 성립
-=======
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
                 if (Vector3.Distance(_lookDirection + zombieDir, Vector3.zero) < 0.1f)
                 {
-                    zombie.OnGetHitByPlayer(counterDamage, true);
+                    // 두 번째 인자 isCounter를 true로 넘겨 좀비를 그로기 상태로 전환시킵니다.
+                    zombie.OnGetHitByPlayer(chairSkill2Dmg, true); 
                 }
             }
         }
     }
 
-    // [아처 1스킬] 즉시 관통 화살 발사 연산
     private void TryArrowAttack()
     {
-        Debug.Log("아처 1스킬 즉시 관통 화살 발사 (K키)!");
         _arrowCooldownTimer = arrowCooldown; 
         
         if (arrowBorderImage != null) arrowBorderImage.fillAmount = 0f;
@@ -523,9 +373,8 @@ public class PlayerMovement : MonoBehaviour
         int myY = Mathf.RoundToInt(transform.position.y);
         List<Vector2Int> targetTiles = GetFrontTiles(myX, myY, arrowRange);
 
-        // 프로젝트 내 설계된 아처용 좀비 AI 혹은 기본 좀비 AI 대응 피격 처리
-        ZombieAIWithCounter[] zombiesAc = Object.FindObjectsByType<ZombieAIWithCounter>(FindObjectsSortMode.None);
-        foreach (ZombieAIWithCounter zombie in zombiesAc)
+        ZombieAI2_0[] zombies = Object.FindObjectsByType<ZombieAI2_0>(FindObjectsSortMode.None);
+        foreach (ZombieAI2_0 zombie in zombies)
         {
             if (zombie == null) continue;
             int zombieX = Mathf.RoundToInt(zombie.transform.position.x);
@@ -535,76 +384,187 @@ public class PlayerMovement : MonoBehaviour
             {
                 if (zombieX == tile.x && zombieY == tile.y)
                 {
-                    zombie.OnGetHitByPlayer(); 
+                    zombie.OnGetHitByPlayer(archerSkill1Dmg, false); 
                     break; 
                 }
             }
         }
     }
 
-    // [아처 2스킬] 백스텝 연산
     private void TryBackstep()
     {
-        if (_isMoving) return; 
+        if (_isMoving || _isStunned) return; 
 
-        Debug.Log("아처 2스킬 백스텝 (L키)!");
         _backstepCooldownTimer = backstepCooldown; 
         
         if (backstepBorderImage != null) backstepBorderImage.fillAmount = 0f;
 
-        if (_backstepEffectCoroutine != null) StopCoroutine(_backstepEffectCoroutine);
-        _backstepEffectCoroutine = StartCoroutine(ShowBackstepEffectRoutine());
-        Vector3 backstepDirection = -_lookDirection * 3f;
-        Vector3 targetPos = transform.position + backstepDirection;
+        Vector3 backDirection = -_lookDirection;
+        Vector3 targetPos = transform.position;
+        int actualTilesMoved = 0; 
 
-        if (!IsTileBlocked(targetPos))
+        for (int i = 1; i <= 3; i++)
         {
-            StartCoroutine(MovePlayerBackstep(targetPos));
+            Vector3 nextCheckPos = transform.position + (backDirection * i);
+            if (!IsTileBlocked(nextCheckPos))
+            {
+                targetPos = nextCheckPos;
+                actualTilesMoved = i;
+            }
+            else
+            {
+                break; 
+            }
+        }
+
+        // 아처 2스킬 사용 즉시 정면 2칸 카운터 판정 수행 및 좀비 그로기 유발
+        TriggerArcherBackstepCounter();
+
+        if (targetPos != transform.position)
+        {
+            float scaledDuration = backstepDuration * ((float)actualTilesMoved / 3f);
+
+            if (_backstepEffectCoroutine != null) StopCoroutine(_backstepEffectCoroutine);
+            _backstepEffectCoroutine = StartCoroutine(ShowBackstepEffectRoutine(scaledDuration));
+            StartCoroutine(MovePlayerBackstep(targetPos, scaledDuration));
+        }
+    }
+
+    // 아처 2스킬 시전 시 캐릭터 정면 2칸 카운터 판정 및 좀비 그로기 처리 함수
+    private void TriggerArcherBackstepCounter()
+    {
+        Vector3 myPos = transform.position;
+        float minX = myPos.x, maxX = myPos.x;
+        float minY = myPos.y, maxY = myPos.y;
+        
+        float counterLength = 2.2f; // 정면 약 2칸 범위
+        float counterWidth = 0.5f;  
+
+        if (_lookDirection == Vector3.right)
+        {
+            minX = myPos.x; maxX = myPos.x + counterLength;
+            minY = myPos.y - counterWidth; maxY = myPos.y + counterWidth;
+        }
+        else if (_lookDirection == Vector3.left)
+        {
+            minX = myPos.x - counterLength; maxX = myPos.x;
+            minY = myPos.y - counterWidth; maxY = myPos.y + counterWidth;
+        }
+        else if (_lookDirection == Vector3.up)
+        {
+            minX = myPos.x - counterWidth; maxX = myPos.x + counterWidth;
+            minY = myPos.y; maxY = myPos.y + counterLength;
+        }
+        else if (_lookDirection == Vector3.down)
+        {
+            minX = myPos.x - counterWidth; maxX = myPos.x + counterWidth;
+            minY = myPos.y - counterLength; maxY = myPos.y;
+        }
+
+        ZombieAI2_0[] zombies = Object.FindObjectsByType<ZombieAI2_0>(FindObjectsSortMode.None);
+        foreach (ZombieAI2_0 zombie in zombies)
+        {
+            if (zombie == null) continue;
+            Vector3 zombiePos = zombie.transform.position;
+            if (zombiePos.x >= minX && zombiePos.x <= maxX && zombiePos.y >= minY && zombiePos.y <= maxY)
+            {
+                Vector3 zombieDir = zombie.GetCurrentDirection(); 
+
+                // 서로 마주보고 있는 상황 체크
+                if (Vector3.Distance(_lookDirection + zombieDir, Vector3.zero) < 0.1f)
+                {
+                    // ⭐ [연동 완료] 두 번째 인자인 isCounter를 true로 넘겨 체어와 동일하게 그로기 유발 및 데미지 3배 상태로 만듭니다.
+                    zombie.OnGetHitByPlayer(archerSkill2Dmg, true); 
+                    Debug.Log("[아처 2스킬] 정면 카운터 및 좀비 그로기 유발 성공!");
+                }
+            }
         }
     }
 
     private IEnumerator ShowArrowEffectRoutine()
     {
-        if (arrowEffectObject == null) yield break;
+        if (_runtimeArrowObj == null) yield break;
 
-        arrowEffectObject.transform.localPosition = _lookDirection * 0.5f; 
+        _runtimeArrowObj.transform.position = transform.position; 
 
-        if (_lookDirection == Vector3.right) arrowEffectObject.transform.localRotation = Quaternion.Euler(0f, 0f, 0f);
-        else if (_lookDirection == Vector3.left) arrowEffectObject.transform.localRotation = Quaternion.Euler(0f, 0f, 180f);
-        else if (_lookDirection == Vector3.up) arrowEffectObject.transform.localRotation = Quaternion.Euler(0f, 0f, 90f);
-        else if (_lookDirection == Vector3.down) arrowEffectObject.transform.localRotation = Quaternion.Euler(0f, 0f, -90f);
+        if (_lookDirection == Vector3.left) _runtimeArrowObj.transform.localRotation = Quaternion.Euler(0f, 0f, 0f); 
+        else if (_lookDirection == Vector3.right) _runtimeArrowObj.transform.localRotation = Quaternion.Euler(0f, 0f, 180f); 
+        else if (_lookDirection == Vector3.up) _runtimeArrowObj.transform.localRotation = Quaternion.Euler(0f, 0f, -90f); 
+        else if (_lookDirection == Vector3.down) _runtimeArrowObj.transform.localRotation = Quaternion.Euler(0f, 0f, 90f); 
 
-        arrowEffectObject.SetActive(true);
-        yield return new WaitForSeconds(arrowDuration);
-        arrowEffectObject.SetActive(false);
+        _runtimeArrowObj.SetActive(true);
+
+        Vector3 startPos = transform.position;
+        Vector3 endPos = startPos + (_lookDirection * arrowRange);
+        float elapsed = 0f;
+
+        while (elapsed < arrowDuration)
+        {
+            elapsed += Time.deltaTime;
+            _runtimeArrowObj.transform.position = Vector3.Lerp(startPos, endPos, elapsed / arrowDuration);
+            yield return null;
+        }
+
+        _runtimeArrowObj.SetActive(false);
     }
 
-    private IEnumerator ShowBackstepEffectRoutine()
+    private IEnumerator ShowBackstepEffectRoutine(float duration)
     {
         if (backstepEffectObject == null) yield break;
 
         backstepEffectObject.transform.localPosition = Vector3.zero; 
         backstepEffectObject.SetActive(true);
-        yield return new WaitForSeconds(backstepDuration);
+        yield return new WaitForSeconds(duration);
         backstepEffectObject.SetActive(false);
     }
 
-    private IEnumerator MovePlayerBackstep(Vector3 targetPos)
+    private IEnumerator MovePlayerBackstep(Vector3 targetPos, float duration)
     {
         _isMoving = true;
+        _isStunned = true; 
+        
         float elapsedTime = 0;
         _origPos = transform.position;
         _targetPos = targetPos;
-        while (elapsedTime < backstepDuration)
+
+        Vector3 originalLookDir = _lookDirection;      
+        Vector3 backStepLookDir = -_lookDirection;      
+
+        ChangePlayerSprite(backStepLookDir);
+
+        if (_runtimeBowObj != null)
+        {
+            // 활을 플레이어의 1칸 앞에 오프셋 위치시켜 생성
+            _runtimeBowObj.transform.localPosition = originalLookDir;
+            
+            if (originalLookDir == Vector3.left) _runtimeBowObj.transform.localRotation = Quaternion.Euler(0f, 0f, 0f);
+            else if (originalLookDir == Vector3.right) _runtimeBowObj.transform.localRotation = Quaternion.Euler(0f, 0f, 180f);
+            else if (originalLookDir == Vector3.up) _runtimeBowObj.transform.localRotation = Quaternion.Euler(0f, 0f, -90f);
+            else if (originalLookDir == Vector3.down) _runtimeBowObj.transform.localRotation = Quaternion.Euler(0f, 0f, 90f);
+
+            _runtimeBowObj.SetActive(true);
+        }
+
+        while (elapsedTime < duration)
         {
             elapsedTime += Time.deltaTime;
-            transform.position = Vector3.Lerp(_origPos, _targetPos, elapsedTime / backstepDuration);
+            transform.position = Vector3.Lerp(_origPos, _targetPos, elapsedTime / duration);
             yield return null;
         }
         transform.position = _targetPos;
-        
-        UpdateGridSortingOrder();
         _isMoving = false;
+
+        ChangePlayerSprite(originalLookDir);
+
+        // 대쉬(백스텝 이동)가 끝나는 즉시 활 활성화 해제
+        if (_runtimeBowObj != null)
+        {
+            _runtimeBowObj.SetActive(false);
+        }
+
+        yield return new WaitForSeconds(backstepEndDelay);
+
+        _isStunned = false; 
     }
 
     private List<Vector2Int> GetFrontTiles(int myX, int myY, int range)
@@ -638,10 +598,6 @@ public class PlayerMovement : MonoBehaviour
             _runtimeSwingWeaponObj.transform.SetParent(transform, false); 
             SpriteRenderer sr = _runtimeSwingWeaponObj.GetComponent<SpriteRenderer>();
             sr.sprite = swingWeaponEffectSprite;
-<<<<<<< HEAD
-            
-=======
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
             sr.sortingLayerName = playerSortingLayer;
             sr.sortingOrder = playerSortingOrder + 5;
             _runtimeSwingWeaponObj.SetActive(false);
@@ -653,13 +609,42 @@ public class PlayerMovement : MonoBehaviour
             _runtimeCounterWeaponObj.transform.SetParent(transform, false); 
             SpriteRenderer sr = _runtimeCounterWeaponObj.GetComponent<SpriteRenderer>();
             sr.sprite = counterWeaponEffectSprite;
-<<<<<<< HEAD
-            
-=======
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
             sr.sortingLayerName = playerSortingLayer;
             sr.sortingOrder = playerSortingOrder + 5;
             _runtimeCounterWeaponObj.SetActive(false);
+        }
+
+        if (arrowEffectSprite != null)
+        {
+            _runtimeArrowObj = new GameObject("RuntimeArrowEffect", typeof(SpriteRenderer));
+            _runtimeArrowObj.transform.SetParent(transform, false);
+            SpriteRenderer sr = _runtimeArrowObj.GetComponent<SpriteRenderer>();
+            sr.sprite = arrowEffectSprite;
+            sr.sortingLayerName = playerSortingLayer;
+            sr.sortingOrder = playerSortingOrder + 6; 
+            _runtimeArrowObj.SetActive(false);
+        }
+
+        // 백스텝용 전용 스프라이트(backstepBowSprite) 적용
+        if (backstepBowSprite != null)
+        {
+            _runtimeBowObj = new GameObject("RuntimeBowEffect", typeof(SpriteRenderer));
+            _runtimeBowObj.transform.SetParent(transform, false);
+            SpriteRenderer bowSr = _runtimeBowObj.GetComponent<SpriteRenderer>();
+            bowSr.sprite = backstepBowSprite; 
+            bowSr.sortingLayerName = playerSortingLayer;
+            bowSr.sortingOrder = playerSortingOrder + 4; 
+            _runtimeBowObj.SetActive(false);
+        }
+        else if (arrowEffectSprite != null) 
+        {
+            _runtimeBowObj = new GameObject("RuntimeBowEffect", typeof(SpriteRenderer));
+            _runtimeBowObj.transform.SetParent(transform, false);
+            SpriteRenderer bowSr = _runtimeBowObj.GetComponent<SpriteRenderer>();
+            bowSr.sprite = arrowEffectSprite; 
+            bowSr.sortingLayerName = playerSortingLayer;
+            bowSr.sortingOrder = playerSortingOrder + 4; 
+            _runtimeBowObj.SetActive(false);
         }
     }
 
@@ -721,10 +706,7 @@ public class PlayerMovement : MonoBehaviour
         float elapsedTime = 0;
         _origPos = transform.position;
         _targetPos = _origPos + direction;
-<<<<<<< HEAD
-=======
 
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
         while (elapsedTime < timeToMove) 
         {
             elapsedTime += Time.deltaTime;
@@ -732,81 +714,28 @@ public class PlayerMovement : MonoBehaviour
             yield return null;
         }
         transform.position = _targetPos;
-<<<<<<< HEAD
-       
         _isMoving = false;
     }
 
-    // 외부 발판 트리거 전용 안전한 텔레포트 제어 함수
-=======
-        
-        UpdateGridSortingOrder();
-        _isMoving = false;
-    }
-
-    private void UpdateGridSortingOrder()
-    {
-        if (_spriteRenderer == null) return;
-        int currentGridY = Mathf.RoundToInt(transform.position.y);
-        _spriteRenderer.sortingOrder = 100 - currentGridY;
-
-        if (arrowEffectObject != null)
-        {
-            SpriteRenderer sr = arrowEffectObject.GetComponent<SpriteRenderer>();
-            if (sr != null) sr.sortingOrder = _spriteRenderer.sortingOrder + 1;
-        }
-        if (backstepEffectObject != null)
-        {
-            SpriteRenderer sr = backstepEffectObject.GetComponent<SpriteRenderer>();
-            if (sr != null) sr.sortingOrder = _spriteRenderer.sortingOrder + 1; 
-        }
-    }
-
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
     public void TeleportTo(Vector3 targetNewPos)
     {
         StopAllCoroutines(); 
         _isMoving = false;    
+        _isStunned = false;   
 
         transform.position = targetNewPos;
         _origPos = targetNewPos;
         _targetPos = targetNewPos;
 
-<<<<<<< HEAD
-        Debug.Log($"[TeleportTo] 플레이어가 그리드 예외 처리와 함께 {targetNewPos} 위치로 완벽 텔포되었습니다.");
-    }
-
-    /// <summary>
-    /// 좀비가 플레이어를 성공적으로 공격했을 때 호출하는 피격 처리 메서드
-    /// </summary>
-    /// <param name="damage">좀비가 가하는 데미지 수치</param>
-    public void OnGetHitByZombie(float damage)
-    {
-        if (_isInvincible) return;
-
-        // TODO: 프로젝트 내 체력 시스템 구조에 맞춰 연산 추가 (예: PlayerHP -= damage;)
-        Debug.Log($"[PlayerMovement] 좀비에게 공격당해 {damage}만큼 피격되었습니다.");
-
-        // 피격 후 0.5초간 임시 무적 부여
-        StartCoroutine(TempInvincibleRoutine(0.5f)); 
-    }
-
-    /// <summary>
-    /// 피격 또는 특정 이벤트 후 임시로 무적 상태를 제어해주는 루틴
-    /// </summary>
-=======
-        UpdateGridSortingOrder();
         Debug.Log($"[TeleportTo] 플레이어가 {targetNewPos} 위치로 안전하게 텔레포트되었습니다.");
     }
 
     public void OnGetHitByZombie(float damage)
     {
-        if (_isInvincible) return;
-        Debug.Log($"[PlayerMovement] 좀비에게 공격당해 {damage}만큼 피격되었습니다.");
+        TakeDamage(damage); 
         StartCoroutine(TempInvincibleRoutine(0.5f)); 
     }
 
->>>>>>> 5d5dd9fb8b0732e075564ca32c2ccf5be2eb366f
     private IEnumerator TempInvincibleRoutine(float duration)
     {
         _isInvincible = true;

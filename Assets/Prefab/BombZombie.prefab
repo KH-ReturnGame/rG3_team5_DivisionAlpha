@@ -355,12 +355,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ZombieAI2_0
   playerTransform: {fileID: 0}
   showGizmosConstantly: 1
-  defeatScore: 100
+  defeatScore: 200
   timeToMove: 0.3
-  attackDamage: 10
+  attackDamage: 20
   explosionDamage: 20
-  detectionRangeX: 12
-  detectionRangeY: 12
+  detectionRangeX: 9999999
+  detectionRangeY: 9999999
   n_triggerFrontSteps: 1
   m_attackWidth: 1
   k_attackHeight: 2

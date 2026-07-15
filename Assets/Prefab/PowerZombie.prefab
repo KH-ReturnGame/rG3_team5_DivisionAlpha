@@ -416,8 +416,8 @@ MonoBehaviour:
   timeToMove: 0.25
   attackDamage: 20
   explosionDamage: 30
-  detectionRangeX: 4
-  detectionRangeY: 4
+  detectionRangeX: 999
+  detectionRangeY: 999
   n_triggerFrontSteps: 3
   m_attackWidth: 1
   k_attackHeight: 5
@@ -425,7 +425,7 @@ MonoBehaviour:
   spriteDefault: {fileID: 4508788842524621967, guid: 865fcfa49c6ff419d9b326f74273a1af, type: 3}
   spriteUp: {fileID: -4054209312704793879, guid: 8e72f37765c2b4cfbba81b51dfb06eba, type: 3}
   spriteDown: {fileID: 4508788842524621967, guid: 865fcfa49c6ff419d9b326f74273a1af, type: 3}
-  spriteLeft: {fileID: -4304611527826027063, guid: 8e72f37765c2b4cfbba81b51dfb06eba, type: 3}
+  spriteLeft: {fileID: 7760225395090245754, guid: b7c99786b28494ffea921140cf172f56, type: 3}
   warningSquarePrefab: {fileID: 5970259201331312636, guid: ba4e0aa86f298cc4fa5c4ad4ae8a9edc, type: 3}
   attackCooldown: 5
   runningSteps: 5

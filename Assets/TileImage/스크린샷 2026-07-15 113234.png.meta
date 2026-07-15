@@ -1,16 +1,10 @@
 fileFormatVersion: 2
-guid: abecef4f7ba2e20498a545ce2c217ff9
+guid: aa27fafc6ebbc834a9007b63c58f842c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4346244404228752641
-    second: Arrow_0
-  - first:
-      213: -6662812116773042688
-    second: Arrow_1
-  - first:
-      213: -2292719611878453243
-    second: Arrow_2
+      213: 149548834982118969
+    second: "\uC2A4\uD06C\uB9B0\uC0F7 2026-07-15 113234_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -102,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Arrow_0
+      name: "\uC2A4\uD06C\uB9B0\uC0F7 2026-07-15 113234_0"
       rect:
         serializedVersion: 2
-        x: 1
+        x: 0
         y: 0
-        width: 9
-        height: 32
+        width: 71
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -134,52 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ffa7ae2edb90fa3c0800000000000000
-      internalID: -4346244404228752641
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arrow_1
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 0
-        width: 9
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 006039e4eafe883a0800000000000000
-      internalID: -6662812116773042688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Arrow_2
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 12
-        width: 67
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 500d96c09af9e20e0800000000000000
-      internalID: -2292719611878453243
+      spriteID: 936cea18fdd431200800000000000000
+      internalID: 149548834982118969
       vertices: []
       indices: 
       edges: []
@@ -198,9 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Arrow_0: -4346244404228752641
-      Arrow_1: -6662812116773042688
-      Arrow_2: -2292719611878453243
+      "\uC2A4\uD06C\uB9B0\uC0F7 2026-07-15 113234_0": 149548834982118969
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

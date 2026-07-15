@@ -553,10 +553,10 @@ MonoBehaviour:
   showGizmosConstantly: 1
   defeatScore: 1500
   timeToMove: 0.3
-  attackDamage: 25
+  attackDamage: 30
   explosionDamage: 30
-  detectionRangeX: 4
-  detectionRangeY: 4
+  detectionRangeX: 999
+  detectionRangeY: 999
   n_triggerFrontSteps: 1
   m_attackWidth: 1
   k_attackHeight: 2
@@ -567,8 +567,8 @@ MonoBehaviour:
   spriteLeft: {fileID: 7099880317535468733, guid: 29234f29a9fce4802bc5f7894cffb0c3, type: 3}
   warningSquarePrefab: {fileID: 0}
   attackCooldown: 5
-  runningSteps: 5
-  runningTimeToMove: 0.2
+  runningSteps: 10
+  runningTimeToMove: 0.1
   labGlassSprite: {fileID: 0}
   kendoDashDistance: 3
   kendoDashCooldown: 5
@@ -587,7 +587,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HealthBar
   isZombie: 1
-  maxHealth: 1200
+  maxHealth: 800
   hpSlider: {fileID: 4624515164029418819}
   backgroundImage: {fileID: 987385541006368723}
   fillImage: {fileID: 3697401397756651104}

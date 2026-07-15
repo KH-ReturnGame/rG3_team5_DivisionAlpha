@@ -478,20 +478,20 @@ MonoBehaviour:
   showGizmosConstantly: 1
   defeatScore: 250
   timeToMove: 0.2
-  attackDamage: 15
+  attackDamage: 20
   explosionDamage: 30
-  detectionRangeX: 4
-  detectionRangeY: 4
+  detectionRangeX: 999
+  detectionRangeY: 999
   n_triggerFrontSteps: 1
   m_attackWidth: 1
   k_attackHeight: 2
   transparentWallTilemap: {fileID: 0}
   spriteDefault: {fileID: 8646843584741091787, guid: 03a57db5fe7064a31b3b4969e569e654, type: 3}
   spriteUp: {fileID: -764407100841372987, guid: dcc618b2255f2475586ac21ba1f784f6, type: 3}
-  spriteDown: {fileID: -292455791021493669, guid: 7c8932cffcd59994dabd3d1b2c1b5272, type: 3}
-  spriteLeft: {fileID: -437040325175761317, guid: a09a6901b96b17a48b2ac06ccbe0c626, type: 3}
+  spriteDown: {fileID: -853756731026484033, guid: 15c90b74f7f134cc5b4898da30d9427f, type: 3}
+  spriteLeft: {fileID: -437040325175761317, guid: fbe291a977d304eb4a84ae03c8fe50db, type: 3}
   warningSquarePrefab: {fileID: 5970259201331312636, guid: ba4e0aa86f298cc4fa5c4ad4ae8a9edc, type: 3}
-  attackCooldown: 5
+  attackCooldown: 2.5
   runningSteps: 5
   runningTimeToMove: 0.15
   labGlassSprite: {fileID: 0}

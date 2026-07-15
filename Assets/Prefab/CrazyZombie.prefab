@@ -519,8 +519,8 @@ MonoBehaviour:
   timeToMove: 0.3
   attackDamage: 10
   explosionDamage: 30
-  detectionRangeX: 4
-  detectionRangeY: 4
+  detectionRangeX: 999
+  detectionRangeY: 999
   n_triggerFrontSteps: 1
   m_attackWidth: 1
   k_attackHeight: 2

@@ -476,15 +476,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ZombieAI2_0
   playerTransform: {fileID: 0}
   showGizmosConstantly: 1
-  defeatScore: 100
-  timeToMove: 0.3
-  attackDamage: 10
+  defeatScore: 3000
+  timeToMove: 0.2
+  attackDamage: 30
   explosionDamage: 30
-  detectionRangeX: 4
-  detectionRangeY: 4
-  n_triggerFrontSteps: 1
-  m_attackWidth: 1
-  k_attackHeight: 2
+  detectionRangeX: 999
+  detectionRangeY: 999
+  n_triggerFrontSteps: 7
+  m_attackWidth: 0
+  k_attackHeight: 0
   transparentWallTilemap: {fileID: 0}
   spriteDefault: {fileID: 3364317090057165278, guid: 56d22e6c108ad7c4ab4474c77bbf447a, type: 3}
   spriteUp: {fileID: 2652168313930661948, guid: 5e428a2e2b0cc9d4d99c6debe174703a, type: 3}

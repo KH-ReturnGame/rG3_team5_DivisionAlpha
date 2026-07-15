@@ -456,7 +456,7 @@ CircleCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -476,12 +476,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ZombieAI2_0
   playerTransform: {fileID: 0}
   showGizmosConstantly: 1
-  defeatScore: 100
+  defeatScore: 200
   timeToMove: 0.3
-  attackDamage: 10
+  attackDamage: 20
   explosionDamage: 30
-  detectionRangeX: 4
-  detectionRangeY: 4
+  detectionRangeX: 999
+  detectionRangeY: 999
   n_triggerFrontSteps: 1
   m_attackWidth: 1
   k_attackHeight: 2
@@ -512,7 +512,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HealthBar
   isZombie: 1
-  maxHealth: 150
+  maxHealth: 200
   hpSlider: {fileID: 7260614603015778387}
   backgroundImage: {fileID: 1915489281106875074}
   fillImage: {fileID: 1763081322761278687}
