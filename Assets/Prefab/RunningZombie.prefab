@@ -392,6 +392,7 @@ GameObject:
   - component: {fileID: 51510533919177249}
   - component: {fileID: 1601123783934386167}
   - component: {fileID: 6356008257998563801}
+  - component: {fileID: 2004511070535645867}
   m_Layer: 6
   m_Name: RunningZombie
   m_TagString: RunningZombie
@@ -559,7 +560,7 @@ MonoBehaviour:
   detectionRangeY: 999
   n_triggerFrontSteps: 1
   m_attackWidth: 1
-  k_attackHeight: 2
+  k_attackHeight: 50
   transparentWallTilemap: {fileID: 0}
   spriteDefault: {fileID: -4418480612341106198, guid: 69f0ba2732d2b49309c7f64419b98992, type: 3}
   spriteUp: {fileID: 0}
@@ -567,7 +568,7 @@ MonoBehaviour:
   spriteLeft: {fileID: 7099880317535468733, guid: 29234f29a9fce4802bc5f7894cffb0c3, type: 3}
   warningSquarePrefab: {fileID: 0}
   attackCooldown: 5
-  runningSteps: 10
+  runningSteps: 50
   runningTimeToMove: 0.1
   labGlassSprite: {fileID: 0}
   kendoDashDistance: 3
@@ -592,3 +593,15 @@ MonoBehaviour:
   backgroundImage: {fileID: 987385541006368723}
   fillImage: {fileID: 3697401397756651104}
   hpText: {fileID: 0}
+--- !u!114 &2004511070535645867
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8371660288502170100}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 270bddf19189de341971c178b49d38fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IndicatorTarget

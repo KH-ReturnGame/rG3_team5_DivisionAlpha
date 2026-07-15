@@ -356,6 +356,7 @@ GameObject:
   - component: {fileID: 8513545582703039499}
   - component: {fileID: 2804827191920224625}
   - component: {fileID: 467506022125197237}
+  - component: {fileID: -2603226279647896499}
   m_Layer: 0
   m_Name: CrazyZombie
   m_TagString: CrazyZombie
@@ -516,7 +517,7 @@ MonoBehaviour:
   playerTransform: {fileID: 0}
   showGizmosConstantly: 1
   defeatScore: 100
-  timeToMove: 0.3
+  timeToMove: 0.15
   attackDamage: 10
   explosionDamage: 30
   detectionRangeX: 999
@@ -556,6 +557,18 @@ MonoBehaviour:
   backgroundImage: {fileID: 1856168495805590304}
   fillImage: {fileID: 7881884804148243626}
   hpText: {fileID: 0}
+--- !u!114 &-2603226279647896499
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8254901496131497308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 270bddf19189de341971c178b49d38fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IndicatorTarget
 --- !u!1 &9119176485600449824
 GameObject:
   m_ObjectHideFlags: 0

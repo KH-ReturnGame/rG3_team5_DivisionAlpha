@@ -36,7 +36,7 @@ public class PlayerMovement : MonoBehaviour
     public float maxHealth = 50f;
     public float currentHealth = 50f;
     [Tooltip("피격 후 무적 지속 시간입니다.")]
-    public float invulnerabilityDuration = 1.0f;
+    public float invulnerabilityDuration = 0.5f;
 
     [Header("데미지 설정 (실시간 조정 가능)")]
     public float chairSkill1Dmg = 20f;   
@@ -73,7 +73,7 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private Image arrowBorderImage;               
     [SerializeField] private Image arrowCoolDownImage;             
     public float arrowCooldown = 1.0f; 
-    public float arrowDuration = 0.3f; 
+    public float arrowDuration = 0.2f; 
     public int arrowRange = 5;         
     private float _arrowCooldownTimer = 0f;
     private Coroutine _arrowEffectCoroutine;
@@ -151,23 +151,23 @@ public class PlayerMovement : MonoBehaviour
         }
         else if (currentHealth > 0)
         {
-            StartCoroutine(InvincibleBlinkRoutine(invulnerabilityDuration));
+            StartCoroutine(InvincibleBlinkRoutine());
         }
     }
 
-    private IEnumerator InvincibleBlinkRoutine(float duration)
+   private IEnumerator InvincibleBlinkRoutine()
+{
+    _isInvincible = true;
+    float elapsed = 0f;
+    while (elapsed < invulnerabilityDuration) // 무적 시간 0.5초 적용
     {
-        _isInvincible = true;
-        float elapsed = 0f;
-        while (elapsed < duration)
-        {
-            _spriteRenderer.enabled = !_spriteRenderer.enabled;
-            yield return new WaitForSeconds(0.1f);
-            elapsed += 0.1f;
-        }
-        _spriteRenderer.enabled = true;
-        _isInvincible = false;
+        if (_spriteRenderer != null) _spriteRenderer.enabled = !_spriteRenderer.enabled;
+        yield return new WaitForSeconds(0.1f);
+        elapsed += 0.1f;
     }
+    if (_spriteRenderer != null) _spriteRenderer.enabled = true;
+    _isInvincible = false;
+}
 
     void Awake()
     {
@@ -395,19 +395,17 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    private void TryArrowAttack()
+  private void TryArrowAttack()
     {
         _arrowCooldownTimer = arrowCooldown; 
-        
         if (arrowBorderImage != null) arrowBorderImage.fillAmount = 0f;
 
-        // [수정] 쏜 당시의 방향을 저장하여 코루틴에 전달
         Vector3 shootDirection = _lookDirection;
-
         if (_arrowEffectCoroutine != null) StopCoroutine(_arrowEffectCoroutine);
         _arrowEffectCoroutine = StartCoroutine(ShowArrowEffectRoutine(shootDirection));
-
-        StartCoroutine(DelayedDamageRoutine(arrowDuration, shootDirection));
+        
+        // [수정] 화살 대미지 적용 속도 최적화
+        StartCoroutine(DelayedDamageRoutine(arrowDuration * 0.5f, shootDirection));
     }
 
     private IEnumerator ShowArrowEffectRoutine(Vector3 shootDirection)

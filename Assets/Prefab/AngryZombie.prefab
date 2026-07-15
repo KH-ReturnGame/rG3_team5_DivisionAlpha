@@ -317,6 +317,7 @@ GameObject:
   - component: {fileID: 4494032416127786815}
   - component: {fileID: 4727617080323155868}
   - component: {fileID: 3189261983530074625}
+  - component: {fileID: 4139159461013243497}
   m_Layer: 6
   m_Name: AngryZombie
   m_TagString: AngryZombie
@@ -517,6 +518,18 @@ MonoBehaviour:
   backgroundImage: {fileID: 7994696930244074065}
   fillImage: {fileID: 8678123255819727585}
   hpText: {fileID: 0}
+--- !u!114 &4139159461013243497
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4746166249106320787}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 270bddf19189de341971c178b49d38fa, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::IndicatorTarget
 --- !u!1 &6819594678763487273
 GameObject:
   m_ObjectHideFlags: 0
