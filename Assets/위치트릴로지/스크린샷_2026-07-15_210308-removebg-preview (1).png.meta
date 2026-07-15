@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d63a68692463678429d9ba8eab6d406b
+guid: 26d230b43a238ab48a030d85f95e6640
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3566340544554592520
-    second: "\uC2A4\uD06C\uB9B0\uC0F7 2026-07-10 010240_0"
+      213: -1013796859942769710
+    second: "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-15_210308-removebg-preview (1)_0"
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 44
+  spritePixelsToUnits: 360
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\uC2A4\uD06C\uB9B0\uC0F7 2026-07-10 010240_0"
+      name: "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-15_210308-removebg-preview (1)_0"
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 47
-        height: 47
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 15
+        y: 13
+        width: 219
+        height: 349
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 809ef3a74df2e7130800000000000000
-      internalID: 3566340544554592520
+      spriteID: 2db64b090254ee1f0800000000000000
+      internalID: -1013796859942769710
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f1a9436955ec64043830e0df47fbf2e0
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "\uC2A4\uD06C\uB9B0\uC0F7 2026-07-10 010240_0": 3566340544554592520
+      "\uC2A4\uD06C\uB9B0\uC0F7_2026-07-15_210308-removebg-preview (1)_0": -1013796859942769710
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
