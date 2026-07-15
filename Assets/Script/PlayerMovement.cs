@@ -742,4 +742,8 @@ public class PlayerMovement : MonoBehaviour
         yield return new WaitForSeconds(duration);
         _isInvincible = false;
     }
+    public Vector3 GetLookDirection()
+    {
+        return _lookDirection;
+    }
 }
