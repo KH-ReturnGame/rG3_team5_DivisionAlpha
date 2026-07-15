@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 44be98bbac3e243b98580718a2a130c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6750170186847285967
+    second: Soulmate_explode_2_2_0
+  - first:
+      213: 6462911711547341878
+    second: Soulmate_explode_2_2_1
+  - first:
+      213: 1331817283065903196
+    second: Soulmate_explode_2_2_2
+  - first:
+      213: 457879781693379919
+    second: Soulmate_explode_2_2_3
+  - first:
+      213: -4053559233983509359
+    second: Soulmate_explode_2_2_4
+  - first:
+      213: -6629773582665096755
+    second: Soulmate_explode_2_2_5
+  - first:
+      213: -8163875540920538421
+    second: Soulmate_explode_2_2_6
+  - first:
+      213: -4747327692863827725
+    second: Soulmate_explode_2_2_7
+  - first:
+      213: -6327059500054386582
+    second: Soulmate_explode_2_2_8
+  - first:
+      213: -3471245024888906063
+    second: Soulmate_explode_2_2_9
+  - first:
+      213: 4778361944544393810
+    second: Soulmate_explode_2_2_10
+  - first:
+      213: 723107543502691833
+    second: Soulmate_explode_2_2_11
+  - first:
+      213: -4798465475767348936
+    second: Soulmate_explode_2_2_12
+  - first:
+      213: -6166729136204806561
+    second: Soulmate_explode_2_2_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 51
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d098f9af39252a0800000000000000
+      internalID: -6750170186847285967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 52
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63cbd7da5ffd0b950800000000000000
+      internalID: 6462911711547341878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 46
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c587ede33c09b7210800000000000000
+      internalID: 1331817283065903196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_3
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45daa94c37ba5600800000000000000
+      internalID: 457879781693379919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_4
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 32
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c88667a5ddeb7c0800000000000000
+      internalID: -4053559233983509359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc16af77d005ef3a0800000000000000
+      internalID: -6629773582665096755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca6ee8137614be80800000000000000
+      internalID: -8163875540920538421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_7
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 24
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f01a72ad9a1e1eb0800000000000000
+      internalID: -4747327692863827725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 23
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a686f7a28e4c138a0800000000000000
+      internalID: -6327059500054386582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_9
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 22
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be97239a09a3dfc0800000000000000
+      internalID: -3471245024888906063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 5
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a30d82fd6205240800000000000000
+      internalID: 4778361944544393810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_11
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 17
+        width: 19
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd12e8ca7ef80a00800000000000000
+      internalID: 723107543502691833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 5
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83159e9b21d686db0800000000000000
+      internalID: -4798465475767348936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Soulmate_explode_2_2_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 0
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56067af5806b6aa0800000000000000
+      internalID: -6166729136204806561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Soulmate_explode_2_2_0: -6750170186847285967
+      Soulmate_explode_2_2_1: 6462911711547341878
+      Soulmate_explode_2_2_10: 4778361944544393810
+      Soulmate_explode_2_2_11: 723107543502691833
+      Soulmate_explode_2_2_12: -4798465475767348936
+      Soulmate_explode_2_2_13: -6166729136204806561
+      Soulmate_explode_2_2_2: 1331817283065903196
+      Soulmate_explode_2_2_3: 457879781693379919
+      Soulmate_explode_2_2_4: -4053559233983509359
+      Soulmate_explode_2_2_5: -6629773582665096755
+      Soulmate_explode_2_2_6: -8163875540920538421
+      Soulmate_explode_2_2_7: -4747327692863827725
+      Soulmate_explode_2_2_8: -6327059500054386582
+      Soulmate_explode_2_2_9: -3471245024888906063
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

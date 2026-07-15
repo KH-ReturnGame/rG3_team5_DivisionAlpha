@@ -1,0 +1,749 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD:Assets/kernys.aooni/Texture2D/HeroesEp4_S3_ZombieParticle.png.meta
+guid: 8f13e73075ae6f64fa2708186bb93916
+=======
+guid: dcc618b2255f2475586ac21ba1f784f6
+>>>>>>> main
+=======
+guid: dcc618b2255f2475586ac21ba1f784f6
+=======
+guid: 6001a8754d59b5e498455e74c66963e8
+>>>>>>> origin/Archer
+>>>>>>> main:Assets/위치트릴로지/HeroesEp4_S3_ZombieParticle.png.meta
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -764407100841372987
+    second: HeroesEp4_S3_ZombieParticle_0
+  - first:
+      213: -2066091311863171498
+    second: HeroesEp4_S3_ZombieParticle_1
+  - first:
+      213: 6424904777050013831
+    second: HeroesEp4_S3_ZombieParticle_2
+  - first:
+      213: 7648743890515675547
+    second: HeroesEp4_S3_ZombieParticle_3
+  - first:
+      213: 7688808414328195034
+    second: HeroesEp4_S3_ZombieParticle_4
+  - first:
+      213: 4673662977007142680
+    second: HeroesEp4_S3_ZombieParticle_5
+  - first:
+      213: -5698896370762612187
+    second: HeroesEp4_S3_ZombieParticle_6
+  - first:
+      213: -3137352825181683663
+    second: HeroesEp4_S3_ZombieParticle_7
+  - first:
+      213: 6216591114874463401
+    second: HeroesEp4_S3_ZombieParticle_8
+  - first:
+      213: 4189396541224333451
+    second: HeroesEp4_S3_ZombieParticle_9
+  - first:
+      213: 1626886016632851765
+    second: HeroesEp4_S3_ZombieParticle_10
+  - first:
+      213: -3512157248370122774
+    second: HeroesEp4_S3_ZombieParticle_11
+  - first:
+      213: 8244581000483226350
+    second: HeroesEp4_S3_ZombieParticle_12
+  - first:
+      213: -3535430232044634760
+    second: HeroesEp4_S3_ZombieParticle_13
+  - first:
+      213: -6870886931439577530
+    second: HeroesEp4_S3_ZombieParticle_14
+  - first:
+      213: 5063439848166376494
+    second: HeroesEp4_S3_ZombieParticle_15
+  - first:
+      213: -5443316061928601269
+    second: HeroesEp4_S3_ZombieParticle_16
+  - first:
+      213: -489471497023628947
+    second: HeroesEp4_S3_ZombieParticle_17
+  - first:
+      213: -3145839676800589676
+    second: HeroesEp4_S3_ZombieParticle_18
+  - first:
+      213: -7364452200743352705
+    second: HeroesEp4_S3_ZombieParticle_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+<<<<<<< HEAD
+=======
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+>>>>>>> origin/Archer
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 393
+        width: 105
+        height: 95
+<<<<<<< HEAD
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+=======
+      alignment: 0
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c25092bac74465f0800000000000000
+      internalID: -764407100841372987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 393
+        width: 91
+        height: 93
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656ffd206e4c353e0800000000000000
+      internalID: -2066091311863171498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_2
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 393
+        width: 105
+        height: 95
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780c6c7aad8d92950800000000000000
+      internalID: 6424904777050013831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_3
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 393
+        width: 91
+        height: 93
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99402c2b0cc52a60800000000000000
+      internalID: 7648743890515675547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 297
+        width: 57
+        height: 92
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7011a048224ba60800000000000000
+      internalID: 7688808414328195034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 297
+        width: 57
+        height: 90
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817c76827bf2cd040800000000000000
+      internalID: 4673662977007142680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_6
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 297
+        width: 57
+        height: 92
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5228ee0e1f379e0b0800000000000000
+      internalID: -5698896370762612187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 297
+        width: 57
+        height: 90
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1304af75a32e574d0800000000000000
+      internalID: -3137352825181683663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_8
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 201
+        width: 50
+        height: 93
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a421fb9ea4c54650800000000000000
+      internalID: 6216591114874463401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 201
+        width: 51
+        height: 91
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b803de635f9b32a30800000000000000
+      internalID: 4189396541224333451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_10
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 201
+        width: 49
+        height: 88
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d8377663cd39610800000000000000
+      internalID: 1626886016632851765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_11
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 199
+        width: 52
+        height: 91
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefd59f379f424fc0800000000000000
+      internalID: -3512157248370122774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_12
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 99
+        width: 31
+        height: 93
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2ccbffcb2aa6270800000000000000
+      internalID: 8244581000483226350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 99
+        width: 33
+        height: 91
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d7dca7fe0afeec0800000000000000
+      internalID: -3535430232044634760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_14
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 99
+        width: 34
+        height: 91
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6469ba74db4b5a0a0800000000000000
+      internalID: -6870886931439577530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_15
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 99
+        width: 31
+        height: 92
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24c383f6b3f44640800000000000000
+      internalID: 5063439848166376494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_16
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2
+        width: 68
+        height: 67
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b494190b1e47574b0800000000000000
+      internalID: -5443316061928601269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_17
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2
+        width: 66
+        height: 67
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d695a3c444c0539f0800000000000000
+      internalID: -489471497023628947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_18
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 2
+        width: 68
+        height: 67
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490a8f73b7bb754d0800000000000000
+      internalID: -3145839676800589676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeroesEp4_S3_ZombieParticle_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 2
+        width: 66
+        height: 67
+      alignment: 0
+<<<<<<< HEAD
+      pivot: {x: 0.5, y: 0.5}
+=======
+      pivot: {x: 0, y: 0}
+>>>>>>> origin/Archer
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f764951fdb53cc990800000000000000
+      internalID: -7364452200743352705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+<<<<<<< HEAD
+    spriteID: 3a1d6e3385490844ea78ba98986f2418
+=======
+    spriteID: 
+>>>>>>> origin/Archer
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HeroesEp4_S3_ZombieParticle_0: -764407100841372987
+      HeroesEp4_S3_ZombieParticle_1: -2066091311863171498
+      HeroesEp4_S3_ZombieParticle_10: 1626886016632851765
+      HeroesEp4_S3_ZombieParticle_11: -3512157248370122774
+      HeroesEp4_S3_ZombieParticle_12: 8244581000483226350
+      HeroesEp4_S3_ZombieParticle_13: -3535430232044634760
+      HeroesEp4_S3_ZombieParticle_14: -6870886931439577530
+      HeroesEp4_S3_ZombieParticle_15: 5063439848166376494
+      HeroesEp4_S3_ZombieParticle_16: -5443316061928601269
+      HeroesEp4_S3_ZombieParticle_17: -489471497023628947
+      HeroesEp4_S3_ZombieParticle_18: -3145839676800589676
+      HeroesEp4_S3_ZombieParticle_19: -7364452200743352705
+      HeroesEp4_S3_ZombieParticle_2: 6424904777050013831
+      HeroesEp4_S3_ZombieParticle_3: 7648743890515675547
+      HeroesEp4_S3_ZombieParticle_4: 7688808414328195034
+      HeroesEp4_S3_ZombieParticle_5: 4673662977007142680
+      HeroesEp4_S3_ZombieParticle_6: -5698896370762612187
+      HeroesEp4_S3_ZombieParticle_7: -3137352825181683663
+      HeroesEp4_S3_ZombieParticle_8: 6216591114874463401
+      HeroesEp4_S3_ZombieParticle_9: 4189396541224333451
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

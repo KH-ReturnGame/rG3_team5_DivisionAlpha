@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 51052a875c2664146abf9aeb60b4f3cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3728176369576967555
+    second: InfEvo_Event_Title_0
+  - first:
+      213: -8791328192757032426
+    second: InfEvo_Event_Title_1
+  - first:
+      213: 7471384714224311016
+    second: InfEvo_Event_Title_2
+  - first:
+      213: -3084105553709528211
+    second: InfEvo_Event_Title_3
+  - first:
+      213: -6608347351884459582
+    second: InfEvo_Event_Title_4
+  - first:
+      213: 1747595031020503809
+    second: InfEvo_Event_Title_5
+  - first:
+      213: 3051663925318363099
+    second: InfEvo_Event_Title_6
+  - first:
+      213: -1315461569334356022
+    second: InfEvo_Event_Title_7
+  - first:
+      213: -4377203815971180908
+    second: InfEvo_Event_Title_8
+  - first:
+      213: -2488881135093583815
+    second: InfEvo_Event_Title_9
+  - first:
+      213: 3820067436681649481
+    second: InfEvo_Event_Title_10
+  - first:
+      213: 7615404860219293087
+    second: InfEvo_Event_Title_11
+  - first:
+      213: -1705216339327315939
+    second: InfEvo_Event_Title_12
+  - first:
+      213: -3409952162345039518
+    second: InfEvo_Event_Title_13
+  - first:
+      213: 937753375110904076
+    second: InfEvo_Event_Title_14
+  - first:
+      213: -8516863193476513743
+    second: InfEvo_Event_Title_15
+  - first:
+      213: 946721881275269159
+    second: InfEvo_Event_Title_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d720c57385bd24cc0800000000000000
+      internalID: -3728176369576967555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 21
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a17de469deef580800000000000000
+      internalID: -8791328192757032426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea9f9fffc0bfa760800000000000000
+      internalID: 7471384714224311016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_3
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 0
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b8555d65e0335d0800000000000000
+      internalID: -3084105553709528211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 0
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c19882981f6a44a0800000000000000
+      internalID: -6608347351884459582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103073beb64b04810800000000000000
+      internalID: 1747595031020503809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7a972fb20b95a20800000000000000
+      internalID: 3051663925318363099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_7
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 20
+        width: 40
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7d52c1caa8ebde0800000000000000
+      internalID: -1315461569334356022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 11
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ead8f125c0143c0800000000000000
+      internalID: -4377203815971180908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_9
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 15
+        width: 43
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93073965bc7b57dd0800000000000000
+      internalID: -2488881135093583815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 23
+        width: 41
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d5275181b930530800000000000000
+      internalID: 3820067436681649481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_11
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d772a4f5a5fa960800000000000000
+      internalID: 7615404860219293087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_12
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 11
+        width: 12
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10143526cad558e0800000000000000
+      internalID: -1705216339327315939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2694956339a6da0d0800000000000000
+      internalID: -3409952162345039518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_14
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09b86ae9b1930d00800000000000000
+      internalID: 937753375110904076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_15
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 0
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130cb30cc060ec980800000000000000
+      internalID: -8516863193476513743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InfEvo_Event_Title_16
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 0
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720808af88e632d00800000000000000
+      internalID: 946721881275269159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      InfEvo_Event_Title_0: -3728176369576967555
+      InfEvo_Event_Title_1: -8791328192757032426
+      InfEvo_Event_Title_10: 3820067436681649481
+      InfEvo_Event_Title_11: 7615404860219293087
+      InfEvo_Event_Title_12: -1705216339327315939
+      InfEvo_Event_Title_13: -3409952162345039518
+      InfEvo_Event_Title_14: 937753375110904076
+      InfEvo_Event_Title_15: -8516863193476513743
+      InfEvo_Event_Title_16: 946721881275269159
+      InfEvo_Event_Title_2: 7471384714224311016
+      InfEvo_Event_Title_3: -3084105553709528211
+      InfEvo_Event_Title_4: -6608347351884459582
+      InfEvo_Event_Title_5: 1747595031020503809
+      InfEvo_Event_Title_6: 3051663925318363099
+      InfEvo_Event_Title_7: -1315461569334356022
+      InfEvo_Event_Title_8: -4377203815971180908
+      InfEvo_Event_Title_9: -2488881135093583815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -2,6 +2,10 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+<<<<<<< HEAD
+=======
+using TMPro; // TextMeshPro 제어용
+>>>>>>> main
 
 public class HealthBar : MonoBehaviour
 {
@@ -16,6 +20,13 @@ public class HealthBar : MonoBehaviour
     public Slider hpSlider;
     public Image backgroundImage;
     public Image fillImage;
+<<<<<<< HEAD
+=======
+    
+    [Header("선택 사항 (필요한 경우에만 연결)")]
+    [Tooltip("체력 수치 텍스트를 표시하고 싶은 체력바에만 이 칸을 연결하세요. 원치 않으면 비워두시면 됩니다.")]
+    public TMP_Text hpText; // 💡여기에 연결이 있을 때만 텍스트가 작동합니다.
+>>>>>>> main
 
     void Start()
     {
@@ -23,12 +34,20 @@ public class HealthBar : MonoBehaviour
         InitHealthBarUI();
     }
 
+<<<<<<< HEAD
     // 💡 [초록색 안 채워지는 버그 해결]: 유니티 UI 컴포넌트 로딩 순서에 영향받지 않게 Update에서도 동기화 처리 보완
+=======
+    // [초록색 안 채워지는 버그 해결]: 유니티 UI 컴포넌트 로딩 순서에 영향받지 않게 Update에서도 동기화 처리 보완
+>>>>>>> main
     void Update()
     {
         if (hpSlider != null && hpSlider.value != _currentHealth)
         {
+<<<<<<< HEAD
             hpSlider.value = _currentHealth;
+=======
+            UpdateHealthUI();
+>>>>>>> main
         }
     }
 
@@ -38,8 +57,12 @@ public class HealthBar : MonoBehaviour
 
         hpSlider.minValue = 0f;
         hpSlider.maxValue = maxHealth;
+<<<<<<< HEAD
         hpSlider.value = _currentHealth;
 
+=======
+        
+>>>>>>> main
         if (backgroundImage != null)
         {
             backgroundImage.color = Color.white;
@@ -56,6 +79,29 @@ public class HealthBar : MonoBehaviour
                 fillImage.color = new Color32(40, 215, 70, 255); // 인간: 초록색
             }
         }
+<<<<<<< HEAD
+=======
+
+        UpdateHealthUI();
+    }
+
+    // 슬라이더 바와 체력 텍스트 수치를 동기화하는 함수
+    private void UpdateHealthUI()
+    {
+        if (hpSlider != null)
+        {
+            hpSlider.value = _currentHealth;
+        }
+
+        // 💡 핵심 수정 부분: 플레이어(인간)이면서 'hpText 변수에 TMP 오브젝트가 연결되어 있을 때만' 텍스트를 갱신합니다.
+        // 중앙 체력바처럼 이 칸을 비워두면(Null) 이 아래 코드는 실행되지 않으므로 텍스트가 뜨지 않습니다.
+        if (!isZombie && hpText != null)
+        {
+            int currentInt = Mathf.RoundToInt(_currentHealth);
+            int maxInt = Mathf.RoundToInt(maxHealth);
+            hpText.text = $"{currentInt} / {maxInt}";
+        }
+>>>>>>> main
     }
 
     public void TakeDamage(float damage)
@@ -63,10 +109,14 @@ public class HealthBar : MonoBehaviour
         _currentHealth -= damage;
         _currentHealth = Mathf.Clamp(_currentHealth, 0f, maxHealth);
 
+<<<<<<< HEAD
         if (hpSlider != null)
         {
             hpSlider.value = _currentHealth;
         }
+=======
+        UpdateHealthUI();
+>>>>>>> main
 
         if (_currentHealth <= 0f)
         {
@@ -79,10 +129,14 @@ public class HealthBar : MonoBehaviour
         _currentHealth += amount;
         _currentHealth = Mathf.Clamp(_currentHealth, 0f, maxHealth);
 
+<<<<<<< HEAD
         if (hpSlider != null)
         {
             hpSlider.value = _currentHealth;
         }
+=======
+        UpdateHealthUI();
+>>>>>>> main
     }
 
     private void HandleDeath()
@@ -90,6 +144,17 @@ public class HealthBar : MonoBehaviour
         if (isZombie)
         {
             Debug.Log($"{gameObject.name} 좀비가 죽었습니다.");
+<<<<<<< HEAD
+=======
+
+            // 좀비가 죽을 때 해당 좀비가 가진 스코어를 ScoreManager에 더해줍니다.
+            ZombieAI2_0 zombieAI = GetComponent<ZombieAI2_0>();
+            if (zombieAI != null && ScoreManager.Instance != null)
+            {
+                ScoreManager.Instance.AddScore(zombieAI.defeatScore);
+            }
+
+>>>>>>> main
             Destroy(gameObject); 
         }
         else
