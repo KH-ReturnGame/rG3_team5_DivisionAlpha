@@ -6,7 +6,7 @@ public class SceneChanger : MonoBehaviour
     // 씬 이름을 텍스트로 받아서 전환하는 함수
     public void ChangeScene_to_main()
     {
-        SceneManager.LoadScene("MGL_Main");
+        SceneManager.LoadScene("MGL.Goat.");
     }
 
     public void ChangeScene_to_tutorial()

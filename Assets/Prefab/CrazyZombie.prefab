@@ -517,7 +517,7 @@ MonoBehaviour:
   playerTransform: {fileID: 0}
   showGizmosConstantly: 1
   defeatScore: 100
-  timeToMove: 0.15
+  timeToMove: 0.3
   attackDamage: 10
   explosionDamage: 30
   detectionRangeX: 999

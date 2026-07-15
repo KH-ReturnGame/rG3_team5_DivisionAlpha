@@ -18997,30 +18997,20 @@ MonoBehaviour:
     button: {fileID: 1084528434}
     nameText: {fileID: 358931332}
     loreText: {fileID: 1841508071}
-    rarityRaw: {fileID: 2094850992}
+    typeText: {fileID: 0}
     iconRaw: {fileID: 1472036654}
-    typeRaw: {fileID: 952771453}
   second:
     button: {fileID: 1533306746}
     nameText: {fileID: 1262787469}
     loreText: {fileID: 345963135}
-    rarityRaw: {fileID: 1937323961}
+    typeText: {fileID: 0}
     iconRaw: {fileID: 1429189455}
-    typeRaw: {fileID: 134615142}
   third:
     button: {fileID: 1962245637}
     nameText: {fileID: 1090752235}
     loreText: {fileID: 1660149656}
-    rarityRaw: {fileID: 745382834}
+    typeText: {fileID: 0}
     iconRaw: {fileID: 1904556218}
-    typeRaw: {fileID: 1198874337}
-  rarityNormal: {fileID: 0}
-  rarityRare: {fileID: 0}
-  rarityHero: {fileID: 0}
-  rarityLegendary: {fileID: 0}
-  type1: {fileID: 0}
-  type2: {fileID: 0}
-  type3: {fileID: 0}
 --- !u!114 &878984650
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -25992,7 +25982,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 7855728934518242254, guid: 71fa797fedd3268438128fe395379fe2, type: 3}
+  m_Sprite: {fileID: -6637057219093352441, guid: f59a40827e53b244f84ee6a20dbcdcc8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -26023,6 +26013,7 @@ GameObject:
   - component: {fileID: 1650745230}
   - component: {fileID: 1650745229}
   - component: {fileID: 1650745233}
+  - component: {fileID: 1650745234}
   m_Layer: 7
   m_Name: Player
   m_TagString: Player
@@ -26229,6 +26220,19 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &1650745234
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1650745228}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e32d9ad011b7454290afbd0cdeb43ed, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::dead_detecter
+  playermovement: {fileID: 0}
 --- !u!1 &1660149654
 GameObject:
   m_ObjectHideFlags: 0
