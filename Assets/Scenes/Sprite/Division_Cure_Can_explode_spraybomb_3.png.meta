@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: bf49087f33da24ad5b7c86d6fe76ad35
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -952430418365044904
+    second: Division_Cure_Can_explode_spraybomb_3_0
+  - first:
+      213: -6962592742618590042
+    second: Division_Cure_Can_explode_spraybomb_3_1
+  - first:
+      213: -3458677701330188221
+    second: Division_Cure_Can_explode_spraybomb_3_2
+  - first:
+      213: -7111966088162144588
+    second: Division_Cure_Can_explode_spraybomb_3_3
+  - first:
+      213: 4001817871172690934
+    second: Division_Cure_Can_explode_spraybomb_3_4
+  - first:
+      213: 4430461332491828582
+    second: Division_Cure_Can_explode_spraybomb_3_5
+  - first:
+      213: 6067045142878650272
+    second: Division_Cure_Can_explode_spraybomb_3_6
+  - first:
+      213: 4904887009745644848
+    second: Division_Cure_Can_explode_spraybomb_3_7
+  - first:
+      213: -6963970667120552321
+    second: Division_Cure_Can_explode_spraybomb_3_8
+  - first:
+      213: -6744330701420789356
+    second: Division_Cure_Can_explode_spraybomb_3_9
+  - first:
+      213: -7047875459043504724
+    second: Division_Cure_Can_explode_spraybomb_3_10
+  - first:
+      213: 3137016960894906652
+    second: Division_Cure_Can_explode_spraybomb_3_11
+  - first:
+      213: 2762871366222854163
+    second: Division_Cure_Can_explode_spraybomb_3_12
+  - first:
+      213: -7888859824714758918
+    second: Division_Cure_Can_explode_spraybomb_3_13
+  - first:
+      213: -7517947251812751963
+    second: Division_Cure_Can_explode_spraybomb_3_14
+  - first:
+      213: 8952871057033454276
+    second: Division_Cure_Can_explode_spraybomb_3_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 73
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8572318a49948c2f0800000000000000
+      internalID: -952430418365044904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 94
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4918c3ac6ef5f90800000000000000
+      internalID: -6962592742618590042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 80
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34846ab94fe4000d0800000000000000
+      internalID: -3458677701330188221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be887c06883d4d90800000000000000
+      internalID: -7111966088162144588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 53
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3ee0bb620598730800000000000000
+      internalID: 4001817871172690934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 61
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d774abb192c7d30800000000000000
+      internalID: 4430461332491828582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_6
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 67
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af7a81b969723450800000000000000
+      internalID: 6067045142878650272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 40
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d21578fb8a11440800000000000000
+      internalID: 4904887009745644848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 50
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f761a0033910b5f90800000000000000
+      internalID: -6963970667120552321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 42
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4918d06c5f25762a0800000000000000
+      internalID: -6744330701420789356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_10
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 37
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cadc48a7c9ae03e90800000000000000
+      internalID: -7047875459043504724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 33
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1134882e4ce88b20800000000000000
+      internalID: 3137016960894906652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_12
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 35
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318bfc78ed0b75620800000000000000
+      internalID: 2762871366222854163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 28
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4c60159c3258290800000000000000
+      internalID: -7888859824714758918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5a3976ec2eaa790800000000000000
+      internalID: -7517947251812751963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Division_Cure_Can_explode_spraybomb_3_15
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 8
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2ea52caccfe3c70800000000000000
+      internalID: 8952871057033454276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Division_Cure_Can_explode_spraybomb_3_0: -952430418365044904
+      Division_Cure_Can_explode_spraybomb_3_1: -6962592742618590042
+      Division_Cure_Can_explode_spraybomb_3_10: -7047875459043504724
+      Division_Cure_Can_explode_spraybomb_3_11: 3137016960894906652
+      Division_Cure_Can_explode_spraybomb_3_12: 2762871366222854163
+      Division_Cure_Can_explode_spraybomb_3_13: -7888859824714758918
+      Division_Cure_Can_explode_spraybomb_3_14: -7517947251812751963
+      Division_Cure_Can_explode_spraybomb_3_15: 8952871057033454276
+      Division_Cure_Can_explode_spraybomb_3_2: -3458677701330188221
+      Division_Cure_Can_explode_spraybomb_3_3: -7111966088162144588
+      Division_Cure_Can_explode_spraybomb_3_4: 4001817871172690934
+      Division_Cure_Can_explode_spraybomb_3_5: 4430461332491828582
+      Division_Cure_Can_explode_spraybomb_3_6: 6067045142878650272
+      Division_Cure_Can_explode_spraybomb_3_7: 4904887009745644848
+      Division_Cure_Can_explode_spraybomb_3_8: -6963970667120552321
+      Division_Cure_Can_explode_spraybomb_3_9: -6744330701420789356
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: ff03d11a96c5147d788f6da709e3539f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3408062693047702036
+    second: Elf_Elite9_ShadowBatCircle_0
+  - first:
+      213: -4797838619889303434
+    second: Elf_Elite9_ShadowBatCircle_1
+  - first:
+      213: -7583929222100842165
+    second: Elf_Elite9_ShadowBatCircle_2
+  - first:
+      213: -4071485089776417420
+    second: Elf_Elite9_ShadowBatCircle_3
+  - first:
+      213: -1458642228516951354
+    second: Elf_Elite9_ShadowBatCircle_4
+  - first:
+      213: 4270375081273941938
+    second: Elf_Elite9_ShadowBatCircle_5
+  - first:
+      213: 1048517281375023085
+    second: Elf_Elite9_ShadowBatCircle_6
+  - first:
+      213: 6608171058477152378
+    second: Elf_Elite9_ShadowBatCircle_7
+  - first:
+      213: -7767227663807204172
+    second: Elf_Elite9_ShadowBatCircle_8
+  - first:
+      213: -7239580365753169775
+    second: Elf_Elite9_ShadowBatCircle_9
+  - first:
+      213: -3967123941506793968
+    second: Elf_Elite9_ShadowBatCircle_10
+  - first:
+      213: 5326275547587238448
+    second: Elf_Elite9_ShadowBatCircle_11
+  - first:
+      213: -8590852861545029102
+    second: Elf_Elite9_ShadowBatCircle_12
+  - first:
+      213: -4059926910726321058
+    second: Elf_Elite9_ShadowBatCircle_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 47
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ced61a0990124b0d0800000000000000
+      internalID: -3408062693047702036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 98
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67009dbf137aa6db0800000000000000
+      internalID: -4797838619889303434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 94
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4989facd8870c690800000000000000
+      internalID: -7583929222100842165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 89
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 475c39be1ed2f77c0800000000000000
+      internalID: -4071485089776417420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 41
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caecd21f9cd1cbe0800000000000000
+      internalID: -1458642228516951354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 69
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf5301d28b634b30800000000000000
+      internalID: 4270375081273941938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 41
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def673189e41d8e00800000000000000
+      internalID: 1048517281375023085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 13
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a783c8be090f4bb50800000000000000
+      internalID: 6608171058477152378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_8
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 22
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b43f21a793453490800000000000000
+      internalID: -7767227663807204172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_9
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 37
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198c368a308d78b90800000000000000
+      internalID: -7239580365753169775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_10
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 7
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e3a8e3bc1f1f8c0800000000000000
+      internalID: -3967123941506793968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 7
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a59c5046bbae940800000000000000
+      internalID: 5326275547587238448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212e5f5b6d827c880800000000000000
+      internalID: -8590852861545029102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elf_Elite9_ShadowBatCircle_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 18
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ccb103cfd38a7c0800000000000000
+      internalID: -4059926910726321058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Elf_Elite9_ShadowBatCircle_0: -3408062693047702036
+      Elf_Elite9_ShadowBatCircle_1: -4797838619889303434
+      Elf_Elite9_ShadowBatCircle_10: -3967123941506793968
+      Elf_Elite9_ShadowBatCircle_11: 5326275547587238448
+      Elf_Elite9_ShadowBatCircle_12: -8590852861545029102
+      Elf_Elite9_ShadowBatCircle_13: -4059926910726321058
+      Elf_Elite9_ShadowBatCircle_2: -7583929222100842165
+      Elf_Elite9_ShadowBatCircle_3: -4071485089776417420
+      Elf_Elite9_ShadowBatCircle_4: -1458642228516951354
+      Elf_Elite9_ShadowBatCircle_5: 4270375081273941938
+      Elf_Elite9_ShadowBatCircle_6: 1048517281375023085
+      Elf_Elite9_ShadowBatCircle_7: 6608171058477152378
+      Elf_Elite9_ShadowBatCircle_8: -7767227663807204172
+      Elf_Elite9_ShadowBatCircle_9: -7239580365753169775
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

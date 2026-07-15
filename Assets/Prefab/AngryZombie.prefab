@@ -10,7 +10,11 @@ GameObject:
   m_Component:
   - component: {fileID: 3163174683571498227}
   - component: {fileID: 5379316365751486967}
+<<<<<<< HEAD
   m_Layer: 0
+=======
+  m_Layer: 6
+>>>>>>> main
   m_Name: ZombieHPBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98,7 +102,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1826371061744290725}
+<<<<<<< HEAD
   m_Layer: 0
+=======
+  m_Layer: 6
+>>>>>>> main
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -137,7 +145,11 @@ GameObject:
   - component: {fileID: 2453236732846417983}
   - component: {fileID: 5029390296512033376}
   - component: {fileID: 1423023127020192870}
+<<<<<<< HEAD
   m_Layer: 0
+=======
+  m_Layer: 6
+>>>>>>> main
   m_Name: Canvas (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -239,7 +251,11 @@ GameObject:
   - component: {fileID: 4313506962342595591}
   - component: {fileID: 4359199580526571800}
   - component: {fileID: 8678123255819727585}
+<<<<<<< HEAD
   m_Layer: 0
+=======
+  m_Layer: 6
+>>>>>>> main
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -313,6 +329,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7961192253480366537}
   - component: {fileID: 1050364949807399855}
+<<<<<<< HEAD
   - component: {fileID: 7327626575570638666}
   - component: {fileID: 1743827774254447949}
   - component: {fileID: 8906984717266394262}
@@ -320,6 +337,15 @@ GameObject:
   m_Layer: 0
   m_Name: AngryZombie
   m_TagString: Untagged
+=======
+  - component: {fileID: 8906984717266394262}
+  - component: {fileID: 4494032416127786815}
+  - component: {fileID: 4727617080323155868}
+  - component: {fileID: 3189261983530074625}
+  m_Layer: 6
+  m_Name: AngryZombie
+  m_TagString: AngryZombie
+>>>>>>> main
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -399,6 +425,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 1
+<<<<<<< HEAD
 --- !u!114 &7327626575570638666
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -443,6 +470,8 @@ MonoBehaviour:
   hpSlider: {fileID: 5379316365751486967}
   backgroundImage: {fileID: 7994696930244074065}
   fillImage: {fileID: 8678123255819727585}
+=======
+>>>>>>> main
 --- !u!50 &8906984717266394262
 Rigidbody2D:
   serializedVersion: 5
@@ -506,6 +535,64 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.5
+<<<<<<< HEAD
+=======
+--- !u!114 &4727617080323155868
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4746166249106320787}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d6845046ad4c840b58dc565d92a292, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ZombieAI2_0
+  playerTransform: {fileID: 0}
+  showGizmosConstantly: 1
+  defeatScore: 250
+  timeToMove: 0.2
+  attackDamage: 15
+  explosionDamage: 30
+  detectionRangeX: 4
+  detectionRangeY: 4
+  n_triggerFrontSteps: 1
+  m_attackWidth: 1
+  k_attackHeight: 2
+  transparentWallTilemap: {fileID: 0}
+  spriteDefault: {fileID: 8646843584741091787, guid: 03a57db5fe7064a31b3b4969e569e654, type: 3}
+  spriteUp: {fileID: -764407100841372987, guid: dcc618b2255f2475586ac21ba1f784f6, type: 3}
+  spriteDown: {fileID: -292455791021493669, guid: 7c8932cffcd59994dabd3d1b2c1b5272, type: 3}
+  spriteLeft: {fileID: -437040325175761317, guid: a09a6901b96b17a48b2ac06ccbe0c626, type: 3}
+  warningSquarePrefab: {fileID: 5970259201331312636, guid: ba4e0aa86f298cc4fa5c4ad4ae8a9edc, type: 3}
+  attackCooldown: 5
+  runningSteps: 5
+  runningTimeToMove: 0.15
+  labGlassSprite: {fileID: 0}
+  kendoDashDistance: 3
+  kendoDashCooldown: 5
+  kendoDashTimeToMove: 0.15
+  angryDashTimeToMove: 0.25
+--- !u!114 &3189261983530074625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4746166249106320787}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ab1aad5602bdf4ba932e8dfe1bed67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HealthBar
+  isZombie: 1
+  maxHealth: 200
+  hpSlider: {fileID: 5379316365751486967}
+  backgroundImage: {fileID: 7994696930244074065}
+  fillImage: {fileID: 8678123255819727585}
+  hpText: {fileID: 0}
+>>>>>>> main
 --- !u!1 &6819594678763487273
 GameObject:
   m_ObjectHideFlags: 0
@@ -517,7 +604,11 @@ GameObject:
   - component: {fileID: 8133106319056599366}
   - component: {fileID: 6163616746895869078}
   - component: {fileID: 7994696930244074065}
+<<<<<<< HEAD
   m_Layer: 0
+=======
+  m_Layer: 6
+>>>>>>> main
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}

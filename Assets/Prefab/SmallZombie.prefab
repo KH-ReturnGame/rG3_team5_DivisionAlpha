@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4018277636965447243}
   - component: {fileID: 8310608802137781793}
+<<<<<<< HEAD
   - component: {fileID: 2815805053368323969}
   - component: {fileID: 2377449957820482851}
   - component: {fileID: 6196735998301003638}
@@ -17,6 +18,15 @@ GameObject:
   m_Layer: 0
   m_Name: SmallZombie
   m_TagString: Untagged
+=======
+  - component: {fileID: 6196735998301003638}
+  - component: {fileID: 6523445473627056182}
+  - component: {fileID: 8748408833863194101}
+  - component: {fileID: 5262096390966993681}
+  m_Layer: 6
+  m_Name: SmallZombie
+  m_TagString: SmallZombie
+>>>>>>> main
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -96,6 +106,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 1
+<<<<<<< HEAD
 --- !u!114 &2815805053368323969
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -142,6 +153,8 @@ MonoBehaviour:
   hpSlider: {fileID: 6642263540536375829}
   backgroundImage: {fileID: 9157876539613505692}
   fillImage: {fileID: 6505644355516684302}
+=======
+>>>>>>> main
 --- !u!50 &6196735998301003638
 Rigidbody2D:
   serializedVersion: 5
@@ -205,6 +218,64 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.5
+<<<<<<< HEAD
+=======
+--- !u!114 &8748408833863194101
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2767952307155322601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66d6845046ad4c840b58dc565d92a292, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ZombieAI2_0
+  playerTransform: {fileID: 0}
+  showGizmosConstantly: 1
+  defeatScore: 100
+  timeToMove: 0.3
+  attackDamage: 10
+  explosionDamage: 10
+  detectionRangeX: 4
+  detectionRangeY: 4
+  n_triggerFrontSteps: 1
+  m_attackWidth: 1
+  k_attackHeight: 2
+  transparentWallTilemap: {fileID: 0}
+  spriteDefault: {fileID: -8917407055073714046, guid: eabccc79160635a4faa51893683d7a03, type: 3}
+  spriteUp: {fileID: -8917407055073714046, guid: eabccc79160635a4faa51893683d7a03, type: 3}
+  spriteDown: {fileID: -8917407055073714046, guid: eabccc79160635a4faa51893683d7a03, type: 3}
+  spriteLeft: {fileID: -8917407055073714046, guid: eabccc79160635a4faa51893683d7a03, type: 3}
+  warningSquarePrefab: {fileID: 0}
+  attackCooldown: 5
+  runningSteps: 5
+  runningTimeToMove: 0.15
+  labGlassSprite: {fileID: 0}
+  kendoDashDistance: 3
+  kendoDashCooldown: 5
+  kendoDashTimeToMove: 0.15
+  angryDashTimeToMove: 0.09
+--- !u!114 &5262096390966993681
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2767952307155322601}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6ab1aad5602bdf4ba932e8dfe1bed67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::HealthBar
+  isZombie: 1
+  maxHealth: 50
+  hpSlider: {fileID: 6642263540536375829}
+  backgroundImage: {fileID: 9157876539613505692}
+  fillImage: {fileID: 6505644355516684302}
+  hpText: {fileID: 0}
+>>>>>>> main
 --- !u!1 &3000631855771837283
 GameObject:
   m_ObjectHideFlags: 0
@@ -216,7 +287,11 @@ GameObject:
   - component: {fileID: 8465019950337782819}
   - component: {fileID: 2216481544992978424}
   - component: {fileID: 9157876539613505692}
+<<<<<<< HEAD
   m_Layer: 0
+=======
+  m_Layer: 6
+>>>>>>> main
   m_Name: Background
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -289,7 +364,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3194765904193701047}
+<<<<<<< HEAD
   m_Layer: 0
+=======
+  m_Layer: 6
+>>>>>>> main
   m_Name: Fill Area
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -328,7 +407,11 @@ GameObject:
   - component: {fileID: 8839605649552573037}
   - component: {fileID: 5299727487612959054}
   - component: {fileID: 4579522420443503510}
+<<<<<<< HEAD
   m_Layer: 0
+=======
+  m_Layer: 6
+>>>>>>> main
   m_Name: Canvas (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -344,7 +427,11 @@ RectTransform:
   m_GameObject: {fileID: 6569853686474820578}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
   m_LocalScale: {x: 0.024999999, y: 0.024999999, z: 0.01}
+=======
+  m_LocalScale: {x: 0.015, y: 0.015, z: 0.01}
+>>>>>>> main
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 5166490011349473345}
@@ -430,7 +517,11 @@ GameObject:
   - component: {fileID: 3812706405841880336}
   - component: {fileID: 4256194369851009711}
   - component: {fileID: 6505644355516684302}
+<<<<<<< HEAD
   m_Layer: 0
+=======
+  m_Layer: 6
+>>>>>>> main
   m_Name: Fill
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -504,7 +595,11 @@ GameObject:
   m_Component:
   - component: {fileID: 5166490011349473345}
   - component: {fileID: 6642263540536375829}
+<<<<<<< HEAD
   m_Layer: 0
+=======
+  m_Layer: 6
+>>>>>>> main
   m_Name: ZombieHPBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
