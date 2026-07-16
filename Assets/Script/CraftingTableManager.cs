@@ -140,6 +140,7 @@ public class CraftingTableManager : MonoBehaviour
         {
             rootObject.SetActive(true);
             Debug.Log("[CraftingTableManager] UI 오픈 완료!");
+            Time.timeScale = 0;
         }
     }
 
@@ -165,6 +166,7 @@ public class CraftingTableManager : MonoBehaviour
             {
                 rootObject.SetActive(false);
                 Debug.Log("[CraftingTableManager] 모든 카드 선택 완료. UI를 닫습니다.");
+                Time.timeScale = 1;
             }
         }
     }
