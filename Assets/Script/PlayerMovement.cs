@@ -106,7 +106,24 @@ public class PlayerMovement : MonoBehaviour
     private bool _hasRevived = false;
     public float counterDamageMultiplier = 3f;
 
-    public UpgradeManager upgradeManager; 
+    public UpgradeManager upgradeManager;
+
+    [Header("제작대(CraftingTable) 강화 연동")]
+    public CraftingTableDB craftingDB;
+
+    // 인스펙터에 설정된 원본(강화 전) 수치 보존용
+    private float _baseMaxHealth;
+    private float _baseChairSkill1Dmg;
+    private float _baseChairSkill2Dmg;
+    private float _baseArcherSkill1Dmg;
+    private float _baseSwingCooldown;
+    private float _baseCounterCooldown;
+    private float _baseArrowCooldown;
+    private float _baseBackstepCooldown;
+    private int _baseArrowRange;
+
+    private int _backstepRange = 3;               // 스프링 슈츠(springShoes)로 증가
+    private bool _combatRepositionPrimed = false; // 전투 재정비(combatRepositioning): 백스텝 직후 여부
 
     private void UpdatePlayerUI()
     {
@@ -173,8 +190,73 @@ public class PlayerMovement : MonoBehaviour
     {
         _spriteRenderer = GetComponent<SpriteRenderer>();
         if (backstepEffectObject != null) backstepEffectObject.SetActive(false);
-        
+
+        _baseMaxHealth = maxHealth;
+        _baseChairSkill1Dmg = chairSkill1Dmg;
+        _baseChairSkill2Dmg = chairSkill2Dmg;
+        _baseArcherSkill1Dmg = archerSkill1Dmg;
+        _baseSwingCooldown = swingCooldown;
+        _baseCounterCooldown = counterCooldown;
+        _baseArrowCooldown = arrowCooldown;
+        _baseBackstepCooldown = backstepCooldown;
+        _baseArrowRange = arrowRange;
+
         CreateRuntimeWeaponEffects();
+        UpdatePlayerUI();
+    }
+
+    void Start()
+    {
+        if (craftingDB == null) craftingDB = FindFirstObjectByType<CraftingTableDB>();
+
+        if (craftingDB != null)
+        {
+            craftingDB.OnStatUpgraded += OnCraftingStatUpgraded;
+            ApplyCraftingStats();
+        }
+    }
+
+    void OnDestroy()
+    {
+        if (craftingDB != null) craftingDB.OnStatUpgraded -= OnCraftingStatUpgraded;
+    }
+
+    private void OnCraftingStatUpgraded(string stat)
+    {
+        ApplyCraftingStats();
+    }
+
+    // 제작대 강화 수치를 원본 수치에 lore 방식대로 적용합니다.
+    // (체력/사거리/추가데미지 = 더하기, 공격력 배율/쿨타임 감소 = 곱하기)
+    public void ApplyCraftingStats()
+    {
+        if (craftingDB == null) return;
+
+        // 체력 단련: 최대 체력 증가 (더하기, 체어맨 + 아처 합산)
+        float healthBonus = craftingDB.GetCurrentValue("healthTraining")
+                          + craftingDB.GetCurrentValue("archerHealthTraining");
+        float newMaxHealth = _baseMaxHealth + healthBonus;
+        float maxHealthGain = newMaxHealth - maxHealth;
+        maxHealth = newMaxHealth;
+        currentHealth = Mathf.Min(currentHealth + Mathf.Max(maxHealthGain, 0f), maxHealth);
+
+        // 공격력 (곱하기)
+        chairSkill1Dmg = _baseChairSkill1Dmg * craftingDB.GetMultiplier("chairFrameRainforce"); // 의자 휘두르기
+        chairSkill2Dmg = _baseChairSkill2Dmg * craftingDB.GetMultiplier("sharpnessChairFrame"); // 의자 찌르기(카운터)
+        // 화살: 화살촉 강화(곱하기) + 가시 화살촉 추가 데미지(더하기)
+        archerSkill1Dmg = _baseArcherSkill1Dmg * craftingDB.GetMultiplier("arrowheadUpgrade")
+                        + craftingDB.GetCurrentValue("thornArrowhead");
+
+        // 쿨타임 (곱하기, 1보다 작은 배율로 감소)
+        swingCooldown = _baseSwingCooldown * craftingDB.GetMultiplier("lightChairFrame");
+        counterCooldown = _baseCounterCooldown * craftingDB.GetMultiplier("lightHandel");
+        arrowCooldown = _baseArrowCooldown * craftingDB.GetMultiplier("lightArrow");
+        backstepCooldown = _baseBackstepCooldown * craftingDB.GetMultiplier("lightRunningShoes");
+
+        // 사거리/이동거리 (더하기)
+        arrowRange = _baseArrowRange + Mathf.RoundToInt(craftingDB.GetCurrentValue("bowStringUpgrade"));
+        _backstepRange = 3 + Mathf.RoundToInt(craftingDB.GetCurrentValue("springShoes"));
+
         UpdatePlayerUI();
     }
 
@@ -403,9 +485,17 @@ public class PlayerMovement : MonoBehaviour
         Vector3 shootDirection = _lookDirection;
         if (_arrowEffectCoroutine != null) StopCoroutine(_arrowEffectCoroutine);
         _arrowEffectCoroutine = StartCoroutine(ShowArrowEffectRoutine(shootDirection));
-        
+
+        // 전투 재정비: 백스텝 직후 발사하는 화살은 공격력 배율 적용 (1회 소모)
+        float arrowDamage = archerSkill1Dmg;
+        if (_combatRepositionPrimed)
+        {
+            if (craftingDB != null) arrowDamage *= craftingDB.GetMultiplier("combatRepositioning");
+            _combatRepositionPrimed = false;
+        }
+
         // [수정] 화살 대미지 적용 속도 최적화
-        StartCoroutine(DelayedDamageRoutine(arrowDuration * 0.5f, shootDirection));
+        StartCoroutine(DelayedDamageRoutine(arrowDuration * 0.5f, shootDirection, arrowDamage));
     }
 
     private IEnumerator ShowArrowEffectRoutine(Vector3 shootDirection)
@@ -435,9 +525,9 @@ public class PlayerMovement : MonoBehaviour
         _runtimeArrowObj.SetActive(false);
     }
 
-    private IEnumerator DelayedDamageRoutine(float delay, Vector3 shootDirection)
+    private IEnumerator DelayedDamageRoutine(float delay, Vector3 shootDirection, float damage)
     {
-        yield return new WaitForSeconds(delay); 
+        yield return new WaitForSeconds(delay);
 
         int myX = Mathf.RoundToInt(transform.position.x);
         int myY = Mathf.RoundToInt(transform.position.y);
@@ -457,7 +547,7 @@ public class PlayerMovement : MonoBehaviour
 
                 if (zombieX == tile.x && zombieY == tile.y)
                 {
-                    zombie.OnGetHitByPlayer(archerSkill1Dmg, false); 
+                    zombie.OnGetHitByPlayer(damage, false);
                 }
             }
         }
@@ -487,7 +577,7 @@ public class PlayerMovement : MonoBehaviour
         Vector3 targetPos = transform.position;
         int actualTilesMoved = 0; 
 
-        for (int i = 1; i <= 3; i++)
+        for (int i = 1; i <= _backstepRange; i++)
         {
             Vector3 nextCheckPos = transform.position + (backDirection * i);
             if (!IsTileBlocked(nextCheckPos))
@@ -497,15 +587,18 @@ public class PlayerMovement : MonoBehaviour
             }
             else
             {
-                break; 
+                break;
             }
         }
 
         TriggerArcherBackstepCounter();
 
+        // 전투 재정비: 백스텝 사용 시 다음 화살 공격력 증가 준비
+        _combatRepositionPrimed = true;
+
         if (targetPos != transform.position)
         {
-            float scaledDuration = backstepDuration * ((float)actualTilesMoved / 3f);
+            float scaledDuration = backstepDuration * ((float)actualTilesMoved / _backstepRange);
 
             StopAllCoroutines(); 
             _isMoving = false;
