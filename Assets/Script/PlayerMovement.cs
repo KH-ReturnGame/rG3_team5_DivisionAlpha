@@ -123,7 +123,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (UpgradeManager.isGamePaused) return;
 
-        _spriteRenderer.sortingOrder = -(Mathf.RoundToInt(transform.position.y));
+        
 
         HandleCooldownTimers();
         if (Keyboard.current == null) return;
