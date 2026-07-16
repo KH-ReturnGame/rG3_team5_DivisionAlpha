@@ -7,25 +7,19 @@ public class ScoreManager : MonoBehaviour
 
     [Header("UI 설정")]
     public TMP_Text scoreText;
-
-    [Header("설정")]
     public string scorePrefix = "Score : ";
-    public bool isScoring = false; // 점수 자동 증가 활성화 여부
+    public bool isScoring = false; 
 
     private int _currentScore = 0;
-    private float _timer = 0f; // 1초를 체크하기 위한 내부 타이머
+    private float _timer = 0f;
 
-    public int CurrentScore => _currentScore;
+    // [중요] 외부에서 접근 가능한 속성으로 선언
+    public int FinalScore { get; private set; }
 
     private void Awake()
     {
-        if (Instance == null) Instance = this;
+        if (Instance == null) { Instance = this; DontDestroyOnLoad(gameObject); }
         else Destroy(gameObject);
-    }
-
-    private void Start()
-    {
-        UpdateScoreUI();
     }
 
     private void Update()
@@ -33,38 +27,18 @@ public class ScoreManager : MonoBehaviour
         if (isScoring)
         {
             _timer += Time.deltaTime;
-
-            // 1초마다 10점 추가
-            if (_timer >= 1.0f)
-            {
-                AddScore(10);
-                _timer = 0f; // 1초 체크 초기화
-            }
+            if (_timer >= 1.0f) { AddScore(10); _timer = 0f; }
         }
     }
 
-    // 좀비 처치 등 외부 점수 추가
-    public void AddScore(int amount)
-    {
-        _currentScore += amount;
-        UpdateScoreUI();
-    }
+    public void AddScore(int amount) { _currentScore += amount; UpdateScoreUI(); }
+    
+    public void SaveFinalScore() { FinalScore = _currentScore; StopScoring(); }
 
-    public void StartScoring() => isScoring = true;
-    public void StopScoring() => isScoring = false;
-
-    public void ResetScore()
-    {
-        _currentScore = 0;
-        _timer = 0f;
-        UpdateScoreUI();
-    }
+    public void StopScoring() => isScoring = false; 
 
     private void UpdateScoreUI()
     {
-        if (scoreText != null)
-        {
-            scoreText.text = scorePrefix + _currentScore.ToString("N0");
-        }
+        if (scoreText != null) scoreText.text = scorePrefix + _currentScore.ToString("N0");
     }
 }
