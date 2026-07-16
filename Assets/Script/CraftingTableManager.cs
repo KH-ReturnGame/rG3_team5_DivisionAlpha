@@ -55,10 +55,10 @@ public class CraftingTableManager : MonoBehaviour
         while (true)
         {
             Debug.Log("[CraftingTableManager] 30초 대기 시작...");
-            yield return new WaitForSeconds(30f); //[MGL] 여기 30f 바꾸면 타이머
+            yield return new WaitForSeconds(30f);
 
-            Debug.Log("[CraftingTableManager] 30초 경과! UI 오픈 카운트 n회 충전합니다.");
-            pendingOpenCount += 2; //[MGL] 2 바꾸면 횟수
+            Debug.Log("[CraftingTableManager] 30초 경과! UI 오픈 카운트 2회 충전합니다.");
+            pendingOpenCount += 2;
             
             // 현재 UI가 켜져 있지 않은 상태라면 바로 오픈
             if (rootObject != null && !rootObject.activeSelf)
@@ -141,7 +141,6 @@ public class CraftingTableManager : MonoBehaviour
             rootObject.SetActive(true);
             Debug.Log("[CraftingTableManager] UI 오픈 완료!");
         }
-        Time.timeScale = 0;
     }
 
     private void OnCardSelected(string upgradeID)
@@ -168,7 +167,6 @@ public class CraftingTableManager : MonoBehaviour
                 Debug.Log("[CraftingTableManager] 모든 카드 선택 완료. UI를 닫습니다.");
             }
         }
-        Time.timeScale = 1;
     }
 
     public List<KeyValuePair<string, CraftingTableStat>> RollThreeCards(bool onlyLegendary = false)
