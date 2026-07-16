@@ -18,6 +18,9 @@ public class CraftingTableDB : MonoBehaviour
     public PlayerData PlayerData = new PlayerData();
     private Dictionary<string, int> playerCraftingTable = new Dictionary<string, int>();
 
+    // 스탯이 업그레이드될 때마다 발행되는 이벤트 (구독자: PlayerMovement 등)
+    public event Action<string> OnStatUpgraded;
+
     private Dictionary<string, CraftingTableStat> metadataDict = new Dictionary<string, CraftingTableStat>()
     {
         // ================= 체어맨 (type = 1) =================
@@ -545,6 +548,33 @@ public class CraftingTableDB : MonoBehaviour
         return 0; 
     }
 
+    // stat 문자열을 받아 PlayerData에 기록된 레벨(인덱스)을 참조하여
+    // 해당 인덱스의 values 값을 반환합니다. (예: healthTraining 레벨 0 -> 25f)
+    public float GetCurrentValue(string stat)
+    {
+        if (!metadataDict.ContainsKey(stat)) return 0f;
+
+        CraftingTableStat targetData = metadataDict[stat];
+        int level = GetCurrentLevel(stat);
+
+        var propertyInfo = typeof(PlayerData).GetProperty(stat);
+        if (propertyInfo != null)
+        {
+            level = Mathf.RoundToInt((float)propertyInfo.GetValue(PlayerData));
+        }
+
+        level = Mathf.Clamp(level, 0, targetData.values.Length - 1);
+        return targetData.values[level];
+    }
+
+    // 곱연산(공격력 배율, 쿨타임 감소 등)용 헬퍼.
+    // 아직 해금되지 않아 값이 0인 구간은 1(변화 없음)로 취급합니다.
+    public float GetMultiplier(string stat)
+    {
+        float value = GetCurrentValue(stat);
+        return value <= 0f ? 1f : value;
+    }
+
     public List<KeyValuePair<string, CraftingTableStat>> GetMetadataPool()
     {
         return new List<KeyValuePair<string, CraftingTableStat>>(metadataDict);
@@ -571,8 +601,11 @@ public class CraftingTableDB : MonoBehaviour
             
             // 딕셔너리 관리용 스택 레벨도 증가
             playerCraftingTable[stat] = nextLevel;
-            
+
             Debug.Log($"{targetData.name} 스택 업그레이드: {currentLevel} -> {nextLevel}");
+
+            // 실제 능력치를 사용하는 쪽(PlayerMovement 등)에 갱신 알림
+            OnStatUpgraded?.Invoke(stat);
         }
     }
 }
